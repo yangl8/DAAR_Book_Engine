@@ -1,0 +1,4742 @@
+The Project Gutenberg eBook of The letter H: past, present, and future by Alfred Leach
+
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at
+www.gutenberg.org
+. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title:
+The letter H: past, present, and future
+
+Subtitle:
+A treatise: with rules for the silent H. based on modern usage; and notes on WH
+
+Author:
+Alfred Leach
+
+Release Date:
+September 14, 2023 [eBook #71641]
+
+Language:
+English
+
+Credits:
+Richard Tonsing, Tim Lindell, and the Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced from images generously made available by The Internet Archive/Canadian Libraries)
+
+*** START OF THE PROJECT GUTENBERG EBOOK THE LETTER H: PAST, PRESENT, AND FUTURE ***
+
+Transcriberâs Note:
+
+New original cover art included with this eBook is granted to the public domain.
+
+THE LETTER
+H
+.
+
+PAST, PRESENT, AND FUTURE.
+
+HARRY HAWKINSâS
+H
+-BOOK
+; showing how he learned to
+aspirate his
+H
+âs. Eighth Thousand. Sewed, 6d.
+
+âWe commend the little work to the notice of all masters and
+mistresses.ââ
+Teacher.
+
+A WORD TO THE WISE, OR HINTS ON THE CURRENT
+
+Improprieties of Expression in Writing and Speaking. By
+Parry
+Gwynne
+. Fifteenth Thousand. 18mo, sewed 6d., or cloth, gilt
+edges, 1s.
+
+âAll who wish to mind their
+pâs
+and
+qâs
+should consult this little
+volume.ââ
+Gentlemanâs Magazine.
+
+A COMPENDIOUS GRAMMAR, AND PHILOLOGICAL HAND
+book
+of the English Language, for the Use of Schools and
+Candidates for the Army and Civil Service Examinations. By
+John
+George Colquhoun
+, Esq., Barrister-at-Law. Fcap. 8vo, cloth,
+2s. 6d.
+
+âA real and very useful accession to the list of English manuals.ââ
+Educational
+Times.
+
+âWe are not acquainted with any single volume that in such a small
+compass contains so much useful information.ââ
+Scholastic Register.
+
+âJust the book we should like to see in Training Colleges, and
+placed in the hands of Pupil Teachers.ââ
+National Schoolmaster.
+
+GRIFFITH AND FARRAN,
+
+WEST CORNER ST PAULâS CHURCHYARD, LONDON.
+
+E. P. DUTTON AND CO., NEW YORK.
+
+THE LETTER
+H
+
+PAST, PRESENT, AND FUTURE
+
+A Treatise:
+
+WITH RULES FOR THE SILENT
+H
+, BASED ON MODERN USAGE;
+AND NOTES ON
+WH
+.
+
+By
+ALFRED LEACH.
+
+A breath can make them....
+
+Goldsmith.
+
+GRIFFITH & FARRAN
+
+SUCCESSORS TO NEWBERY AND HARRIS,
+
+WEST CORNER ST PAULâS CHURCHYARD, LONDON
+
+E. P. DUTTON & CO., NEW YORK
+
+MDCCCLXXX.
+
+The rights of translation and of reproduction are reserved.
+
+5
+
+PREFACE.
+
+The contradictory rules that are given for the
+employment of Hâs, and the confusion that
+reigns in our best Pronouncing Dictionaries,
+constitute an apology for the appearance of this
+publication. To promote an uniform pronunciation
+based on the sole authority of contemporary
+usage, is one of its purposes. To
+draw attention to the nature of the present
+English Aspirate, is another. To seek redress
+for the digraph WH, is a third. To render the
+subjects as interesting to the general reader as
+the matter would allow, has been the great
+desire of the writer.
+
+It is with gratitude that I beg to express
+my thanks to the gentlemen whose kind courtesy
+I have acknowledged on page
+56
+; and to
+Professor Bain, Professor Skeat, and His Eminence
+Cardinal Archbishop Manning, to whose
+kindness I am indebted for assistance in the
+
+6
+form of valuable comments and advice. I beg
+also to thank the Rev. W. H. Bleaden, curate
+to the Bishop of Aberdeen and Orkney; and
+John Davidson, Esq., Memb. Arts Club, London,
+for the friendly help they have given me.
+
+A. L.
+
+Yudu Villa, Thornton Heath
+,
+
+October 1880
+.
+
+7
+
+CONTENTS.
+
+PAGE
+
+Preamble
+,
+
+9
+
+Origin and Descent
+,
+
+17
+
+Original AlphabetsâPrimitive forms of HâClassic Forms.
+
+Distribution
+,
+
+22
+
+Phonetic Significance of Early HâsâAryan and Other Hâs.
+
+History of the English H
+,
+
+27
+
+Raucity of the Anglo-Saxon HâNorman InfluencesâDecline of the English H.
+
+Modern Aspirates
+,
+
+35
+
+DefinitionsâTerms of ConvenienceâVarieties of HâVocalized and Unvocalized BreathâThe H in SpeechâPhysiological Phonation of Aspirated Vowels.
+
+Silent H
+,
+
+46
+
+OrthoepistsâEarly Records of Silent HâsâModern Pronouncing DictionariesâModern UsageâAn American Hypothesis Considered.
+
+8
+
+Digraphs
+,
+
+62
+
+Review of the Principal Digraphs of HâThe Perfect Digraph WHâPhonic Analysis of WâWH=
+Ê
+=An Unvocalized W.
+
+Permutation
+,
+
+76
+
+Philological ScienceâGrimmâs LawâThe Future of H.
+
+Appendix
+,
+
+82
+
+Rev. W. W. Skeat, M.A., on Silent Hâs.
+
+9
+
+PREAMBLE.
+
+A writer in a high-class American periodical
+[1]
+
+recently expressed his surprise that no English
+orthoepist or phonologist had made the subject
+of Aspirates and their misuse one of examination,
+or of more than a mere passing remark.
+True it is that in works where dissertations
+on single vowels occupy pages, and paragraph
+after paragraph teems with analyses of individual
+consonants, âpoor letter Hâ is often
+summed up in a sentence. And yet it is no
+exaggeration to say that, socially, H is of
+English letters the most important, and that a
+systematic trifling with half the vowels and
+consonants of the alphabet would not be
+visited with such severe social reprobation
+as is the omission or misplacement of an H.
+
+The fraternity of English Grammarians have,
+it might seem, conspired to withhold from us
+the means of propitiating this demon Aspirate,
+which a study of its attributes would afford.
+
+Mr Punch
+, that excellent censor of British
+
+10
+manners and customs, has been the chief (not
+to say only) constant attendant to the English
+H-evil; but the fleam of his satireâan instrument
+as powerful, and often more effective,
+than the Thor-hammer of the
+Times
+âhas
+scarified the abusers of H, without removing
+much of the abuse.
+
+The American writer alluded to above enters,
+with the characteristic daring of his countrymen,
+upon the treacherous grounds of statistical definition,
+and states that, in England, âof the forty
+millions of people, there cannot be more than
+two millions who are capable of a healthy, well-breathed
+H.â He is treading in safer paths
+when he says:
+
+There is a gradation, too, in the misuse of this letter.
+It is silent when it should be heard, but it is also added,
+or rather prefixed, to words in which it has no place.
+Now the latter fault is the sign and token of a much lower
+condition in life than the former.
+
+He appears, however, to write in ignorance of
+the customs of many good speakers, and of the
+opinions of several English orthoepists, when he
+adds: âOnly Englishmen of the very uppermost
+class and finest breeding say
+h
+ome and
+h
+otel;
+all others,
+âome
+and
+âotel
+â Further on, he says:
+
+H, in speech, is an unmistakable mark of class distinction
+in England, as every observant person soon
+
+11
+discovers. I remarked upon this to an English gentleman,
+an officer, who repliedââItâs the greatest blessing
+in the world; a sure protection against cads. You meet
+a fellow who is well-dressed, behaves himself decently
+enough, and yet you donât know exactly what to make of
+him; but get him talking, and if he trips upon his Hâs that
+settles the question. Heâs a chap youâd better be shy of.â
+
+This writerâs friend, the âEnglish gentleman,â
+is spokesman to a large class. As the chemist
+employs a compound of sulphur in order to
+decide by the reaction whether a substance
+belongs to the group of higher or of baser
+metals, so does society apply the H-test to
+unknown individuals, and group them according
+to their comportment under the ordeal. There
+can be no doubt that a tendency of the age is
+to over-rate the value of H as a critical test for
+refinement and culture.
+
+Although instances of well-educated persons
+who aspirate their vowels wrongly are extremely
+rare, the partial or even complete omission of
+Aspirates is far from being an absolute criterion
+of ignorance or vulgarity. The writer has in his
+mindâs eye a very excellent and scholarly gentleman,
+one of the high dignitaries of an order of professional
+speakers, who, by strange anomaly, is a
+sad non-conformist in the matter of Hâs. Butâneed
+one add?âsuch deviations from rule are
+as rare in their occurrence as the credentials of
+
+12
+learning and social rank must be exceptional
+that can obtain forgiveness for them in society;
+and any man about to choose for himself an
+eccentricity is not advised to select the uncommon
+one of erudite H-dropping.
+
+The prevalent disregard shewn for the rules
+of aspiration by classes of moderately well-educated
+persons, may be traced to several
+causes. Young children do not manifest any
+fine appreciation of the difference between
+aspirated and unaspirated vowels, and readily
+acquire a tendency to neglect or misuse the H,
+so that, unless correctness of aspiration be made
+a canon of the nursery, these infantile transgressions
+are liable to develop into deeply rooted
+habit. At a great many middle and lower class
+schools H-dropping is fostered rather than destroyed;
+the boys, with all that ingenuous
+ruffianism that preceding generations so admired
+in the youth of Britain, discountenance
+forcibly
+
+anything like âaffectation,â and, if H-droppers
+be in the majority, render it expedient in the
+youthful orthoepist to sink his singularity of
+right in deference to the dominant powers of
+wrong. A correct pronunciation, when once
+discarded, is not easily regainedâlost Hâs have
+a knack of turning up in wrong places, when
+
+13
+they return at all. Schoolmasters are not always
+models of correctness, and a staff of H-dropping
+ushers is not likely to impress school-boys with
+a regard for the Aspirate. Nor is it only in
+educational institutes of an inferior order that
+neglect, and even intolerance, is shewn respecting
+the full and proper employment of H. The
+writer could point out more than one of our very
+best English schools where (within the last three
+decades) school-boy tyranny forbade that WH
+should be pronounced other than W; and âwipâ
+and âweelâ were the only recognized renderings
+of
+whip
+and
+wheel
+. The uncertainty attending
+the words in which the H should be silent, is
+doubtless also partly accountable for its indiscriminate
+employment.
+
+Before inquiring into the history and nature
+of Aspirates and their symbols, it may not
+be uninteresting to take a cursory glance at
+the extraordinary misuse of H in the Metropolis.
+The âCockney Problemâ has long
+been a puzzle to all except superficial observers.
+One may speculate reasonably as to
+the probable cause of the Londoner dropping
+his Hâs when he ought to aspirate them; but
+why he persists in placing Hâs where they
+should not be, seems beyond the powers of
+
+14
+reason to explain. The problem is not solved
+by saying that an H is prefixed in order to
+emphasize certain words in a sentence, unless
+at the same time it can be shown that the
+speaker is consistent in his manner of using it,
+and that he is not in the habit of putting Hâs
+before unemphatic words. This cannot be
+shown; whereas the reverse can be demonstrated.
+To take an extreme instance: the Cockney
+will wrongly aspirate even the little words of
+a metrical composition, which are neither important
+nor emphatic; and this, moreover, when
+they are out of accent. In his colloquial speech,
+
+Horkney hoysters
+,
+âamshire âam
+, and
+âam and
+heggs
+, are expressions he employs with a provoking
+impartiality for the proper and improper
+use of the H. Stress may have something to
+do with some of these anomalous uses of the
+Aspirate, but to what extent is very far from
+clear. Eggs are perhaps brought more to the
+fore by becoming
+heggs
+, and an H may add
+to the importance of oysters; but by what
+occult method of ratiocination he vindicates his
+invidious distinction between the rightful claims
+of ham and the imaginary requirements of eggs
+must be left for those to explain who can.
+Various are the suggestions that have been
+
+15
+made relative to this phenomenon of misplaced
+Hâs; and if assurance could constitute authority,
+or the outcome of guess-work be accepted as
+proof, many of the suggestions would be amply
+supported in their demands for universal regard
+and acceptance. Some have believed that
+aspiration of the vowels is dictated solely by
+a desire to improve their sounds; others, that a
+tendency exists to aspirate every initial vowel (as
+in Hindostanee), but that exceptions are made
+wherever they favour fluency and adapt themselves
+to ease of articulation. Some, again, say
+that a pervert method of aspirating had an
+early origin and has undergone a process of
+gradual development until the acme of depravity
+has been reached by the present generation.
+Or, to add to the list, one might submit that the
+employment of Hâs is subjected merely to the
+purposeless choice of individual speakers; but
+that the habit of class-conformity, so inherent in
+Londoners, is the cause of the prevalent misuse
+of the Aspirate by certain portions of the community.
+Each of these theories, however, is
+found, when tested, to be of very restricted
+application, or little other than hypothesis: the
+Emphatic Theory must be acknowledged to be
+weak; that of Euphony jars with fact; the
+
+16
+Theory of Adaptation is observed to disagree
+with practice; the Theory of Development has
+no historical basis; and that of Elective Aspiration
+is arbitrary, and would compel us to renounce
+our speculations concerning a subject it
+cannot satisfactorily explain.
+
+One may ask and attempt to answer the question:
+Why has H-dropping been made the butt
+of ridicule in the present century only? Perhaps
+one reason is that, formerly, the words in which
+silent Hâs were expected to occur were slightly
+more numerous and even less clearly agreed upon
+than they are to-day. But a better explanation
+may be that the H of the past was too distinctly
+audible to be omitted or inserted unconsciously;
+whereas the modern dropper of Hâs is ludicrous
+in that he remains in blissful ignorance of his
+errors. It is certain that had H-dropping struck
+our forefathers as risible, or ridiculous, or had it
+been regarded as the trade-mark of vulgarity, it
+would have been made capital of by the satirists
+of the period. During the latter half of the last,
+and beginning of the present century, however,
+the strong English H gave place to the delicate
+vowel-aspirate, with all the anarchial confusion
+of laws, use, license and abuse which accompanies
+it to-day; and the H became appreciable
+to refined ears only.
+
+17
+
+ORIGIN AND DESCENT.
+
+Many attempts have been made to discover the
+origin of Chirographyâthe art of writing. Looking
+back, far back, over the populous plains of
+Time, the eye of Research seems to have perceived
+four or five germinal spots whence
+sprang the primitive parents of all known
+Alphabets.
+
+The early âuntutored savage,â who chanced
+to be provided with an idea he deemed worth
+recording for the benefit of his fellows, had
+recourse to what artistic talent he possessed,
+and roughly expressed his idea in the language
+of permanent sign. Two circumstances will
+have conspired to lighten his labours: the first,
+that a habit of making known his ideas by
+means of an outward code of signals, will perhaps,
+have been even more familiar to him than
+that of expressing them through the medium of
+speech; the second, that the burden of his
+thoughts will not have been heavy with deep or
+intricate abstractions difficult to express. His
+rude inscriptions gave rise, in course of time, to
+the word-painting of China, the picture-writing
+
+18
+of Mexico, and to the hieroglyphs of Egypt.
+Our business is with the last.
+
+The truncated sparrows and
+cavo rilievo
+
+crocodiles, constituting the sculptured eloquence
+of the ancient Egyptians, were found too
+cumbersome for general purposes; so they ultimately
+became converted into two varieties of
+a running handâthe
+hieratic
+and the
+demotic
+
+characters. These were Alphabets. One of
+the charactersâa figure suggestive of a circle,
+of dissolute habits, with a stroke through itâseems
+to have been the founder of the House
+of H. The latest edition of the
+EncyclopÃ¦dia
+Britannica
+, however, gives
+as being the
+earliest representative of the Hâs. The character
+first alluded to had this form,
+. The
+PhÅnicians, who derived their Alphabet from
+Egypt, appear to have been desirous of âsquaring
+the circle,â for in their hands this became
+,
+or
+. The Greek letter was at first
+; but
+later on it changed its appearance, becoming
+H
+.
+As such it figures in the Sigean inscription of
+the sixth century,
+B.C.
+Had the Greeks imported
+their letters directly from Egypt, one might
+have supposed
+theta
+(Î, or Î¸), and not
+eta
+(Î),
+to have been the immediate descendant of the
+Egyptian symbol given above. The Samaritan
+
+19
+, the Chaldean and square Hebrew × (
+cheth
+
+or
+heth
+), bear marks of a common origin with the
+PhÅnician H, although their general appearance
+has been brought into conformity with the
+general appearance of the alphabets to which
+they respectively belong.
+
+The astonishing changes of shape seen in
+early letters, are also accounted for by the nature
+of the processes by which they were usually
+formed, as when a scribe would endeavour to
+write quickly with a metal style on a soft tablet;
+or an explanation of them may be found in the
+alterations that will, from time to time, have
+suggested themselves to the fancy of the calligraphist.
+Extreme credulity and extreme scepticism
+are, as a rule, found blended in the natures
+of those people who refuse to believe that a
+chain can have existed if any of its links happen
+to be lost; and lest any such persons find the
+differences of form in the above Hâs to be an
+obstacle to a belief in their descent from a common
+ancestor, some specimens of evolution quite
+as wonderful are selected from more modern
+typography, and given belowâ
+
+Tradition asserts that the Greeks received
+
+20
+their alphabet from the PhÅnician Cadmus
+(1493
+B.C.
+). There is reason to believe that H
+had its formal representative among their oldest
+letters, although Pliny states it to have been
+introduced after the Trojan War. Mr H. N.
+Coleridge
+[2]
+says, with regard to the Greek:ââAfter
+Î (or Î·) was appropriated to express the
+long E, the rough breathing was not indicated
+in writing at all till the time of Aristophanes of
+Byzantium, who divided the H, and made one-half
+of it (
+) the mark of the aspirate, and the
+other half of it (
+) that of the
+lene
+. By degrees
+these marks became
+and
+; and hence,
+in the cursive character â and â marking the
+vowels.â These last signs (â and â), Professor
+Geddes humorously styles, âthe ghosts of a
+vanished consonant.â
+
+âThis practice of spiritualizing, or of sending
+letters aloft, that were supposed to have a turn
+for climbing, has always existed in languages
+(
+Encyclop. Brit.
+, 1842).â As examples we have
+the two dots Â¨ and the line Â¯ that hover over
+some words, and may generally be recognised
+as being the shades of a departed
+e
+.
+
+The Romans derived their alphabet from the
+
+21
+Greeks; and the Roman characters are those
+now in general European use.
+
+The claims of H to a high respectability are
+conclusively established by a genealogical review
+of its ancient lineage. It may be that
+
+âSome storied urn, or animated bustâ
+
+may yet be the means of calling back the forms
+and âfleeting breathâ of many of the unknown
+and rude forefathers of H, that are now lying
+in the great mysterious Asiatic burial ground.
+
+22
+
+DISTRIBUTION.
+
+Our attention may now advert to the phonetic
+significance and distribution of the symbols of
+which we have just considered the historical
+aspect.
+
+The sounds represented by the earliest alphabetical
+characters can only be a subject for conjecture;
+the sounds of those we have had under
+consideration were probably very pronounced,
+ranging from that of a strongly guttural
+kch
+, to
+that of the jerked breath occurring in a short,
+emphatic, English âbah!â
+
+We have seen that the Greek character
+was early mutilated; but the rough-breathing
+powers of the Greek Î were transferred to the
+sign â and we may conclude that the Greeks were
+at one time very partial to the
+asper
+, their
+writers finding it necessary to prefix a special
+sign, the
+lene
+(â), when vowels were
+not
+to be
+aspirated.
+
+In Latin also the H was at first harsh; but
+later on indications occur of the decline and fall
+of the Roman H in the fact of Quintilian complaining
+of the h-dropping propensities of his
+
+23
+contemporaries. In his time, Latin writers
+already affected great freedom even in the
+orthography of words containing an H; its
+presence or absence in such words as
+honestus
+,
+
+ahÃ¦nus
+, &c., being apparently viewed with considerable
+indifference. Cicero strongly censures
+its gratuitous introduction into words. The
+Romans are thus responsible for ancient (if not
+venerable) precedents in eclectic H-dropping.
+
+The Sclav and Latin languages have treated
+the Aspirate with spare courtesy, having let it
+become the mere âshadow of a sound,â or
+allowed the letter to dwindle into an altogether
+insignificant symbol. In Italian, âthat soft
+bastard Latin,â the H is practically a dead
+letter, and has left no legitimate offspring. The
+Tuscan dialect, however, has afforded a local
+habitation to all the banished Hâs of Italy; and
+the saying, â
+Lingua toscana in bocca romana
+,â
+may be held to be an indirect allusion to the
+dislike that the Italians bear to the Aspirate.
+In French, the H is never an Aspirate; it
+merely
+hardens
+the vowels in certain words,
+e.g.
+,
+
+haie
+,
+hameau
+,
+hieroglyphe
+, &c., and its office is a
+sinecure in others. When it hardens a vowel,
+it forbids a
+liaison
+with the last consonant of
+the preceding word. But in Spain, letter H is
+
+24
+treated with systematic barbarity. Not only is
+its presence disregarded, but, since the days of
+the Almoravids (eleventh century), or even from
+an earlier date, its rightful office as an Aspirate
+has been usurped by letter J. Besides this, its
+literal identity has been allowed to get confusedly
+mixed up with that of the letter F; so
+that Latin words while undergoing the process
+of acclimatization on Spanish soil have been
+observed to exchange an H for an F,
+e.g.
+, Lat.,
+
+facere
+= Sp.,
+hacer
+, which is nevertheless pronounced
+âacer.â A reverse permutation occurred
+in the Sabine
+fircus
+(a buck) and the
+Latin
+hircus
+.
+
+The Slavonic tongues are weak or deficient
+in Hâs. In Russian H has the value of N.
+
+Turning to the Teutonic and Keltic stocks,
+one notices a marked contrast in the fortunes
+of H. In High German it has retained an
+important and prominent position; although,
+generally speaking, it is less conspicuous in Low
+German tongues. The simple Aspirate, and the
+other and harsher varieties of H, were universally
+received into the Keltic languages; the
+Cymric branch shewing a slight preference for
+the former, and the Gaelic for the more guttural
+variety. Prof. Geddes remarks: âThe Gaelic
+
+25
+alphabet contains a letter to which, apart from
+a partial parallel in Greek, I am not aware of an
+exact parallel in any tongue. It begins no words,
+heads no vocabulary in the dictionary, and yet
+is found everywhere diffused over a Gaelic page.â
+Something partly similar appears to exist in
+Sanscrit, a highly aspirated language with
+seemingly no purely initial H. Max MÃ¼ller
+[3]
+
+and most other writers give
+as being the
+Sanskrit H, whereas some affirm it more properly
+to represent
+gh
+.
+
+Arabic and other Shemitic languages abound
+with Aspirates; in the former, at least, they do
+stalwart service. Throughout that large group
+of languages which resist systematic classification,
+and are chiefly known through the works
+of Tylor, Lubbock, and others, or still more
+recently through the agency of the missionaries,â
+e.g.
+,
+the languages of North America and of
+PolynesiaâAspirates are copiously distributed.
+The Maoris are wont to substitute an H for
+several of the European speech-sounds, against
+which their vocal organs rebel.
+
+In English, the omission of Hâs that ought to
+be heard, is peculiar to England, and especially
+
+26
+marked in London and the Southern counties.
+The Lowland Scotch are free from the defect;
+and the people of the Highland districts and the
+North run to the opposite extreme, and give to
+their Hâs a strong guttural sound. The Irish
+and Welsh are also free from it. Men of English
+parentage and American birth, New Englanders,
+Virginians, &c., are correct in their use
+of the Aspirate (vide
+Atlantic Monthly
+, No.
+269). That the Americans are without this
+H-trait, may be accounted a result of the predominance
+of North British and Irish immigrants.
+
+His Eminence Cardinal Manning, when
+favouring the writer with some valuable notes
+on the subject of Aspirates, gave, as his opinion,
+that the dropping of Hâs in England cannot be
+explained by foreign influences. The Aspirate
+is put on and put off in certain countiesâas in
+Middlesex and Gloucestershireâwith long local
+traditions; and he believes that, like the Greek
+digamma, it refuses all submission to criticism.
+
+27
+
+HISTORY OF THE ENGLISH H.
+
+There is something startling in the announcement
+that were William Shakespeare to hear
+one of his plays read by a good speaker of our
+own day, it would be less intelligible to him than
+if spoken in the Somersetshire dialect. So great
+is the change in English pronunciation. This
+fact prepares us for the discovery that great
+alterations have taken place in the significance
+of individual letters; and that the phonetic
+value of letter H has changed also.
+
+Dr Johnson, in 1755, wrote: âGrammarians
+of the last age directed that
+an
+should be used
+before H, whence it appears that the English
+anciently aspirated less.â
+
+âThe great Doctor uttered many hasty things.ââ
+
+Thackeray.
+
+Dr Johnsonâs suppressed premiss is negatived
+by his own
+protÃ©gÃ©
+, Goldsmith, in whose writings
+
+an
+occurs before every variety of H; a fact
+which shows that
+an
+and the Aspirate were not
+generally considered to be incompatibles. That
+their juxtaposition does not of itself offend the
+
+28
+modern ear, may be proven by uttering the
+words â
+than have
+â and â
+they have
+,â in which
+the Aspirate is heard to follow the
+n
+and the
+vowel-sound with equal grace and fluency.
+There are, moreover, many reasons for entertaining
+an opinion directly opposed to that expressed
+by the great lexicographer; and for
+believing the powers of the English H to have
+been steadily on the decline since the days of
+primitive English. In all Aryan languages, H
+has a tendency to mollify and decay; and its
+powers are always found to be most strongly
+marked in Germanic tongues that are in nearest
+historical relation with their common Teutonic
+ancestor.
+
+Inductively, one is led to believe that the
+English Aspirate is less strong than formerly.
+This belief will acquire support from the following
+argument:â
+
+It will be remembered that prior to the introduction
+of terminal rhymes, the laws of
+Prosody were based upon principles slightly
+different from those of to-day; our ancestors,
+preferring an identity of consonant-sounds to an
+assonance of vowels, required that syllables to
+rhyme should
+begin
+with the same letterâthe
+
+29
+system being known as
+ALLITERATION
+. If we
+bear in mind how much must have depended on
+the distinctness and strength of the alliterative
+rhymes of early verse, where the metrical
+management and rhythmical cadence were far
+from being irreproachable, we shall readily concede
+that the bard will have selected for his use
+the strongest and most distinct rhymes that the
+language could supply. âRhymes to the eye,â
+as they are called, would have been utterly
+useless, from the fact of poetry being then composed
+for oral rendering, and the hearers
+generally ignorant of spelling. It is, therefore,
+agreeable to reason to conclude that all sounds
+employed in alliterative rhyming were distinctly
+audible, strong, and emphatic. Now, on looking
+over alliterative verses of the seventh to
+thirteenth centuries, one cannot fail to be struck
+by the frequent occurrence of rhymed Hâs:
+their proportion being, in many poems, in excess
+of that of any other letter. Modern poets, it is
+true, have not unfrequently pressed H into
+service as an alliterative rhyme, but in so doing
+they have afforded ample proof of the inefficiency
+of the modern English Aspirate, when acting in
+that capacity. One of the best specimens of
+
+30
+modern alliterative H-rhymes is that in one of
+Mooreâs American poems:â
+
+âAnd I said, âIf thereâs peace to be found in the world,
+
+A
+h
+eart that is
+h
+umble might
+h
+ope for it
+h
+ere.ââ
+
+But the alliteration is scarcely appreciable, unless
+the rendering be accompanied by undue
+aspiratory efforts. Whenever we hear a run of
+words rhyming alliteratively in H, it is highly
+probable that only half the pleasure we experience
+is conveyed to us by ear, and that the other
+half is of a subjective nature, and arises from
+our
+knowing
+the letter H to enter into the formation
+of the words, and the alliteration would be
+almost lost to us were we ignorant of their
+orthography. Hence, it is rather from an association
+of ideas, than from an effect produced on
+the organs of hearing, that we derive the
+pleasure; and the modern H, indicating as it
+does merely a like modification in the phonation
+of the several vowels to which it is prefixed,
+cannot be regarded as having a
+distinct sound
+
+of its own, nor, consequently, as constituting a
+perfect alliterative rhyme. Do not the mute
+Hâs of the following words give results nearly as
+satisfactory as the Hâs in the above quotation?â
+
+The
+h
+eir that is
+h
+onest will
+h
+onour the
+h
+our!
+
+31
+Considering, then, the faintness and the
+nature of the Aspirate of to-day, and its insufficiency
+for purposes of alliteration, we seem
+at liberty to conclude that the Anglo-Saxon
+and Early English H, so much affected of the
+early poets, was stronger than our own, and
+had, in all probability, retained much of the
+pristine power of its Teutonic harshness.
+
+That the sound of the Anglo-Saxon H bore
+a resemblance to that of an unvocalized
+y
+(see
+page
+37
+), is made manifest by the free interchange
+of
+h
+and
+y
+in ancient MSS. The substitution
+of surds for sonants, and
+vice versÃ¢
+, is
+common to the early stages of the development
+of all orthographical codes.
+
+Mr Ellis, whose researches have thrown great
+light on these matters, gives as his opinionâ
+
+In Anglosaxon, a final
+h
+was equal to the
+ch
+of
+lo
+ch
+, or German da
+ch
+. In the thirteenth century the
+sound of
+H
+seems to have been very uncertain, and in the
+fourteenth it was lost in those words before which a vowel
+was elided. In the sixteenth it was pronounced or not,
+differently from the present custom.
+[4]
+
+There exists a beliefâperhaps on no very
+firm foundationâthat the Normans could not,
+or would not, aspirate their Hâs; and the idea
+
+32
+gains some support in the period of decadence
+of the strong English H having commenced
+subsequently to the Norman invasion. It is,
+however, not easy to understand how these
+Norsemen should have learned to entirely abandon
+the use of H in consequence of a century
+and a halfâs residence in Neustria. Salesbury,
+a Welsh linguist, exhumed by Mr Ellis, implies
+moreover that, as late as the sixteenth
+century, the French still aspirated at least
+some
+
+of their Hâs, and LittrÃ©, in his admirable dictionary,
+declares the Norman Aspirate to be in
+a state of good preservation (â
+trÃ¨s-nettement conservÃ©
+â)
+in our own day. The old Norse H had
+been, according to Rask, Grimm, and Ellis, a
+vigorous and thriving aspirate; Rapp gives it as
+having been equal to
+kh
+. But presuming that,
+prior to the Invasion, the Normans had become
+droppers of Hâs, would enable one to account
+for the unsettled state of the English H in the
+thirteenth century, when English reappeared
+as a national speech (1258). Also, according to
+this latter view, a habit of not aspirating would
+have been greatly in vogue for a time, and for a
+Saxon to have dropped his Hâs would have been
+equivalent to an announcement of good breeding
+and aristocratic acquaintances, or of his being
+
+33
+in the habit of frequenting the court and other
+haunts of the Norman nobility. But when the
+language of the vanquished began to overcome
+that of the conqueror, the Aspirate must have
+entered upon a new era, and Hâs again have
+prevailed in the land. Still the new H had not
+the vigour of the old oneâthe guttural of the
+Anglo-Saxon. In the fourteenth century, as mentioned
+by Mr Ellis, its employment was subject to
+various rules; and this will have probably been
+the period during which the first mute Hâs received
+public recognition, being tolerated as a sort of
+compromise or concession made to an aristocracy
+little partial to Hâs. Throughout the remaining
+centuries there have been rules of some sort
+governingâthough very laxlyâthe employment
+of the Aspirate. But the powers of H were gradually,
+surely, and steadily waning, until, at length,
+its strong guttural sound finally and completely
+evanesced towards the latter half of last century.
+
+Presuming that the reader consents to recognise
+the antique origin, the unbroken line of
+descent, and the rough, sturdy ancestry of our
+English H, it may be interesting to notice that
+in 1847 appeared the second edition of a critical
+work on the English Language,
+[5]
+written in
+
+34
+German (by a fellow of Cambridge), purporting
+among other things to prove to the omniscient
+Teuton, that in England the aspiration of Hâs
+is altogether a modern invention, a fanciful
+outcome of recent orthoepical dogmatism; and
+that by good speakers it is practically ignored.
+Concerning this writer, Mr Ellis says, âHis
+principal argument is the retention of
+an
+,
+mine
+,
+
+thine
+, &c., before words beginning with H, in
+the authorised version of 1611. The lists of
+words with mute H given by Palgrave, Salesbury,
+&c., were of course unknown to him. If,
+however, he had been aware of the loose manner
+in which H is inserted and omitted in Layamon,
+the âGenesis and Exodus,â Prisonerâs Prayer,
+and other writings of the thirteenth century, he
+would doubtless have considered his point established.
+In practice, I understand from a
+gentleman who conversed with him, he omitted
+the H altogether.â
+
+35
+
+MODERN ASPIRATES.
+
+The English H has been variously classified,
+and still more variously and vaguely defined.
+Some phonologists have discovered in it the
+properties of a vowel; most have agreed to
+regard it as a consonant. Webster declared it
+to be ânot strictly a vowel nor an articulation,
+but a letter
+sui generis
+ââa negative classification
+that may be accepted to-day. The letter has
+been termed the symbol of a guttural breathing,
+an evanescent breathing, a mere breathing, a
+strong breathing, a whisper, and âa propulsed
+aspirationâ (
+B. H. Smart
+); and some affirm it
+to be âno sound at all.â
+
+The English H represents an action rather
+than a sound. When the action indicated accompanies
+the utterance of a vowel, a change is
+produced in the vowel-sound; hence, Bishop
+Wilkins (1668) called the H a âguttural vowelâânot,
+however, a particularly happy definition.
+
+In stating H to be âa letter
+sui generis
+,â
+Webster enounced a truth that many have
+seemed inclined to overlook. Consonants are
+
+36
+distinct sounds that precede or follow other
+consonants and vowels; but the Aspirate becomes
+part of any vowel it accompanies. This
+may be otherwise expressed by saying, that in
+aspirating we emit a noiseless current of unvocalised
+breath that gradually vocalises itself
+into an aspirated vowel. The truth of the
+assertion may be tested by pronouncing an
+aspirated vowel,
+e.g.
+, â
+ha
+,â and observing that
+no change in position of the vocal organs occurs
+during the act. In uttering a syllable consisting
+of a consonant and a vowel, a change of
+position is requisite to the formation of each
+constituent elementâfor example, in the case
+of â
+fa
+.â Thus then, the H in well-spoken
+English does not represent a distinct and independent
+sound; but prescribes a breathing that
+modifies the vowel it accompanies. It is
+A
+SIGNAL TO ASPIRATE THE SUCCEEDING VOWEL
+.
+
+This oneness of the vowel and its H is productive
+of a change in the natures of both.
+The
+a
+in âh
+a
+llâ is as different from that in
+â
+a
+ll,â as is the Aspirate of â
+h
+allâ from that of
+â
+h
+eel.â It follows, therefore, that these Aspirates
+are equal in number to the vowel-sounds
+(said to be about seventeen), and that the letter
+H represents them all. For convenience sake,
+
+37
+one speaks of âthe sound of an H,â âto pronounce,
+or aspirate an H,â and âto drop an
+H;â meaning respectively,
+the sound of an
+aspirated vowel
+,
+to aspirate
+, and
+to omit to
+aspirate a vowel with an H before it
+.
+
+As already submitted, most Hâs may, now-a-days,
+be said to be
+soundless
+, although not âSilent
+Hâs;â the latter might with more propriety be
+termed functionless letters. To soundless Hâs
+one exception distinctly occurs in English; to
+wit, the H that precedes the long
+Å«
+, as in
+hue
+,
+
+huge
+,
+humor
+, &c. This Hâa phonetic link
+between the ancient English Hâs and the modern
+Aspirateâhas a sound of its own, and may be
+heard. Elevating the base of the tongue so as
+to leave a narrow aperture between its centre
+and the palate, we emit, with vocalized breath,
+the sound
+y
+heard in
+yew
+; with breath that is
+
+not
+vocalized we produce the subdued, palatal
+grating sound constituting the H of
+hue
+. Hence,
+
+HÅª
+represents a vowel
+preceded by an audible
+H,
+and not a vowel-sound that is aspirated. The
+Arabic ïº¡ corresponds to the H of
+HÅª
+.
+
+Other kinds and degrees of H are enumerated
+by Mr Ellis, who gives a list of six. They vary
+in power from that of the scarcely audible
+aspiration that the Cockney introduces into
+
+38
+âparkâ (paahk), to that of the jerked breath
+that
+hâ
+represents in
+bahâ
+. The breathings of the
+different Hâs vary also in degree of intensity
+according to the nature and strength of their
+vowels; being most pronounced in the case of
+long and open vowels,âcompare â
+h
+ardâ and
+â
+h
+it.â
+
+Some writers have described aspirated vowels
+as being whispered vowels. The error of this
+description is obvious to the most superficial
+observer; it would mean that aspirated vowels
+are unvocalized. A man, moreover, need not
+drop his Hâs though he holloa through a speaking
+trumpet.
+
+Vocalized breath
+is that which carries with it a sound
+produced by vibrations of the vocal chords. These
+are situate in the larynx, and may be felt vibrating, by
+placing the hand on the throat while they are in action.
+âKrantzenstein and Kempelen have pointed out that the
+conditions necessary for changing one and the same sound
+into different vowels, are difference in the size of two partsâthe
+oral canal and the oral opening,â (
+vide
+Kirkesâ Physiology).
+Some consonants are produced by this kind of
+breath, but with the concurrence also of certain movements
+of the lips, tongue, &c., and they are called
+sonants
+
+or
+voiced consonants
+: Ex.â
+l
+,
+n
+,
+r
+, &c.
+
+Unvocalized breath
+is that employed in whispering.
+With the assistance of certain movements of the speech-organs,
+unvocalized breath produces in ordinary speech a
+class of consonants that are called
+surds
+or
+breathed consonants
+:
+Ex.â
+f
+,
+s
+,
+t
+, &c.
+
+39
+Note.
+â
+T
+is of the class called
+momentary
+or
+explosive
+
+consonants. They need the help of a vowel, or of a
+voiced consonant, in order to express themselves fully.
+This circumstance, together with the fact of vocalised
+breath entering into the formation of many consonants,
+will probably account for the common notion that
+no
+consonant
+can be uttered without a
+vowel
+accompaniment.
+The independence of the sibilant
+s
+, offers alone a sufficient
+refutation of the assumption. It is in Polynesia that
+savages are found who cannot put two consonants
+together without a vowel between them.
+
+Ãsthetically considered, the modern English
+H is an important embellishment, and adds immensely
+to the strength and pleasing effect of
+speech. The Aspirate can render certain discordant
+sounds of our language half euphonious,
+breathing gently on a hard vowel, deepening its
+tone and swelling its volume. As an instance,
+take the pronoun
+I
+and the adjective
+high
+; and
+notice that the vowel-sound in the latter is by
+far the more pleasing, approaching almost that
+of the soft
+ai
+of the Italian. In oratory, a preponderance
+of aitchâd words in a passage allows
+of great energy of utterance without risk of it
+degenerating into an affected or bombastic tirade
+of âbig-soundingâ words.
+
+H is an earnest letter. It is a noteworthy
+coincidence that a large portion of those words
+associated with strong and violent actions and
+
+40
+emotions have the Aspirate:
+hew
+,
+heave
+,
+hate
+,
+
+abhor
+, &c., together with the ejaculations,
+Ho!
+
+Ha!
+
+Hollo!
+
+Harrah!
+
+Hang it!
+(an exclamation
+used by Geo. Wither, born
+A.D.
+1588), &c., are
+examples. In Elocution, the Aspirate lends
+itself to the expressing of propinquity, bringing
+the scene and the sound of the action within a
+more proximate compass. The union of H
+with most consonants results in the production
+of smooth sounds. The euphonic âsweetnessesâ
+of Mr Swinburneâs richly mellifluent verse, will
+be found, on analysis, to depend greatly on the
+two powers of
+TH
+and those of other digraphs
+of H. Writers on the subject of Natural
+Significance, or Specific Import of Articulate
+Sounds, who have mostly been adherents to the
+Epicurean or
+Pooh-Pooh
+theory, have in some
+instances limited the primary emotional significance
+of an Aspirate H to the denoting of a
+desire or craving. It may reasonably be asked,
+whether they have not identified a part with
+the whole, and whether every awakening of
+intense feeling does not find its natural expression
+in an aspirated vowel.
+
+The manner in which the H is used by our
+best writers, shows they appreciated its vigour
+and stress-giving properties. In Shakespeare,
+
+41
+the H is most frequent in salient passages and
+epigrams. It plays a conspicuous part in the
+grand, deep anthem-eloquence of Drydenâs full-toned
+lines; and in the verses of Byron and
+other strong writers its powers are judiciously
+applied. A recognition of the honest vigour of
+aspirated words is conspicuous in an aphÃ¦resis
+perpetrated for histrionic purposes by Mr Henry
+Irving, who has informed the writer that he
+sometimes drops the H in âhumblenessââ
+
+âas in Shylockâs speech to Antonio:
+[6]
+
+âShall I bend low, and in a bondsmanâs key,
+
+With âbated breath and whispâring (h)umbleness,
+
+Say this....â
+
+where the idea is much better expressed by the omission
+of the Aspirate.â
+
+There are persons to whom the simple act of
+aspirating, will never have suggested the idea
+of difficulty; but there are many others (who
+in their ordinary speech, put H before half the
+vowels that do not require it) who are totally
+at a loss when asked to aspirate a given vowel.
+They either aspirate unconsciously or not at
+all. If the reader has never attempted to
+reform a persistent H-dropper, by teaching him
+
+42
+the value and nature of the Aspirate, he can
+form no adequate idea of the extreme difficulty
+of the task. Some people can learn everything
+but Hâs. â
+Speak as though you were breathing
+on glass
+,â is a practical precept often laid down
+for the benefit of young children; and is one
+deserving of the consideration of many of their
+elders; for, as a matter of fact, in pronouncing
+the words
+hay
+,
+he
+,
+high
+,
+hoe
+, before a mirror, one
+will observe that four successive breath-marks
+are thrown on the cold surface of the glass;
+whereas none will be seen if one drop the Hâs.
+In pronouncing the H of
+HÅª
+, the markings are
+scarcely discernable or altogether absent; the
+breath-stream having become diverted and
+attenuated by friction against the palate. In
+Aspirating
+ha!
+the breath-marks are very distinct;
+but still more so in the case of the jerked
+terminal
+hâ
+of a quick, contemptuous
+bahâ!
+
+The above experiment is valuable as affording
+an insight into the phonation of the modern
+English Aspirate, and as a means by which the
+new convert from the H-dropping heresy may
+learn to avoid the opposite error of excessive
+zeal in the production of his Hâs. It is noticeable
+that the early aspirative labours of a converted
+H-dropper give birth to monstrosities.
+
+43
+He pronounces
+hand
+,
+heart
+, &c., as though the
+vowels were
+preceded
+by the
+ch
+of lo
+ch
+. This is
+a reversion to a former type of Hâs, but not the
+developed modern Aspirate. The physiological
+difference in the formation of aspirated and non-aspirated
+vowel-sounds appears to be, that, in
+aspirating, the oral passage is rendered more
+cavernous, and a greater volume of breath is
+emitted. This may be partly verified by uttering
+the Italian
+Ä
+before the mirror. When the
+same vowel is aspirated (
+ha
+), the soft palate is
+seen to be slightly raised, while the tongue is
+depressed and slightly retracted, thereby causing
+an enlargement of the cavity through which the
+sound passes.
+
+The H, in some positions, is not easily
+managed. In colloquial speech it is frequently
+left out of little words that are of minor importance
+to the sense. In a homely rendering of,
+âYou saw how high (h)e held (h)is head,â the
+occluded hâs would be nearly lost. Such a pronunciation,
+though not one to be highly commended,
+finds its excuse in convenience, and can
+claim some degree of extenuation in a very
+antique origin, and of justification in extensive
+usage.
+
+In the case of short, unaccented syllables of
+
+44
+a metrical composition, as in the following
+instance,
+
+âBut Marmion said that ever near,
+
+A ladyâs voice was in
+h
+is ear,
+
+And that the priest
+h
+e could not
+h
+ear.â...
+
+and in this coupletâ
+
+H
+e
+h
+eeds it not; âmid eddied
+h
+eaving foam
+
+H
+e
+h
+ears the echoes of
+h
+is island
+h
+ome,
+
+difficulties are presented in the way of a regard
+for Hâs and for metre. Under all circumstances,
+to stop and stutter is inelegant, to repeat a word
+for the sake of giving it its dropped H, has a
+ludicrous effect; and to attempt by a powerful
+effort to aspirate some particular vowel, will
+often result in a promiscuous scattering of Hâs.
+The only advice to the novice is: select
+difficult passages,
+[7]
+and practice them repeatedlyâspeak
+slowly and carefully. One must
+endeavour to aspirate with ease, letting the
+result be light, not forced, though distinct to the
+ear. Each person should use discretion, and
+suit the degree of aspiration to the power of his
+
+45
+voice. The degree suitable to some persons
+would require an effort on the part of others
+to imitate. The great thing necessary is once
+thoroughly to understand the nature of the process,
+and then to remember where to apply it.
+The performance will gradually become a result
+of reflex action and be gone through correctly
+but unconsciously.
+
+H-dropping must be overcome, and the
+misuse of H avoided; the world is intolerant
+of dissent from customs established; and
+orthoepy, or correct pronunciation, is a cardinal
+virtue, although, in common with most
+other of the âorthos,â it is endowed with
+chameleon-like faculties of change.
+
+46
+
+THE SILENT H.
+
+It has been seen that the letter H is a signal to
+aspirate. The term
+mute
+,
+otiose
+or
+SILENT H
+,
+implies that the signal means nothing, is useless,
+and is intended to be disregarded; that it
+is a false beacon, an orthographical encumbrance,
+and a trap for the unwary. Lumber of
+this sort is to be found in certain words, but in
+which ones, has always been a profound mystery
+from the fact of it having been so often explained;
+and information was unobtainable, by
+reason of a multiplicity of informants. Where
+the H is silent, has been difficult to determine;
+why the H is silent, cannot be determined at
+all. This much has long been divulged; it is
+silent in
+hour
+,
+honour
+,
+honest
+,
+heir
+, and most
+of their formatives; the rest is darknessâin
+the dictionaries. On no point of English pronunciation
+have authorities more notoriously
+disagreed than on that of words beginning with
+H; and if any one wishes to see the fathers
+of English Orthoepy at loggerheads, or the
+
+47
+Doctors of Modern English Pronunciation in a
+muddle, let him glance at the H section of
+their several dictionaries.
+
+Be it, however, remembered that the work of
+the writer of pronouncing dictionaries is one of
+extreme difficulty, and that his short-comings
+are often of the most excusable kind to be met
+with in the whole field of literature. The etymologist
+has scientific fact to deal with; the
+lexicographer is by tacit consent, and in virtue
+of that fiction of fictions âetymological conservation,â
+allowed, to some extent, to jurisdict
+or appeal to precedent in matters of orthography;
+but the professional orthoepist is expected
+to catch and register the passing sound
+of a nationâs speech. There is no discretionary
+power attached to his office; his duty is to discover
+who are representative speakers among
+his contemporaries, andâby a sort of arithmetical
+processâto determine what pronunciation
+is
+prevalent
+among them. Hence his
+entire task is one of appalling magnitude. But
+he has discovered a meretricious means of
+lightening his labours, which consists in referring
+to his predecessors in cases of extra uncertainty;
+the result frequently being that he gives
+as modern an obsolete pronunciation. It is evident
+
+48
+that several words in which the silent H is
+concerned have undergone this treatment.
+
+In the very good old times, ere spelling-books
+had created âbad spellers,â every writer
+was, in a small way, a phonographer; that
+is, he wrote words as he heard them pronounced.
+The system did not favour uniformity
+of spelling, but resulted in most words
+being written in two or three different ways,
+some in fifteen, or even twenty. Instead of
+animadverting on the subject of these discrepancies,
+or attributing them to the undetermined
+value and inadequate supply of alphabetical
+symbols, we may better serve our present
+purpose by simply noticing that it was customary
+for early scribes to insert the letter H in
+some words wherein it is now generally supposed
+to have been silent. We see at once that the
+facts of the case militate against this modern
+belief in ancient silent Hâs. For, if the majority
+of these early penmen, whose minds were
+neither in an appreciable degree biassed by
+precedent, nor haunted by the forms of orthographical
+bogies, habitually inserted an H, it is
+evident that the letter was intended to have a
+phonetic significance, and had very probably a
+strong phonetic value. The same conclusions
+
+49
+have been arrived at by Mr Ellis, who sees no
+reason for believing that H was not audible in
+
+honor
+,
+honest
+, and
+hour
+in the time of Chaucerâsay
+1400. Collateral evidence in support of
+Mr Ellisâs views is to be found in the fact of
+the doubtful words occurring in alliterative
+verses of an early date; and of their occurring
+in such a manner as to allow of the supposition
+of their Hâs being implicated in the alliterations
+as, what are termed by Professor Skeat,
+ârime-letters.â
+
+In the age of Chaucer (and, in diminishing
+degrees, down to our own day), it was customary
+to drop the Hâs of short, unaccented syllables in
+poetry, provided that these were not placed in a
+position immediately succeeding a metrical
+pause. But, as far as the writer is aware, the
+sixteenth century is the earliest that has
+furnished a record of any words having been
+habitually written with Hâs and pronounced
+without them. Palsgrave, in 1530, gave
+honest
+,
+
+honour
+,
+habundance
+, and
+habitation
+as having
+each an otiose H. Salesbury (1547), in his
+Welsh Dictionary, says that H is held silent in
+âFrench and Englysh, in such wordes as be
+derived out of Latyne, as these:
+honest
+,
+habitation
+,
+
+humble
+,
+habit
+,
+honeste
+,
+honoure
+,
+exhibition
+,
+
+50
+and
+prohibition
+;â whereas he aspirates it in
+
+h
+umour. Gill (1621) adds
+hour
+and
+hyssop
+as
+having a mute H; and aspirates in
+h
+erb,
+h
+eir,
+and
+h
+umbleness. Jones (1701) makes it mute
+in
+swine-herd
+,
+Heber
+,
+Hebrew
+,
+hecatomb
+,
+hedge
+,
+
+Hellen
+,
+herb
+,
+hermit
+, and some others. Smart
+(1836) reduced the whole list of words with a
+silent H to
+heir
+,
+honest
+,
+honour
+,
+hostler
+,
+hour
+,
+
+humble
+, and
+humour
+; and modern usage consents
+to a still greater reduction.
+
+The suppression of Hâs has been observed to
+have been chiefly exercised in words coming to
+us from the Latin, through the French language.
+It seems that Salesbury, quoted above, regarded
+this, or something like it, as having been a rule.
+But we find records of some words of neither
+French nor Latin origin having also had silent
+Hâs assigned to them; and we have the still
+more important fact that the Franco-latin
+words in which the H is aspirated are greatly
+in excess of those in which it ever was silentâthe
+latter really constituting a very insignificant
+minority. In the third line of
+The Vision
+of William
+,
+
+In
+h
+abite as an
+h
+ermit un
+h
+oly of workÃ«s,
+
+we have convincing proof that Langland (1332â1400?)
+had no regard for the etymology of his
+
+51
+Aspirates. Certainly, French words of Latin
+origin have constantly taken the aspirate when
+their etymology was in the least obscure.
+Thus,
+hearse
+(which most people do not know
+is French, and still less do they think it represents
+the Latin [acc.],
+hirpicem
+[8]
+) has always
+retained its Aspirate. Moreover, it were one
+thing to be able to prove that a certain pronunciation
+would be etymologically correct,
+and another to show that the pronunciation of
+a language is corrected by etymology. We are,
+in fact, at liberty to regard the English silent
+H, as being practically devoid of active etymological
+sponsors.
+
+Taken collectively, these different data very
+strongly suggest the idea of silent Hâs having
+been, if not born of, at least very assiduously
+fostered, and promoted with almost paternal
+solicitude, by the judgment or fancy of theoretically-inclined
+orthoepists. If, on the other
+hand, the early orthoepists were really honest
+in their pretensions to chronicle the actual pronunciation
+of their day, the result of their
+endeavours still remains open to the objection of
+inaccuracy, by reason of the special difficulty
+they will have experienced in recognizing a
+
+52
+standard to go by. Nothing can, now-a-days,
+screen them from a suspicion of having exercised
+their powers of imagination equally
+with those of observation; nor can their
+partial disagreements exonerate them from the
+charge of a traditionary collusion in cases of
+extra perplexity. If asked, with what weight
+this same charge might be brought to bear on
+our more recent compilers of âmodern pronouncing
+dictionaries,â the writer of the present
+treatise would, under the plea of
+coram non judice
+,
+take refuge from the onus of pronouncing an
+invidious decision. But if asked why the comparatively
+modern dictionaries quoted on the
+opposite sheet, are, in some instances, so flagrantly
+at variance with the best modern usage
+with regard to pronunciation, he would unhesitatingly
+reply that they are so chiefly out of
+deference to the opinions of the gentleman who
+wrote the first complete pronouncing dictionary
+and lived over a hundred years ago.
+
+53
+
+DICTIONARY CONCORDANCES.
+
+âHâ prescribes the Aspirate; âvâ indicates that the vowel is not to be aspirated.
+The pronunciation recommended in this work is shown in the first column.
+
+Wk.
+
+J.
+
+O.
+
+N.
+
+Wor.
+
+S.
+
+R.
+
+C.
+
+D.
+
+B.
+
+HEIR
+HOUR
+HONEST
+HONOR
+and all their formatives
+
+v
+
+v
+
+v
+
+v
+
+v
+
+v
+
+v
+
+v
+
+v
+
+v
+
+v
+
+except
+
+honorarium
+and
+
+v
+
+v
+
+H
+
+H
+
+v
+
+honorary
+
+v
+
+v
+
+v
+
+v
+
+v
+
+v
+
+H or v
+
+v
+
+HERB
+
+H
+
+v
+
+v
+
+v
+
+v
+
+v
+
+H
+
+v
+
+H
+
+H or v
+
+H
+
+herbaceous
+
+H
+
+H
+
+v
+
+v
+
+H
+
+v
+
+H
+
+H
+
+H
+
+H
+
+herbage
+
+H
+
+v
+
+v
+
+H or v
+
+H or v
+
+H
+
+H
+
+H
+
+H or v
+
+herbal
+
+H
+
+H
+
+v
+
+H
+
+H
+
+H
+
+H
+
+H
+
+herbalist
+
+H
+
+H
+
+v
+
+H
+
+H
+
+H
+
+herbivorous
+
+H
+
+v
+
+H
+
+H
+
+H
+
+herborisation
+
+H
+
+v
+
+H
+
+H
+
+H
+
+H
+
+HOSPITAL
+
+H
+
+v
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H or v
+
+H
+
+hospitalier
+
+H
+
+H
+
+H
+
+H
+
+H
+
+hospitable
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+HOSPICE
+
+H
+
+H
+
+H
+
+H or v
+
+H
+
+HOTEL
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+54
+HOSTEL
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+hostelry
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+Hostler
+
+v
+
+v
+
+v
+
+v
+
+v
+
+v
+
+H
+
+H or v
+
+H or v
+
+v
+
+(
+ostler
+)
+
+v
+
+hosteler
+
+H
+
+H
+
+HUMOR
+
+H {Smart proposed that this word, meaning moisture, fluids, &c. should be aspirated.
+
+humoral
+
+H
+
+v
+
+H
+
+v
+
+H or v
+
+H
+
+H
+
+v
+
+v
+
+HUMOUR
+
+H or v
+
+v
+
+v
+
+H
+
+H or v
+
+v
+
+H
+
+H or v
+
+v
+
+v
+
+humourism
+
+H or v
+
+H
+
+v
+
+H or v
+
+Humourist
+
+H or v
+
+v
+
+H
+
+v
+
+v
+
+H
+
+H or v
+
+v
+
+humourous
+
+H or v
+
+v
+
+H
+
+v
+
+v
+
+H
+
+v
+
+humoursome
+
+H or v
+
+v
+
+H
+
+v
+
+v
+
+H
+
+HUMBLE
+
+H
+
+v
+
+v
+
+v
+
+H or v
+
+H or v
+
+H
+
+H
+
+H or v
+
+H or v
+
+H or v
+
+HUMILITY
+
+H
+
+H
+
+v
+
+H
+
+H
+
+A blank generally indicates that no distinct opinion is expressed in the work
+consulted.
+
+KEY TO REFERENCES.
+
+Wk.â
+
+Critical Pronouncing Dictionary. By John Walker. Glasgow: Blackie & Son. 1847.
+
+J.â
+
+Dictionary of the English Language. By Samuel Johnson. 4th Edition. 1786.
+
+O.â
+
+Comprehensive English Dictionary. By John Ogilvie, LL.D. London: Blackie & Son. 1874.
+
+N.â
+
+Pronouncing Dictionary of the English Language. By P. Austin Nuttall, LL.D. London: Geo.
+Routledge & Sons. 1873.
+
+Wor.â
+
+Critical Pronouncing Dictionary. By Joseph E. Worcester. London: Geo. Routledge & Sons.
+1875.
+
+S.â
+
+Etymological and Pronouncing Dictionary. By Rev. Jas. Stormonth. London: Wm. Blackwood &
+Sons. 1879.
+
+R.â
+
+Websterâs Improved Pronouncing Dictionary. By Chas. Robson. London: Ward, Lock & Tyler.
+
+No date
+ârecent.
+
+C.â
+
+Dictionary of the English Language. By Arnold J. Cooley. London and Edbroâ: W. & R.
+Chambers.
+No date
+ârecent edition.
+
+D.â
+
+Chambersâ Etymological Dictionary. By Jas. Donald, F.R.G.S. 1878.
+
+B.â
+
+Bellâs Standard Elocutionist. London: Wm. Mullan & Son. 1879.
+
+55
+If it be granted that of yore, orthoepists based
+their decisions with regard to the silent H on
+no other authority than that of their own assertions,
+or on dogmatic, or even spurious etymology,
+it flows as a corollary that these ancient
+law-givers can claim no allegiance from modern
+speakers. And again, if modern compilers of
+âpronouncing dictionaries,â being the direct
+descendants of the ancient orthoepists, assume
+the right of hereditary legislation, and persist in
+their attempts to govern our modern pronunciation
+by the worthless traditions of their predecessors,
+the yoke of their archaical jurisdiction
+must be thrown off altogether. We may therefore
+approach the question of âWhat words now
+have silent Hâs?â entirely free from the bias of
+traditionary lore, and from the pressure of antiquarian
+and etymological considerations.
+
+When preparing to obtain a firm basis upon
+which to found and sustain a plea for the recognition
+of a standard pronunciation founded on
+contemporary usage, the writer solicited the
+advice of Professor Bain, whose friendly assistance
+was partly conveyed in the following:â
+
+âWhere usage conflicts, we must first decide
+who are to be received as authorities. It seems
+to me that the stage is better than any other,
+and the habits of great actors might be referred
+to. The cultivated society of the metropolis
+ought to furnish a guide, but we can hardly fix
+upon a person representing them.â
+
+Acting according to the spirit of this advice,
+the writer has consulted the
+USAGE OF CULTIVATED
+SOCIETY
+as represented by a number of
+gentlemen whose various qualifications eminently
+
+56
+fit them to fulfil the conditions laid down
+by Dr Bain.
+[9]
+The result of the inquiry, and of
+personal and attentive observation, furnishes
+the following rules:â
+
+Rule
+I.
+
+H is silent in Heir, Honest, Honor, Hour,
+and in their formatives, inclusive of honorarium
+(15)
+
+and honorary
+(18).
+
+The figures represent the number of persons (among
+those consulted) who adhere to the particulars of these
+rules.
+
+Rule
+II.
+
+In Humour and its formatives
+(be they
+verbs, substantives, or adjectives)
+the H may be
+either silent
+(10),
+or not
+(9).
+
+In Humor
+(meaning fluid, moisture, &c.)
+and its
+formatives, the H is sounded
+.
+
+Rule
+III.
+
+H is Aspirated in all other words in
+which it occurs.
+These include the following
+and all their formativesâHerb (17); Hotel
+
+57
+(16); Hospital (17); Humble (18); Humility
+(19), &c., &c.
+
+Notes.
+It is difficult to find a reason why an exception
+should be made in favour of
+honorarium
+and
+honorary
+;
+and, unless the H of these words can offer a better
+plea for entering into the pronunciation than can the Hâs
+of the other formatives of Honor, we mayâafter the
+style of Lucian in his trial of the letter Tâmove for its
+expulsion. The rejection of an anomaly is a valuable
+improvement of which judgment approves, and which a
+love of regularity will vindicate and maintain. Uniformity
+presents so many advantages, that small concessions
+of opinion will be willingly made in order to secure it.
+
+With regard to
+Hostler
+, there is a balance of opinionâ(8)
+being in favour of the Aspirate, and (11) against
+it. The pronunciation of the word should be made depend
+on the spelling.
+
+In 1775, Perry waged war with Kendrick concerning
+the H of
+Humour
+, and threw down the gauntlet in favour
+of a y-sound. Subsequently, Enfield entered the lists on
+the side of Kendrick; while Walker, Sheridan, and a
+host of others, ranged themselves on the side of Perry;
+and Smart at length proposed that the respective claims
+of H and Y should become matters for the optional decision
+of a perplexed public. Hence the phonetic rendering
+of the word in most modern dictionaries is indifferently
+âyÅ«âmurâ or âhÅ«âmur.â Websterâs verdict was curt
+and concise: âThe pronunciation âyumurâ is odiously
+vulgar!â His words lose their edge in our day, for the
+âodiousâ practice prevails with a great number of good
+speakers. The present writer, if permitted to advance
+an opinion, would say that to his mind to drop the H
+âis a custom more honourâd in the breach than the observance;â
+and that they secede in very good company
+who aspirate.
+
+The H of
+Humble
+has of recent years been reinstated
+
+58
+in public favour by the late Mr Charles Dickens, whose
+âUriah Heepâ remains a warning to evil-doers and
+h-droppers. It would be a boon to all speakers of
+English if a series of âUriahsâ could contrive to eliminate
+every otiose H from the language.
+
+Hâs that occur in the body of words, as in
+fore
+h
+ead, ex
+h
+ibit, &c., are weaker than initial
+Hâs; but a regard for them marks a refined
+speaker. The h of âexhibitionâ may be considered
+lost, so also the h in the âhamâ of
+namesâ
+e.g.
+, Bucking(h)am, Bal(h)am, &c. Long
+words, especially of a classic origin, often pay
+dearly for suddenly acquired popularity; and
+when any extraordinary event with which they
+are nominally connected puts them accidentally
+into the mouths of the people, they generally,
+in becoming household words, are clipped of
+much of their early dignity.
+
+In parenthesis, a word about the indefinite
+article. One very excellent grammar says:â
+
+Many of the best writers, as Macaulay, use
+an
+before
+H (not silent) when the accent is on the second syllable:
+â
+an
+historical parallel.â
+
+Some words beginning with a vowel are pronounced
+as if they began with a consonantal
+y
+: ewe, eunuch,
+eulogy, European, useful, &c. Before such words some
+writers use
+an
+.
+[10]
+
+A journalistic acquaintance lately informed
+
+59
+the writer that the use of
+an
+before
+u
+(when =
+y
+)
+is a feature of English journalism, the Scotch
+being more addicted to
+a
+. The former method
+is more correct to the eye; the latter to the
+ear: uniformity favours the former. The employment
+of
+an
+before H-out-of-accent (
+e.g.
+,
+hypothesis, harmonium, hiatus, horizon) is a
+nicety, and arises from a fastidious application
+of the law of Euphonic Adaptation.
+
+Reverting for the last time to the history of
+the silent H, it is almost necessary to mention
+that an ingenious American writer (to whom
+we have already referred) was recently engaged
+disseminating opinions at variance with those
+adduced in this work. In a cleverly-written
+article, he says:â
+
+I venture the conjecture, which, however, is somewhat
+more than a conjecture, that the suppression of H was
+once very widely diffused throughout England among all
+speakers, including the best, during which timeâa very
+long oneâthe function of H was to throw a stress on the
+syllable which it ushered in, as it is in the Spanish word
+
+hijos
+.
+
+He further suggests that vulgar h-dropping
+of to-day may be a survival of a former accepted
+method of pronunciation.
+Se non Ã¨ vero, Ã¨ ben
+trovato
+, and this recognition of the emphasizing
+power of H is highly commendable. But it
+cannot be conceded that the old English H was
+
+60
+normally passive, and only roused into phonic
+activity on occasions of emphatic emergency;
+nor can it be allowed that the Spanish comparison
+is a felicitous one, it being rather that
+which an opponent might have adduced could
+he have deemed it to have had any bearing
+whatever on the point in question. This writer
+ought to have borne in mind that the
+h
+of
+hijos
+
+happens to be mute, whereas the
+j
+is an Aspirate.
+There is nevertheless much valuable matter in
+his article. It is moreover of service as an
+example of error; its author having fallen into
+a conclusion that lies open to those who allow
+their attention and judgment to become absorbed
+in the frolics of Hâs in some of the old
+MSS. He points out, for instance, that in the
+âLay of Havelok the Daneâ (1280), the words
+
+eye
+,
+earl
+,
+ever
+, &c., have Hâs; and he assumes
+the spelling to have represented an allowable
+pronunciation, neglecting, however, to take into
+consideration that this Lay is among the worst
+of examples, from the fact of its being essentially
+a provincial production (Sir F. Madden believes
+it to have hailed from Lincolnshire), and one in
+which meaningless Hâs are uncommonly prevalent
+and letters are curiously placed. Although
+ancient writers habitually endeavoured to write
+a word as they spoke it, they did not resist the
+
+61
+temptation of occasionally adding an idle letter,
+or of employing one as an orthographical expedient.
+In modern German, H is made to serve
+in the latter capacity; its duty being to lengthen
+the vowel that precedes it;
+e.g.
+, in the word
+Bo
+h
+n
+,
+âgive it an understanding but no tongue.â The
+H prefixed to âeyeâ in Havelok, if not simply
+a scrivenerâs blunder, may be a result of metathesis
+or of commutation, or of the two acting
+simultaneouslyâOrmin (
+circa
+1210) wrote the
+word âeÈhe.â But, to refrain from speculative
+meanderings, one may refer to Mr Ellis, who
+mentions that in
+Havelok
+H is unnecessarily prefixed
+in holde (line 30), hete (146), het (653), hof
+(1976), &c., &c., and with no sort of uniformity;
+and, in giving the intended pronunciation, he
+affirms these Hâs to be meaningless as signs of
+aspiration.
+
+The most that, with a due regard for fact and
+authority, can be conceded to the writer of the
+magazine article above referred to, is that H,
+being formerly a harsh sound, was not unfrequently
+omitted for the sake of fluency in
+the same manner as whole syllables are occasionally
+lopped off by careless speakers. This
+concession, by-the-bye, is not specified in his
+treatise.
+
+62
+
+DIGRAPHS.
+
+When two vowels are blended, the result is
+a diphthong; when two other letters unite, the
+result is usually called a
+Digraph
+.
+
+H may give trouble to some persons when
+speaking their mother tongue; as to the Briton,
+who should, and to the Frenchman, who must
+not aspirate; but the digraphs of H are universally
+admitted to be among the most serious
+difficulties that beset a man who is trying to
+acquire the pronunciation of a language not his
+own. The German
+ich
+is liable to dwindle into
+âikâ in the mouth of an Englishman, and into
+âishâ in that of a Frenchman; with Italians
+and some others it is unutterable. The modern
+Greek delta, and more especially ÏÎ¸, often
+undergo cacophonic metamorphoses when entrusted
+to the care of well-meaning philhellenists;
+a digraph of H enters into the phonetic composition
+of most of the shibboleths of Eastern
+tongues; and, in the estimation of many
+foreigners, the bugbear of our English pronunciation
+
+63
+is spelt TH. In Britain, the
+ch
+of
+lo
+ch
+and Au
+ch
+termu
+ch
+ty remains the Caledonian
+pass-word.
+
+The following are the more common digraphs
+of H:â
+
+CH
+,
+GH
+,
+PH
+,
+SH
+,
+TH
+,
+
+BH
+,
+DH
+,
+KH
+,
+LH
+,
+NH
+,
+RH
+,
+ZH
+,
+
+WH
+.
+
+The first five are perfect digraphs, a phonic
+union of parts is effected, and a new sound produced;
+thus, neither âhat,â with the sound of
+c before it, nor âcat,â with its vowel aspirated,
+will give the sound heard in â
+ch
+atâ â´ C + H is
+not = CH.
+
+CH
+has three sounds:â
+k
+, (
+ch
+aos);
+sh
+, (ben
+ch
+);
+and a third, compound, tsh (
+ch
+ur
+ch
+).
+
+GH
+is a digraph to perpetuate the memory of
+English orthographical anomalies.
+[11]
+It is used
+in writing seventy-five words, and in sixty-three
+of them its presence is ignored entirely; in nine
+it is equivalent to
+ff
+, and in three it represents a
+
+64
+g
+. It signifies nothing in âhi
+gh
+,â âHu
+gh
+,â &c.;
+and in âflight,â ânight,â &c., it retains the same
+signification. In Old Saxon, and in Anglo-Saxon,
+âhighâ was written
+hea
+,
+heag
+,
+hig
+,
+heah
+,
+
+heh
+,
+hih
+, &c. A spirit of impartial justice instigated
+later writers to take in both the
+g
+and
+the
+h
+. Professor Meiklejohn (St. Andrews)
+mentions the opinion held by some, that the
+Normans would not pronounce gutturals, and
+disregarded the Saxon terminal
+h
+âs, wherefore
+the scribes attempted coercion by strengthening
+their Aspirates with a
+g
+. The result must have
+been a failure, since both the
+h
+âs and their
+g-prefixes became lost to the pronunciation of
+most words. The English words in which GH is
+an initial digraph are
+ghastly
+,
+ghost
+, and
+gherkin
+;
+in the two former the H is altogether adventitious.
+There exists a proneness to transpose
+the
+h
+and the
+t
+of height, (Saxon,
+heath
+,
+hihth
+,
+&c.), in consequence of which, and with a superfluous
+
+d
+, it becomes âheidth.â This mispronunciation
+is recorded by Jones as early as
+1701. The practice will arise from a natural
+tendency of the mind to bring into conformity
+the sounds of words that are associated in
+their meaningsâleng
+th
+, dep
+th
+, bread
+th
+, wid
+th
+
+ergo
+: âheidthâ!
+
+65
+PH
+has the sound of
+f
+(s
+ph
+ere). In Ste
+ph
+en
+and ne
+ph
+ew it stands for
+v
+.
+
+SH
+is the French
+j
+(
+j
+oli), unvocalised. The
+Anglo-Saxons had not this digraph, but it
+appeared some centuries after the conquest,
+which suggests the possibility of its having been
+introduced by Norman influences. Some curious
+philologist may perhaps undertake to substantiate
+or demolish the theory that the Anglo-Saxons
+learnt to pronounce SH by attempting
+to utter the French
+j
+. Certain it is that the
+words
+Je me jette Ã  genoux
+would become
+changed into âSheh me shett ah sheenooâ by
+the average German of to-day. The substitution
+of SH for
+ss
+in the word
+assume
+produces
+an odd-sounding archaism, yet one that is occasionally
+met with in otherwise good speakers.
+According to Jones, âa
+sh
+umeâ was correct
+speech in the seventeenth century.
+
+TH
+of
+thin
+and
+TH
+of
+then
+are elementary
+sounds represented now-a-days by two letters
+each. The former is produced by passing unvocalized
+breath through a narrow aperture left
+between the fore-part of the tongue and the
+edge of the upper teeth (the central incisors);
+the second by the same position of the speech-organs,
+
+66
+but with breath that is vocalized.
+[12]
+
+Common errors are, to confound the TH of
+
+bath
+,
+path
+,
+wreath
+, &c., with that of
+bathe
+,
+paths
+,
+
+wreathe
+, &c. The former are unvocalized, as
+in
+thin
+.
+
+Of the digraphs of the second row little need
+be said. With one exception they are rarely
+used.
+BH
+,
+DH
+,
+KH
+, and
+ZH
+are English renderings
+of the aspirated consonants of Asiatic
+languages.
+LH
+is a legacy from the Anglo-Saxon.
+
+NH
+is Portuguese. In
+RH
+the H is
+excessively useless; it is disregarded, and the R
+remains unchanged. That man deserved to have
+his name recorded who first invented the
+h
+of
+ârhyme.â He will have traced a technical connection
+between
+rime
+and ârhythm;â and will
+have followed the latter to its Greek source
+(
+á¿¥Ï
+Î¸Î¼Î¿Ï
+). His next act, the insertion of
+rimeâs
+
+apparently lost
+h
+, will have seemed to him one
+only of mere reparative justice. His excellent
+motives and his perspicacity might have met the
+admiration of posterity, had not his etymology
+
+67
+been so egregiously faulty, and the word
+rime
+,
+a direct descendant of the Saxon
+rim
+, and as
+independent of a Greek as of a Cherokee origin.
+But the
+h
+he inserted is there still, and cannot
+be cast off by any daring iconoclast without an
+outcry being raised in its behalf by alarmed
+traditionists: for our orthographical creed is
+derived from our forefathers, impressed with
+the accumulated evidences of their quaint blunders,
+their venerable ignorance, and admirable
+errors of judgment, all to be assiduously copied
+by each of us their descendants, as an alternative
+to being scouted for bad spellers. Thus it
+is that things originating in a weakness or perverse
+use of the reasoning faculties of an ancestor,
+may grow to be regarded as a virtue in a
+descendant.
+
+WH.
+
+Our attention may now advert to the perfect
+digraph
+WH
+.
+
+Alexander Gill, a contemporary of Shakespeare,
+and Head Master of St Paulâs Schools,
+wrote, â
+W, aspiratum, consona est, quam scribunt
+per
+wh,
+et tamen aspiratio prÃ¦cedit
+.â (W,
+aspirated, is a consonant which is written
+wh
+,
+and yet the Aspirate precedes it.) Dr Lowth
+(1710â1787), Bishop of London, is quoted by
+
+68
+Mr Walker as having directed that WH should
+be pronounced âHW,â this having been the
+relative positions of the letters during the
+Anglo-Saxon period. The erudite theory of
+the great Hebrew and Saxon scholar had a
+fascination for the theoretical orthoepist of
+whom Mr Cull, F.S.A., the learned editor of
+Ogilvieâs Dictionary, writes:â
+
+Mr Walker did not profess to record the current pronunciation
+of his day, but he sought to establish principles
+and even rules to govern the pronunciation; and
+would change the pronunciation of words to bring them
+within his rules.
+
+It is probable that Dr Lowth, who, practically,
+is the responsible author of this theory of inversion,
+was led to his conclusions as much by
+his belief that W was a vowel as by the historical
+considerations alluded to above. As regards
+W being always a vowel, Dr Lowthâs argument
+was successfully refuted by Walker himself,
+whose statements in this respect, Posterity has
+endorsed. W is a vowel only when forming
+the latter half of a diphthong. And, moreover,
+even if the W were a vowel, Dr Lowth could
+have shewn no good reason for inverting the
+order of letters in pronouncing the digraph
+WH. The retrospective influence of a post-aspirate
+has no power to produce a breathing
+
+69
+on
+a vowel, or
+on
+a consonant; but generally to
+cause a vowel to
+terminate
+in a jerked breath
+(
+hâ
+) or a consonant to become unvocalised.
+And again; that Anglo-Saxon writers had been
+wont to twist H round to the fore, was an
+irrelevant fact, and one that ought to have had
+no weight with the worthy bishop or with Mr
+John Walker when engaged in dictating laws of
+pronunciation to the English lieges of King
+George III. When Walker wrote the following
+sentence concerning Dr Johnson, he was in
+truth constructing a formula for his own
+epitaph:â
+
+His Dictionary has been deemed lawful plunder for
+every subsequent lexicographer; and so servilely has he
+been copied, that his mistakes re-appear in several other
+dictionaries.
+
+And so it is that Mr Walkerâs second-hand
+rule with regard to WH has retained the implicit
+allegiance of all his successors who have
+had pronouncing dictionaries to compile. In
+the presence of such massive authority, to speak
+is to be silenced, and to differ is to be crushed.
+But still, as is seen in many things, the most
+imposing and august array of venerable doctrine
+cannot always stifle the âstill small voiceâ of a
+contrary conviction. Who shall say that Dr
+
+70
+Primrose had not been looking over a collection
+of pronouncing dictionaries, when he remarked
+that, as ten millions of circles can never make a
+square, so the united voice of myriads cannot
+lend the smallest foundation to the untrue.
+
+A purpose of this treatise is to respectfully
+solicit of modern authorities a reconsideration
+of the doctrine of transposition or dictum relative
+to the WH; and at the same time to lay certain
+data before the general reader.
+
+Clear notions concerning the ordinary W are
+necessary to a proper appreciation of that variety
+occurring in WH.
+
+The
+vowel-W
+is simply
+oo
+; thus, in
+pew
+, â
+ew
+â is a
+diphthong and equal in sound to
+Äoo
+.
+
+The
+consonant-W
+is a buzzed
+oo
+plus a rapid transition
+into the sound that succeeds it. Let
+represent the
+buzzed
+oo
+, and â¨ the rapid transition:
+
+W = (
+â¨).
+
+If, while pronouncing
+oo
+, we narrow the labial aperture
+by approximating the edges of the upper and lower
+lips, the sound
+is produced. If, while producing the
+sound
+, we enlarge the labial aperture with sudden
+rapidity (â¨), a perfect consonant-W results. Thus:
+
+âweâ =
+â¨Ä; and, âwooâ =
+â¨oo.
+
+Let WH be represented by
+Ê
+. The difference
+between W and
+Ê
+is that W is produced
+by vocalised breath and certain lip-movements
+
+71
+as described above; whereas
+Ê
+is produced by
+the
+same lip-movements, but with unvocalised
+breath
+. Hence, in lieu of the buzzing sound, we
+find in
+Ê
+a whispered or âwhistled breath.â It
+is this breath-sound of
+Ê
+which has been so
+persistently mistaken for the Aspirate H. The
+sole office of the H in this digraph is to prescribe
+the unvocalization of the W. The nature of the
+subject renders it difficult to parade proofs of
+these facts on the pages of a book, in order to
+convince persons who, having a veneration for
+Mr Walkerâs hoo hoo theory, might wish to uphold
+in theory that which they probably depart
+from in practice. By careful attention to most
+thoroughly good speakers it will be noticed that
+an unvocalised W (
+Ê
+) is the phonic rendering
+of the digraph WH; although the âwhistled
+breathâ may be mistaken for an Aspirate by a
+careless observer, or by one resolute in error.
+
+It is not easy to understand why these facts
+are not more widely recognised and insisted
+upon by modern orthoepists and writers on
+phonological science; and it is very difficult
+to attribute a cause to the longevity of the
+erroneous notions that Mr Walker was an early
+means of disseminating. When we see in our
+pronouncing dictionaries that
+whip
+is to be pronounced
+
+72
+âhwip,â the only belief open to us is
+that their writers intend two vowel-sounds to
+be heard in a word containing only one vowel;
+for they can scarcely mean that the h shall
+aspirate a consonantal
+w
+, nor that a jerked
+hâ
+
+shall precede the word (thus
+hâ
++
+wip
+), nor can
+they desire that the h shall aspirate a whistleâH
+Ê
+ip.
+To say the least, the rendering of any
+of these would require a vocal gymnast to make
+it effective. But if two vowels
+are
+to be employed,
+the first must needs be aspirated and the
+second not; so that a phonetic spelling of
+whip
+
+and
+why
+would be âhoo ipâ and âhoo iâ! And,
+according to Mr Walker and his disciples, this
+is the correct pronunciation. But the fact
+remains that even those gentlemen, who in their
+dictionaries have scrupulously reproduced Mr
+Walkerâs rule, have seldom been known to violate
+the principles of a correct pronunciation by
+adhering to it when speaking. The sore straits
+to which the rule occasionally reduces them
+might elicit pity. âHwâ is found to be unmanageable
+before
+o
+; and therefore we find that
+since the days of Mr Walker, a perfect unanimity
+has prevailed among orthoepists with regard to
+the extrusion of W from the pronunciation of
+every word in which the digraph WH precedes
+
+73
+an o; whence it comes that in all dictionaries in
+common use,
+whole
+,
+whom
+,
+who
+, &c., are phonetically
+expressed âhole,â âhoom,â âhoo,â &c.; for,
+according to their method, to retain the W were
+to give these words the sound of hoo ole, hoo
+oom, and hoo oo! If, on the other hand, one
+remembers that WH is an unvocalized W, no
+more hesitation will be experienced in giving
+it its due before an
+o
+than before any other vowel.
+
+Ê
+ole,
+Ê
+oom, and
+Ê
+oo, are quite as easy to
+pronounce as
+Ê
+ist
+Ê
+ip, or
+Ê
+ale.
+Who
+is,
+however, very frequently made an exception by
+the best speakers of English, and pronounced
+â
+hoo
+.â The word lost its
+Ê
+in the seventeenth
+century, and does not seem in a fair way to recover
+it.
+
+Mr Ellis, so far as the writer is aware, is
+the only authority who has entered a protest
+against the modern conception of WH; and he
+gives it as his opinion that, from the earliest
+times, WHâwhether mistaken for Hw or Hooâhas
+always been and still is, if rightly pronounced,
+WH.
+
+This digraph is peculiar to the English language.
+English-speaking people differ in their
+manner of using it. In the south of England,
+it is seldom more than W; and
+which
+and
+
+74
+what
+are pronounced âwichâ and âwot.â The
+educated classes must, by courtesy, be supposed
+without the pale of this accusation. In the
+northern parts of England WH is decidedly
+more correctly used; in Scotland the pronunciation
+of it is perfect. In few cases would it
+be other than absurd to seek, out of England,
+for a criterion of English pronunciation; but
+this is one of the exceptions wherein the norm
+is best found north of the Tweed. Scotch
+Hâs are harsh and grating, or like the H of
+HU
+
+(see page
+37
+), or akin to the results of those
+guttural spasms that attend the primiparous
+aspirate-labours of a reformed H-dropper; and
+the Scotch are known to wrongfully accuse
+Englishmen of dropping Hâs, that in reality
+have been properly aspirated; but the Scotch
+neither exaggerate nor neglect the proper rendering
+of WH, and even their farm-labourers
+are worthy to be taken as models.
+[13]
+
+Whale
+,
+
+whelp
+,
+when
+,
+where
+,
+whole
+, are, in Scotland, distinctly
+
+75
+and properly,
+Ê
+ale,
+Ê
+elp,
+Ê
+en,
+Ê
+ere,
+and
+Ê
+ole. Notwithstanding this indisputable
+fact, the four varieties of Ogilvieâs excellent
+dictionary (the northern Scotchmanâs lexical
+fetish) give âhwale,â âhwen,â &c., as being the
+received pronunciation. In so doing they agree
+with all contemporary productions of their
+kind. The
+rationale
+of the inversion is a mystery;
+but a clue to the cause of this and other
+errors-upon-precedent, would very probably be
+found to have Mr John Walker at one end of it
+and the conservative spirit of subsequent orthoepists
+at the other.
+
+76
+
+PERMUTATION.
+
+The principles of reciprocal interchange of
+sounds, which are actively at work whenever
+new languages are coming into being, or old
+ones are splitting, or falling into decay, can only
+be adequately apprehended by obtaining a
+general but clear view of the entire scheme of
+philology. The annals of H would, however,
+be glaringly in default if no mention were made
+of its relations to foreign letters.
+
+Philology
+is a modern science. Leibnitz
+rescued it from the domain of pure fancy; Sir
+William Jones supplied it with ground to work
+upon; Bopp (a great authority on ancient
+Aspirates), Pott, and a host of others, began
+to build. The Greeks had been impressed with
+the idea that their language came from their
+gods; this made the study of alien tongues
+appear unimportant; hence, Greek philological
+research ended where it began. Analogous convictions
+shut the gates of progress on the most
+civilized of the Shemitic races. The Romans,
+again, when seeking to discover the origin of
+tongues, looked eastward for inspiration; but
+
+77
+they did not look far enough. Long generations
+of their successors burrowed, like moles, in
+the Plains of Shinar. Grimm came, and there
+was light. The name of this great German
+philosopher has become so inseparably associated
+with the sudden strides made by modern
+linguistic science, as to have raised him from
+the ranks of philological pioneers, and placed
+himâin popular estimationâat the head and
+front of the whole enterprise. Whatever be the
+exact degree of his merit as a discoverer or
+thinker, as a successful propagator of rational
+views he stands a colossus and a marvel. Labeled
+fragile by the sceptic, and dangerous by the
+orthodox, his theories out-lived both grimaces
+and frowns, and within a few years of their birth
+aroused Europe to the fact that a âBabelâ had
+been, and still was, both within and around
+her; and, seemingly by miracle, they even succeeded
+in carrying conviction and recognition
+of a truth that confuted tradition, to the very
+centres of some of the ecclesiastical circles of
+the day. Grimmâs discoveries, while pointing
+out the slow but constant changes that languages
+undergo, showed also that all the languages
+of Europe and half those of Asia had
+sprung from a common originâand that, not
+
+78
+the Hebrew one dogmatically assigned to them
+by the Early Fathers. Fortunately for Grimm,
+he published in the beginning of the nineteenth
+century; had he been a contemporary of poor
+Galileo he might have been subjected to some
+inconvenience and censure.
+
+Grimmâwho, by-the-bye, was a bigoted
+patriotâdevoted himself chiefly to an investigation
+of the Teutonic tongues, and to a study of
+the German language; but the result of his
+labours has shown the changes that sounds undergo
+when a word is being distributed among
+different peoples. The
+Law
+bearing his name
+is tabulated below:â
+
+Old Indo-European and Classic.
+
+Introduced into Low German tongues (English, &c.)
+
+In High German.
+
+Aspirate sounds
+
+become soft
+
+hard
+
+Soft       â
+
+â     hard
+
+Aspirate
+
+Hard       â
+
+â     Aspirate
+
+soft
+
+These rules are not without exceptions, but,
+especially in the case of sounds that begin words,
+the exceptions are not numerous enough to
+nullify the rule.
+
+The following are some examples of permutation
+affecting the H:â
+
+79
+Sanskrit, Greek, and Latin hard sounds become
+Aspirate sounds in English; example:â
+
+Sanskrit
+, hrid (=
+krid
+)
+Greek
+, kardia
+Latin
+, cor-dis
+
+}
+
+=
+
+English
+
+H
+eart.
+
+The true English Aspirate corresponds to the Sanskrit
+K, and has nothing to do with the old Aryan
+H
+. The
+Latin H in
+habere
+has no Aryan root, and remains unexplained.
+English
+have
+is related to the Latin
+capere
+,
+not
+habere
+.
+
+Sanskrit, Greek, and Latin Aspirates, represented
+by g:â
+
+Sanskrit
+, Hansa
+Greek
+, chen
+Latin
+, (h)anser
+
+{
+
+=
+
+English
+, goose.
+German
+, gans.
+Russian
+, gus.
+Breton
+, gwaz.
+
+Some of the other changes that H undergoes in Indo-European
+languages may be briefly summarized:â
+
+H =
+ch
+,
+
+example:
+
+Lat.
+
+humus
+,
+
+Gr.
+
+chama
+.
+
+H =
+chth
+
+â
+
+â
+
+hes
+,
+heri
+,
+
+â
+
+chthes
+.
+
+H =
+s
+
+â
+
+â
+
+septum
+,
+
+â
+
+hepta
+.
+
+H =
+w
+
+â
+
+â
+
+many Greek words discarded the digamma for the Aspirate.
+
+That H =
+f
+, has been shown in a Sabine and a Spanish
+example (page
+24
+), and the same may be seen in a few
+French wordsâ
+e.g.
+, Lat. f
+oris
+, Fr. h
+ors
+; and Lat. f
+abulari
+,
+Fr. h
+abler
+. But the descendants of the Gauls are
+not chargeable with having reduced this last word to its
+present stunted condition; the mutilation of
+fabulari
+was
+another act of vandalism perpetrated at an early date in
+Spain, the word having (according to Brachet
+[14]
+) crossed
+the Pyrenees, disguised as â
+hablar
+â in the sixteenth
+century.
+
+80
+Disguises still more extraordinary happen in the
+Gothic languages. H is exchangeable with
+c
+. This
+substitution, together with the subsequent disappearance
+of the H, are causes of confusion, and often effectually
+conceal the relationship of cognate words. At first sight
+the English word
+raw
+seems to be considerably less than
+kin to the Italian
+crudo
+; but on collating the several synonymous
+wordsâEnglish,
+raw
+; (Dutch,
+raauw
+); Saxon,
+
+hreaw
+; Latin,
+cruor
+and
+crudus
+; (French,
+cru
+), and
+Italian
+crudo
+; their family likeness and community of
+origin become a little more discernible.
+
+The things of the Present are born of the Past,
+and are moulding the things of the Future; the
+deeds of to-day show events of to-morrow reflected
+in shadowy outline. Conjectures concerning
+the future of H may be built on data
+afforded by its history. The Aspirate has grown
+enfeebled in Low German tongues, and in Latin
+ones is almost discarded. It would bode evil to
+the continued existence of H, if either of these
+classes were to furnish the âuniversal language.â
+But, probably one of them will. The
+strong
+breathing
+seems to be a remnant of that stage
+of transition which, at one time, may have formed
+a link between gesticulatory speech and the
+language of articulate sound. Then it was that
+every available accessory to the expression of
+the emotions will have been brought into use.
+And,
+per contra
+, in a highly developed state of
+
+81
+civilization, with its accompanying highly developed
+speech-code, the tones and modes of
+expression that constituted natureâs primitive
+eloquence must fall gradually into disuse. The
+strong breathing and the guttural breathing,
+having been the most expressive emotional interpreters
+of the early savage, are repugnant to
+the artificial sedateness and studied reserve of
+the modern speaker. In the speech of the well-bred
+Englishman, the hale old English H has
+melted into a soft Aspirate, and even this is
+likely to be soon altogether lost. The French
+say, âWe regard aspirated Hâs with horror!ââLittrÃ©
+[15]
+
+declares they hurt his chest. Whatever
+be the language spoken by Macaulayâs New
+Zealander, it is highly probable that he will drop
+his Hâs.
+
+Another omen unfavourable to H is this.
+Any letter doomed to die out of a word or a
+language, generally attempts to depart gracefully
+by first acquiring the nature of an aspirate-consonant,
+and then turns into a perfect H;
+under this form it relies upon h-dropping mortals
+to give it quiet burial, and unobtrusively confide
+it to Oblivion.
+
+82
+
+APPENDIX.
+
+[To the kindness of Professor Skeat of Cambridge
+I am indebted for the following compend, wherein
+the scientific grounds upon which a theoretical rule
+for the silent H might be constructed, are perspicuously
+exposed, while a practical view of the case is also
+taken. A list of words with doubtful Hâs was submitted
+to Professor Skeat, and the comments of this foremost
+of British etymologists are a reply to the question:
+What reasons can be found for the silencing of
+the Hâs?]
+
+Of course the etymology has much to do
+with it, so has accent, so has rapidity of speech,
+so have individual notions.
+
+(1.)
+Etymology.
+
+There are four principal HâsâEnglish,
+French, Latin, and Greek.
+
+As a
+rule
+, pronounce all but the French; and,
+of these, all but some words of Latin origin.
+
+Examples.
+English
+â
+HILL
+,
+HOG
+, (though
+this is properly Welsh),
+HUNT
+. The
+h
+should
+
+never
+be omitted, being an original aspirate
+of great strength.
+
+French
+âherb, hospital, hostler, &c. By rule,
+
+83
+the
+h
+should be silent; but the word
+herb
+, in
+particular, has become so completely Anglicised
+that to hear an
+h
+in it is common. So also
+
+habit
+,
+haughty
+,
+hearse
+,
+human
+;
+habit
+and
+human
+
+being counted as Latin.
+
+The H was sometimes omitted in the fourteenth
+century.
+
+âAs wrtis [wortis] of
+erbis
+soone thei shul falle doun.â
+Wycliffite version of Psalm xxxvii. 2, (earlier version).
+
+âThei schulen falle doun soone as the wortis of
+eerbis
+.â
+Wycliffite version of Psalm xxxvii. 2, (later version).
+
+But French words from Frankish, not Latin
+sources, take
+h
+, as
+hamlet
+,
+halbert
+,
+harass
+,
+hatchet
+;
+together with proper names, as
+Henry
+,
+Hubert
+.
+So also
+harness
+, a French word, but not of Latin
+origin.
+
+Latin
+âThe
+h
+is commonly sounded, as
+horrid
+.
+But
+honorary
+and
+honorarium
+follow the French
+word
+honour
+, and commonly omit
+h
+.
+
+Greek
+âThe
+h
+is important, as in
+history
+,
+
+hexagon
+, and should be sounded.
+
+(2.)
+Accent.
+
+Accent often drowns the
+h
+. Thus
+history
+
+takes
+h
+, but
+historical
+is usually
+istorical
+. To
+find this out, do not go by what people
+say
+they
+say (which is one thing), but by what you hear
+them say, which is a
+very different matter
+. Compare
+
+84
+hebdomadal
+,
+hallucination
+,
+hereditary
+,
+hiatus
+,
+
+histrionical
+,
+hippopotamus
+,
+hexameter
+,
+hieroglyphic
+,
+
+histology
+,
+horizon
+,
+hidalgo
+,
+homÅopathy
+,
+horticulturist
+;
+in all these, the
+h
+is very weak.
+
+(3.)
+Rapidity.
+
+Very common English words, as
+have
+,
+here
+,
+has
+,
+
+him
+,
+her
+,
+his
+, are pronounced
+âave
+,
+âere
+, in rapid
+speech. This will be denied stoutly by many
+who do so every day of their lives, especially in
+particular combinations. Much depends on the
+position of the word or the accent.
+
+Ex.
+Did you see âim go?
+
+Answer.
+I saw
+him
+, but not
+her
+.
+
+It is
+always
+dropped, at the present day, in
+the old word
+hem
+(Chaucer), meaning
+them
+.
+
+Ex.
+I saw
+âem
+go.
+
+(4.)
+Individual Notions.
+
+Particular people have particular opinions
+(frequently wrong ones) as to how words should
+be pronounced.
+
+I think if you exercise your
+ear
+carefully,
+you will find it a better guide than written statements.
+
+1
+.
+English in England.
+By R. Grant White. In the
+March number of the
+Atlantic Monthly Magazine
+, 1880.
+
+2
+.
+The Greek Classic Poets
+, 1834.
+
+3
+.
+The Sacred Books of the East
+(1879). The Upanishads,
+page lv.
+
+4
+.
+Early English Pronunciation
+,
+with especial reference
+to Shakespeare and Chaucer
+. By Alex. J. Ellis, F.R.S.
+
+5
+.
+Kritishes LehrgebÃ¤ndes der englischen Sprache.
+Leipzig.
+
+6
+. Merchant of Venice, Act i., Scene 3.
+
+7
+. Persons who consider themselves experts in the art of
+aspirating might do well to procure â
+Harry Hawkinsâ H
+Book
+;
+showing how he learned to aspirate his Hâs
+,â and put
+their aspirative faculties to a crucial test, by reading aloud the
+story of âThe Hairy Ape.â The little book cannot be too
+warmly recommended as a practical and amusing method of
+learning to aspirate.
+
+8
+. See Skeatâs
+Etymological Dictionary
+of the
+English
+Language
+.
+Oxford University Press
+, 1880.
+
+9
+. The following gentlemen kindly furnished the writer with
+an account of their habitual pronunciation of words in which
+the silent H is implicated:âMr Matthew Arnold; Mr Samuel
+Brandram; Mr Robert Browning; Rev. Derwent Coleridge;
+The Very Rev. the Dean of Chichester; Right Hon. W. E.
+Forster; His Grace the Duke of Richmond and Gordon; Professor
+Huxley; Mr Henry Irving; Sir Wilfrid Lawson; His
+Eminence Cardinal Manning; Sir James Paget; Mr F. E.
+Sandys (Public Orator of Cambridge); Right Hon. Lord Selborne;
+Right Hon. Lord Sherbrooke; Rev. C. H. Spurgeon;
+Very Rev. Dean Stanley; Mr Edmond Yates; and a distinguished
+member of the present Ministry (1880).
+
+10
+.
+A Higher English Grammar.
+By Alex. Bain, LL.D.,
+Professor of Logic in the University of Aberdeen.
+
+11
+.
+Note
+(
+by Professor Skeat
+).âThere is a ridiculous notion
+that
+u
+, forsooth,
+must
+precede
+GH
+. Hence
+thogh
+, rightly pronounced
+with
+o
+, is actually spelt
+though
+.
+Laghter
+, rightly pronounced
+with
+a
+(as in Italian
+a
+), is spelt
+laughter
+.
+Through
+
+is quite correct:
+ou
+as in
+soup
+. Spellings like
+caught
+,
+slaughter
+,
+are not only mistakes for
+caght
+,
+slaghter
+, but the misspelling
+has affected the pronunciation.
+Gh
+is a comic question
+altogether.
+
+12
+. According to
+Carpenterâs Physiology
+, to pronounce TH,
+âthe point of the tongue is applied to the back of the incisors,
+
+or to the front of the palate
+.â Such injunctions as these are
+doubtless strictly followed out by foreigners learning English,
+the unavoidable result naturally being that
+thin
+and
+then
+become
+approximately âsinâ and âszen.â
+
+13
+. This only applies to occasions on which they indulge in
+
+English
+speech. The Anglo-Saxon WH (written
+Hw
+) had
+formerly a more palatal sound, and while passing into
+Ê
+had a
+tendency to become
+f
+. In the Aberdeenshire dialect it has remained
+
+f
+;
+e.g.
+,
+fan
+,
+far
+= when, where. Many such eccentric
+permutations are amusingly anaglyptographed in that monument
+of the âAberdeenshire Doric,â
+Johnny Gibb oâ Gushetneuk
+.
+(Edâbroâ: D. Douglas.)
+
+14
+.
+Grammaire Historique
+(1867).
+Par
+Auguste Brachet.
+
+15
+.
+âJe nâaime pas les H aspirÃ©es: cela fait mal Ã  la
+poitrine; je suis pour lâeuphonie.ââ
+Voltaire.
+
+TRANSCRIBERâS NOTES
+
+Silently corrected obvious typographical errors and variations in spelling.
+
+Retained archaic, non-standard, and uncertain spellings as printed.
+
+Re-indexed footnotes using numbers and collected together at the end of the last
+chapter.
+
+*** END OF THE PROJECT GUTENBERG EBOOK THE LETTER H: PAST, PRESENT, AND FUTURE ***
+
+Updated editions will replace the previous oneâthe old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenbergâ¢ electronic works to protect the PROJECT GUTENBERGâ¢
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given awayâyou may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenbergâ¢ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase âProject
+Gutenbergâ), you agree to comply with all the terms of the Full
+Project Gutenbergâ¢ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenbergâ¢ electronic works
+
+1.A. By reading or using any part of this Project Gutenbergâ¢
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenbergâ¢ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenbergâ¢ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. âProject Gutenbergâ is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenbergâ¢ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenbergâ¢ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenbergâ¢
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (âthe
+Foundationâ or PGLAF), owns a compilation copyright in the collection
+of Project Gutenbergâ¢ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenbergâ¢ mission of promoting
+free access to electronic works by freely sharing Project Gutenbergâ¢
+works in compliance with the terms of this agreement for keeping the
+Project Gutenbergâ¢ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenbergâ¢ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenbergâ¢ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenbergâ¢ License must appear
+prominently whenever any copy of a Project Gutenbergâ¢ work (any work
+on which the phrase âProject Gutenbergâ appears, or with which the
+phrase âProject Gutenbergâ is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online
+at
+www.gutenberg.org
+. If you
+are not located in the United States, you will have to check the laws
+of the country where you are located before using this eBook.
+
+1.E.2. If an individual Project Gutenbergâ¢ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase âProject
+Gutenbergâ associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenbergâ¢
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenbergâ¢ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenbergâ¢ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenbergâ¢
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenbergâ¢.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenbergâ¢ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenbergâ¢ work in a format
+other than âPlain Vanilla ASCIIâ or other format used in the official
+version posted on the official Project Gutenbergâ¢ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original âPlain
+Vanilla ASCIIâ or other form. Any alternate format must include the
+full Project Gutenbergâ¢ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenbergâ¢ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenbergâ¢ electronic works
+provided that:
+
+â¢ You pay a royalty fee of 20% of the gross profits you derive from
+the use of Project Gutenbergâ¢ works calculated using the method
+you already use to calculate your applicable taxes. The fee is owed
+to the owner of the Project Gutenbergâ¢ trademark, but he has
+agreed to donate royalties under this paragraph to the Project
+Gutenberg Literary Archive Foundation. Royalty payments must be paid
+within 60 days following each date on which you prepare (or are
+legally required to prepare) your periodic tax returns. Royalty
+payments should be clearly marked as such and sent to the Project
+Gutenberg Literary Archive Foundation at the address specified in
+Section 4, âInformation about donations to the Project Gutenberg
+Literary Archive Foundation.â
+
+â¢ You provide a full refund of any money paid by a user who notifies
+you in writing (or by e-mail) within 30 days of receipt that s/he
+does not agree to the terms of the full Project Gutenbergâ¢
+License. You must require such a user to return or destroy all
+copies of the works possessed in a physical medium and discontinue
+all use of and all access to other copies of Project Gutenbergâ¢
+works.
+
+â¢ You provide, in accordance with paragraph 1.F.3, a full refund of
+any money paid for a work or a replacement copy, if a defect in the
+electronic work is discovered and reported to you within 90 days of
+receipt of the work.
+
+â¢ You comply with all other terms of this agreement for free
+distribution of Project Gutenbergâ¢ works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenbergâ¢ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenbergâ¢ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenbergâ¢ collection. Despite these efforts, Project Gutenbergâ¢
+electronic works, and the medium on which they may be stored, may
+contain âDefects,â such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the âRight
+of Replacement or Refundâ described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenbergâ¢ trademark, and any other party distributing a Project
+Gutenbergâ¢ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you âAS-ISâ, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenbergâ¢ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenbergâ¢
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenbergâ¢ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenbergâ¢ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenbergâ¢
+
+Project Gutenbergâ¢ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenbergâ¢âs
+goals and ensuring that the Project Gutenbergâ¢ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenbergâ¢ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundationâs EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your stateâs laws.
+
+The Foundationâs business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundationâs website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg Literary Archive Foundation
+
+Project Gutenbergâ¢ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit
+www.gutenberg.org/donate
+.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenbergâ¢ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenbergâ¢ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenbergâ¢ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenbergâ¢ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility:
+www.gutenberg.org
+.
+
+This website includes information about Project Gutenbergâ¢,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

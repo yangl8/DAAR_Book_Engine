@@ -1,0 +1,6779 @@
+The Project Gutenberg eBook of Transactions of the American Society of Civil Engineers, vol. LXXII, June, 1911 by William Cain
+
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at
+www.gutenberg.org
+. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title:
+Transactions of the American Society of Civil Engineers, vol. LXXII, June, 1911
+
+Subtitle:
+Experiments on retaining walls and pressures on tunnels
+
+Author:
+William Cain
+
+Release Date:
+September 18, 2023 [eBook #71675]
+
+Language:
+English
+
+Credits:
+Juliet Sutherland, David Wilson and the Online Distributed Proofreading Team at https://www.pgdp.net
+
+*** START OF THE PROJECT GUTENBERG EBOOK TRANSACTIONS OF THE AMERICAN SOCIETY OF CIVIL ENGINEERS, VOL. LXXII, JUNE, 1911 ***
+
+[
+403
+]
+AMERICAN SOCIETY OF CIVIL ENGINEERS
+INSTITUTED 1852
+
+TRANSACTIONS
+
+Paper No.Â 1192
+
+EXPERIMENTS ON RETAINING WALLS AND
+PRESSURES ON TUNNELS.
+
+By William Cain, M.Â Am.Â Soc.Â C.Â E.
+
+With Discussion by Messrs. J.Â R. Worcester, J.Â C. Meem,
+and William Cain.
+
+The most extended experiments relating to retaining walls are
+those pertaining to retaining walls proper and the more elaborate ones
+on small rotating retaining boards. The results referring to the
+former agree fairly well with a rational theory, especially when the
+walls are several feet in height; but with the latter, many discrepancies
+occur, for which, hitherto, no explanation has been offered.
+
+It will be the main object of this paper to show that the results of
+these experiments on small retaining boards can be harmonized with
+theory by including the influence of cohesion, which is neglected in
+deducing practical formulas. It will be found that the influence of
+cohesion is marked, because of the small size of the boards. This
+information should prove of value to future experimenters, for it will
+be shown that, as the height of the board or wall increases, the influence
+of cohesion becomes less and less, so that (for the usual dry sand
+filling) for heights, say, from 5 to 10Â ft., it can be neglected
+altogether.
+
+The result of the investigation will then be to give to the practical
+constructor more confidence in the theory of the sliding prism, which
+serves as the basis of the methods to follow.
+
+Fig. 1.
+
+[
+404
+]
+As, in the course of this investigation, certain well-known constructions
+for ascertaining the pressure of any granular material
+against retaining walls will be needed, it is well to group them here.
+The various figures are supposed to represent sections at right angles
+to the inner faces of the walls with their backings of granular material.
+In the surcharged wall,
+Fig.Â 1
+, produce the inner face of the wall to
+meet the surface of the surcharge at
+.
+It is desired to find the
+thrust against the plane,
+,
+for 1Â lin. ft. of the wall. Draw
+
+through
+,
+the foot of the wall, making the angle of repose,
+,
+of the
+earth with the horizontal and meeting the upper surface at
+.
+Since
+any possible prism of rupture, as
+,
+in tending to move downward,
+develops friction against both surfaces,
+and
+,
+the earth
+thrust on the wall will make an angle,
+,
+with the normal to
+,
+
+where
+is the angle of friction of the earth on the wall. As the earth
+settles more than the wall, this friction
+will always be exerted. Again,
+as the wall, from its elasticity and
+that of the foundation, will tend to
+move over at the top on account of
+the earth thrust, the earth, with its
+frictional grip on the wall, will tend
+to prevent this, so that the friction is
+exerted downward in either case, and the direction of the earth thrust,
+
+,
+on
+is as given in
+Fig.Â 1
+.
+
+However, if
+,
+a thin slice of earth will move with the wall,
+and the rubbing will be that of earth on earth, so that
+in this case
+must be replaced by
+.
+This rule will apply in all cases that follow,
+without further remark, wherever
+is mentioned.
+
+Now draw
+,
+making the angle,
+,
+with
+,
+as shown; then
+draw
+parallel to
+,
+to the intersection,
+,
+with
+produced.
+From
+a parallel to
+is constructed, meeting
+
+at
+.
+
+Since theory gives the relation:
+,
+two constructions follow, by geometry,
+for locating the point,
+.
+By the first, a
+semicircle is described on
+as a diameter; at the point,
+,
+a perpendicular
+is erected to
+,
+meeting the semicircle in
+;
+then
+is
+laid off equal to the chord,
+.
+By the second construction, a semicircle
+is described on
+as a diameter, a tangent to it,
+,
+from
+is drawn,
+limited by the perpendicular radius, and finally
+is laid off
+equal to
+.
+
+[
+405
+]
+The point,
+,
+having been thus found by either construction, draw
+
+parallel to
+to the intersection,
+,
+with
+.
+
+is the plane of
+rupture. On laying off
+,
+and dropping the perpendicular,
+,
+
+from
+on
+,
+the earth pressure,
+,
+on
+is given by
+,
+
+where
+is the weight of a cubic unit of the earth; otherwise, the value
+of
+is given by
+times the area of the shaded triangle,
+.
+If the
+dimensions are in feet, and
+is in pounds per cubic foot, the thrust,
+,
+
+will be given in pounds.
+
+In
+Figs.Â 2
+and 3, the retaining boards,
+,
+are vertical, and
+
+is drawn, making the angle,
+,
+with the vertical,
+.
+The
+upper surface of the earth is
+,
+and the constructions for locating
+
+and
+are the same as for
+Fig.Â 1
+.
+,
+in all the figures, represents
+the plane of rupture.
+[Footnote
+1
+]
+
+In all cases, the earth thrust found as above
+is supposed to make the angle,
+(as shown), with the normal to the
+inner wall surface.
+
+Fig. 2.
+
+Fig. 3.
+
+In the Rankine theory, pertaining, say, to
+Fig.Â 2
+, the earth thrust
+on a vertical plane,
+,
+is always taken as acting parallel to the top
+slope. This is true for the pressure on a vertical plane in the
+interior of a mass of earth of indefinite extent, but it is not true
+generally for the pressure against a retaining wall. Thus, when
+,
+
+Fig.Â 2
+, is horizontal, Rankineâs thrust on
+would be taken as horizontal,
+which entirely ignores the friction of the earth on the wall.
+The two theories agree when
+and
+slopes at the angle of
+repose, in which case, as
+is parallel to
+,
+there is no intersection,
+
+.
+It is a limiting case in which, to compute the thrust,
+can be
+laid off from any point in
+,
+on drawing
+parallel to
+,
+etc. As
+
+approaches the natural slope, the point,
+,
+recedes indefinitely to
+
+[
+406
+]
+
+the right, and it is seen that the plane of rupture,
+,
+approaches
+indefinitely the line,
+,
+or the natural slope. This limiting case,
+on account of the excessive thrust corresponding, will be examined
+more carefully in the sequel.
+
+If
+the
+height of the wall,
+,
+in feet, and
+the
+weight of
+a cubic foot of earth, in pounds, then when
+,
+and the surface
+
+,
+
+Fig.Â 2
+, slopes at the angle of repose, the earth thrust, in pounds,
+is given by the
+equation
+:
+
+If, however,
+is not equal to
+,
+then
+is directed at the angle,
+
+,
+to the normal to the wall, and the thrust
+is
+:
+
+The foregoing constructions, and the corresponding equations, are
+all derived from the theory of the sliding prism. The wedge,
+,
+
+Figs.Â 2
+and 3, is treated as an invariable solid, tending to slide down
+the two faces,
+and
+,
+at once, thus developing the full friction
+that can be exerted on these faces. In the case of actual rotation of
+the board,
+,
+it is found by experiment that each particle of earth
+in the prism,
+,
+moves parallel to
+,
+each layer parallel to
+
+moving over the layer just beneathÂ it.
+
+A similar motion is observed if the board,
+,
+is moved horizontally
+to the left. However, in the first case (of rotation) the
+particles at
+do not move at all, whereas in the second (of sliding
+motion) the particles about
+move, rubbing over the floor, which thus
+resists the motion by friction. A thrust, thus recorded by springs or
+other device, in the case where the wall moves horizontally, would
+give an undervaluation at the lower part of
+and consequently the
+computed center of pressure on
+would be too high. On that
+account, only the experiments on rotating boards will be considered in
+this paper.
+
+The theory of the sliding wedge, however, is justified, because no
+motion of either kind is actually supposed. The wedge,
+,
+is supposed
+to be just on the point of motion, it being in equilibrium under
+the action of its weight, the normal components of the reactions of the
+wall, and the plane,
+,
+and all the friction that can be exerted along
+
+and
+.
+These forces remain the same, whatever incipient motion
+
+[
+407
+]
+
+is supposed. The hypothesis of a plane surface of rupture, however, is
+not exactly realized, experiment showing that the earth breaks along a
+slightly curved surface convex to the moving mass. For the sake of
+simplicity, the theory neglects the cohesion acting, not only along
+
+,
+but possibly to a small extent along
+.
+This additional force
+will be included in certain investigations to be given later.
+
+These preliminary observations having been disposed of, the results
+of certain experiments on retaining walls at the limit of stability will
+now be given.
+
+Fig. 4.
+
+Fig. 5.
+
+Fig. 6.
+
+Fig. 7.
+
+Figs.Â 4, 5, 6, and 7 refer to vertical rectangular walls backed by
+sand, except in the case of Fig.Â 5, where the filling was macadam
+screenings. The surface of the filling was horizontal in each case.
+To give briefly in detail the quantities pertaining to each wall, the
+following symbols will be used:
+
+and
+are positive when the resultant on the base strikes within
+the base, otherwise they are negative.
+
+Fig.Â 4
+represents Lieut. Hopeâs wall of bricks laid in wet sand:
+
+,
+
+,
+
+,
+
+,
+
+.
+It was
+20Â ft. long, and was backed by earth level with its top.
+,
+
+.
+The overhang, at the moment of failure, was probably
+4Â in. Including this,
+.
+
+[
+408
+]
+Fig.Â 5
+shows Bakerâs wall of pitch-pine blocks, backed by macadam
+screenings, the level surface of which was 0.25Â ft. below the top of
+the wall;
+,
+
+,
+
+,
+
+,
+
+,
+
+,
+
+the assumed angle of friction of timber on stone,
+,
+
+.
+
+Trautwineâs experimental wall is shown in
+Fig.Â 6
+. Only the ratio
+of base to height, 0.35, was given by the author, but J.Â C. Trautwine,
+Jr., Assoc. Am.Â Soc. C.Â E., assures the writer that the walls were
+probably 6Â in. in height, though certain notes refer to walls varying
+from about 4 to 9Â in.
+,
+
+,
+
+,
+
+(assumed)
+
+,
+
+,
+
+.
+
+The wall of Curie,
+Fig.Â 7
+, was of wood coated on the back by sand,
+so that
+.
+Also,
+
+ft.,
+
+ft.,
+,
+
+,
+
+.
+
+Fig. 8.
+
+These walls were all at the limit of
+stability, and the first two are of appreciable
+height, 10Â ft. and 4Â ft., respectively.
+
+The figures show that the theory, including
+the whole of the wall friction,
+agrees fairly well with experiment, but
+that the Rankine theory does not thus
+agree. In both theories, the thrust,
+,
+is
+supposed to act at one-third of the height
+from the base of the wall to the surface of
+the filling; but, in the Rankine theory, this thrust is assumed to act
+horizontally, whereas, in the other theory, it is supposed to act in a
+direction making the angle,
+,
+below the normal to the wall.
+
+On combining the thrusts with the weight of the wall, as usual,
+the resultant strikes the base produced, at
+in the first case (Rankine
+theory), but at
+in the second case.
+Figs.Â 4
+to 7 present a striking
+object lesson as to the inaccuracy of the Rankine method of treating
+experimental retaining walls.
+
+In the next experiments, however, referring to a retaining structure
+consisting of two boards, hinged at the top,
+Fig.Â 8
+, and backed by sand
+level at the top, the Rankine theory is applicable when the board,
+,
+
+is placed either at or below the plane of rupture, on the left of
+.
+
+The thrust on
+is then assumed to act horizontally, at
+above
+
+,
+and is combined with the weight of the sand,
+,
+to find the
+
+[
+409
+]
+
+resultant on the board. If the board is at the plane of rupture, this
+resultant will make the angle
+below the normal to
+;
+hence, if
+one assumes a less thrust on
+,
+especially if inclined downward, the
+new resultant on
+will make an angle greater than
+with the
+normal to
+,
+which is inconsistent with stability.
+[Footnote
+2
+]
+
+The same reasoning
+applies when
+lies below the plane of rupture.
+[Footnote
+3
+]
+
+Fig. 9.
+
+The retaining board, 1Â m. square, was coated with sand, so that
+
+for damp sand. Hence, for a horizontal thrust on
+,
+
+the plane of rupture (which bisects the angle between the vertical and
+the natural slope) makes an angle of
+with the vertical. The
+board,
+,
+was set at this angle to the vertical, sand was filled in level
+with the top, and it was found that the structure was at the limit of
+stability when
+
+m. In the meantime, however, the sand had
+dried out, so that
+was
+;
+hence,
+strictly, the construction of
+Fig.Â 1
+(for
+earth level with top of wall) applies; but,
+as the results can only differ inappreciably,
+the thrust on
+,
+acting horizontally, was
+computed for
+and combined
+with the weight of sand,
+,
+and the
+weight of structure, both acting through
+their centers of gravity, to find the resultant
+on the base,
+.
+It was found to cut it 0.11 of its width
+from the outer toe,
+;
+therefore
+.
+
+In the next experiment, the angle,
+,
+was 55Â°,
+
+m.
+and
+.
+Pursuing the same method, it is found that
+,
+
+or the resultant on the base passes practically through
+.
+The third
+experiment was on a smaller retaining board. Here
+
+m.,
+
+,
+
+,
+and
+.
+
+In
+Fig.Â 9
+is shown a surcharged wall of Curieâs, just at the limit
+of stability, having
+
+ft.,
+
+ft. and the level upper
+surface of the surcharge being 4.26Â ft. above the top of the wall. The
+surcharge extended over the wall at the angle,
+,
+corresponding
+to damp sand. Experiment gave
+.
+The wall was of brick in
+Portland cement.  The ratio,
+.
+It was found, using the
+
+[
+410
+]
+
+construction of
+Fig.Â 1
+, that taking the thrust,
+,
+as acting 1.24Â ft.
+above the base, or at one-third of the height of the surface,
+,
+that
+
+;
+and further, that if
+acts 1.303Â ft. above the base, the
+resultant on the base passes exactly through the outer toe of the wall.
+
+Fig. 10.
+
+As the true position of the center of pressure on a surcharged wall
+has never been ascertained, as far as the writer knows, he has made
+a number of constructions, after the method illustrated in
+Fig.Â 1
+, in
+order to findÂ it.
+
+In place of making the construction for the special case above, it
+was thought that the results would be more generally useful if the
+natural slope was taken with a base of 3 and a rise of 2, and
+,
+
+therefore
+.
+The wall,
+,
+
+Fig.Â 10
+, was taken
+vertical and 20Â ft. high. The surcharge sloped from
+at the angle
+
+[
+411
+]
+
+of repose to a point,
+,
+10Â ft. above
+,
+from which point the surface
+of the earth was horizontal. The face of the wall,
+,
+was divided
+into twenty equal parts, 1Â ft. each; and, by the construction of
+Fig.Â 1
+,
+the thrusts (inclined at the angle,
+,
+below the normal to the wall)
+were found for the successive heights of wall of 1, 2, 3, ... 20,Â ft.,
+respectively, taking the weight of 1Â cu.Â ft. of earth equal to unity.
+The successive planes of rupture are shown by the dotted lines in
+
+Fig.Â 10
+. On the original scale (2Â ft. to 1Â in.), the upper plane of
+rupture (for a height of wall = 1Â ft.) was found to pass slightly to
+the right
+of
+.
+
+On subtracting successive thrusts, the thrusts on each foot of wall
+were obtained. These were plotted as horizontal ordinates at the
+center of each foot division of the wall, and the âpeaksâ were slightly
+rounded off, as shown on the figure. Since, with all care, mistakes
+amounting to 1% of the total thrusts can easily be made, it was proper
+to adjust the results in this manner to give the most probable unit
+pressures on the successive divisions of the wall. The centers of
+pressure, for heights of the wall varying from 5 to 20Â ft., were easily
+obtained by taking moments about some convenient point; the results
+are given in
+TableÂ 1
+.
+
+Call
+the height of wall, measured from
+downward, and
+
+,
+the height of surcharge above the top of the wall; also, let
+
+the
+ratio of the distance from the foot of the wall considered to
+the center of pressure, to the height of the wall. The values of
+,
+for
+various ratios,
+,
+are given in
+TableÂ 1
+.
+
+TABLE 1.
+
+0.333
+1.00
+0.364
+
+...
+...
+0.75
+0.364
+
+2.00
+0.353
+0.50
+0.364
+
+1.50
+0.356
+...
+...
+
+1.25
+0.360
+0.00
+0.333
+
+1.11
+0.362
+
+It is seen, as
+diminishes, that
+increases, until for
+,
+the
+maximum value for
+,
+0.364, is attained and remains the same up to
+
+,
+after which it probably diminishes, because, for
+,
+
+.
+
+[
+412
+]
+When some other flatter slope is given to
+,
+doubtless these
+values of
+will be altered, but, for the case supposed, they should prove
+serviceable in practice.
+
+Although the earth thrusts on successive portions of
+are
+really inclined at
+below the normal to
+,
+they are laid off here
+at right angles to it, so that the area,
+,
+is equal to the total
+thrust on
+.
+If the unit pressures varied as the ordinates to the
+straight line,
+,
+as for a uniformly sloping earth surface, then, as is
+well known,
+.
+The area to the left of
+gives the excess thrust
+which causes
+to exceed
+.
+
+Making use of the results of the table as approximately applicable
+in the foregoing example (
+Fig.Â 9
+), and taking the center of pressure
+on
+as
+above the base, the resultant there is found to
+pass 0.02 outside of the base, therefore
+.
+This experiment
+on a surcharged wall, of the kind shown, is particularly valuable as
+being the only one of which any account has been given, as far as
+the writer knows.
+
+Recurring once more to
+Fig.Â 10
+, it may be recalled that some
+authors have assumed the unit pressures on
+to vary as the ordinates
+to a trapezoid, so that the unit pressure at
+was not zero (as it
+should be), but an amount assumed somewhat arbitrarily. In particular,
+Scheffler derived in this way
+as an upper practical limit,
+and used it in making tables for use in practice.
+
+A remark must now be added (relative to all the experimental walls
+previously mentioned, except Trautwineâs), that the friction of the
+backing on the sides of the box in which the sand was contained has
+been uniformly neglected. Where the wall is long, this can have
+little influence, but where the length is not much greater than the
+height, as in the experiments, this side friction becomes appreciable.
+
+Darwin, as well as Leygue, endeavored to estimate the amount the
+full thrust (with no side friction) was reduced, by experimenting
+with sand behind a retaining board, or wall, enclosed in a box as
+usual, when a partition board was placed perpendicular to the wall
+and centrally in the mass, and comparing results with those found
+when the partition board was omitted. Leygue thus found, for walls
+having a length of twice the height, that the true or full thrust was
+diminished about 5% from the side friction, for level-topped earth,
+and as much as 15% for the surface sloping at the angle of repose.
+
+[
+413
+]
+
+If this is true, then the experimental walls just considered would
+have to be thicker to withstand the actual thrust; or, to put it
+another way, for the given thickness, the theoretical thrust, including
+the side friction, would have to be made (as a rough average) about
+5% less for the level-topped earth and (roughly) 15% less for the
+earth sloping at the angle of repose. From the figures it is seen that
+this will modify the results but slightly, not enough to alter the general
+conclusion that the theory advocated (including the wall friction) is
+practically sustained by the experiments, and that the Rankine theory
+is not thus sustained.
+
+Trautwineâs wall consisted of a central portion of uniform height,
+from which it tapered to the ends, the upper surface being at the
+angle of repose for the tapered ends. In this case no side friction was
+developed. The results agree in a general way with the others.
+
+In the many experiments on high grain bins, the enormous influence
+of the friction of the grain against the vertical walls or sides of the
+bin has been observed. In fact, the greater part of the weight of
+grain, even when running out, is sustained by the walls through this
+side friction. This furnishes another argument for including wall
+friction in retaining-wall design.
+
+In connection with this subject, it may be observed that many
+experiments, made to determine the actual lateral pressure of sand or
+its internal friction angle, are inconclusive, because an unknown part
+of the vertical pressure applied to the sand in the vertical cylinder or
+box was sustained by the sides of the cylinder or box. The ratio of
+lateral to vertical pressures, or the friction angle, cannot be precisely
+found until the proportion of the load sustained by the sides of the
+containing vessel has been ascertained experimentally. The writer is
+of the opinion that the best experiments to aid in the design of retaining
+walls are those relating to the rotation of retaining walls or
+boards. The few given herein are the best recorded, though some of
+them were on models which were too small. In fact, for the small
+models of Leygue and others, the effect of cohesion is so pronounced
+that some of the results are very misleading.
+
+As the experiments by Leygue
+[Footnote
+4
+]
+
+were very extensive, and evidently
+made with great care, they will be considered carefully in
+what follows.
+
+[
+414
+]
+As preliminary to the discussion, however, it is well to give the
+essentials of Leygueâs experimental proof that cohesion and friction
+exist at the same time. A box without a bottom, about 4Â in. square
+in cross-section and 4Â in. high, was made into a little carriage by the
+addition of four wheels. The latter ran on the sides of a trough
+filled with sand which the bottom of the box nearly touched. The
+box was partly filled with sand, and the trough and box were then
+inclined at the angle at which motion of the box just began, the
+sand in the box resting on the sand in the trough, developing friction
+or cohesion or both, just before motion began. Only friction
+was exerted after motion began. The solution involves the theory of
+the inclined plane, but, to explain the principles of the method,
+it will suffice to suppose the trough and the sand in it to be horizontal,
+and that the bottomless box filled with sand is just on the
+point of moving, due to a horizontal force applied to it. The weight
+of the box and a part of the weight of the sand in it held up by
+the friction of the sides, is directly supported by the wheels resting
+on the sides of the trough; so that only a fraction of the weight,
+,
+
+of the sand in the box is supported directly by the sand in the trough.
+Call this amount
+.
+Then, for equilibrium, calling
+the horizontal force, less the resistance of the carriage wheels, we have,
+[Footnote
+5
+]
+
+The value of
+was found by weighing: For the dry sand it varied
+from 0.79 to 0.65, for heights of the sand in the box varying from
+1.2 to 3.5Â in. For the damp sand and fresh earth (slightly moistened
+and slightly rammed) which can stand with a vertical face for the
+height of the box, the filling was loosened by many blows on the box,
+and
+was taken equal toÂ 1.
+
+Three suppositions were made: (1)Â that both cohesion and friction
+acted at the same time before motion; (2)Â that friction alone acted
+(
+)
+; (3)Â that cohesion alone acted (
+)
+.
+
+[
+415
+]
+The results for various heights of sand in the box are given in
+
+TableÂ 2
+.
+
+TABLE 2.
+
+(1)
+(2)
+(3)
+
+Dry sand
+7
+0.70
+0.80 to 0.96
+26 to 56
+
+Wet sand
+40
+0.85
+1.20 " 1.90
+73 " 133
+
+Very wet sand
+31
+1.70
+2.00 " 2.40
+107 " 226
+
+Fresh earth
+90
+1.63
+2.60 " 4.40
+150 " 242
+
+The values of
+are given in kilogrammes per square meter. It
+is seen that suppositions (2) and (3) give discordant results, whereas
+(1), for each kind of filling, gave identical values of
+and of
+for
+various heights; hence it may fairly be concluded that, before motion,
+cohesion and friction both acted at the same time. As to the high
+values found for
+,
+for the coherent fresh earth, Leygue states that
+Collin found, by an independent method, for clayey earth and clay
+of little consistency,
+and
+,
+respectively. As a further
+verification of the values of
+and
+given in (1), it is found that,
+on using them in the formula for computing the height at which
+the wet sand or earth will stand vertically, the results agree with
+experiments.
+
+The values of
+,
+in pounds per square foot, given in Column (1),
+with the values of
+corresponding to the
+given, are as follows:
+
+It is possible that the method used by Leygue may prove of service
+to experimenters in obtaining more accurately than hitherto the coefficient
+of internal friction. Increasing pressures could be obtained
+by adding weights on top of the sand in the box; but, unless the total
+weight sustained by friction along the sides of the box is determined
+carefully for each weight used, the results can have but little value.
+Further, for coherent earths, the method of Leygue is open to
+objections.
+
+[
+416
+]
+Admitting the hypothesis that cohesion and friction act at the same
+time, a general graphical method
+[Footnote
+6
+]
+
+will now be given to find the thrust
+against the inner face,
+,
+of a retaining wall or board,
+Fig.Â 11
+,
+caused by the earth,
+,
+tending to slide down some plane of
+rupture,
+,
+
+,
+..., the resistance along this plane being due
+both to friction and cohesion.
+
+Fig. 11.
+
+Suppose
+to be the plane of rupture, and call the weight of the
+prism of rupture,
+,
+for a thickness of one unit,
+.
+The weight
+of the prism causes the tendency to slide along the planes,
+and
+
+.
+This tendency is resisted by the reactions of the wall,
+,
+and
+the plane,
+.
+The reaction of the wall consists of the normal
+component,
+,
+acting to the right, and the friction resistance,
+
+,
+acting up. The resultant of these two forces,
+,
+which is
+equal and opposed to the earth thrust on
+,
+thus makes the angle,
+,
+
+[
+417
+]
+
+with the normal to the wall. Its direction is given by
+in
+Fig.Â 11
+.
+The reaction of
+is made up of the cohesion,
+,
+acting up along
+
+,
+the normal component,
+,
+acting up, and the friction,
+,
+
+acting up along
+.
+The two forces,
+and
+when combined,
+give a resultant,
+,
+making an angle
+with the normal,
+
+,
+to
+.
+Hence, if the angle,
+,
+then
+gives the
+direction of the
+resultant,
+.
+
+The prism,
+,
+is thus in equilibrium under its own weight,
+
+,
+the cohesive force,
+,
+acting up along
+,
+the reaction,
+,
+of
+,
+
+acting to the right, and the force,
+,
+acting up. On drawing, to the
+scale of force,
+vertical and equal to
+;
+then
+parallel to
+
+and equal to
+;
+then
+parallel to
+to the intersection with
+,
+
+the sides of the closed polygon,
+,
+in order, will represent the
+four forces,
+,
+
+,
+
+,
+and
+,
+in equilibrium.
+
+A similar investigation pertains to any other supposed prism of
+rupture. To find the true one, a number of trial planes of rupture,
+
+,
+
+,
+..., are assumed, and each is treated in turn as a true
+one (though there can be only one true one). As seen above, the
+resultant of the normal reaction and friction on any trial plane of
+rupture must be inclined below the normal to the plane at the angle,
+.
+
+To lay off the directions of these resultants, from any convenient
+point,
+,
+say, in the vertical through
+,
+as a center, describe an arc,
+
+,
+with a convenient radius,
+.
+With the same radius and
+as a
+center, describe the arc,
+,
+cutting the trial planes (produced
+if necessary) at
+,
+
+,
+...,
+.
+Let
+be the point where the line of
+natural slope from
+cuts the arc,
+.
+On laying off the chords,
+
+,
+
+,
+..., equal to the chords,
+,
+
+,
+..., respectively, it
+will follow that
+,
+
+,
+..., will make angles,
+,
+below the
+normals to the planes,
+,
+
+,
+..., respectively. To prove this,
+take any trial plane, as
+,
+which makes the angle,
+,
+with
+,
+
+and drop a perpendicular,
+,
+from
+on
+(produced if necessary);
+then, because the sides of the angles are perpendicular,
+,
+
+and if
+,
+it follows that
+,
+as was to be
+proved. Hence the chord,
+the chord,
+,
+
+,
+etc., as
+stated.
+
+The weights, in pounds, of the prisms,
+,
+
+,
+..., are,
+
+,
+
+,
+..., respectively, where
+is the length of the
+perpendicular from
+upon
+(produced if necessary), the foot
+
+[
+418
+]
+
+being the unit of length and
+being the weight, in pounds, of
+1Â cu. ft. of earth. The prisms are supposed to be 1Â ft. in length
+perpendicular to the plane of the paper.
+
+These weights are now laid off to the scale of force, vertically
+downward from
+,
+to points 1, 2, 3, ..., and from these points, lines
+are drawn parallel to
+,
+
+,
+
+,
+..., respectively, of lengths
+equal to
+,
+
+,
+..., to represent the forces of cohesion,
+acting upward along
+,
+
+,
+..., where
+the
+force of cohesion,
+in pounds per square foot. From the extremities of these lines, lines
+are drawn parallel to the direction of the earth thrust on
+(inclined
+at the angle,
+,
+below the normal to
+)
+, to the intersections,
+
+,
+
+,
+
+,
+..., with
+,
+
+,
+
+,
+..., respectively. With dividers,
+it is found, for this figure, that
+is the longest of these lines;
+whence
+,
+to the scale of force, measures the earth thrust against
+
+,
+in pounds. This follows, because, for any less thrust, since
+is
+fixed, when
+becomes less,
+falls to the left of the first position,
+and the new
+,
+representing the thrust on
+,
+due to the normal
+reaction on it and friction only, will make a greater angle than
+to
+the normal to
+,
+which is inconsistent with the laws of stability
+of a granular mass. In fact, if
+is the normal component of the thrust
+on the plane,
+,
+
+is all the friction that can be exerted
+on it. The resultant of
+and
+thus makes an angle,
+,
+with
+
+,
+and this angle cannot be exceeded. The true thrust on the wall,
+
+,
+is thus the greatest of the trial thrusts,
+.
+The prism of
+rupture,
+,
+is in equilibrium under the four forces represented by
+the sides of the closed polygon,
+;
+
+,
+representing its weight;
+
+,
+the cohesion acting along
+;
+
+,
+the reaction of
+(opposed
+and equal to the earth thrust); and
+the reaction of the plane,
+
+,
+due to the normal component and friction on it only. The
+full reaction of the plane can be found by combining the forces, given
+in magnitude and direction by
+and
+,
+but it is not needed.
+
+It is to be noted that
+is the least thrust for which equilibrium
+is possible. The other trial thrusts should now be lengthened to equal
+
+,
+since this is the true thrust or reaction of the wall,
+.
+All
+the new points,
+,
+
+,
+
+,
+
+,
+
+,
+will now lie to the right of the old
+points; hence the new
+,
+
+,
+
+,
+
+,
+
+,
+will all make less angles
+than
+with the normals to the planes,
+,
+etc.; hence stability everywhere
+in the earth mass is assured.
+
+Fig. 12.
+
+[
+419
+]
+The solution represented by
+Fig.Â 11
+is general, and applies whether
+
+is inclined to the right or left of the vertical through
+or
+coincides with it, and whether the earth surface
+is horizontal or
+inclined above or below the horizontal. It can likewise be easily
+adapted to the case shown in
+Fig.Â 1
+.
+[Footnote
+7
+]
+
+The construction of
+Fig.Â 11
+
+has been used in evaluating the thrust and determining (approximately)
+the plane of rupture in the experiments (recorded below) of Leygue
+on retaining boards,
+,
+that could be rotated about
+,
+and thus
+placed at any inclination to the vertical. In all the experiments, the
+vertical height of
+was 0.656Â ft.; the length of the board was 1.3Â ft.
+The value of the moment of the earth thrust about
+was found by use
+of suitable apparatus, corresponding
+to dry sand with a natural slope of
+3Â base to 2Â rise, or
+,
+
+,
+and
+
+lb. per cu.Â ft. By
+use of the partition board mentioned
+previously, the side friction of the
+sand on the glass sides of the box
+containing it was estimated, and the
+moments corrected, so as to give the
+true moment when there is no side friction. The notation used to
+express results is partly given in
+Fig.Â 12
+, for the general case where,
+
+[
+420
+]
+The resultant,
+,
+of
+and
+,
+evidently makes the angle,
+,
+with
+the normal to
+,
+The moment of this resultant about
+,
+if we put
+.
+
+From the last formula, it is seen that
+is the moment of the thrust
+about
+,
+for
+;
+also from
+,
+it follows that
+
+is the normal component of the thrust for
+.
+
+When cohesion is included,
+is not exactly
+,
+but it is very slightly
+less for
+or 2. It will be assumed at
+,
+and, from the values
+of
+given by
+Leygue
+,
+will be derived from the formula above,
+
+Thus, for the case represented by
+Fig.Â 11
+,
+,
+therefore
+
+,
+
+;
+
+.
+Experiment gave
+,
+
+therefore
+.
+
+Neglecting cohesion, theory gives
+,
+or twice the amount
+given by experiment. If, however, the construction of
+Fig.Â 11
+is made
+for the actual height of the retaining board,
+
+ft.,
+,
+
+(cohesion, in pounds per square foot), we find
+.
+On
+substituting this in the formula,
+,
+we have,
+
+By a comparison of the values, it is evident that, if the cohesion
+was assumed at a little less than 1Â lb. per sq.Â ft., the theoretical and
+experimental values could be made to agree exactly. The case just
+examined exhibits the most pronounced difference between the ordinary
+theory (corresponding to
+)
+and experiment, of any shown in
+
+TableÂ 3
+. Further, it will be observed, that, for an assumed cohesion
+of about 1Â lb. per sq.Â ft., the theoretical and experimental values for all
+the cases given by Leygue very nearly agree.
+
+The value,
+,
+in place of Leygueâs,
+,
+was used, which
+would alter the results somewhat, but not the general conclusions. The
+construction of
+Fig.Â 11
+will give
+and its normal component,
+,
+
+with practical accuracy, but it is not readily adaptable in finding the
+plane of rupture. In most of the drawings a small scale was used, in
+order to limit the drawing to a sheet of writing paper, hence, on both
+accounts,
+cannot be counted on to nearer than 1Â° or 2Â°, except for
+
+,
+when
+was found by computation, or by the construction
+of
+Fig.Â 1
+.
+
+[
+421
+]
+TABLE 3.
+
+.
+.
+Cohesion,
+,
+in pounds
+per
+square
+foot.
+Angle of rupture with
+the horizontal,
+.
+Coefficient
+of the
+normal component of
+the thrust
+.
+
+Theory.
+Experiment.
+Theory.
+Experiment.
+
++
+â
+
+0
+0
+50Â° 12′
+0.060
+
+1
+51Â°
+51Â° 30′
+0.042
+0.043
+
+2
+52Â° 30′
+0.026
+
++
+â
+
+â
+
+0
+33Â° 41′
+0.182
+
+1
+44Â°
+47Â°
+0.084
+0.091
+
+2
+49Â°
+0.043
+
+0
+0
+0
+56Â° 36′
+0.111
+
+1
+57Â°
+56Â° 30′
+0.093
+0.090
+
+2
+58Â°
+0.077
+
+3
+58Â° 30′
+0.062
+
+0
+Â½
+0
+47Â° 30′
+0.178
+
+1
+50Â°
+51Â°
+0.148
+0.141
+
+2
+53Â°
+0.121
+
+3
+55Â°
+0.098
+
+0
+â
+
+0
+33Â° 41′
+0.345
+
+1
+44Â°
+49Â°
+0.205
+0.195
+
+2
+46Â° 30′
+0.150
+
+3
+50Â°
+0.111
+
+â
+â
+
+0
+0
+60Â° 21′
+0.185
+
+1
+63Â°
+61Â°
+0.171
+0.179
+
+2
+63Â°
+0.155
+
+â
+â
+
+â
+
+0
+33Â° 41′
+0.660
+
+1
+57Â°
+57Â°
+0.267
+0.387
+
+2
+50Â°
+0.236
+
+The results in
+TableÂ 3
+are remarkable, and explain quite satisfactorily
+how Leygue, Darwin, and others found, by experiments on
+small models, results differing so much from the ordinary theory,
+where cohesion is neglected.
+
+It should be remarked that the values of
+given in
+TableÂ 3
+under
+âExperiment,â are not exactly those given by Leygue in his tables, but
+are the averages obtained from the two sets of drawings given by him
+in the plates, and represent the inclinations of the chords of the really
+curved surfaces of rupture. His experiments with the spring apparatus
+
+[
+422
+]
+
+are not considered, as the results are open to doubt, because the prism
+of rupture, in descending, could not slide down freely, but as it
+advanced would rub over the floor, thus lessening the thrust there
+considerably.
+
+From
+TableÂ 3
+, the results given by experiment are seen to differ
+widely from the ordinary theory in which
+.
+
+The discrepancies are largely, or almost entirely, due to the very
+small models used, as will be evident from the following considerations:
+Suppose the height,
+,
+of the wall,
+,
+to be 10 times the
+height given in
+Fig.Â 11
+, or 6.56Â ft.; then, as the areas of triangles such
+as
+,
+etc., vary as the squares of the heights, but the lengths of
+sides, as
+etc., vary only as the first power of the heights, the
+weights of the successive trial prisms of rupture will be
+or 100
+times as great as before, whereas the corresponding cohesive forces,
+acting along the planes,
+,
+etc., will be only 10 times the first values.
+Hence, if we use a scale of force
+of the former scale, the weights of
+the prisms,
+,
+
+,
+etc., will be represented, as before, by
+,
+
+,
+
+etc., but the lines representing the cohesive forces will be only
+of
+the former lengths. Thus the new
+,
+
+Fig.Â 11
+, will be laid off from
+4 only
+of the length shown in the figure.
+
+The relative decrease in the lines representing cohesive forces
+will be still more marked for a wall
+
+ft. high, the
+weights of prisms being 400 times as great, but the cohesive forces
+only 20 times as great as before. It is evident from this reasoning
+that, for
+,
+the cohesive forces are practically negligible for walls,
+say, 10Â ft. high, especially if the earth surface is level. In fact, a
+little examination of the original drawings showed, for walls about
+6Â ft. high, that the earth thrust, neglecting cohesion, was only from
+1 to 5% in excess over that for
+.
+The smaller percentages
+referring to
+,
+or
+,
+while the larger percentages
+referred to
+,
+for earth surface horizontal or sloping
+at the angle of repose.
+
+Such results should be of great service to future experimenters as
+proving two things: (1)Â that dry sand, with as small a coefficient of
+cohesion as possible, should be used (perhaps grain would be a more
+suitable material), and (2)Â that no experimental wall should be less
+than from 6 to 10Â ft. high.
+
+Even if the wall is, say, 6Â ft. high, if damp clayey earth is used
+
+[
+423
+]
+
+as the filling, with a coefficient of adhesion,
+,
+then all the diagrams
+of forces, as in
+Fig.Â 11
+, will be the same as before, or similar
+figures, and the discrepancies noted in
+TableÂ 3
+, will be as pronounced
+as ever. All the experiments on retaining boards, except some of
+Curieâs, have been with very small models, and the results have brought
+the common theory under suspicion, if not into disrepute.
+
+The writer hopes that the foregoing investigation and results may
+be instrumental in establishing more confidence in the theory, and in
+showing when cohesive forces may be practically neglected and when
+they must be included.
+
+As an illustration, the results for a vertical wall 10Â ft. high are
+presented in
+TableÂ 4
+, taking
+and
+.
+In the first
+wall, the surface of the earth was horizontal; in the second wall its
+slope was 1Â rise to 2Â base.
+
+TABLE 4.
+
+.
+.
+.
+.
+.
+
+0
+0
+0
+56Â°36′
+0.111
+
+1
+56Â°
+0.110
+
+5
+57Â°
+0.101
+
+10
+57Â°
+0.096
+
+1
+Â½
+0
+47Â°30′
+0.178
+
+1
+49Â°
+0.176
+
+5
+49Â°
+0.165
+
+10
+49Â°
+0.155
+
+In
+TableÂ 4
+the results for
+and
+are practically the same,
+but
+for
+is 13% less than for
+.
+If the value,
+,
+
+for fresh earth slightly damp and lightly rammed, given by Leygue
+above, is even approximately correct, it is seen that, for such a filling,
+the effect of cohesion must be included to get results at all agreeable
+with experience or experiment.
+
+Recurring to the experimental retaining walls proper,
+Figs.Â 4
+to
+9
+,
+it is evident from the foregoing, that cohesion will affect the results
+inappreciably, except perhaps in the case of
+Figs.Â 6
+and 7, where
+the height was about 0.6Â ft. Assuming
+,
+it seems to be probable,
+from the results of
+TableÂ 4
+, that the thrust should be decreased in
+the ratio of 93:111. Effecting the construction for the new thrust,
+it is found that the point, I, falls within the base, 0.03 of its width for
+
+Fig.Â 6
+(Trautwineâs wall), and 0.02 of its width for
+Fig.Â 7
+(Curieâs
+wall).
+
+[
+424
+]
+The theory advocated is thus practically sustained by all the experiments
+given above, either on retaining boards or retaining walls proper,
+when a coefficient of cohesion of about
+for dry sand is used.
+
+The method of evaluating the thrust, given in
+Fig.Â 11
+, is as valid
+when
+,
+or cohesion is neglected, as in the ordinary theory. The
+lines parallel to the thrust are now drawn directly from 1, 2, ...,
+to the intersection with
+,
+
+,
+..., and the greatest one is taken
+for the true thrust. Although the writer expressly disclaims any
+great accuracy in the values of
+in
+TableÂ 4
+, on account of the small
+scale of the drawings, nevertheless, the results by the construction for
+
+and
+or Â½, were found to differ from computed
+values only 2, 3, 0, and 1% for the different cases, which should give
+confidence in the general conclusions, at least.
+
+The diagram,
+Fig.Â 11
+, with a slight modification, can be utilized to
+find the coefficient of cohesion,
+,
+at which the bank of earth will
+stand without a retaining board. Thus, let each line, as
+,
+representing
+the cohesive force acting along its proper plane, be extended to
+meet the corresponding
+;
+any such line measured to the scale of
+force and then divided by the length of the plane along which it
+acts, will give the cohesive force, in pounds per square foot, corresponding
+to no thrust on
+,
+for the particular plane considered.
+The greatest of these values is evidently the value of
+for which
+the filling will stand without a retaining board. The work can be
+much abbreviated by using a well-known principle, that the plane
+along which the unit cohesion is greatest (the plane of rupture)
+bisects the angle,
+,
+between the surface,
+,
+and the line of
+natural slope. Suppose
+to be this plane, then we have only to
+extend
+to meet
+,
+at 0, measure 10 to the scale of force, and
+divide by the length of
+,
+to the scale of distance, to find the
+coefficient desired. By either method it was found that a cohesive
+force of 7Â lb. per sq.Â ft. was required to sustain a mass of earth with
+a vertical face,
+
+ft. high, when
+was horizontal.
+
+It was stated, in connection with
+EquationsÂ (1)
+and
+(2)
+, referring
+to the thrust on a vertical wall of height,
+,
+with the earth surface sloping
+at the angle of repose, that this particular case would be discussed
+later. To show the influence of cohesion, the planes of rupture for
+such a wall, 2.4Â ft. high, for various values of
+(in pounds per square
+
+[
+425
+]
+
+foot), are given in
+Fig.Â 13
+. The values of
+(for
+and
+)
+are as follows:
+
+Fig. 13.
+
+The first value was found by computation, the others by construction.
+As is well known, the theoretical plane of rupture approaches
+indefinitely the natural slope as
+approaches zero. For appreciable
+cohesion (and there is always some cohesion) the plane of rupture lies
+above the natural slope, with very materially decreasing normal
+components to the thrust as
+increases. As the height of wall
+increases, the influence of cohesion diminishes. Thus, as shown above,
+for a wall 5 times 2.4Â ft., or 12Â ft.
+high, the weights of the prisms,
+
+,
+etc., are 25 times the former
+values, but the cohesive forces,
+which vary directly as
+,
+etc.,
+are only 5 times the first values.
+Hence, if the former values of
+are
+multiplied byÂ 5, the new diagram
+of forces,
+Fig.Â 11
+, will be similar
+to the old one. Thus, for the wall
+12Â ft. high, the plane of rupture
+and the value of
+,
+for
+,
+
+correspond to the old values for
+,
+for
+,
+to the old values for
+
+.
+For fresh earth filling, slightly packed, it is possible that the
+values,
+,
+
+,
+may be reached, with a material reduction
+in
+from the values given by
+EquationsÂ (1)
+and
+(2)
+. As the height
+of the wall increases, say to 25 or 50Â ft., the influence of cohesion, in
+diminishing the thrust, becomes very small, and it is better to ignore
+it altogether. In fact, as we know very little, and that imperfectly,
+of the coefficients of cohesion, it is perhaps safer, at present, to use
+
+EquationsÂ (1)
+and
+(2)
+in all cases. It is very evident, though, that
+for most cases in practice, the formulas give a very appreciable excess
+over the true thrust, and that the true plane of rupture never
+coincides with the natural slope.
+
+[
+426
+]
+From all that precedes, it is seen that the results of experiments on
+small models in the past have proved to be very misleading, and
+that experiments on large models are desirable, and can alone give
+confidence. Leygue has made such experiments on retaining boards,
+from 1 to 2Â m. (3.28 to 6.56Â ft.) in height, simply to determine the surface
+of rupture. This is really the essential thing, for, as soon as the
+prism of rupture is known, the thrust is easily found. In a general
+way, the results agree with theory when the cohesion is neglected,
+though the curved surfaces of rupture were very irregular, particularly
+for the stone filling. The first two experiments were made with
+both dry and damp sand as a filling; the next six, with stones varying
+from 1.5 to 20Â in. in diameter. In another series of five experiments,
+sand was used. In all the foregoing experiments, the surface of the
+material was horizontal. In three additional experiments, the walls
+were surcharged with sand as a filling. In one experiment, the wall
+was 6.56Â ft. high and the surcharge was 3.28Â ft.; in another experiment,
+the wall was 3.28Â ft. high, and the sand, sloping from its top
+at the angle of repose, as in the former case, extended to 3.28Â ft.
+above the wall, where the surface was horizontal.
+
+Applying the construction of
+Fig.Â 1
+, it was found that the plane
+of rupture passed, say, 2Â° above that given by experiment in the
+first case and about 3Â° below in the second. It will be evident from
+the construction of
+Fig.Â 11
+, omitting cohesion, that trial planes of
+rupture differing by 2 or 3Â° from the true one, give nearly the same
+thrust. Taking the average, these experiments on large models, tend,
+in a general way, to sustain the theory.
+
+In a paper by the late Sir Benjamin Baker, Hon.Â M. Am.Â Soc. C.Â E.,
+âThe Actual Lateral Pressure of Earthwork,â
+[Footnote
+8
+]
+
+two experiments by
+Lieut. Hope and one by Col. Michon, on counterforted walls, are given.
+Although such walls do not admit of precise computation, on account of
+the unknown weight of earth carried by the counterforts, through friction
+caused by the thrust of the earth in a direction perpendicular to the
+counterforts, still the computation was made, as the conclusions are
+interesting. Therefore, the first vertical wall of Lieut. Hope was
+examined, especially as Mr.Â Baker, using the Rankine theory, found,
+for this wall, the greatest divergence between the actual and the
+Rankine thrust, of any retaining wall examined.
+
+[
+427
+]
+At the moment of failure, the wall was 12Â ft. 10Â in. high, the
+thickness of the panel was 18Â in., and the counterforts were 10Â ft.
+from center to center, projecting 27Â in. from the wall, or 3Â ft. 9Â in.
+from the face, as inferred from the next example. As it is stated that the
+wall had the same volume as the 10-ft. wall previously examined in
+this paper (
+Fig.Â 4
+), the counterforts must have been 2Â ft. thick.
+Assuming these dimensions, and using the values given;
+,
+
+or
+(say
+)
+,
+
+weight
+of a cubic foot
+of earth, and
+
+weight
+of a cubic foot of masonry, we
+first compute
+
+lb., the normal component of the earth
+thrust on a length of 1Â ft. of wall. The normal thrust on the panel
+is thus
+and on the counterfort
+.
+The friction (acting vertically
+downward) caused by this thrust is
+on the panel and
+
+on the counterfort. The moment of these forces about
+the outer toe of the wall, totals 39 800Â ft‑lb. The resisting moment of
+10Â ft. in length of combined panel and counterfort, about the outer
+toe, assuming the wall to be vertical, is 29 800Â ft‑lb. If, to the latter,
+we add the moment of 17% of the weight of earth between the counterforts,
+supposed to be held up by the sides of the latter, the total
+moment exactly equals the first. However, at the moment of failure
+by overturning, the panels had bulged 4Â½Â in. and the overhang at the
+top was 7Â½Â in. Taking the moment of stability of the wall at 26 000Â ft‑lb.
+(Mr.Â Bakerâs figure), it is found that, for equilibrium, 24% of
+the weight of earth between the counterforts must be carried by them,
+When the earth was 8Â ft. high, a heavy rain was recorded, so that,
+doubtless, some appreciable cohesion was exerted, though necessarily
+omitted in the computation.
+
+The experimental wall of Col. Michon was 40Â ft. high, with very
+deep counterforts, only 5Â ft. from center to center. The very heavy
+and wet filling between the counterforts, being treated as a part of the
+wall, a construction (made on the printed drawing) shows that the
+resultant of earth thrust and weight of wall passes through the outer
+toe. Doubtless the cohesion factor in this wall was large. In the
+paper mentioned, the details as to Gen. Burgoyneâs experimental
+walls are given. There were four of these walls, each 20Â ft. long, 20Â ft.
+high, and with a mean thickness of 3Â ft. 4Â in. Two of the walls
+were perfectly stable, as in fact theory indicates for all four walls
+if they were monolithic. The other two walls fell, one bursting out
+
+[
+428
+]
+
+at 5Â ft. 6Â in. from the base, and the other (a vertical wall), breaking
+across, as it were, at about one-fourth of its height. As these walls
+consisted of rough granite blocks laid dry, it is highly probable that
+the breaks were due to sliding, owing to the imperfect construction;
+besides, âthe filling was of loose earth filled in at random without
+ramming or other precautions during a very wet winter.â
+
+From a consideration of all the observations and experiments (some
+of them unintentional), Mr.Â Baker concludes that the theoretical
+thrust is often double the actual lateral pressure. He used the old
+theory, which neglects both cohesion and wall friction. If he had
+included them, the resulting theory would not have been so deficient
+âin the most vital elements existent in factâ as he charges against
+the âtextbookâ theory.
+
+However, the writer must be clearly understood as not recommending
+that cohesive forces be considered in designing a retaining wall
+backed by a granular material, such as fresh earth, sand, gravel, or
+ballast. It has been the main object of this paper to show that,
+although cohesive forces must be included in interpreting properly
+the results on small models and many retaining walls, yet, for walls
+more than 6 or 10Â ft. in height, backed with dry fresh material, not
+consolidated, the cohesive forces can be practically neglected in design.
+Hence, experimenters are strongly advised to leave small models severely
+alone and confine their experiments to walls from 6 to 10Â ft. high,
+backed by a truly granular material, such as dry sand, coal, grain,
+gravel, or ballast, where the cohesive forces will not affect the results
+materially. Further, it is evident that walls of brick in wet sand, or
+walls of granite blocks, etc., laid dry, are very imperfect walls. The
+overhang, just before falling, is large, and the base is often imperfect.
+For precise measurements, a light but strong timber wall on a firm
+foundation, seems to be best; and the triangular frame of
+Fig.Â 8
+seems
+to meet the required conditions very well, especially if the framing is
+an open one, with a retaining board only on one leg. The base thus
+becomes wider, and the overhang less, than with any rectangular wall.
+
+When the design of a wall to sustain the pressure of consolidated
+earth is in question, even if a perfect mathematical theory existed, it
+would still prove of little or no practical value, because the coefficients
+of friction and cohesion are unknown. The coefficient of friction at
+the surface can be easily found, but it is a difficult matter to find the
+
+[
+429
+]
+
+coefficient of cohesion, which doubtless varies greatly throughout
+the mass.
+
+Mr. W.Â Airy, in his discussion of Mr.Â Bakerâs paper, states that
+he found the tensile strength of a block of ordinary brick clay to be
+168 and of a certain shaley clay 800Â lb. per sq.Â ft., the coefficients of
+friction for the two materials being 1.15 and 0.36, respectively.
+Cohesive resistance is more analogous to shear, but such figures indicate
+the wide variations to be expected, particularly in
+,
+the coefficient of
+cohesion. If this coefficient is to be guessed at, in order to substitute
+it in the supposed perfect formula, then it is plainly better to guess at
+the thickness of the wall in the first instance.
+
+As an illustration, consider the well-known equation:
+[Footnote
+9
+]
+
+which gives the height,
+,
+of vertical trench that will stand without
+any sheeting.
+
+In this equation,
+
+Thus, if
+,
+whence
+,
+the equation reduces to
+
+As certain trenches with vertical sides have been observed to stand
+unsupported for heights of 15 or even 25Â ft., the equation would seem
+to indicate that cohesive or shearing resistances of about 200 to
+300Â lb. per sq.Â ft. were required to cause equilibrium. If friction is
+not supposed to be exerted, then
+and
+;
+and, for the
+same unsupported heights, the cohesion would be about doubled.
+
+[
+430
+]
+
+Evidently, if cohesion, which (to judge from Mr.Â Airyâs experiments) may
+vary from one to several hundred pounds per square foot, has to be
+guessed at in order to determine
+,
+it is plainly better to guess at
+
+at once.
+
+The foregoing equation cannot be regarded as giving very accurate
+results, mainly because a plane surface of rupture is assumed, whereas,
+from both theory and observation, this surface is known to be very
+much curved; besides, the cohesion and friction along the ends of the
+break have been neglected. However, the hypothesis of a plane surface
+of rupture, the ends being supposed to be included, gives a greater
+value to
+than the true one, whereas, neglecting the influence of the
+ends, it tends in the other direction; so that the equation may not
+err so greatly.
+
+Fig. 14.
+
+In the discussion of the paper
+[Footnote
+10
+]
+
+by J.Â C. Meem, M.Â Am. Soc. C.Â E.,
+E.Â G. Haines, M.Â Am. Soc. C.Â E., states that where breaks occur
+in the sides of an unsupported trench, the solid
+of rupture often approximates to a quarter sphere,
+surmounted by a half-cylinder of the same
+height, the radii of the sphere and cylinder
+being equal. In
+Fig.Â 14
+, let
+represent the
+quarter-sphere,
+the half-cylinder, and
+
+the face of the trench. According to
+the observations of Mr.Â Haines, when the part,
+
+,
+of the side of the trench is supported by
+sheeting and bracing, it sometimes happens that a part of the quarter-sphere,
+
+,
+breaks out, so that the semi-cylinder above would
+descend but for the bracing, the thrust of which, it is supposed,
+induces arch action in the earth.
+
+This is possible; but, if so, as the sheeting is not supposed to be
+carried to the bottom of the trench, there can be no vertical component
+in its reaction, and the thrust,
+,
+of the braces and sheeting, acting
+on
+,
+must be horizontal; further, the earth cannot act as a
+series of independent arches devoid of frictional resistance between
+them, but must act as a whole.
+
+Another way of explaining the phenomena is to suppose the horizontal
+thrust of the braces,
+,
+on the exposed face,
+,
+to cause
+
+[
+431
+]
+
+friction at the back of the break of sufficient intensity to prevent the
+semi-cylinder from descending, just as a book can be held against a
+vertical wall by a horizontal push.
+
+To illustrate the principle, it will suffice to replace the semi-cylinder
+by the circumscribing parallelopiped,
+,
+and suppose it to be held up by the friction on the back face, with possibly cohesion
+acting on the three interior vertical faces. Thus, let
+,
+
+and
+;
+then the friction on the back face is
+,
+the cohesion
+on the three faces is
+,
+and the weight of earth,
+
+,
+equals
+.
+Hence, as friction and cohesion always act opposite
+to the incipient motion, or vertically upward in this case,
+
+Evidently, the value of
+,
+derived from this equation, gives an
+extreme upper limit, which is doubtless never attained, as there is
+nearly always some support from the earth which has not broken out
+below the level of
+.
+
+Where the sheeting and bracing are of sufficient size, are tightly
+keyed up, and extend to the bottom of the trench, or where the bank
+is supported by a retaining wall, the earth near the bottom cannot
+break out, and the equation is not valid.
+
+However, if, from any cause, such as insufficient sheeting, the
+break has taken place over even a part of
+,
+the mass,
+,
+above
+will tend to tip over at the top, giving the greatest pressure on the top
+braces. This appears to explain the phenomena observed by Mr.Â Meem
+and others in connection with some trenches.
+
+With regard to tunnel linings, as is well known, the vertical
+pressure on the top is generally small, the great mass of earth vertically
+over the tunnel being largely held up by the friction of the earth
+(caused by the earth thrust) on its vertical sides, exactly as in the case
+of tall bins, where most of the weight of the grain is held up by the
+sides of the bin, the theory being very similar in the two cases. In
+consolidated earth, cohesion assists very materially in this action.
+
+It might be inferred, from the facts of observation, that consolidated
+earth acts as a solid, though, of course, it differs from a solid
+in this: that its physical constants (cohesion, friction, etc.) vary
+enormously with the degree of moisture. It is likely that these
+constants alter with the depth, and likewise are subject to changes
+from shocks.
+
+[
+432
+]
+It is a question too, whether, as is the case with loosely granular
+materials, friction acts (before rupture) at the same time with shear
+or cohesion in consolidated earth. From the interesting remarks
+[Footnote
+11
+]
+
+of Mansfield Merriman, M.Â Am. Soc. C.Â E., on internal friction,
+it seems probable that friction and shear exist at the same time in
+a solid; but, to reach sound conclusions, as he states, âfurther studies
+on internal friction and on internal molecular forces are absolutely
+necessary.â
+
+From the present state of our knowledge with respect to the theory
+and physical constants pertaining to consolidated earth, it would seem
+that experience must largely be the guide in dealing with it. The
+facts are supremeâthe rational theory may come later.
+
+Similarly, for retaining walls backed by loosely aggregated, granular
+materials, the facts are supreme, and, on that account, they have
+been presented very fully in this paper; further, a theory has been
+found to interpret them properly. It is true that the fresh earth,
+from the time that it is deposited behind a retaining wall, begins to
+change to a consolidated earth, from the action of rains, the compression
+due to gravity, and the influence of those cohesive and chemical
+affinities which manufacture solid earths and clays out of loosely
+aggregated materials, and even cause the backing sometimes to shrink
+away from the wall intended to support it; but it is plain that the
+wall should be designed for the greatest thrust that can come on it
+at any time, and this, in the great majority of cases, will occur
+when the earth has been recently deposited.
+
+The cases which have been observed where the bank has shrunk
+away from the wall and afterward ruptured (after saturation, perhaps)
+are too few in number to warrant including in a general scheme of
+design, even supposing that a rational theory existed for such cases.
+A few remarks on the theory pertaining to the design of retaining
+walls may not be inappropriate. From the discussion of all the
+experiments referred to in this paper, the conclusion may be fairly
+drawn that the sliding wedge theory, involving wall friction, is a
+practical one for granular materials of any kind subjected to a static
+load. In practical design, however, vibration due to a moving load
+has to be allowed for; also the effect of heavy rains. Both these
+influences tend generally to lower the coefficients of friction and add
+to the weight of the filling. Mr.Â Baker says:
+
+[
+433
+]
+âGranite blocks, which will start on nothing flatter than 1.4 to 1,
+will continue in motion on an incline of 2.2 to 1,
+[Footnote
+12
+]
+
+and, for similar
+reasons, earthwork will assume a flatter slope and exert a greater
+lateral pressure under vibration than when at rest.â
+
+Instances of slips in railway cuttings, caused by the vibration set
+up by passing trains, have been given by many engineers. The effect
+of vibration is most pronounced near the top of a retaining wall,
+and is evidently greater for a low wall than for a high one. All the
+influences cited can only be included under the factor of safety, and
+the writer recommends for walls from 10 to 20Â ft. in height a factor
+of 3. This may be increased to 3.5 for walls 6Â ft. high and decreased
+to 2.5 for walls 50Â ft. high, or those with very high surcharges. In
+the application, the normal component of the earth thrust on the
+wall,
+,
+will alone be multiplied by the factor, the friction,
+,
+
+exerted downward along the back of the wall,
+being unchanged. This allows very materially
+for a decrease in
+due to rains and
+vibration, as well as for an increase in the
+thrust, due to
+becoming less.
+
+Fig. 15.
+
+The effect is illustrated in
+Fig.Â 15
+, where
+a retaining wall is supposed to be subjected
+to the earth thrust,
+,
+making an angle
+
+with the normal to the face,
+,
+of the wall. The component of
+
+normal to
+is
+,
+the component acting downward
+along
+is represented in magnitude and direction by
+,
+which
+equals
+.
+Suppose the factor of safety to be 3, then
+is
+extended to
+,
+making
+;
+
+is drawn equal and parallel
+to
+;
+whence
+will represent the thrust, which, combined with
+the weight of the wall, acting through its center of gravity, must pass
+through the outer toe of the wall.
+
+To see what thickness of a vertical rectangular wall corresponds
+to this factor of safety, 3, for
+,
+or a natural slope
+of 3Â base to 2Â rise, let it be assumed that the weights per cubic
+foot of earth and cut-stone masonry in mortar are in the ratio of 2:3;
+then, for level-topped earth, a computation shows that, for the factor,
+3, the base of the wall must be
+.
+If the earth slopes indefinitely
+at the angle of repose from the top of the back of the wall, and a
+factor 2.5 is used, then the thickness will be
+.
+
+[
+434
+]
+For brick masonry in mortar, the specific weight of which is
+
+of that of the filling, the foregoing thickness would be changed
+to
+and
+,
+respectively,
+being equal to the height of the
+wall.
+
+It must be noted especially, however, that if the original earth
+thrust, when combined as usual with the weight of wall, gives a
+resultant which passes outside of the middle third of the base of
+the wall as computed above, then the thickness must be increased,
+so that the resultant will at least pass through the outer middle-third
+limit. This ensures compression over the whole base and
+no opening of part of the joint under normal conditions. With regard
+to the thickness above of about one-third of the height, Mr.Â Baker
+states that hundreds of brick revetments have been built by the Royal
+Engineer officers, with a thickness of only
+for a vertical wall.
+He advises, as the result of his own extensive experience, that the
+thickness be made one-third of the height for level-topped earth of
+average character, and that the wall be battered 1Â½Â in. to the foot.
+He states, further, that, under no ordinary conditions of surcharge
+on heavy backing is it necessary to make the thickness of a retaining
+wall on a solid foundation more than one-half the height. The
+thicknesses computed above agree fairly well with those recommended
+by Mr.Â Baker, and it would seem that a table of thicknesses computed
+on the above basis should correspond to safe walls under ordinary
+conditions.
+
+It has been noted above that
+EquationÂ (1)
+, corresponding to a
+slope of indefinite extent, probably gives too great a thrust; besides,
+there are no embankments with such a slope. An embankment from
+100 to 150Â ft. high, supported by a low wall, may approximate the
+conditions assumed, but, before it is finished, the earth has consolidated
+to such an extent that the actual thrust is doubtless much less
+than the computed one. The truth is that, in nearly all back-filling
+of ordinary earth, the cohesive and chemical affinities commence their
+work very soon after the filling is deposited, and consolidation is
+gradually effected; so that, as has been stated, the actual thrust is
+often much less than is estimated in the design of the wall, where
+cohesive forces are neglected. In many old walls, as has been
+observed, the consolidation has gone so far that the backing has
+shrunk away from the wall altogether. It would be hazardous, though,
+
+[
+435
+]
+
+to allow for cohesion, in a wall backed by fresh earth, unless the surcharge
+was high and was a long time in building. Finally, it should
+be observed that the footing of a retaining wall should be wide,
+and should always be tilted at such an angle that sliding is impossible.
+
+A glance at
+Figs.Â 4
+, 5, and 6, will make it apparent that the
+Rankine and other theories differ in their results mainly because of
+the assumed difference of inclination of the earth thrust. In the
+design of walls, however, the method proposed (
+Fig.Â 15
+) will approximate
+in results those given by the Rankine theory, where, say, the
+earth thrust, whether inclined or not, is multiplied by the factor
+of safety. The writer
+does not advocate the middle-third
+limit method
+in design, as it gives variable factors of safety for different types
+of walls. Besides, if the actual resultant on the base passes one-third
+of its width from the outer toe, there is no pressure at the
+inner toe, and the unit pressure at the outer toe is double the
+average. If vibration or other cause increases the thrust, the joint
+at the inner toe opens, and the pressure is concentrated too much
+near the outer toe. In the reinforced concrete wall, the earth thrust
+on a vertical plane through the inner toe is required. As this plane
+lies well within the earth mass, the thrust on it must be taken as
+acting parallel to the top slope, and its amount will be the same as
+that given by the Rankine theory.
+
+Although it is highly desirable to have more precise experiments
+on large models in order to draw sure conclusions, yet, as far as the
+experiments goâthose which have been analyzed and discussed in
+this paperâthe following conclusions may be stated:
+
+1
+.âWhen wall friction and cohesion are included, the sliding-wedge
+theory is a reliable one, when the filling is a loosely aggregated
+granular material, for any height of wall.
+
+2
+.âFor experimental walls, from 6 to 10Â ft. high, and greater,
+backed by sand or any granular material possessing little cohesion, the
+influence of cohesion can be neglected in the analysis. Hence, further
+experiments should be made only on walls at least 6Â ft., and preferably
+10Â ft., high.
+
+3
+.âThe many experiments that have been made on retaining
+boards less than 1Â ft. high, have been analyzed by their authors on
+the supposition that cohesion could be neglected. This hypothesis is
+so far from the truth that the deductions are very misleading.
+
+[
+436
+]
+4
+.âAs it is difficult to ascertain accurately the coefficient of cohesion,
+and as it varies with the amount of moisture in the material,
+small models should be discarded altogether in future experiments,
+and attention should be confined to large ones. Such walls should be
+made as light, and with as wide a base, as possible. A triangular
+frame of wood on an unyielding foundation seems to meet the conditions
+for precise measurements.
+
+5
+.âThe sliding-wedge theory, omitting cohesion but including
+wall friction, is a good practical one for the design of retaining walls
+backed by fresh earth, when a proper factor of safety is used.
+
+As the subject of pressures on the roof and sides of a tunnel
+lining has received much attention of late, the writer has concluded
+to extend this paper, so as to give a development of a theory, based
+on the grain-bin theory of Janssen, but modified to include the cohesive
+or shearing resistances of the earth in addition
+to the frictional resistances.
+
+Fig. 16.
+
+Fig.Â 16
+is a vertical transverse section of a
+tunnel,
+,
+and the earth,
+,
+extending
+over it
+feet. If this tunnel has been driven by
+the use of a shield or poling boards, the ground
+will tend to settle over it, and part of the weight
+of
+will be sustained by cohesion and friction
+(resulting from the lateral thrust) exerted
+along the sides, vertically upward. The earth will
+probably arch itself, or form a series of domes superposed one upon
+the other, but the external forces acting on such domes will be the same
+as those acting on a corresponding horizontal lamina, and the theory,
+given in full in the Appendix, begins with the considerations pertaining
+to the equilibrium of such a lamina.
+
+If there was no settlement of the earth,
+,
+in relation to
+
+,
+then the vertical pressure per square foot on
+would be
+
+(
+being the weight of a cubic foot of the earth in pounds), but,
+as most of the weight of
+is carried by the sides, in case of
+sufficient settlement, the vertical unit pressure,
+,
+on
+,
+will be
+much less than
+.
+Also, the lateral unit pressure,
+,
+at the level,
+
+,
+will be much less where settlement occurs. From the equations
+for
+and
+,
+given in the Appendix, the diagrams,
+Figs. 17
+and 18,
+have been constructed.
+
+[
+437
+]
+In both diagrams, the weight of the earth was taken at
+
+lb.
+per cu.Â ft., and the cohesion of the earth at
+
+lb. per sq.Â ft. In
+
+Fig.Â 17
+,
+and the curves for
+and
+were laid off for a width
+of tunnel,
+,
+of 15Â ft. and also for 30Â ft. In
+Fig.Â 18
+,
+,
+and
+curves are given for
+and
+,
+also for
+
+ft. and 30Â ft. for various
+
+heights,
+.
+
+It will be perceived, in both figures, that when certain heights
+are attained, both
+and
+cease to increase perceptibly, so that such
+values may be taken as corresponding to
+indefinitely large.
+
+Fig. 17.
+
+Fig. 18.
+
+A simple way of deriving these extreme values is given in the
+Appendix. The values of
+,
+
+and
+have been taken here the same
+as those used by Mr.Â Meem, in framing his table of pressures,
+[Footnote
+13
+]
+
+which may be supposed to embody, in part, practical experience. The results
+found from
+Figs.Â 17
+and 18 by the writer, for a depth of covering of
+several hundred feet, are uniformly much larger than those given by
+Mr.Â Meem. Are they too large for safety?
+In answering
+this question,
+it must be remembered that, of the weight of earth directly over
+the tunnel, all has been transferred to the sides that it was possible
+to transfer, for the coefficients of friction and cohesion given. We
+know scarcely anything of the cohesion coefficients, so that the value
+assumed,
+
+lb. per sq.Â ft., may not be near the truth. Certainly
+it must appear plain from this discussion that the values of
+and
+
+must be better known, for all kinds of earth, before reliable results
+can be attained. The results are submitted for discussion, in the
+hope that engineers will give their experience relative to the pressures
+
+[
+438
+]
+
+realized in the timbering of tunnels, particularly through sand or
+earth not thoroughly consolidated.
+
+The value of
+,
+in
+Figs.Â 17
+and 18, is the average vertical unit
+pressure at the top of the tunnel. Experiments on grain bins lead
+to the inference that the pressure at the middle of the roof is greater
+than that at the sides, but no law of variation can be stated.
+
+The lateral unit pressure on the vertical sides of the tunnel lining
+at the top is given by the equation for
+,
+or by the corresponding
+diagram. The variation in this lateral pressure over the sides of
+the tunnel cannot be easily formulated, as so much of the weight of
+the earth, directly over the tunnel, has been transferred by a kind of
+arch action to the sides. Experience would better speak here.
+
+TableÂ 5
+gives the values of
+and
+for
+
+ft. The figures
+in Columns
+are taken from Mr.Â Meemâs table, previously referred
+to; those for Columns
+are from the diagrams,
+Figs.Â 17
+andÂ 18.
+
+In quoting Mr.Â Meemâs figures, the writer must not be understood as
+endorsing in any way his theory; but the results are of interest as
+embodying the conclusions of a practical engineer of large experience.
+
+TABLE 5.
+
+,
+in feet.
+.
+,
+
+in pounds per square
+foot.
+,
+
+in pounds per square
+foot.
+
+.
+.
+.
+.
+
+15
+45Â°
+1 485
+2 300
+405
+300
+
+15
+30Â°
+1 035
+2 100
+540
+600
+
+30
+45Â°
+3 240
+2 800
+450
+400
+
+30
+30Â°
+2 325
+2 600
+450
+750
+
+If the height,
+,
+of earth covering is 200 or 300Â ft., the values
+given by
+Figs.Â 17
+and 18 are much larger than those given in Columns
+
+,
+which presumably represent Mr.Â Meemâs pressures for any height
+greater than 40Â ft.
+
+In saturated earth, it has been customary, perhaps, to regard the
+earth as if it were gravel composed of solid spheres, like marbles,
+so that the water has free access in any direction. Thus, in the
+case of a retaining wall backed by such material, the water has full
+access practically to every part of the wall, and the wall is subjected
+to the full water pressure corresponding to its depth. It is
+likewise subjected to a thrust from the earth, corresponding to
+and
+
+,
+for the saturated material, but with a weight per cubic foot equal
+to that of the earth in air less the buoyant effect of the water. Thus,
+
+[
+439
+]
+
+if a cubic foot of the porous earth, in air weighed 90Â lb., and if the
+voids were 40%, then 1Â cu. ft. of earth contains 0.6Â cu. ft. of solids
+and the buoyant effect of the water is the weight of an equal volume
+of water or
+
+lb. Hence, the weight per cubic foot
+of earth in water is
+
+lb.
+
+Similarly, for the pressures,
+and
+,
+at the top of a tunnel,
+
+must be replaced by 52.5, and
+and
+must be found for the
+saturated material and these values substituted in
+EquationsÂ (5)
+and
+
+(6)
+of the Appendix. To these pressures must be added the corresponding
+water pressures for the full height of water, supposing it
+to have free communication everywhere, as in the case of the gravel
+filling. However, with sand, or earth with much fine material, the
+pores are more or less clogged up and there is perhaps intimate contact
+of a part of the earth with the roof of the tunnel, so that the
+water cannot get under it to produce a lifting effect, and if such
+intimate contact is found along any horizontal or vertical section,
+of the earth on either side of the section, it is plain that the buoyant
+effort of the water on a cubic foot of material will be much diminished.
+
+Mr.Â Meem deserves great credit, not only for calling attention
+to this, but especially for performing certain experiments to prove
+it.
+[Footnote
+14
+]
+
+The experiments were on sand, and only on a small scale,
+but the practical conclusion drawn from them is that the water pressure
+transmitted through sand having 40% voids is diminished about
+40% in intensity. This occurs for a depth of only a few inches
+of sand, and presumably the diminution would be greater for sand
+several feet in depth. Of course, before definite values can be stated,
+experiments on a large scale should be made on every kind of material
+usually met; but, as a numerical illustration of the application, for
+the diminution mentionedâwhich is assumed to extend through the
+massâit is seen that, in the examples of the retaining wall and also
+the tunnel, the weight per cubic foot of the earth in water must now
+be taken at
+
+lb. per cu.Â ft.
+
+This value replaces the
+in
+EquationsÂ (5)
+and
+(6)
+from which
+the
+and
+for the top of the tunnel are found. To these values,
+add
+,
+for the water pressure, where the surface of the
+water extends a height,
+,
+above the top of the tunnel. Similarly, in
+the case of the retaining wall, add 0.4 of the full water thrust on
+the wall to that given by the earth, weighing only 75Â lb. per cu.Â ft.
+
+[
+440
+]
+As a numerical illustration, take
+
+ft.,
+,
+
+in air
+
+lb.,
+
+ft.,
+
+ft.; but we must now replace
+by the
+weight in water, 75Â lb., as found above. The values of
+and
+are
+now found, by
+EquationsÂ (5)
+and
+(6)
+(Appendix), to be 1 917 and
+246Â lb. per sq.Â ft., respectively, for the saturated earth alone. To these
+values add
+
+lb. per sq.Â ft., water pressure,
+giving a total of 3 417 and 1 746Â lb. per sq.Â ft., respectively, for the
+vertical and horizontal unit pressures at the top of the tunnel lining.
+
+In connection with this subject of underground pressures, it may
+not be inappropriate to make some concluding remarks on the maximum
+vertical pressures to which culverts may be subjected.
+
+Let
+Fig.Â 16
+now represent a longitudinal vertical section along
+the axis of a road embankment, built over an arch culvert or box-drain,
+
+,
+the line,
+,
+passing through the summit of the arch
+or the top of the covering stone of the box-drain, and the lines,
+
+and
+,
+coinciding in part with the exterior sides of the abutments.
+
+There is a horizontal thrust of the earth on the medial plane,
+
+,
+acting at right angles to the plane of the paper, which tends to
+distribute the weight of the central portion partly toward the sides;
+but, ignoring this, it is seen that, if the earth everywhere settles uniformly,
+the maximum pressure per square unit at the top of the
+culvert is
+,
+and the total vertical pressure on the culvert is the
+weight of the earth vertically aboveÂ it.
+
+If, however, the earth outside the abutment walls settles more than
+the walls (a case which may occur), then part of its weight, and
+that of the earth vertically above it, will be transferred, through
+friction and cohesion, along the planes,
+and
+,
+to the culvert,
+and thus the vertical pressure on the top of the culvert will be greater
+than in the first supposed case; but, if the reverse obtains, or if the
+culvert settles more than the earth outside the lines,
+and
+,
+or
+if the arch or covering stone descends in the middle relatively to the
+abutments, then part of the weight of the earth vertically over the
+culvert is transferred to the sides. For a comparatively rigid arch,
+the settlement is perhaps not enough to warrant us in making the
+maximum unit pressure less than
+.
+Exactly what settlement would
+warrant the use of the theory set forth in the Appendix it is impossible
+to say. If the unit pressure is taken as
+,
+we can rest
+assured that in most cases the real pressure is materially less.
+
+[Footnote
+1
+:
+
+The writer refers to his âRetaining Walls,â Van Nostrandâs Science Series, No.Â 3,
+for the demonstrations pertaining to the above constructions, and to the derivations of
+formulas.
+]
+
+Return to text
+
+[Footnote
+2
+:
+
+A full discussion may be found in the writerâs âRetaining Walls.â
+]
+
+Return to text
+
+[Footnote
+3
+:
+
+The experiments pertaining to
+Figs.Â 7
+,
+8
+, and
+9
+are due to Curie. See Curieâs
+âPoussÃ©e des Terresâ and âTrois Notes,â Gauthier-Villars, Paris. They are of especial
+interest in that they were undertaken to attempt to overthrow the theory advocated above.
+]
+
+Return to text
+
+[Footnote
+4
+:
+
+All the experiments of Leygue referred to in what follows may be found in
+Annales
+des Ponts et ChaussÃ©es
+, November, 1885.
+]
+
+Return to text
+
+[Footnote
+5
+:
+
+We can suppose, here, the horizontal force to be the pull of a cord extending horizontally
+from the box and passing over a fixed pulley, and that at the free end of the cord a
+weight is applied. The friction of the pulley and carriage wheels could be found experimentally
+and allowed for, so that some fraction of this weight would equal
+.
+]
+
+Return to text
+
+[Footnote
+6
+:
+
+This method is an extension of that given by Professor H.Â T. Eddy in his treatment of
+earth thrust, in âResearches in Graphical Statics.â
+]
+
+Return to text
+
+[Footnote
+7
+:
+
+To attain the greatest accuracy, in constructions like that shown in
+Fig.Â 11
+, the scale
+should be as large as possible; the arcs of circles, especially, must be drawn with a large
+radius, and the points,
+,
+
+,
+etc., determined with care. The angle,
+,
+can be computed
+and laid off by aid of a table of chords. The construction in this figure corresponds
+to a vertical height of
+
+ft.,
+,
+
+.
+The value of the component,
+,
+perpendicular
+to
+,
+is now to be found, by drawing lines from
+and
+,
+perpendicular and
+parallel to
+,
+to intersection, and measuring the component to scale. For
+,
+it is
+found that
+is the plane of rupture. The line,
+,
+through the new
+
+,
+representing
+the thrust, is very small; but it can be easily magnified by laying off the polygon,
+
+,
+to a scale two or three times as large, and thus the thrust can be found as accurately
+as before.
+]
+
+Return to text
+
+[Footnote
+8
+:
+
+Minutes of Proceedings
+, Inst. C.Â E., Vol.Â LXV. p.Â 140: reprinted in Van Nostrandâs
+Science Series.
+]
+
+Return to text
+
+[Footnote
+9
+:
+
+In reference to this equation, see Appendix.
+]
+
+Return to text
+
+[Footnote
+10
+:
+
+âThe Bracing of Trenches and Tunnels, With Practical Formulas for Earth Pressures.â
+
+Transactions
+, Am.Â Soc. C.Â E., Vol.Â LX. p.Â 1. A number of important facts brought out in
+this paper are of vital importance to constructors.
+]
+
+Return to text
+
+[Footnote
+11
+:
+
+âMechanics of Materials,â Tenth Edition, p.Â 381.
+]
+
+Return to text
+
+[Footnote
+12
+:
+
+Perhaps this may be accounted for by supposing cohesion between the blocks at rest,
+which is destroyed by the motion, when only friction acts.
+]
+
+Return to text
+
+[Footnote
+13
+:
+
+Transactions
+, Am.Â Soc. C.Â E., Vol.Â LXX, p.Â 387.
+]
+
+Return to text
+
+[Footnote
+14
+:
+
+Transactions
+, Am.Â Soc. C.Â E., Vol.Â LXX, pp.Â 365â368.
+]
+
+Return to text
+
+[
+441
+]
+APPENDI
+X.
+
+In the experiments of Jamieson and Pleissner on the pressures
+in deep grain bins
+[Footnote
+15
+]
+
+, the ratio,
+,
+of the lateral unit pressure,
+,
+on
+a vertical plane to the vertical unit pressure,
+,
+on a horizontal
+plane, was found by Pleissner to vary from 0.3 to 0.5 and by Jamieson
+to equal 0.6, for wheat in wooden bins of various sizes.
+
+This ratio,
+,
+increases somewhat with the depth of the
+grain, but the increase is slight after a depth of from 2Â½ to 3 times
+the width or diameter of the bin is reached.
+
+It is recognized that the proper value of
+,
+for a particular case,
+can only be determined properly by experiment, but it is interesting
+to note that, by the theory of earth pressure of an unlimited granular
+mass, level at the top, the ratio of the lateral to the vertical unit
+pressure, at any point in the mass, is,
+,
+and that
+this varies from 0.361 to 0.271, as
+,
+the angle of repose, varies
+from 28Â° to 35Â°, the values of
+for wheat, given in some of the
+experiments. Further, by reference to Jamiesonâs experiments on a
+model bin of smooth steel, 1Â ft. in diameter,
+[Footnote
+16
+]
+
+filled with sand, for
+which
+,
+
+,
+we find the experimental
+value of
+to equal
+exactly for a height of sand of 2.5Â ft.,
+the value at 6Â ft. and upward being 0.33.
+
+The theory of bin pressure is utterly different from the ordinary
+theory of earth pressure in an unlimited granular mass; but it is
+seen that the latter may be of some use in furnishing a value of
+
+when experimental values are lacking, as in the case of various
+kinds of earth, both granular and more or less consolidated.
+
+An equation for
+,
+for an unlimited mass of earth, level at the
+top and having a coefficient of cohesion,
+,
+has been given by Scheffler,
+[Footnote
+17
+]
+
+and is as
+follows
+:
+
+[
+442
+]
+This reduces to the usual formula when
+.
+
+It is seen from
+Fig.Â 19
+, if we lay off at the depth,
+,
+
+,
+that the horizontal ordinates of the triangle,
+,
+
+measure the values of the first term of the right member of
+
+EquationÂ (1)
+. The second term,
+,
+is constant, and is
+represented by the horizontal
+ordinates of the rectangle,
+
+.
+Thus the value of
+
+at the depth,
+,
+is represented
+by
+.
+
+Fig. 19.
+
+At
+,
+
+;
+but, above
+,
+the
+equation is inapplicable, for
+negative values of
+,
+corresponding
+to tension along
+
+,
+are inadmissible; hence, above
+,
+we must write
+.
+[Footnote
+18
+]
+
+In
+EquationÂ (1)
+, for
+,
+
+,
+
+therefore
+
+Solving this
+for
+,
+
+For given values of
+,
+
+,
+and
+,
+having computed
+,
+we have, on
+subtracting
+EquationÂ (2)
+from
+EquationÂ (1)
+,
+
+which is true only for
+or
+.
+When
+,
+
+.
+
+If we put
+,
+the equation reduces to the ordinary
+form, and thus the center of pressure of the thrust on
+(or
+)
+
+acts at
+above
+,
+and its amount is
+.
+
+[
+443
+]
+and, putting
+,
+we have, from
+EquationÂ (4)
+,
+
+Fig. 20.
+
+Next consider the case of a tunnel of width,
+,
+and length,
+,
+
+which has been driven by shield or by use of timbering, so that an
+appreciable settlement of the roof occurs; then the weight of the earth
+vertically over the tunnel is partly
+carried by the adjacent walls of
+earth, by friction and cohesion,
+and it would seem that such walls
+can be supposed to take the place
+of vertical grain bin walls, and
+that the theory of bin pressures
+corresponding may be made to
+apply. The theory that will be
+developed, which includes the influence
+of cohesion, is simply a
+modification of that used in
+developing Janssenâs formula, as
+given by Mr.Â Ketchum,
+[Footnote
+19
+]
+
+and, for
+a ready comparison of results, his notation will be used.
+
+In
+Fig.Â 20
+, let
+be the distance from the roof of the tunnel to
+the surface of the earth. Compute
+from
+EquationÂ (3)
+and lay it off
+from the top down.
+
+[
+444
+]
+The foregoing equation,
+,
+will be used as a semi-empirical
+formula to express the relation between
+and
+,
+but now
+
+is no longer equal to
+but at present is unknown. As
+before,
+.
+
+Properly,
+should be determined by experiments, but, from lack of
+such experiments, it will be computed from the formula above,
+
+Consider now the conditions of equilibrium of a horizontal slice of
+earth of depth,
+,
+the weight of which is
+.
+
+The top surface, at the depth,
+,
+is acted on by the force,
+,
+
+acting downward, and the bottom surface by the force,
+,
+
+acting upward. The total lateral force acting on the area,
+,
+is
+
+and this causes a frictional force of
+,
+acting upward.
+The cohesive or shearing resistance on the area,
+,
+acts upward,
+and its amount is
+.
+Placing the sum of the vertical forces
+acting on the slice equal to zero.
+
+In reality, an arch or dome of the earth should be considered in
+place of the horizontal stratum, but the result is the same, because the
+same vertical forces act in either case. Simplifying the above equation,
+and dividing by
+,
+
+Putting
+,
+and
+,
+
+on placing,
+,
+
+.
+
+It follows that,
+therefore
+.
+
+[
+445
+]
+When
+,
+
+,
+therefore
+
+where
+,
+the Napierian base.
+
+Solving for
+,
+
+Substituting the values of
+and
+,
+
+we have
+,
+
+in which it must be remembered that,
+
+The lateral thrust is now
+given by
+,
+
+To get the pressures,
+and
+,
+at the top of the tunnel, replace
+
+by
+.
+
+The weight of the upper stratum, of depth
+,
+is in part sustained
+by the cohesion of the sides, but as
+is generally small, this cohesive
+force can be neglected, as was done above.
+
+EquationsÂ (5)
+and
+(6)
+reduce to the ordinary bin formulas of
+Janssen, when
+,
+
+,
+and therefore
+,
+
+.
+The
+modification due to these terms is generally small, unless
+is very
+large.
+
+For large values of
+,
+
+is small, and as
+increases indefinitely,
+
+approaches as a limit the value
+
+This expression may be derived independently, and is of practical
+value when a very high surcharge is considered.
+
+Referring to
+Fig.Â 20
+, it is evident that the maximum limit of
+
+would be realized if the weight of any horizontal lamina is entirely
+
+[
+446
+]
+
+held up by the friction and cohesion of the sides; for then, for all
+lower slices,
+and
+remain the same.
+
+as given above.
+
+As seen, such a state is not exactly realized, but is practically true
+for great depths.
+
+For a long tunnel, the perimeter of the section,
+,
+can be taken
+as
+,
+whence,
+
+This value was used in all the computations.
+
+As a numerical illustration of the use of
+EquationsÂ (5)
+and
+(6)
+,
+suppose a tunnel,
+
+ft. wide, and, for the earth covering let
+
+;
+therefore
+,
+
+lb. per cu.Â ft., and
+
+lb. per sq.Â ft.
+
+We deduce
+,
+
+,
+
+ft.,
+therefore
+
+lb.,
+.
+
+EquationsÂ (5)
+and
+(6)
+readily reduce now to
+
+These formulas give the vertical and horizontal unit pressures at
+the top of the tunnel when,
+
+In computing the values of
+and
+for various depths of earth covering,
+
+,
+a short table of hyperbolic logarithms is a convenience.
+The curves given by the equations above are shown on
+Fig.Â 17
+.
+
+An additional note with respect to
+EquationÂ (1)
+may not be inappropriate.
+Scheffler, in deriving this equation, considered the conditions
+of equilibrium of an infinitesimal wedge of earth at the depth,
+
+.
+It was found that the horizontal pressure at the depth,
+,
+given
+by
+EquationÂ (3)
+, was zero, and it was assumed by the writer that
+there was no pressure on a vertical plane for a less depth. Thus, in
+
+[
+447
+]
+
+Fig.Â 21
+, there is no horizontal pressure on the plane,
+,
+where
+;
+consequently, the weight of the wedge,
+,
+is supported
+entirely by the normal reaction of the plane,
+,
+with the
+cohesion and friction acting along it.
+[Footnote
+20
+]
+
+To deduce
+,
+the total earth
+pressure on the vertical plane,
+,
+it is then admissible to treat the
+prism,
+,
+as the prism of rupture, the surface of rupture consisting
+of the plane,
+,
+making the angle
+with the vertical and
+the plane,
+.
+Therefore
+,
+the weight of the prism,
+,
+is in
+equilibrium with
+,
+
+,
+and
+,
+where
+is the normal reaction
+of
+,
+
+,
+and
+the
+total cohesion on
+.
+
+On balancing components parallel and perpendicular to the plane,
+and then following familiar methods, it can be shown that the true
+value of
+corresponds to
+,
+and that this value is,
+
+Fig. 21.
+
+The derivative of this, with respect
+to
+,
+gives the intensity,
+,
+at the
+depth,
+,
+exactly the same as
+EquationÂ (1)
+,
+and the subsequent deductions
+hold. Thus the fundamental
+
+EquationÂ (1)
+, according to the interpretation
+given, is seen to correspond
+to a prism of rupture,
+,
+which
+is a little nearer the true one, having a curved surface of rupture,
+than the wedge,
+.
+
+The above refers to the pressure on a vertical plane of a mass
+of level-topped earth of indefinite extent; but suppose that
+is
+the back of a retaining wall, and that a slight movement downward of
+the prism of rupture is imminent; then, if the earth along the plane,
+
+[
+448
+]
+
+,
+can exert sufficient tension, the mass,
+,
+in descending,
+may drag down the wedge,
+,
+with it, so that the full friction
+and cohesion along
+will be added to that along
+.
+In other
+words, the prism of rupture must now be taken as the wedge,
+;
+
+hence, the value of
+corresponding is given by the equation above, on
+making
+,
+as this introduces, in the first equations for equilibrium,
+the fact that the prism of rupture is now the wedge,
+.
+
+It is only one step farther to find the greatest height at which the
+vertical face of an open trench will stand for given coefficients,
+
+and
+.
+On making
+in the equation for
+above when
+,
+
+we find, after reduction,
+
+a value which has been quoted elsewhere in this paper. It is double
+the value for
+given by
+EquationÂ (3)
+. The reason for this, though,
+is now evident; for the last equation follows as a consequence of
+assuming that the full cohesive and frictional resistances along
+
+were exerted; whereas
+EquationÂ (1)
+ignores them.
+
+[Footnote
+15
+:
+
+Given in detail in âThe Design of Walls, Bins and Grain Elevators,â
+by Milo S.Â Ketchum, M.Â Am. Soc. C.Â E.
+]
+
+Return to text
+
+[Footnote
+16
+:
+
+Ketchumâs âWalls, Bins, and Grain Elevators,â Fig.Â 171.
+]
+
+Return to text
+
+[Footnote
+17
+:
+
+â
+TraitÃ© de StabilitÃ© des Constructions
+,â p.Â 292;  see also Remark at end of Appendix.
+]
+
+Return to text
+
+[Footnote
+18
+:
+
+Scheffler has not noted this fact, and consequently some of his deductions are open
+to objections. His theory, involving cohesion, is the only one the writer has seen.
+]
+
+Return to text
+
+[Footnote
+19
+:
+
+âThe Design of Walls, Bins and Grain Elevators,â ChapterÂ XVI.
+]
+
+Return to text
+
+[Footnote
+20
+:
+
+It may be well to remark here, that for cohesive earth, it has been proved, both theoretically
+and experimentally, that the surface of rupture is curved, and not a plane, as
+the theory assumes. However, assuming it to be a plane, and considering successive
+wedges of rupture of different heights, the bases of which lie on the same plane, it can be
+easily shown that certain of the upper wedges can be sustained by cohesion alone, and that
+the coefficient of cohesion required for stability varies from 0 at the surface to its maximum
+value at a certain depth,
+.
+Below this depth, friction in addition to cohesion is
+exerted, and stability is assured if we suppose the friction coefficient to increase from 0 at
+
+to its maximum value,
+,
+at some depth,
+.
+Below this depth, on the plane
+of rupture, the maximum values of both coefficients are exerted. Now, the ordinary wedge
+theory assumes, for simplicity, that these coefficients are constant all along the plane of
+rupture, which may be true at the instant of rupture, but not for a stable mass. It is
+possible, too, that rupture may be progressive, starting at the bottom.
+]
+
+Return to text
+
+[
+449
+]
+DISCUSSIO
+N.
+
+J.Â R. Worcester, M.Â Am. Soc. C.Â E.
+(by letter).â In reading Professor
+Cainâs admirable paper relating to experiments on retaining
+walls, the writer has looked in vain for a word of caution as to
+the effect which time plays in modifying the condition of equilibrium
+within a mass of earth. The author evidently considers it necessary to
+allow (by using a factor of safety) for a possible lessening of the
+angle of friction on account of a change in the amount of moisture,
+and possible vibrations, but states that in a great majority of cases
+the greatest thrust will occur where the earth has been recently
+deposited. It would appear that he neglects a possibility, if not a
+probability, of a readjustment of the earth particles through the influence
+of time, by which the angle of friction is lessened if not wholly
+cancelled.
+
+The theory that cohesion in the earth and frictional resistance on
+the back of the retaining wall account for the experimental results
+seems indisputable, but such experiments must needs be carried through
+in a reasonable time, and, in that respect, at least, must needs differ
+from actual constructions which are intended to be permanent.
+
+It is well known that unbraced excavations can often be carried
+vertically to considerable depths in safety, but that not infrequentlyâ as
+many have learned to their sorrowâ such unbraced banks have subsequently
+caved in. The slides in the Culebra cut may be mentioned
+as a similar illustration. To be sure, the delayed motion of the earth
+(or rock) may be attributed to the effect of moisture, but that does
+not invalidate the argument, as one always has to reckon with water.
+
+It is also a matter of common knowledge that, in braced excavations,
+the pressure on the sheeting and bracing frequently increases
+in time to an extent enormously exceeding the original pressure. In
+many instances this has caused a failure long delayed.
+
+Another instance of the effect of time is found in many retaining
+walls, in which a very slow motion has occurred, though the
+walls appeared to be entirely stable when first built.
+
+A frictional or tangential force along the back of the wall may
+tend to prevent motion, but it is difficult to conceive of this tangential
+force being perpetually present on the back of a stationary wall after
+the back-filling has become settled and consolidated. In the interior
+of the mass of earth at rest the author admits that the reaction between
+particles is not along inclined lines, but rather that the lines
+of pressure are vertical and horizontal. The vertical lines of force
+are, of course, caused by gravity, and the horizontal lines by the
+tendency of particles to wedge in between those below and to spread
+them.
+
+[
+450
+]
+If this conception of the forces within a mass of earth is reasonable,
+it would seem as if it might also be extended to the pressure
+against an immovable vertical wall. One must then consider whether
+it is possible for a horizontal pressure to cause the wall to move,
+without changing the conditions and introducing the inclined stresses.
+It would seem within the bounds of possibility that a very minute
+motion might be produced, and that this would be followed by a
+readjustment of stresses in the earth by which the forces would gradually
+resume the horizontal direction.
+
+The nature of the soil undoubtedly has much to do with this question.
+In some kinds of clay there appears to be a sort of viscosity, such
+as is frequently seen in pitch and other materials, or a tendency toward
+a slow flowing. No amount of pressure would cause a sudden motion,
+but time will effect a motion under a slight pressure or even the force
+of gravity alone. It appears that this condition is produced by the
+very minute particles, each moving individually into a position in
+which the surrounding forces balance. If one cuts a vertical face
+in such material one cannot force the exposed particles out of their
+position by crowding them from behind, but each in its turn will
+feel the pressure unbalanced and will slowly move out. This may not
+be true to the same extent with granular materials of large diameter,
+but a familiar instance is seen in fine wet sand. If a small excavation
+is dug in a wet beach sand, the banks will stand vertically at first,
+but, by watching closely, one may see the particles, beginning at the
+foot of the bank where there is most water, gradually moving out,
+overcoming the force of cohesion, and ever tending to seek a condition
+with a level surface. It seems quite likely that a similar tendency
+would exist in almost all soils, to greater or less degree, though perhaps
+it might be safely neglected in a mass of hard, irregularly-shaped
+fragments of stone which could interlock.
+
+The point which the writer wishes to make is that a word of caution
+should accompany this argument for the frictional and cohesive
+forces; that they cannot always be relied on; and that sometimes
+the Rankine theory may be better than the wedge theory in designing,
+even though it does not seem to fit the experimental results.
+
+Another warning may not be amiss, in considering the safe thickness
+to allow for retaining walls, and that is the effect of frost, where
+the surface of the ground is level and likely to retain moisture. The
+swelling force of freezing, under these circumstances, may be more
+than sufficient to overcome the beneficial effects of both cohesion and
+friction. Presumably this must be provided for in the âfactor of
+safety,â and is in itself a justification for a very appreciable factor.
+
+It may be well to emphasize the fact that a large part of the
+authorâs assumed factor of safety seems to be absorbed in keeping
+the resultant within the middle third of the base. The proportions
+
+[
+451
+]
+
+between width of wall and height, determined on
+pages 433
+and 434,
+are such as to keep this resultant just within the base. If, with
+these same proportions of wall, the factor were assumed so that the
+resultant were within the middle third, it would be found to be nearer
+1Â¼ than 3. The authorâs statement on
+pageÂ 435
+, that he âdoes not
+advocate the middle-third limit method in design,â is not wholly clear,
+but the implication is that the resultant should be well within this
+limit. In this case, it seems as if the factor of safety would be wholly
+absorbed in thus locating the resultant, and would leave nothing for
+other elements of uncertainty.
+
+J.Â C. MEEM, M.Â Am. Soc. C.Â E.
+(by letter).âIn the writerâs judgment
+the author has gone a step forward in developing the relation
+of cohesion and friction to walls and tunnels, but he has not given
+sufficient value to the larger consideration of what may be called
+âcohesive frictionâ induced by the lateral pressure of earth against
+retaining walls and other faces. This will be noted later in the discussion.
+
+The author states that âfrom all that precedes, it is seen that the
+results of experiments on small models in the past have proved to be
+very misleading, and that experiments on large models are desirable,
+and can alone give confidence.â
+[Footnote
+21
+]
+
+To a certain extent this is fully in
+accordance with the writerâs views, as noted in his papers on earth
+pressures,
+[Footnote
+22
+]
+
+and he feels justified in once more calling attention to the
+fact that, in his judgment, the only experiments which can definitely
+establish the value of earth pressures against walls and sheeted faces
+should be made on a large scale and against independently laid and
+independently braced horizontal sheeting. If these experiments are
+made in a homogeneous material, such as dry sand of a known angle
+of repose, it is believed that it will be conclusively and definitely shown
+that the pressures at a point above the middle plane will be greater
+than below it, and, further, that it will be proved that the pressure
+near the bottom, for example, of a 20-ft. trench, will not be perceptibly
+greater than that against a brace at the same distance from the bottom
+of a 40- or a 60-ft. trench.
+
+The writer agrees with the author that the theory of a sliding wedge
+is the best practical one for retaining walls, and if the face of the wedge
+be keyed tight, as stated by the author, or through the compacting
+of the material into a more solid mass, it will be seen that, with no
+break, the resultant pressures against the wall or face are virtually
+those, not only of a sliding, but of a solid wedge tending to slide on
+the plane of repose, the mass being compactly held together by cohesion
+
+[
+452
+]
+
+induced by lateral pressure. Although the general solidity of this
+mass is dependent on the stability of the wall or bracing, the pressures
+caused by the tendency of this solid wedge to slide are not affected
+materially by slight changes in form due to gradual settlement, which,
+in turn, may be caused by the normal yielding of the wall or shrinkage
+of the bracing, or by any small losses of material, as long as any
+of those or their sum is not sufficient to cause partial or final collapse.
+Assuming then that this theory of the solid wedge tending to slide
+is the true one, it is difficult to reconcile it with the results of experiments
+on revolving boards or revolving walls, except in so far as they
+relate to the more accurate determination of the coefficients of friction
+and cohesion.
+
+In connection with the experiments of Leygue, the writer wishes
+to refer to the dry sand and wheat arching experiments described in
+the final discussion of his paper, âThe Bracing of Trenches and Tunnels,
+with Practical Formulas for Earth Pressures,â
+[Footnote
+23
+]
+
+and especially
+to the experiment made with dry sand in a 2-in. pipe, described in his
+paper on âPressure, Resistance, and Stability of Earth.â
+[Footnote
+24
+]
+
+For clearer
+reference, the latter experiment is again described:
+
+A 2-in. pipe, 18Â in. long, was filled with dry sand for a depth of
+12Â in., and a thin piece of tissue paper was pasted across the bottom.
+Then, with a wooden piston bearing on the sand, the latter would
+support the blow of a sledge hammer or the weight of a man without
+breaking the tissue paper.
+
+All these experiments seem to prove very clearly that pressure
+is distributed laterally, at least through perfectly dry material, and,
+with certain values known, it should not be difficult to compute the
+value of this thrust. For example, if, in the pipe experiment, the
+exact coefficient of friction of the granular particles against the inside
+of the pipe is determined to be 0.4, then it would take a pressure
+equal to the complement of this, or 0.6 of the weight, to hold the
+granular particles against the vertical side. Now, if the exact depth
+of sand is determined at which no further pressure (by reason of adding
+to this depth) is transmitted to the bottom, then, by finding the difference
+or loss of pressure at the bottom, it should be a simple matter
+to compute the amount of thrust developing sufficient friction over
+the given area to sustain the additional weight. This is what the
+writer, for want of a better term, has called âcohesive frictionâ induced
+by lateral pressure. While such experiments on a small scale give
+definite results with very dry sand or wheat, they will not be conclusive
+unless made on a very large scale in cases where dampness
+adds materially to the normal cohesion of small masses.
+
+As to the experiments on revolving boards or walls referred to by
+
+[
+453
+]
+
+the author, it would appear that, as noted, they eliminate consideration
+of the effect of pressure as increasing the values of the coefficient
+of friction and cohesion.
+
+The writer believes that it can be shown by
+Fig.Â 22
+that the lateral
+pressure against sheeted faces or retaining walls is greater toward the
+top.
+Fig.Â 22
+is adapted from Fig.Â 5 in the writerâs paper, âPressure,
+Resistance, and Stability of Earth.â
+
+Fig. 22.
+
+It is supposed that a retaining wall has first been built along the
+face,
+,
+and that it has been back-filled with ordinary dry sand to the
+curved line
+;
+this is then covered with a heavy canvass or tarpaulin,
+and RodsÂ 1, 2, 3, etc., are run through it in sufficient numbers
+to hold it in position when the area,
+,
+has been back-filled with
+dry sand. The tarpaulin is then keyed up tight by the rods bearing
+on washers of large area on the top plane,
+.
+If the sand in the area,
+
+,
+be then removed, the observer is asked to note whether, in
+his judgment, the resulting pressure is greater at
+or at
+.
+It must
+undoubtedly be true that if this
+experiment establishes the writerâs
+claim in the case of normally dry
+sand, it will tend to do so much
+more readily in the case of mixed
+sands and earths as ordinarily
+found in trenches. If this fact of
+the greater pressure toward the top
+be proved conclusively, as the
+writer believes it undoubtedly will
+be in time, it may account for some
+of the failures of retaining walls.
+
+It seems that in order to accord
+our views to the theory of greater
+pressure at the bottom, we must assume that any given area of the
+face of a wall is borne on by a prism of material reaching to the top
+of the bank, and that its pressure is measured by the weight of its
+cross-section by some multiple of its length. A few moments spent
+in examining the face of a tunnel drift, or sheeted trench in sharp
+sand or loam, will convince any one that this cannot be true. In effect,
+the face of a sheeted trench resists the pressure of what may be termed
+a series of vertical groined arches, the braces being at the various abutments
+and the sheeting supporting the more or less loose material
+between. In no other way can the fact be explained that individual
+sheeting planks may frequently be removed for a short time without
+danger, even when the bracing shows evidence of very heavy pressure;
+whereas the removal of even a single brace may cause collapse.
+
+A few years ago the writer was called to examine a 44-ft. trench
+which had collapsed. While it will probably never be known definitely
+
+[
+454
+]
+
+how or where the failure first occurred, it may be of interest to note
+that within 50Â ft. of the break and under conditions apparently similar
+to those which had existed there previously, the writer found intermediate
+sheeting planks near the bottom, behind which the pressure
+was not sufficient to force them out against the rangers, whereas no
+one could for a moment doubt that there was pressure against the
+braces or on the sheeting directly behind them. In order, then, that
+experiments on retaining walls or sheeted faces may be of value, the
+pressures must be measured against areas absolutely independent of
+each other; and the writer believes that this can best be done as stated
+heretofore.
+
+The author
+states
+:
+
+âHowever, if, from any cause, such as insufficient sheeting, the
+break has taken place over even a part of
+,
+the mass,
+,
+above
+will tend to tip over at the top, giving the greatest pressure on the
+top braces. This appears to explain the phenomena observed by Mr.Â Meem
+and others in connection with some trenches.â
+
+The writer thinks it is unfortunate that the author has not had an
+opportunity of visiting with him many trenches in which no break
+had occurred, and yet in which the bracing had to be strengthened
+continually near the top. This was especially true of a horizontally
+sheeted and braced shaft of large area. The writer believes that
+it is not out of place to express the hope that the author may still
+change his viewpoint, and may eventually regard only as phenomena
+well-braced trenches which in sand or gravel do not show evidences of
+heavier pressure near the top.
+
+Referring now to tunnel pressures, the author
+states
+:
+
+âIf there was no settlement of the earth,
+,
+in relation to
+
+,
+*Â *Â *  but, as most of the weight of
+is carried by
+the sides, in case of sufficient settlement, the vertical unit pressure,
+
+,
+on
+,
+will be much less than
+.
+â
+
+The writer would criticize this view because it brings in the element
+of settlement as essential to its conclusions, and, therefore, is
+contrary to his belief that all earth is under stable conditions due to the
+lateral transmission of thrust due to weight, thereby causing the âcohesive
+frictionâ previously noted. This transmission of thrust results
+in what may be termed âarching stability,â which is unchanged when
+small areas of hard, dry ground are undermined. When normally dry
+soft ground is disturbed, however, there is a gradual settlement of
+tiers of strata, and as those above are, in turn, left without support,
+they settle on what may be termed a new centering and form themselves
+into new arches. If these strata are composed of sand and
+gravel, with little natural cohesion, the action of this settlement will
+be similar to that observed in an hour-glass and will âworkâ to the
+
+[
+455
+]
+
+surface in a short time. It should be noted, however, that as the
+voids below are filled and solidified by the pressure, the lateral thrust
+of this pressure causes the arching tendencies to be resumed again in
+each successive stratum, relieving the lower strata of the pressure or
+shock of fall from those above.
+
+The tables given by the author on
+Figs. 17
+and 18, show that the
+pressure per square foot on the roof of a 15-ft. tunnel at a depth of
+150Â ft., for instance, is approximately double that on the same tunnel
+at a 50-ft. depth. This assumption is not justified by any facts which
+have ever come under the writerâs notice or have been brought to his
+attention. The observation of any tunneling operations in soft normally
+dry ground, or the examination of existing structures, will convince
+any one that, after a depth of approximately twice the greatest diameter
+of opening has been reached, it is impossible to tell, by any difference
+in the pressure, the depth of the tunnel. While numberless instances
+could be cited to illustrate this fact, two which have come under the
+writerâs notice may be of interest.
+
+In the case of a 15-ft. tunnel passing the bed of an old underground
+stream, a considerable amount of ground was lost through
+the influx of sand which came in with the water. For several days
+after this the writer examined the surface directly overhead for evidences
+of settlement, and after some 4 or 5 days he found a hole
+some 12Â ft. in diameter and 8 or 10Â ft. deep, which was at once filled
+in. Had the mass of earth of this area and some 20 to 60Â ft. high
+come down on the timbering suddenly, without any intervening âarch
+cushion,â it would undoubtedly have crushed it; and yet none of the
+night men had been conscious of even the slightest shock.
+
+In the other case, a heavy rain had caused a large pond to form
+over the heading of a 15-ft. tunnel, and before it could be drained away
+it broke through the unprotected face of the heading, virtually filling
+the whole tunnel with sand for some distance. This, however, had not
+caused the collapse of any of the bracing, and, before work could be
+resumed, it was necessary to re-excavate the material. This material
+was used to fill in the hole caused by the cave-in, and when operations
+were finally resumed, about 10 days later, the sectional shields, which
+had remained in position undisturbed, were started with less than
+the ordinary pressure, as indicated by the gauge on the hydraulic
+pump.
+
+The writer confidently believes that the assumption behind the
+reasoning by which the table in
+Fig.Â 17
+was made is fallacious, and
+that the fallacy is found in the following quotations:
+
+â
+In answering this question
+, it must be remembered that, of the
+weight of earth directly over the tunnel, all has been transferred to
+the sides that it was possible to transfer, for the coefficients of friction
+and cohesion given. We know scarcely anything of the cohesion
+
+[
+456
+]
+
+coefficients, so that the value assumed,
+
+lb. per sq.Â ft., may not
+be near the truth. Certainly it must appear plain from this discussion
+that the values of
+and
+must be better known, for all kinds of
+earth, before reliable results can be attained.â
+
+* * * * * * * * *
+
+â
+In reality
+, an arch or dome of the earth should be considered in
+place of the horizontal stratum, but the result is the same, because
+the same vertical forces act in either case.â
+
+* * * * * * * * *
+
+â
+Referring
+to
+Fig.Â 20
+, it is evident that the maximum limit of
+
+would be realized if the weight of any horizontal lamina is entirely
+held up by the friction and cohesion of the sides;Â *Â *Â *â
+
+* * * * * * * * *
+
+â
+As seen
+, such a state is not exactly realized, but is practically
+true for great depths.â
+
+Fig. 23.
+
+Referring to the last quotation,
+the writer would go further and say
+that if the assumption is true that
+the spaces above a tunnel are considered
+as a series of horizontal
+layers dependent on the natural
+coefficient of friction and cohesion
+(not added to by pressure) to hold
+them up, that it would appear to be
+far preferable to calculate always
+on full pressure to the top than to
+assume that some of these strata
+may be sustained by what would
+appear to the writer to be largely
+chance conditions.
+
+It would appear that the author has considered cohesion and friction
+only as normally found in exposed faces, and as they would be
+developed between contiguous vertical columns of earth through which
+pressures were transmitted laterally; and, in tunnels as against vertical
+faces, he does not appear to have given sufficient weight to the
+essential factor that cohesion and friction, combined into what the
+writer has previously termed âcohesive friction,â are increased by the
+pressure in some definite relation toÂ it.
+
+If, for example, on a tunnel section,
+,
+
+Fig.Â 23
+, a centering
+or core of sand,
+,
+is assumed, and over this a mass,
+,
+
+composed of magnetic particles which cause them to adhere
+to each other, it is not difficult to conceive that a thickness at the key,
+
+,
+would be reached where the core,
+,
+could be removed. The
+same result, approximately, may be reached by assuming that the
+
+[
+457
+]
+
+mass is sand or earth and is supported by the core,
+.
+As, however,
+in this case the lower part of the arch along
+is composed
+of loose material, the support of some of it must be provided for in
+the area where the blending of the arch and the core is indeterminate.
+This supported area is arbitrarily assumed to be
+,
+or half
+
+,
+the point,
+,
+being determined as far as possible by
+experiment to be at the intersection of the vertical,
+,
+and the line,
+
+,
+bisecting the angle between that of repose and the vertical. These
+general deductions, exclusive of the exact determination of the location
+of the point,
+,
+appear to be borne out by all the experiments
+previously noted and others in the writerâs papers hereinbefore referred
+to, and in the authorâs observations on grain bins, as noted in
+the following
+quotation
+from his paper:
+
+âIn the many experiments on high grain bins, the enormous influence
+of the friction of the grain against the vertical walls or sides of
+the bin has been observed. In fact, the greater part of the weight of
+grain, even when running out, is sustained by the walls through this
+side friction. This furnishes another argument for including wall
+friction in a retaining-wall design.â
+
+Not only is this âan argument for including wall friction,â but it
+seems to prove that this friction is increased relatively to the pressure,
+and that under stable conditions coherence is also induced by the pressure
+and friction.
+
+The writer is much gratified to find that the author concurs in
+the view that the area of water pressure is reduced in subaqueous
+tunnels and other submerged structures in sand or earth, and he concurs
+heartily with the author that experiments on a large scale, to
+determine the values of this reduction definitely with relation to the
+various materials, will be of the greatest value to the Profession.
+
+William Cain, M.Â Am. Soc. C.Â E.
+(by letter).âThe writer is
+gratified by Mr.Â Worcesterâs words of commendation. The walls or
+boards subjected to earth pressure were of various inclinations, and
+the surface slope of the earth was equally varied. A theory which
+stands the test of experiments in such variety seems to be pretty
+well established. If the various theories that have been proposed from
+time to time were subjected to this test, how many would survive?
+And yet no theory can claim to be a practical one unless it is found
+to agree fairly well with experiments. Mr.Â Worcester seems to think
+that the effect of time on retaining walls ought to be included. The
+effort was made to do this, by using a factor of safety and by multiplying
+only the normal component of the thrust on the wall by this
+factor, taken as 3 for ordinary cases; where the effect of frost is decided,
+the factor should be increased, and the back of the wall, for
+say 3 or 4Â ft. down from the top, should be sloped forward to allow
+
+[
+458
+]
+
+the earth, in the expansion incident to freezing, to push its way up the
+inclined plane corresponding.
+
+If railway trains pass near a retaining wall, their weight should
+be replaced by an equal weight of earth, which is regarded as dead
+weight in computing the thrust. Vibration probably increases the
+thrust, and this increase moves the top of the wall over slightly,
+on account of the yielding of the earth foundation about the outer
+toe. On account of the imperfect elasticity of earth, this deformation
+may remain and increase in time, and thus lead to the
+ultimate failure of the wall. This lack of spring, or recovery, in
+the earth foundation, is probably the main cause of the increased
+leaning of walls with time. The remedy is to build a foundation
+course of masonry, projecting in front of the wall, of such width
+that the true resultant on its base shall pass through its center.
+The base, too, should be inclined, in order to prevent sliding. Of
+course, efficient drainage must be secured by the use of weep-holes
+and perhaps drains back of the wall.
+
+Mr.Â Worcester is of the opinion that the friction against the
+back of the wall is not a permanent feature, and suggests the Rankine
+formula as possibly a better one for design. For a surcharge of
+sufficient inclination, and especially when it slopes at the angle of
+repose, the Rankine thrust involves more friction at the back of
+the wall than the method illustrated in
+Fig.Â 15
+, where only one-third
+of the friction is used for ordinary cases; but, even granting,
+for the sake of argument, that at some time this friction is null
+and that subsequently rains and vibration cause an increased thrust,
+then the top of the wall moves over slightly, the earth will again get
+its frictional grip on the wall, so that this friction is always exerted
+when required for stability.
+
+It is, perhaps, customary to design a wall so that the resultant
+on its base shall pass one-third of the width of base from the outer
+toe. This procedure gives very different factors of safety, as hitherto
+defined, for different types of walls. The writerâs method aims to
+give equal security to all ordinary walls, by using a constant factor
+of safety.
+
+The writer is gratified that Mr.Â Meem has again recorded some
+of his valuable experiences, but regrets that he cannot regard some
+of his theories as convincing. With regard to the center of pressure
+on a retaining wall backed by fresh earth, Mr.Â Meem maintains that
+the intensity of pressure increases from the bottom upward, so that
+the center of pressure lies above the horizontal plane drawn at mid-height.
+This view has been shown to be untrue by experiment.
+Thus:
+
+(1) Leygue, in the experiments referred to on
+page 420
+, found
+the value of the moment of the earth thrust about the inner toe,
+
+[
+459
+]
+
+and also determined the plane of rupture. Using the corresponding
+wedge of rupture, the writer computed the normal component of
+the thrust. On dividing the moment by this, the distance of the center
+of pressure from the base was found to be, as an average, for all
+experiments on sand, 0.34 of the height, and for millet seed, 0.405
+of the height.
+[Footnote
+25
+]
+
+(2) The easily made experiment of Mr.Â Gifford
+[Footnote
+26
+]
+
+on the deflection
+of a cardboard retaining wall shows that the resultant thrust
+lies nearer the base than the top of the wall.
+
+(3) All the experiments discussed on
+pages 407
+â427 agree with the
+latter statement.
+
+(4) The resultant earth thrust on a wall must approach indefinitely
+water thrust as
+approaches zero. The latter is known to act at
+one-third of the height above the base.
+
+(5) If a triangular wedge of rupture is assumed, it follows inevitably
+that the unit pressure increases with the depth, and that the
+resultant acts at one-third of the height above the base. This follows
+because the total pressure then varies with the square of the
+height, as in water pressure.
+
+(6) Let the contrary be assumedâthat the pressure increases from
+the base upwardâthen, in a great depth of earth, the pressure at
+the top would be enormous enough to crush the hand if thrust in
+the earth. As everyone knows, the pressure on the hand is very
+slight, and this shows the absurdity of the hypothesis.
+
+It may be stated now that the proposed experiment, referring to
+
+Fig.Â 22
+, would not prove Mr.Â Meemâs contention. For, if the earth
+below
+was removed, the thrust on
+would have to be sufficient
+to prevent the whole mass,
+,
+from descending, which is far
+greater than
+,
+which balances only the thrust of the wedge of
+rupture, the inclined base of which passes
+through
+.
+
+A conclusive experiment could be made on a high retaining wall,
+backed by sand or grain (not in a bin, but unconfined except by the
+wall) after Jamiesonâs manner in the case of grain bins, by inserting
+the rubber diaphragms, etc., at various points from the top
+down, and measuring the pressures.
+
+In respect to the distribution of pressure, the theory of the sheeted
+trench differs materially from that of the retaining wall. Much
+confusion has arisen from confounding them. On that account, and
+to meet many interesting points made by Mr.Â Meem, the writer
+will give a thorough discussion of retaining walls and sheeted or
+unsheeted trenches, backed by coherent earth.
+
+Fig. 24.
+
+For an unlimited mass of level-topped earth, having both friction
+and cohesion, but ignoring the cohesion along the vertical plane,
+,
+
+[
+460
+]
+
+Fig.Â 24
+, it was shown in the Appendix that
+the horizontal pressure on a vertical plane,
+
+,
+is that due to a certain prism,
+,
+
+and that its total amount, in pounds,
+is
+,
+
+where
+is the weight in pounds of 1Â cu. ft.
+of the earth,
+is the cohesion of the earth,
+in pounds per square foot,
+,
+
+The plane,
+,
+is found to bisect the angle between the natural
+slope and the vertical when
+is horizontal, as shown by
+Fig.Â 24
+.
+
+The value of
+is given just below
+EquationÂ (4)
+in the Appendix.
+It acts at
+above the base, since the distribution of stress on
+
+is linear.
+
+It follows, because
+EquationÂ (7)
+is the usual one for the thrust of
+non-coherent earth of depth
+,
+that the total horizontal stress on
+
+of the earth endowed with cohesion, is exactly the same as that due
+to the same earth, but devoid of cohesion, having a free horizontal
+surface,
+,
+extended indefinitely in both directions, at a depth
+,
+
+as given by
+EquationÂ (8)
+, below the original free surface. The
+theory ignores any possible cohesion acting upward along
+,
+
+or any tension in the mass that may possibly drag down part of
+the wedge,
+,
+and thus decrease the
+thrust,
+.
+
+The formula is thus seen to give a thrust greater than the true
+one, or what may be called an upper limit. To realize the hypothesis
+more clearly, it may be said that if a vertical crack in the earth
+is assumed along
+,
+the resulting value of
+will be the same as
+that given by
+EquationÂ (7)
+. It is a fact of observation that sometimes
+earth which has been saturated and then dried out, cracks
+along one or more vertical planes. This indicates tension in the
+mass, which is overcome, however, at certain points (only) and thus
+vertical cracks appear.
+
+In the construction of
+Fig.Â 11
+, the full friction and cohesion which
+can be exerted on the length,
+(of
+Fig.Â 24
+), is supposed to be
+exerted. This construction then gives a lower limit to the thrust.
+As to which hypothesis will lead to the most probable value, it may
+be observed that the broken line of rupture,
+,
+
+Fig.Â 24
+, is nearer
+the true curved line of rupture (which is assigned both by theory
+and the facts of observation) than the straight line,
+;
+hence, the
+hypothesis leading to
+EquationÂ (7)
+seems to be the more probable
+one.
+
+[
+461
+]
+In the case of the open trench, suppose
+to be a vertical side
+of the trench; if
+lies below the level of
+,
+and a crack exists along
+
+,
+then, undoubtedly, the mass,
+,
+will move to the left, because
+there is an unbalanced force,
+,
+to cause the motion.
+
+The vertical height of an unsupported bank, where vertical cracks
+occur of depth
+,
+will then be that given by
+EquationÂ (8)
+, which is
+one-half the value usually given. This is generally an extreme
+lower value; for any earth endowed with much cohesion must be
+capable of exerting tension. If the tension exerted is sufficient
+to drag down
+(which can stand unsupported), that is, if the
+wedge,
+,
+acts as a whole, then the free unsupported height will
+be double that given by
+EquationÂ (8)
+. This is evidently an extreme
+upper limit, perhaps rarely attained; for vertical cracks have often
+been observed to precede a fall of earth into a vertical trench.
+For
+,
+
+,
+and
+
+ft.,
+EquationÂ (8)
+gives
+,
+
+whereas the usual equation gives
+
+lb. per sq.Â ft. The
+true value is possibly between these two extremes.
+
+Fig. 25.
+
+Recurring again to earth pressures, the discussion pertaining to
+
+Fig.Â 24
+suggests the following modification of the graphical method of
+
+Fig.Â 11
+to adapt it to finding the pressures of coherent earth against
+retaining walls, for the case supposed above. In
+Fig.Â 25
+, let
+be the
+
+[
+462
+]
+
+inner face of a retaining board or wall, which is backed by earth with a
+horizontal surface
+.
+The vertical height of the wall is 10Â ft. and
+the physical constants are assumed as follows:
+,
+
+,
+and
+.
+From
+EquationÂ (8)
+,
+
+Now lay off, vertically downward from the free surface, a distance,
+
+ft. (to scale) and through
+draw a line,
+,
+
+parallel to the top surface. By
+EquationÂ (7)
+, the thrust on any vertical
+plane as
+,
+
+,
+..., is null, and any tension and cohesion
+that may actually exist along any of these planes will be ignored.
+This is equivalent to supposing vertical cracks along these planes,
+which leads to an increase of the thrust and is thus on the side of
+safety.
+
+The weights of the successive trial prisms of rupture,
+,
+
+,
+..., are now laid off to scale, along some vertical, as
+.
+
+The successive weights are represented by the vertical lines,
+,
+
+,
+...,
+.
+The points
+,
+
+,
+..., were taken 1Â ft. apart; hence
+the area,
+the area
+,
+etc.; so that, after computing
+the area
+,
+the areas
+,
+etc., can be found by successive
+additions. These areas, multiplied by 100, give the weights, in pounds, of
+the successive prisms of rupture for 1Â ft. length of wall. As before, two
+arcs are drawn with the same radius (
+)
+, with centers
+and
+
+and having laid off the angle,
+,
+the chords
+,
+
+,
+...,
+are laid off equal to chords
+,
+
+,
+Â ....
+The lines,
+,
+
+,
+...,
+now make angles with the normals to the planes,
+,
+
+,
+..., respectively,
+each equal to
+.
+Also, lay off the chord,
+;
+then
+
+gives the direction of the reaction of the wall,
+(directly
+opposed to the earth thrust), inclined at the angle,
+,
+to its
+normal.
+
+Next, measure, to the scale of distance, the length, in feet, of
+any line of rupture, as
+.
+Multiply this number by
+,
+to
+get the force of cohesion, in pounds, acting up along
+,
+and lay
+it off, to the scale of force, from
+,
+on a line parallel to
+,
+to
+.
+
+Similarly, lay off the cohesive forces, acting along
+,
+
+,
+..., at
+
+,
+
+,
+..., and from points, such as
+,
+lines are drawn parallel to
+the direction of the thrust,
+,
+to the intersections with the corresponding
+rays,
+,
+
+,
+.... Suppose
+to prove the greatest of these
+segments, then
+,
+to the scale of force, gives the earth thrust
+on
+,
+in pounds. In the present instance, the plane of rupture
+lies midway between
+and
+,
+and the corresponding thrust is
+1 440Â lb. For purposes of illustration, regard
+as the plane of
+rupture; then the forces acting on the prism,
+,
+are represented
+by the sides of the closed polygon,
+
+[
+463
+]
+
+representing its weight,
+,
+the cohesion acting up along
+,
+
+the reaction of the wall, and
+the resultant of the normal reaction,
+
+,
+of the plane,
+,
+and the friction,
+,
+acting along it. As
+stated, the actual plane of rupture is found (by drawing one or more
+additional trial planes) to lie midway between
+and
+.
+
+If it should be deemed desirable to include the cohesion acting upward
+along the vertical planes,
+,
+etc., it is very readily done. At each point,
+such as
+,
+draw vertically upward a line of length (to scale of force)
+
+lb., to represent the force of cohesion
+acting along the corresponding plane. From the extremities of such
+lines, parallels to
+are drawn to the intersections with the corresponding
+rays, of the type,
+.
+As before, the greatest of these lines represents
+the thrust on
+.
+Its amount, in this instance, is 1 240Â lb.
+It is seen, especially when
+is one-half of
+or more, that
+the change in thrust is quite appreciable.
+
+Lastly, if each plane, as
+,
+is extended to the surface and considered
+to offer full cohesive and frictional resistances throughout
+its whole extent, the construction of
+Fig.Â 11
+applies, and gives a
+thrust of 1 220Â lb., practically the previous amount.
+
+As mentioned before, in connection with
+Fig.Â 24
+, this supposes
+sufficient tension in the mass to drag down the triangle,
+.
+Suppose,
+now,
+to be the face of a trench which will just stand unsupported
+for the height,
+,
+when the cohesion along
+,
+
+,
+...,
+is included. Then, if, from the drying out of the earth, causing
+contraction near the surface and possibly changes in
+and
+,
+cracks
+occur along some of these planes, the resistance to motion of the
+corresponding prism of rupture is decreased, and the mass will
+move down, unless, in the meantime, sufficient bracing has been put
+in. This well illustrates what constructors tell us of the importance
+of getting in well-keyed-up bracing in time to prevent any crack
+from developing, which, as we have seen, largely increases the thrust.
+Even when cracks do not appear, a heavy rain, shortly after a trench
+is opened, is a frequent cause of falls; evidently because
+and possibly
+
+have been very materially decreased.
+
+To compare the results of this very general graphical method with
+those given by analysis, as expressed by
+EquationsÂ (7)
+and
+(8)
+, let
+
+be taken vertical or coinciding with
+,
+regard the thrust on
+
+as horizontal, and neglect any cohesion on the vertical planes,
+
+,
+etc. Then it is found, for the given constants, that the
+graphical method gives exactly the thrust (560Â lb.) obtained from
+
+EquationÂ (7)
+. This result was foreseen.
+
+It is likewise interesting to know, if the thrust on
+is taken as
+parallel to
+,
+or making the angle,
+,
+with the normal to
+,
+
+that the thrust on
+,
+as given by the construction, is again found
+to be the same (510Â lb.) as that given by a well-known formula for
+
+[
+464
+]
+
+the thrust on the plane,
+,
+for earth devoid of cohesion and having
+a free surface,
+.
+The importance of these conclusions lies in this:
+that for the wall vertical, the earth surface horizontal, the earth thrust
+being horizontal or otherwise, the shorter method is available. If
+preferred, the thrust on the wall,
+,
+for the earth devoid of cohesion,
+with the free surface,
+,
+for either direction of the thrust,
+can be evaluated by the graphical methods (
+page 404
+) hitherto given.
+
+Since this paper was written, RÃ©salâs
+âPoussÃ©e des Terres,â
+DeuxiÃ¨me Partie
+, on Coherent Earths, has appeared.
+[Footnote
+27
+]
+
+In it the
+author gives an exhaustive discussion of lines of rupture for a great
+number of cases. The equivalent of
+EquationÂ (7)
+is found for the
+case of the horizontal pressure on a vertical plane when the free
+surface of earth is horizontal; but it was found to be impracticable
+to derive a formula for the earth thrust for the general case of
+the earth surface sloping at an angle to the horizontal, the wall
+being either inclined or vertical. In fact, for such cases, the intensity
+of the earth thrust at any depth is not a linear function of
+the depth, as obtains in the case shown by
+Fig.Â 24
+. Hence RÃ©sal
+resorts to the following approximation: Conceive a line drawn parallel
+to the surface, at a depth,
+(as given by
+EquationÂ (8)
+), below it,
+and regard this line as the free surface of non-coherent earth of the
+same specific weight and angle of repose as the given earth; compute
+the thrust against the wall for such earth, devoid of cohesion, by methods
+pertaining to such earth; the thrust thus found is assumed to be
+approximately the true thrust on the wall for the original coherent
+earth. It is proper to state that RÃ©sal rejects the sliding-wedge theory
+for non-coherent earth, and uses a method of his own, which involves
+elaborate tables given in his book. The wedge theory is admittedly
+imperfect, mainly because the surface of rupture is a curve, but we
+have seen that it agrees with experiments on model walls or retaining
+boards, when properly interpreted, and it will be used, as before,
+in computing the earth thrusts,
+,
+below, for earths devoid of cohesion.
+The graphical method has already been indicated.
+[Footnote
+28
+]
+
+In
+TableÂ 6
+comparative results are given for various cases, including
+those already examined. Each retaining board was supposed to be
+10Â ft. high, the earth to have a natural slope of 1 on 1Â½, and to weigh
+100Â lb. per cu.Â ft.
+[
+465
+]
+
+TABLE 6.
+
+Case.
+.
+.
+,
+in pounds
+per square
+foot.
+,
+in pounds.
+,
+in pounds.
+
+1.
+â
+â
+
+0
+100
+1 440
+880
+
+2.
+0
+0
+100
+0
+560
+560
+
+3.
+0
+0
+100
+510
+510
+
+4.
+0
+Â½
+100
+660
+750
+
+5.
+0
+â
+
+100
+880
+1 630
+
+6.
++
+â
+
+0
+50
+18Â°26′
+240
+490
+
+It is seen, by comparing the values of
+and
+,
+in
+TableÂ 6
+, that,
+except for CasesÂ 2 and 3, where the coincidence in the results has been
+already noted, the thrusts by the two methods differ very widely, hence
+the second method must be rejected, as in some cases undervaluing
+the thrust, and in other cases overvaluing it. In CaseÂ 5, where the
+surcharge slopes at the angle of repose, the large excess is due principally
+to the ordinary theory for computing
+,
+involving an infinite
+plane of rupture, as hitherto noted.
+
+In CaseÂ 6, where the top of the wall leaned toward the earth,
+
+was first assumed equal to 100, but it was found to give no thrust
+against the wall; which means that the earth would stand unsupported
+at the slope
+or with the face making an angle of 18Â°26' with
+the vertical, when this face was 10Â ft. high. Hence, a second trial
+was made, with
+,
+with the results shown. It will be noticed
+that
+was assumed as 18Â°26', so that the thrust was taken horizontal.
+In fact, RÃ©sal asserts that the thrust against such a leaning
+wall, makes a less angle than
+with the normal to the wall.
+According to his tables,
+,
+for this wall cannot exceed 20Â°40'. As
+the wall approaches the vertical,
+,
+approaches
+,
+the exact value
+given for a vertical wall. By comparing the thrusts,
+,
+for CasesÂ 1
+and 6, the economy of using the latter type of wall is so apparent
+that it is astonishing that constructors do not adopt it oftener.
+
+Fig. 26.
+
+[
+466
+]
+The general conclusion to be drawn from
+TableÂ 6
+is that, except
+for CasesÂ 2 and 3, the general graphical method of
+Fig.Â 25
+must be
+used for accuracy. If applicable to the
+case in hand, the cohesion along the vertical
+planes,
+,
+etc., can be included with
+very little additional labor. The graphical
+treatment given is so general and the theory
+involved is so apparent to the eye, that it
+seems to commend itself as a practical
+treatment of a very complicated problem.
+
+The general method illustrated in
+
+Fig.Â 25
+can also be applied to the
+surcharged wall of
+Fig.Â 26
+. Here, the lines,
+and
+,
+are drawn
+parallel, respectively, to
+and
+,
+and vertically,
+
+ft.
+below them. The trial prisms of rupture are of the type,
+.
+
+Their weights are laid off as before, on the line,
+,
+of
+Fig.Â 25
+, and
+the further construction is exactly as there indicated. It is assumed
+here that the slope of
+does not exceed the natural slope, for, if it
+does, the construction is somewhat altered.
+
+It may be asked whether the construction of
+Fig.Â 25
+, where the
+cohesion on the vertical planes,
+,
+etc., is omitted, if applied to the
+experiments on rotating boards, will appreciably alter the results given
+in
+TableÂ 3
+. The answer is no; for, when
+,
+
+,
+therefore
+
+ft., or is very small. In fact, as in the experiments, no
+cracks were formed, the cohesion on the vertical planes should be included,
+which would lead to the results given.
+
+After the thrust, for earth endowed with cohesion, has been computed,
+the next question is, at what point on the retaining wall does it
+act? This can be answered at once, when the inner face of the wall
+is vertical and the earth surface horizontal, for then the earth thrust
+acts at
+of the height,
+,
+
+Figs. 24
+and
+25
+, as hitherto proved. The
+case is not so simple when the wall is inclined, either toward or from
+the earth. In
+Fig.Â 25
+, the thrust,
+,
+on the wall,
+,
+must be
+decomposed into horizontal and vertical components. The horizontal
+component is the resultant of the horizontal forces acting from
+to
+
+which may be assumed to follow the linear law; hence this component
+will act on
+at a point, distant
+from
+,
+going from
+to
+.
+
+The vertical component, similarly, will be regarded as acting on
+,
+
+at a distance
+from
+.
+The same approximate rule is suggested
+when
+lies to the right of the vertical,
+.
+
+When the earth surface slopes at the angle of repose, the distribution
+of stress is not linear, but more like that shown in
+Fig.Â 10
+. As the
+
+[
+467
+]
+
+equation of the corresponding pressure curve cannot be found, an
+approximation only can be suggested. When
+is (say) less than one
+or two tenths, the factor,
+,
+above, can be used; but as
+increases
+toward its limit, 1, the factor increases toward some unknown limit.
+Probably it does not exceed 0.4 even for
+Fig.Â 26
+, and, for want of
+accurate knowledge on the subject, it may be taken at 0.4 as a rude
+approximation.
+
+Finally, when the surface slope is less than the natural slope of
+the earth, then as it decreases from
+to zero, the factor should.
+decrease from the extreme value (say 0.4) to
+.
+RÃ©sal takes this
+factor at
+for all cases, which is certainly not on the safe side.
+
+The case of the retaining wall which receives the active thrust of
+the earth has been hitherto examined, and next the case of the braced
+trench will be discussed. As the trench (having vertical sides) is dug,
+the usual sheeting, rangers, and bracing are put in and the bracing is
+kept well keyed-up, so as to exert an active pressure on the earth. To
+illustrate the theory, in
+Fig.Â 25
+, let
+represent the vertical side of
+the trench, the earth extending only to the right of
+.
+Then from
+points such as
+,
+draw horizontal lines to the intersection with the
+corresponding
+s;
+the longest of these lines, to the scale of force, will
+represent the total force that must be exerted by all the braces, per
+foot of length of trench, to prevent any motion of the mass. As has
+been seen, this force is given by
+EquationÂ (7)
+. If a still greater force
+is exerted by the braces, less than a certain value which would just
+cause motion of the earth up some plane of rupture, stability is completely
+assured.
+
+As a numerical illustration, assume a trench 40Â ft. deep and 15Â ft.
+wide, the constants for the earth being,
+,
+
+,
+
+.
+
+Then, by
+EquationÂ (8)
+,
+
+ft. and
+
+ft.
+Hence, by
+EquationÂ (7)
+, the least force the braces must exert
+per linear foot of trench is,
+
+Suppose the braces to be 10Â ft. apart horizontally, and that
+there are six braces in the same vertical plane. The least force
+that the horizontal braces must exert on 10Â lin. ft. of trench is
+188 440Â lb., and if each carries the same stress, the force to be exerted
+by one, is
+
+lb. Assuming a unit stress of 800Â lb. per
+sq.Â in. for an 8Â by 8-in. wooden brace, 15Â ft. long, it is seen that one
+
+[
+468
+]
+
+brace can safely exert a force of 51200Â lb., which is greater than the
+least amount required, as should be the case to allow for changes in
+
+and
+due to heavy rains. To meet such contingencies, 10 by
+10-in.
+
+braces are suggested. Of course, very little is now known as to the
+coefficient,
+,
+but, from the observed heights of trenches which have
+stood without sheathing, it is probable that values of
+from 100 to
+300Â lb. per sq.Â ft. can be counted on for most trenching. For the
+present, the only safe way is to be guided by experience, such as has
+been elicited by Mr.Â Meemâs paper, âThe Bracing of Trenches and
+Tunnels, With Practical Formulas for Earth Pressures.â
+
+As to the exact distribution of the stresses, theory cannot speak
+definitely, for the conditions are different from those in the case of
+the retaining wall, the passive resistance of which opposes the active
+earth thrust. For the braced trench, the earth, at first, simply resists
+the active pressure exerted by the braces, when first put in and keyed-up
+tight, particularly on that upper portion where the active earth
+thrust is nothing or very small. As the construction proceeds, the
+braces will receive more and more of the active earth thrust, which
+necessarily increases with the depth of trench. In fact, the distribution
+of stress, indicated by the arrows in
+Fig.Â 24
+, although true in the
+case of a retaining wall, where the earth has been deposited behind
+it, is not necessarily or generally true in a sheeted trench, because of
+the manner of its construction. Thus, in digging a trench, the bracing
+is put in at intervals, but when a brace is inserted near the bottom
+of the trench, the digging is continued for several feet without bracing,
+until a depth is attained at which it is thought best to insert another
+brace. Before the latter is put in, the unprotected face of the trench,
+say 6Â ft. in depth, can exert no pressure, as it would in the case of
+the retaining wall. The thrust that would be exerted, for this area, on
+the supposed wall, does not exist for the unsupported face of the
+trench, for the full horizontal thrust of the earth for the whole depth
+has been taken up by the braces above the unsupported area. This
+state of affairs is characteristic of the work as it proceeds, the lowest
+brace that is put in at first carries only the stress due to the keying-up,
+but takes more and more stress as the excavation proceeds. It can
+thus very well happen that the upper or the middle braces may receive
+more stress in the end, than the lower braces. In fact, this was
+asserted to be generally true, for well-drained material, by many
+engineers in the valuable discussion on Mr.Â Meemâs paper referred to.
+Other engineers advised caution in accepting this view, and asserted
+that in wet or saturated ground the lower braces were most severely
+stressed. If it were possible to force a board of a size equal to the
+length and depth of a trench, vertically downward, excavate and brace,
+all in a millionth of a second, then one can conceive that the distribution
+of stress shown in
+Fig.Â 24
+might be realized; but, for trenches
+as actually constructed, the distribution of stress in the earth mass
+
+[
+469
+]
+
+is very much altered from this, though it would appear that the total
+earth pressure would be given, at least approximately, by the construction
+of
+Fig.Â 25
+, or by the use of
+EquationÂ (7)
+.
+
+The writer hopes that Mr.Â Meem may agree to the foregoing explanation,
+for the subject of trenches was entered into in great detail,
+in order to explain, if possible, all the facts, as presented by many
+engineers who held very diverse views about the explanation of them.
+Mr.Â Meemâs
+Fig.Â 22
+can illustrate the writerâs view: if bracing only
+extends, say, from
+to
+,
+then the braces must exert sufficient horizontal
+thrust to prevent the descent of the wedge, say
+,
+if this
+gives the maximum thrust for the coherent earth.
+
+Turning now to pressures on tunnels, the writer is pleased to note
+that Mr.Â Meem has recorded some more of his experiences concerning
+them. From lack of proper knowledge of the so-called constants,
+
+,
+
+and
+,
+such experience is an aid in leading to more probable
+values.
+
+As the writer proceeds in this investigation, he hopes to make clear
+the conception of arch action alluded to, and will derive the limiting
+values of
+and
+in the simple manner outlined briefly in the Appendix.
+Before considering these matters, however, it may be well to call
+attention to the fact that a vertical prism of earth can be held up by
+the cohesion of its sides alone when
+is large enough. Take the vertical
+prism of depth
+and cross-section area
+,
+
+Fig.Â 20
+, its weight
+being
+.
+In a long tunnel, two sides only can be counted on to
+furnish cohesive forces. Call
+the perimeter available in any case.
+Then the cohesive force is
+,
+and this alone (without reference to
+any friction that may act) will support the prism when,
+.
+
+In the long or completed tunnel,
+(see notation
+of Appendix); but if we take a short section at the heading, say
+
+,
+then support can be derived from three sides, and
+.
+
+Thus if we assume the horizontal cross-section of the
+prism to be 15 by 7.5Â ft.,
+
+lb. per sq.Â ft., where
+
+lb. per cu.Â ft. Thus, such a vertical prism of any height, at
+the heading, can be sustained by a cohesion of 338Â lb. per sq.Â ft. acting
+on three of its sides. This refers to a tunnel 15Â ft. wide. For the
+completed tunnel 15Â ft. wide, the part vertically over the tunnel can
+be supported if the two sides can furnish double this unit cohesion.
+The term
+will appear in an equation mentioned later. It is seen now that when this term is zero, cohesion alone can sustain
+
+[
+470
+]
+
+the prism, and the pressure reduces to zero. When this term is negative,
+it indicates that that too large a value of
+has been assumed, for
+stability is assured for
+.
+
+In reference to
+Fig.Â 16
+, it was stated that a series of superposed
+arches or domes were assumed, but that since the reactions of the
+horizontal laminas of
+Fig.Â 20
+and corresponding arches were the same,
+the former were substituted for convenience. If each arch has the
+vertical thickness,
+,
+it will have the same volume and weight,
+
+,
+as the horizontal lamina. The reactions marked on
+Fig.Â 20
+
+can be assumed to be those of the corresponding arch, and the resultant
+of the horizontal and vertical reactions represents the thrust of
+the arch at the sides; its direction will be that of the tangent line of
+the arch. When
+is small, the horizontal reaction is much greater
+than the vertical one, and the arches are all very flat. Now, considering
+the whole series of arches, it is plain that the greatest or limiting
+value of
+(call it simply
+)
+would be realized if the weight of any
+arch is entirely held up by the friction on the sides (induced by the
+lateral thrust) and the cohesion acting there; for then this same
+condition of affairs would exist for all lower arches,
+[Footnote
+29
+]
+
+and thus
+is
+transmitted vertically downward, unchanged, to the tunnel. Stating
+this condition in algebraic form,
+
+This equation strictly holds for large values of
+,
+but it is practically
+true for much smaller values. For such values,
+is quite small compared
+with
+and can be assumed as equal to zero, whence
+will
+also be taken equal to zero and the usual bin formula,
+,
+
+written.
+[Footnote
+30
+]
+
+On substituting this value in the equation above, reducing and
+placing
+,
+we
+obtain
+,
+
+where,
+.
+
+In the Appendix, the writer assumed,
+,
+basing
+this value on the results pertaining to a smooth steel bin, 1Â ft. in
+
+[
+471
+]
+
+diameter, filled with sand. From the experiments of Jamieson on
+large wooden bins, about 12 by 12Â ft., filled with wheat,
+was found
+to be 0.60. Janssen determined
+experimentally to be 0.67. For
+wheat, Jamieson gave
+;
+whence
+.
+His experimental value was
+of this; hence, for lack of definite data,
+there will be assumed for earth,
+
+From the last three equations, the values of
+and
+have been
+computed for various values of
+,
+
+,
+
+,
+and
+,
+and are given in
+TableÂ 7
+.
+
+TABLE 7.
+
+,
+in
+pounds per
+square
+foot.
+,
+in
+feet.
+,
+
+in pounds per square
+foot.
+,
+
+in pounds per square
+foot.
+
+(
+1
+)
+(
+2
+)
+(
+3
+)
+(
+4
+)
+(
+5
+)
+(
+6
+)
+(
+7
+)
+
+100
+15
+30Â°
+740
+1 790
+410
+1 000
+
+100
+30
+30Â°
+1 790
+3 900
+1 000
+2 160
+
+100
+15
+45Â°
+830
+2 010
+240
+570
+
+100
+30
+45Â°
+2 010
+4 370
+570
+1 250
+
+400
+15
+30Â°
+0
+860
+0
+480
+
+400
+30
+30Â°
+860
+2 960
+480
+1 640
+
+400
+15
+45Â°
+0
+960
+0
+270
+
+400
+30
+45Â°
+960
+3 320
+270
+950
+
+The pressures given in ColumnsÂ 5 and 7 are intended to apply to a
+long section of a tunnel, those in ColumnsÂ 4 and 6 refer to a short
+section about the heading. The values for
+are intended to
+apply to what Mr.Â Meem styles âsoft normally dry ground,â and it is
+hoped that he may approve the figures, as they are somewhere near his
+own. The coefficient,
+,
+refers to hard consolidated ground.
+Here the pressure is 0 at the working faces of the 15-ft. tunnel.
+Fig.Â 27
+
+shows the variation in
+for
+,
+
+,
+
+,
+for some of
+the larger values of
+,
+as obtained by the revised formula given in the
+foot-note. It will be observed that the above demonstration for finding
+the limiting value of
+,
+is perfectly independent of Janssenâs formula.
+In it the relation,
+,
+is only assumed to be true for this one
+value of
+,
+and
+need be determined by experiment only for this
+value. The result is thus general, no matter how
+varies for other
+values of
+.
+A glance at all the diagrams,
+[Footnote
+31
+]
+
+giving the experimental
+values of
+and
+for various depths, will show that
+is far from
+
+[
+472
+]
+
+being a constant for varying depths, though the assumption is found
+to lead to practical results, as obtained from Janssenâs formula. The
+experiments of Jamieson on 12 by 13Â½ by 67Â½-ft. wheat bins, and of
+Bovey on 12 by 14 by 44Â ft. 10-in. bins, both of wood, indicate that
+the maximum pressure,
+,
+is realized, practically, for heights of
+about four diameters. Pleissnerâs experiments on a wooden bin, 11.51
+by 8.20Â ft., show four and a half diameters, and Luft, for a concrete
+bin, 23Â ft. in diameter, gives, say, three diameters, for the height corresponding
+to
+maximum
+.
+
+Fig. 27.
+
+These are wide variations, resulting from variations in
+and the
+coefficient of friction of the wheat on the walls of the bin. As
+
+increases, this ratio of height to diameter decreases. It would appear
+to be a serious objection to the use of
+Equations
+
+and
+if this
+ratio for maximum
+was large, but it must be remembered that
+,
+
+for earth over tunnels, is not known. It is possibly larger than assumed.
+In any case,
+EquationsÂ (9)
+, which were deduced independently
+of the modified Janssen formulas, appear to hold.
+
+The writer has read with much interest the very interesting âdry
+sand and wheat arching experiments,â referred to by Mr.Â Meem. It is
+seen from the above, that the writer believes in this arching of sand
+under certain conditions, for example, after some settlement. He does
+not see any reason for any arching in an unlimited mass of sand, level
+
+[
+473
+]
+
+at the top. The conjugate pressures here are vertical and horizontal;
+but, if a tunnel is bored through this mass, it tends to sink over the
+tunnel, and, only in consequence of that settlement, is a part of the
+weight of the sand directly over the tunnel transferred to the sides
+through the friction caused by the lateral thrust and the cohesion.
+Neither of these forces, both acting vertically upward, were in action,
+before the settlement. Mr.Â Meem gives the following
+account
+of an
+interesting experiment:
+
+âA 2-in. pipe, 18Â in. long, was filled with dry sand for a depth of
+12Â in., and a thin piece of tissue paper was pasted across the bottom.
+Then, with a wooden piston bearing on the sand, the latter would support
+the blow of a sledge hammer or the weight of a man without
+breaking the tissue paper.â
+
+Considering the sand in the pipe alone, it affords a pretty illustration
+of the bin theory. Here,
+.
+
+Take
+and
+
+,
+
+;
+also
+
+lb. per cu.Â in.
+Therefore, making
+in the formula for
+above, we have
+
+lb. per sq.Â in. Hence the total pressure
+on the tissue paper is
+
+lb., or say Â¼Â lb. Perhaps the paper
+can stand this. The pressure is reduced to 0.185Â lb. on the paper if
+we include cohesion, taking
+
+lb. per sq.Â ft., as deduced from
+Leygueâs experiments on dry sand. This pressure would not be
+increased if the pipe, supposed to be vertical and filled with sand, was
+of great height, the weight of the additional sand being equal to the
+weight of the man or to the pressure induced by the blow of the hammer.
+It seems natural, then, to infer that the pressures due to the
+blow or man, are sustained by the sides of the pipe, as in the case of
+the sand, though the conditions are not the same. In fact, in this
+case, the pressure on the paper is even less than before; for the blow,
+or the weight of the man causes the passive lateral thrust of the earth
+to be exerted, and this, for
+,
+is nine times the active thrust
+hitherto used, at least for an unlimited mass of earth. If this ratio
+is assumed to hold for the sand in the pipe, the value of
+will be
+changed to
+,
+and the total pressure on the paper will be only
+
+It is hoped that experimenters may turn their attention to finding
+definite values of the coefficient of cohesion for all kinds of earth.
+From observations of unsupported trenches, it has been seen that
+values of
+of from 100 to possibly 400Â lb. per sq.Â ft., may be
+
+[
+474
+]
+
+expected. RÃ©sal states
+[Footnote
+32
+]
+
+that MM.Â Jacquinot and Frontard, in July and
+August, 1910, made some preliminary experiments on earth taken
+from a reservoir dam which was failing, and found for it about
+
+kg. per. sq.Â m., or say 409Â lb. per sq.Â ft.; but
+,
+corresponding to
+.
+The latter result is startling. For finding
+
+and
+experimentally, RÃ©sal suggests that a thin slice of earth
+be placed between two rough metallic plaques, pressed firmly together,
+and that the resistance to the relative displacement of the two plaques,
+for varying pressures, be recorded. By writing the relation between
+
+,
+
+,
+and the forces involved, for each experiment, values of
+
+and
+can be found by elimination. In conclusion, the writer
+believes that he has offered a satisfactory and comprehensive theory
+of earth pressure, for earth endowed with both cohesion and friction.
+The results are not on as satisfactory a basis for pressures on tunnels,
+but the formulas derived are submitted in the hope that engineers
+will subject them to the test of both experience and experiment.
+
+The writer returns sincere thanks to Messrs. Worcester and Meem
+for their helpful and stimulating discussion.
+
+[Footnote
+21
+:
+
+PageÂ 426.
+]
+
+Return to text
+
+[Footnote
+22
+:
+
+âThe Bracing of Tunnels and Trenches, with Practical Formulas for Earth Pressures,â
+
+Transactions
+, Am.Â Soc. C.Â E., Vol.Â LX, p.Â 1; and âPressure, Resistance, and Stability of
+Earth,â
+Transactions
+, Am.Â Soc. C.Â E., Vol.Â LXX, p.Â 352.
+]
+
+Return to text
+
+[Footnote
+23
+:
+
+Transactions
+, Am.Â Soc. C.Â E., Vol.Â LX, p.Â 1.
+]
+
+Return to text
+
+[Footnote
+24
+:
+
+Transactions
+, Am.Â Soc. C.Â E., Vol.Â LXX, p.Â 352.
+]
+
+Return to text
+
+[Footnote
+25
+:
+
+See the writerâs âRetaining Walls,â sixth edition, p.Â 132.
+]
+
+Return to text
+
+[Footnote
+26
+:
+
+Transactions
+, Am.Â Soc. C.Â E., Vol.Â LX, p.Â 84.
+]
+
+Return to text
+
+[Footnote
+27
+:
+
+This is reviewed in
+Engineering News
+, January 19th, 1911.
+]
+
+Return to text
+
+[Footnote
+28
+:
+
+The formulas used will be found in the writerâs âRetaining Walls,â sixth edition, p.Â 96,
+
+etÂ seq.
+]
+
+Return to text
+
+[Footnote
+29
+:
+
+This assumes that the values of
+and
+do not decrease for the greater depths.
+]
+
+Return to text
+
+[Footnote
+30
+:
+
+In the Appendix, the âsemi-empiricalâ formula,
+,
+was assumed. It gives fairly correct values for small values of
+,
+but for
+large and
+large, it departs more
+from the truth than was at first surmised. Hence, by the reasoning above,
+will be made
+zero throughout, and
+EquationsÂ (5)
+and
+(6)
+of the Appendix will be
+changed
+to
+
+Equations
+
+and
+will not give accurate results for
+small, which is of no
+importance, as such values are never used; but they should give practically accurate
+results for the larger values of
+.
+]
+
+Return to text
+
+[Footnote
+31
+:
+
+Ketchumâs âThe Design of Walls, Bins and Grain Elevators,â pp.Â 253â282.
+]
+
+Return to text
+
+[Footnote
+32
+:
+
+âPoussÃ©e des Terres,â DeuxiÃ¨me Partie
+, p.Â 327.
+]
+
+Return to text
+
+Transcriberâs Note
+
+This paper was originally published in the
+Transactions
+of the American Society of Civil Engineers, VolumeÂ LXXII, JuneÂ 1911.
+
+*** END OF THE PROJECT GUTENBERG EBOOK TRANSACTIONS OF THE AMERICAN SOCIETY OF CIVIL ENGINEERS, VOL. LXXII, JUNE, 1911 ***
+
+Updated editions will replace the previous oneâthe old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenbergâ¢ electronic works to protect the PROJECT GUTENBERGâ¢
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given awayâyou may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenbergâ¢ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase âProject
+Gutenbergâ), you agree to comply with all the terms of the Full
+Project Gutenbergâ¢ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenbergâ¢ electronic works
+
+1.A. By reading or using any part of this Project Gutenbergâ¢
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenbergâ¢ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenbergâ¢ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. âProject Gutenbergâ is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenbergâ¢ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenbergâ¢ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenbergâ¢
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (âthe
+Foundationâ or PGLAF), owns a compilation copyright in the collection
+of Project Gutenbergâ¢ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenbergâ¢ mission of promoting
+free access to electronic works by freely sharing Project Gutenbergâ¢
+works in compliance with the terms of this agreement for keeping the
+Project Gutenbergâ¢ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenbergâ¢ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenbergâ¢ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenbergâ¢ License must appear
+prominently whenever any copy of a Project Gutenbergâ¢ work (any work
+on which the phrase âProject Gutenbergâ appears, or with which the
+phrase âProject Gutenbergâ is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online
+at
+www.gutenberg.org
+. If you
+are not located in the United States, you will have to check the laws
+of the country where you are located before using this eBook.
+
+1.E.2. If an individual Project Gutenbergâ¢ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase âProject
+Gutenbergâ associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenbergâ¢
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenbergâ¢ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenbergâ¢ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenbergâ¢
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenbergâ¢.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenbergâ¢ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenbergâ¢ work in a format
+other than âPlain Vanilla ASCIIâ or other format used in the official
+version posted on the official Project Gutenbergâ¢ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original âPlain
+Vanilla ASCIIâ or other form. Any alternate format must include the
+full Project Gutenbergâ¢ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenbergâ¢ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenbergâ¢ electronic works
+provided that:
+
+â¢ You pay a royalty fee of 20% of the gross profits you derive from
+the use of Project Gutenbergâ¢ works calculated using the method
+you already use to calculate your applicable taxes. The fee is owed
+to the owner of the Project Gutenbergâ¢ trademark, but he has
+agreed to donate royalties under this paragraph to the Project
+Gutenberg Literary Archive Foundation. Royalty payments must be paid
+within 60 days following each date on which you prepare (or are
+legally required to prepare) your periodic tax returns. Royalty
+payments should be clearly marked as such and sent to the Project
+Gutenberg Literary Archive Foundation at the address specified in
+Section 4, âInformation about donations to the Project Gutenberg
+Literary Archive Foundation.â
+
+â¢ You provide a full refund of any money paid by a user who notifies
+you in writing (or by e-mail) within 30 days of receipt that s/he
+does not agree to the terms of the full Project Gutenbergâ¢
+License. You must require such a user to return or destroy all
+copies of the works possessed in a physical medium and discontinue
+all use of and all access to other copies of Project Gutenbergâ¢
+works.
+
+â¢ You provide, in accordance with paragraph 1.F.3, a full refund of
+any money paid for a work or a replacement copy, if a defect in the
+electronic work is discovered and reported to you within 90 days of
+receipt of the work.
+
+â¢ You comply with all other terms of this agreement for free
+distribution of Project Gutenbergâ¢ works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenbergâ¢ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenbergâ¢ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenbergâ¢ collection. Despite these efforts, Project Gutenbergâ¢
+electronic works, and the medium on which they may be stored, may
+contain âDefects,â such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the âRight
+of Replacement or Refundâ described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenbergâ¢ trademark, and any other party distributing a Project
+Gutenbergâ¢ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you âAS-ISâ, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenbergâ¢ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenbergâ¢
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenbergâ¢ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenbergâ¢ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenbergâ¢
+
+Project Gutenbergâ¢ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenbergâ¢âs
+goals and ensuring that the Project Gutenbergâ¢ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenbergâ¢ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundationâs EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your stateâs laws.
+
+The Foundationâs business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundationâs website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg Literary Archive Foundation
+
+Project Gutenbergâ¢ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit
+www.gutenberg.org/donate
+.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenbergâ¢ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenbergâ¢ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenbergâ¢ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenbergâ¢ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility:
+www.gutenberg.org
+.
+
+This website includes information about Project Gutenbergâ¢,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

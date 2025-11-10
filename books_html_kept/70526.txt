@@ -1,0 +1,13823 @@
+The Project Gutenberg eBook of The Canterbury pilgrims, by Percy MacKaye
+
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online
+at
+www.gutenberg.org
+. If you
+are not located in the United States, you will have to check the laws of the
+country where you are located before using this eBook.
+
+Title: The Canterbury pilgrims
+
+A comedy
+
+Author: Percy MacKaye
+
+Release Date: April 11, 2023 [eBook #70526]
+
+Language: English
+
+Produced by: Mary Glenn Krause, Charlene Taylor, Krista Zaleski and the Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced from images generously made available by The Internet Archive/American Libraries.)
+
+*** START OF THE PROJECT GUTENBERG EBOOK THE CANTERBURY PILGRIMS ***
+
+Transcriberâs Notes
+
+Obvious typographical errors have been silently corrected. Variations
+in hyphenation and accents have been standardised but all other
+spelling and punctuation remains unchanged.
+
+The table of contents has been added for the reader's convenience.
+
+Notes on music for the cantos included at the end of the play:
+
+The
+original image
+consists of 5 separate antiphons in medieval
+neumes notation. These have each been transcribed into modern notation image and
+audio files.
+
+As is often the case with medieval neumes, tempo, pitches, note durations, and
+time signatures can only be guessed. The music transcribers consulted the manuscript
+Sarum Antiphoner of 1519, a modern transcription at the Gregorian Institute of Canada,
+and recordings by the Schola Hungarica (Laudes - Memory of Thomas Becket, available on
+YouTube), to assist in creating the modern transcription.
+
+Each antiphon in the original image is followed by a text excerpt from a psalm,
+indicated by âps.â These psalm excerpts have not been included in the modern notation
+version.
+
+Proper names in the original are given initial capitals in the modern notation
+image, and hyphens between syllables have been added where appropriate.
+
+The MusicXML notation files (.mxl) are for the use of those who wish to download
+the notation into a music notation program. They were created from the audio versions
+of the antiphons.
+
+Click on the [Listen] links to hear the music and on the [View] or [Download] links
+to see and download a modern transcription of the notation. As of the date of posting,
+these links to external
+files will work only in the HTML version of this e-book.
+
+The Canterbury Pilgrims
+
+A COMEDY
+
+The Canterbury Pilgrims
+
+A COMEDY
+
+BY
+
+PERCY MACKAYE
+
+THE TABARD INN
+
+New York
+
+THE MACMILLAN COMPANY
+
+LONDON: MACMILLAN & CO.,
+Ltd.
+
+1909
+
+All rights reserved
+
+Copyright, 1903,
+
+By
+THE MACMILLAN COMPANY.
+
+Set up and electrotyped. Published March, 1903. Reprinted
+
+September, 1908; September, 1909.
+
+Norwood Press
+
+J. S. Cushing Co.âBerwick & Smith Co.
+
+Norwood, Mass., U.S.A.
+
+To
+
+C. A. Sothern
+
+In Friendship
+
+CONTENTS
+
+DRAMATIS PERSONÃ
+
+ACT FIRST
+
+ACT SECOND
+
+ACT THIRD
+
+ACT FOURTH
+
+âO
+KINDLY
+Muse! let not my weak tongue falter
+
+In telling of this goodly company,
+
+Of their old piety and of their glee;
+
+But let a portion of ethereal dew
+
+Fall on my head, and presently unmew
+
+My soul; that I may dare, in wayfaring,
+
+To stammer where old Chaucer used to sing.â
+
+[
+Keats
+:
+Endymion
+.]
+
+[Pg vii]
+
+DRAMATIS PERSONÃ
+
+1.
+Characters based on âThe Canterbury Tales.â
+
+MEN
+
+Geoffrey Chaucer
+, Poet at King Richardâs Court, and Knight of the Shire for Kent.
+
+The
+Knight
+(
+Dan Roderigo dâAlgezir
+).
+
+The
+Squire
+(
+Aubrey
+), his son.
+
+The
+Yeoman
+, his servant.
+
+The
+Monk
+.
+
+The
+Friar
+(
+Huberd
+).
+
+The
+Merchant
+.
+
+The
+Clerk
+.
+
+The
+Man-of-Law
+.
+
+The
+Franklin
+.
+
+The
+Haberdasher
+,
+
+}
+
+Members of a Guild.
+
+The
+Carpenter
+,
+
+The
+Weaver
+,
+
+The
+Dyer
+,
+
+The
+Tapicer
+,
+
+The
+Cook
+(
+Roger Hogge
+).
+
+The
+Shipman
+(
+Jack
+).
+
+The
+Doctor
+.
+
+The
+Parson
+(
+Jankin
+).
+
+The
+Ploughman
+.
+
+The
+Miller
+(
+Bob
+or
+Robin
+).
+
+The
+Manciple
+.
+
+The
+Reeve
+.
+
+The
+Summoner
+.
+
+The
+Pardoner
+.
+[Pg viii]
+
+The
+Host
+(
+Herry Bailey
+).
+
+The
+Canonâs Yeoman
+.
+
+Joannes
+,
+
+}
+
+The Prioressâs Priests.
+
+Marcus
+,
+
+Paulus
+,
+
+WOMEN
+
+The
+Wife of Bath
+(
+Alisoun
+).
+
+The
+Prioress
+(
+Madame Eglantine
+).
+
+A
+Nun
+, her attendant.
+
+Mistress Bailey
+, of the Tabard Inn.
+
+II.
+Characters not based on âThe Canterbury Tales.â
+
+MEN
+
+Richard II
+, King of England.
+
+John of Gaunt
+, Duke of Lancaster, uncle of the King, brother-in-law of Chaucer, and patron of Wycliffe.
+
+The
+Duke of Gloucester
+, his brother.
+
+De Vere
+, Duke of Ireland, Richardâs favourite.
+
+The
+Archbishop of Canterbury
+.
+
+John Wycliffe
+, the religious reformer, founder of the âLollards.â
+
+Bottlejohn
+, Host of the One Nine-pin inn, at Bob-up-and-down.
+
+His Prentices
+(
+Ned
+and
+Dick
+).
+
+A
+Kitchen-boy
+.
+
+A
+Vender of Relics
+.
+
+Another Vender.
+
+A
+Black Friar
+.
+
+A
+Grey Friar
+.
+
+A
+Priest of Canterbury Cathedral
+.
+
+Heralds.
+
+Choir-boys.
+
+WOMEN
+
+Johanna
+, Marchioness of Kent.
+
+Canterbury Brooch-girls.
+
+Serving-maids.
+
+Note.
+âThose designated as Alisounâs âSwainsâ
+are the Friar, Cook, Shipman, Miller, Manciple, Summoner,
+Pardoner.
+
+[Pg ix]
+
+ACT FIRST
+
+â
+Bifel
+that, in that seson on a day,
+
+In Southwerk at the Tabard as I lay
+
+Redy to wenden on my pilgrimage
+
+To Caunterbury, with ful devout corage,
+
+At night was come into that hostelrye
+
+Wel nyne and twenty in a companye
+
+Of sondry folk, by aventure y-falle
+
+In felawshipe, and pilgrims were they alle,
+
+That toward Caunterbury wolden ryde.â
+
+[Pg 1]
+
+ACT I
+
+Time
+: April 16th, 1387. Late afternoon.
+
+Scene
+: The Tabard Inn at Southwark, near London.
+
+When the scene opens, about half of the
+
+Pilgrims
+have arrived; the others come in during
+the first part of the act. Those already arrived are
+the
+
+Miller
+,
+Shipman
+,
+Cook
+,
+
+Parson
+,
+Ploughman
+,
+Franklin
+,
+
+Doctor
+,
+Friar
+,
+Haberdasher
+,
+
+Carpenter
+,
+Weaver
+,
+Dyer
+,
+
+Tapicer
+,
+Clerk
+,
+and
+
+Chaucer
+.
+
+At rise of curtain, the
+Host
+is just moving
+to receive the
+Knight
+,
+Squire
+, and
+
+Yeoman
+at the door, back. Chaucer sits with a big
+volume on his knee in the corner by the fireplace, left;
+right front, the Miller and the Cook are wrestling, while
+those near look on.
+
+COOK
+
+Now, masters, see a miller eat bran!
+
+MILLER
+
+Corpus!
+
+Iâd liever wrastle with a butterfly.
+
+SHIPMAN
+
+Tackle him aft.
+
+FRANKLIN
+
+Grip, mon.
+
+[
+They clutch each other.
+]
+
+A SERVING-MAID
+[Pg 2]
+
+[
+Aside to Friar.
+]
+
+A diamond pin?
+
+FRIAR
+
+[
+Lisps slightly.
+]
+
+One of thy glances stickÃ©d through my heart!
+
+[
+Offers her the pin.
+]
+
+SERVING-MAID
+
+The Master is not looking now.
+
+FRIAR
+
+A bargain?
+
+[
+Maid nods, takes the pin, and hurries off to serve at table. Friar
+follows.
+]
+
+HOST
+
+Welcome, Sir Knight!
+
+KNIGHT
+
+Is this the Tabard Inn?
+
+HOST
+
+[
+Points through the open door to his swinging sign.
+]
+
+Lo yonder, sir, is Herry Baileyâs shirt
+
+Flappeth in the wind; and this is Herry himself.
+
+[
+Claps his hands for a serving-boy.
+]
+
+[Pg 3]
+Knave!
+
+WEAVER
+
+[
+Pounds on the table with a jug, while Carpenter tosses
+
+dice.
+]
+
+Ale, here! Ale!
+
+[
+A shout from the pilgrims, front.
+]
+
+MILLER
+
+[
+Throwing the Cook.
+]
+
+Down!
+
+SHIPMAN
+
+Jolly chuck!
+
+COOK
+
+[
+Getting to his feet with a bloody nose and fisting.
+]
+
+âSblood! Thouâ
+
+FRANKLIN
+
+Hold, Master Cook, sith thou hast licked the platter,
+
+Go now and wash the gravy off thy nose.
+
+Look to him, doctor.
+
+DOCTOR
+
+Here!
+
+FRANKLIN
+
+[
+To the Miller.
+]
+
+And thou shalt eat
+
+[Pg 4]
+A sop of wine with me. By God, thy hand!
+
+PARSON
+
+[
+To Ploughman, drawing him away.
+]
+
+He sweareth like Sathanas. Come!
+
+PLOUGHMAN
+
+Toot, brother!
+
+A little swearing saveth from the gallows.
+
+MILLER
+
+[
+Laughing at the Cook.
+]
+
+His nose is like a tart.
+
+CLERK
+
+[
+To Chaucer, feasting his eyes on his book.
+]
+
+Grant pardon, sir.
+
+In vanitate humanorum rerum,
+
+Iâ the worldâs uproar, âtis sweet to find a scholar.
+
+CHAUCER
+
+A bookâs a mistress all the world may love
+
+And none be jilted.
+
+CLERK
+
+Then am I in love.
+
+What is the book?
+
+CHAUCER
+
+A medley, like its master,
+
+Containing many divers characters,
+
+Bound in one hide. Whoso shall read it through
+
+He shall behold Troilus and Launcelot
+
+Sighing in CÃ¦sarâs face, and Scaramouche
+
+[Pg 5]
+Painting with grins the back of Aristotle.
+
+CLERK
+
+[
+Sparkling.
+]
+
+What!âAristotle?
+
+CHAUCER
+
+[
+Rising, hands him the volume.
+]
+
+I prithee look it through.
+
+CLERK
+
+Grammercyâsomewhat farther from the piping.
+
+[
+Draws farther away from the Squire, who is beginning to
+play a few strains on his flute, in front of the fire.
+]
+
+MAN OF LAW
+
+[
+Entering with
+
+Merchant
+.]
+
+For this recognisanceâ
+
+MERCHANT
+
+The ship was wrecked.
+
+MAN OF LAW
+
+Depardieux! Then your property is flotsam
+
+And liable to salvage. Therefore you
+
+Will need me as your man-of-law.
+
+KNIGHT
+
+[
+To Chaucer.
+]
+
+I knew
+
+You were a soldier by your bearing, sir.
+
+[Pg 6]
+You were at Cressy?
+
+CHAUCER
+
+Nay, Sir Knight, I played
+
+With tin swords then. Though I have often fought
+
+At Frenchmenâs heels, I was but six years old
+
+When our Black Edward won his spurs.
+
+KNIGHT
+
+Runs time
+
+So swiftly?âOne and forty years ago!
+
+HOST
+
+[
+To a serving-maid.
+]
+
+Belive, wench!
+
+FRIAR
+
+[
+Stealing a kiss from her.
+]
+
+In principioâ
+
+HOST
+
+Whatâs here?
+
+MAID
+
+The gentle friar!
+
+HOST
+
+Gentle flower-de-luce!
+
+[
+Makes after Friar, who dodges behind
+
+Mistress Bailey
+.]
+
+MISTRESS BAILEY
+
+[
+Shrewishly.
+]
+
+Hold; goodman Herry! âTis a friend of mine.
+
+[
+Host retires; Friar mocks him.
+]
+
+[Pg 7]
+
+KNIGHT
+
+I am returning from the Holy Land
+
+And go to pay my vows at Canterbury.
+
+This is my son.
+
+CHAUCER
+
+Go you to Canterbury
+
+As well, Sir Squire?
+
+[
+The Squire, putting down his flute, sighs deeply.
+]
+
+KNIGHT
+
+My son, the gentleman
+
+Accosts thee!
+
+SQUIRE
+
+Noble gentlemanâAh me!
+
+[
+He turns away.
+]
+
+CHAUCER
+
+[
+Follows him.
+]
+
+My dearest heart and best beloved foe,
+
+Why liketh you to do me all this woe?
+
+What have I done that grieveth you, or said,
+
+Save that I love and serve you, high and low?
+
+And whilst I live I will do ever so.
+
+Wherefore, my sweet, do not that I be dead;
+
+For good and fair and gentle as ye be,
+
+It were great wonder if but that ye had
+
+A thousand thousand servants, good and bad:
+
+[Pg 8]
+The most unworthiest servantâI am he!
+
+SQUIRE
+
+Sir, by my ladyâs grace, you are a poet
+
+And lover, like myself. We shall be brothers.
+
+But pardon, sir, those verses are not yours.
+
+Dan Chaucer wrote them. Ah, sir, know you Chaucer?
+
+CHAUCER
+
+Twelve stone of him!
+
+SQUIRE
+
+Would
+I
+did! Is he not
+
+An amorous divinity? Looks he
+
+Like pale Leander, or some ancient god?
+
+CHAUCER
+
+Sooth, he is like old Bacchus round the middle.
+
+SQUIRE
+
+How acts he when in love? What feathers wears he?
+
+Doth he sigh oft? What lady doth he serve?
+
+Oh!
+
+[
+At a smile from Chaucer, he starts back and looks at
+him in awe; then hurries to the Knight. Chaucer walks among
+the pilgrims, talking with them severally.
+]
+
+MILLER
+
+[
+To Franklin.
+]
+
+Ten gallon ale? Godâs arms! I take thee.
+
+MAN OF LAW
+
+Whatâs
+
+[Pg 9]
+The wager?
+
+FRANKLIN
+
+Yonder door; this miller here
+
+Shall break it, at a running, with his head.
+
+The door is oak. The stakes ten gallon ale.
+
+SHIPMAN
+
+Ho, then, I bet the miller shall be drunk.
+
+MERCHANT
+
+What bet?
+
+SHIPMAN
+
+Twelve crown upon the miller.
+
+MERCHANT
+
+Done.
+
+[
+At the door appears the
+
+Prioress
+,
+
+accompanied by a
+
+Nun
+
+and her three
+
+Priests
+,
+one of whom
+,
+Joannes
+,
+
+carries a little pup. The Host hurries up with a
+reverence.
+]
+
+HOST
+
+Welcome, my lady dear. Vouchsafe to enter
+
+Poor Herry Baileyâs inn.
+
+PRIORESS
+
+Merci.
+
+HOST
+
+[
+To a serving-boy.
+]
+
+Knave, show
+
+My lady Prioress to the blue chamber
+
+[Pg 10]
+Where His Majesty, King Richard, slept.
+
+PRIORESS
+
+Joannes,
+
+Mark, Paulus, stay! have you the little hound
+
+Safe?
+
+JOANNES
+
+Yes, my lady.
+
+PRIORESS
+
+Carry him before,
+
+But carefully.
+
+MILLER
+
+[
+To Yeoman.
+]
+
+Here, nut-head, hold my hood.
+
+YEOMAN
+
+Wilt try bareheaded?
+
+FRIAR
+
+âMass!
+
+FRANKLIN
+
+Ho, for a skull!
+
+Miller, thou art as tough a knot as eâer
+
+The Devil tied. By God, mine ale is spilled.
+
+[
+The priests and Prioress have just reached the door,
+left front, which the Miller is preparing to ram.
+]
+
+PLOUGHMAN
+
+The door is locked.
+
+JOANNES
+
+[Pg 11]
+But, sir, the Prioressâ
+
+SHIPMAN
+
+Heigh! Clear the decks!
+
+[
+The Miller, with clenched fists, and head doubled over, runs
+
+for the door.
+]
+
+YEOMAN
+
+Harrow!
+
+PARSON
+
+Run, Robin.
+
+GUILD-MEN
+
+[
+Rise from their dice.
+]
+
+Ho!
+
+[
+With a crash, the Millerâs head strikes the door and
+splits it. At the shock, he rebounds against Joannes,
+and reaching to save himself from falling, seizes the
+puppy.
+]
+
+MILLER
+
+A twenty devils!
+
+GUILD-MEN
+
+[
+All but the Weaver, clambering over the table.
+]
+
+Come on!
+
+PLOUGHMAN
+
+[
+To the Miller.
+]
+
+What aileth thee?
+
+MILLER
+
+[Pg 12]
+The priest hath bit my hand.
+
+JOANNES
+
+Sweet sir, the puppyâ
+
+It was the puppy, sir.
+
+MILLER
+
+Wring me its neck.
+
+PRIORESS
+
+Alas, Joannesâhelp!
+
+MILLER
+
+By Corpus bones!
+
+Give me the cur.
+
+PRIORESS
+
+St. Loy! Will no one help?
+
+CHAUCER
+
+Madame, what may I do?
+
+PRIORESS
+
+My little houndâ
+
+The churlâMy little hound! The churl will hurt it.
+
+If you would fetch to me my little houndâ
+
+CHAUCER
+
+Madame, Iâd fetch you Cerberus from hell.
+
+MILLER
+
+[Pg 13]
+Lo, masters! See a dogâs neck wrung!
+
+CHAUCER
+
+[
+Breaking through the crowd, seizes the Miller by the throat.
+]
+
+Which dogâs?
+
+MILLER
+
+Leave go!ââSdeath! Take the whelp, a devilâs name.
+
+CHAUCER
+
+Kneel! Ask grace of this lady here.
+
+MILLER
+
+[
+Sullenly.
+]
+
+What lady?
+
+CHAUCER
+
+Of her whom gentles call St. Charity
+
+In every place and time.â
+
+[
+Turns then towards Prioress.
+]
+
+What other name
+
+This lady bears, I have not yet been honoured
+
+With knowing.âKneel!
+
+MILLER
+
+[
+Morosely; kneels.
+]
+
+Lady, I axe your pardon.
+
+CHAUCER
+
+[Pg 14]
+Madame, your little hound is safe.
+
+PRIORESS
+
+[
+Nestles the little hound with tender effusiveness; then
+turns shyly to Chaucer.
+]
+
+Merci!
+
+My name is Madame Eglantine.
+
+[
+Hurries out, left.
+]
+
+CHAUCER
+
+[
+Aside.
+]
+
+Hold, Geoffrey!
+
+Yon beastieâs quaking side thumped not as thine
+
+Thumps now. And wilt thou ape a little hound?
+
+Ah, Madame Eglantine, unless ye be
+
+To me, as well as him, St. Charity!
+
+FRANKLIN
+
+Who is the man?
+
+MILLER
+
+The Devil, by his eye.
+
+They say King Richard hath to court a wrastler
+
+Can grip ten men. I guess that he be him.
+
+COOK
+
+Ho! milksop of a miller!
+
+MILLER
+
+[
+Seizing him.
+]
+
+Say it twice;
+
+What?
+
+COOK
+
+[Pg 15]
+Nay, thou art a bull at bucking doors.
+
+FRANKLIN
+
+Let ribs be hoops for twenty gallon ale
+
+And stop your wind-bags. Come.
+
+MILLER
+
+[
+With a grin, follows the Franklin.
+]
+
+By Corpus bones!
+
+SHIPMAN
+
+Twelve crown.
+
+MERCHANT
+
+Twelve, say you? See my man-of-law.
+
+WEAVER
+
+[
+Springs to his feet.
+]
+
+The throw is mine!
+
+DYER
+
+A lie! When we were away
+
+You changed the dice!
+
+WEAVER
+
+My throw was cinq and three.
+
+DYER
+
+A lie! Have it in your gullet!
+
+[
+Draws his knife. They fight.
+]
+
+CARPENTER
+
+Part them!
+
+TAPICER
+
+[Pg 16]
+Back!
+
+HOST
+
+Harrow! Dick Weaver, hold! Fie, Master Dyer,
+
+Hereâs not a dyeing stablishment; we want
+
+No crimson clothâClap hands now: Knave, more ale.
+
+CHAUCER
+
+[
+To the Doctor.
+]
+
+If then, as by hypothesis, this cook
+
+Hath broke his nose, it follows first that we
+
+Must calculate the ascendent of his image.
+
+DOCTOR
+
+Precisely! Pray proceed. I am fortunate
+
+To have met a fellow-doctor at this inn.
+
+CHAUCER
+
+Next, treating him by magic natural,
+
+Provide him well with old authorities,
+
+As Esculapius, Diescorides,
+
+Damascien, Constantinus, Averrois,
+
+Hippocrates, Serapion, Razis,
+
+Bernardus, Galienus, Gilbertinusâ
+
+DOCTOR
+
+But, sir, the fellow cannot readâ
+
+CHAUCER
+
+Why, true;
+
+Then there remains but one sure remedy,
+
+Thus: bid him, fasting, when the moon is wane,
+
+And Venus rises in the house of Pisces,
+
+[Pg 17]
+To rub it nine times with a herringâs tail.
+
+DOCTOR
+
+Yea, Pisces is a fish.âI thank you, sir.
+
+[
+He hurries off to the Cook, whose nose he has patched.
+]
+
+HOST
+
+[
+To the Reeve, who enters.
+]
+
+God save thee, Osewold! Whatâs oâclock? Thou lookâst
+
+As puckered as a pear at Candlemas.
+
+REEVE
+
+There be too many folk iâ the world; and none
+
+Is ripe till he be rotten.
+
+[
+Sits at table.
+]
+
+Pennyâorth ale!
+
+SQUIRE
+
+My lord, father!
+
+KNIGHT
+
+Well, son?
+
+SQUIRE
+
+[
+Looking at Chaucer.
+]
+
+Sir, saw you ever
+
+So knightly, sweet, and sovereign a man,
+
+With eyes so glad and shrewdly innocent?
+
+O, when I laid my hand in his, and looked
+
+Into his eyes, meseemed I rode on horse
+
+Into the April open fields, and heard
+
+The larks upsinging in the sun. Sir, have
+
+[Pg 18]
+You guessed who âtis?
+
+KNIGHT
+
+To judge him by his speech,
+
+Some valiant officer.
+
+SQUIRE
+
+Nay,
+I
+have guessed.
+
+[
+A merry jingling of bells outside. Enter the Monk, holding
+
+up a dead swan.
+]
+
+MONK
+
+Soft! Handle not the fat swan. Give it me.
+
+Bailey, Iâll learn thy cook to turn a spit.
+
+[
+Exit, right. Enter, left, Joannes.
+]
+
+CHAUCER
+
+[
+To Ploughman.
+]
+
+Aye, man, but weather is the ploughmanâs wife
+
+To take for worse or better. If thy loam
+
+Be thin, and little snow, which is the best
+
+Manure, then thou must dung thy furrows twice
+
+âTwixt Michelmas and March.
+
+PLOUGHMAN
+
+Aye, but butâ
+
+JOANNES
+
+Sir Knight,
+
+This letter....
+
+CHAUCER
+
+[Pg 19]
+What! from whom?
+
+PLOUGHMAN
+
+Toot! Canst thou read, mon?
+
+JOANNES
+
+This letter, sir, my Lady Prioressâ
+
+CHAUCER
+
+From Madame Eglantine? Waits she an answer?
+
+JOANNES
+
+So please you, sir.
+
+CHAUCER
+
+Sweet saints!
+
+[
+Takes the letter and reads, aside.
+]
+
+PLOUGHMAN
+
+[
+Watches Chaucer curiously.
+]
+
+Aye, âe can read it.
+
+[
+Outside, is heard the distant voice of the Wife of
+Bath
+(
+Alisoun
+),
+joined in chorus by
+the
+
+Pardoner
+,
+Manciple
+,
+and
+
+Summoner
+,
+singing
+.]
+
+ALISOUN
+
+When folk oâ Faerie
+
+Are laughing in the laund,
+
+And the nix pipes low in the millerâs pond,
+
+Come hither, love, to me.
+
+[
+Chorus.
+]
+
+With doe and with dove,
+
+Come back to your love.
+
+[Pg 20]
+Come hither, love, to me.
+
+CHAUCER
+
+[
+Reading the Prioressâs letter, as the song outside sounds nearer.
+]
+
+âMonsieur lâinconnu Chevalierâ
+
+These greetings shall apprise you that the little hound
+is convalescent, and now suffereth from nothing save a
+sore necessity for nourishment. Wherefore, being cast in
+holy pilgrimage upon this revelous inn, I appeal once
+more, gentil monsieur, to your honourable chivalry, of
+which I beseech you this favour, to wit; that you shall
+see prepared and delivered into the hands of Joannes, my
+priest, a recipe as follows:â
+
+One ounce of wastel-bread, toasted a pleasant brown;
+
+One little cup of fresh milk;
+
+Soak the former in the latter, till the sand-glass shall be
+run half out;
+
+Then sprinkle sparingly with sweet root of beet, rubbed fine.
+
+Serve neatly.
+
+Madame Eglantine.
+â
+
+SHIPMAN
+
+[
+At the door, to Friar, who is starting to flirt with a third
+serving-maid.
+]
+
+Hist! Whoâs yon jolly Nancy riding here,
+
+With them three tapsters tooting up behind?
+
+FRIAR
+
+[Pg 21]
+By sweet St. Cuthbert!
+
+SHIPMAN
+
+Ha! ye ken the wench.
+
+FRIAR
+
+The wench? Oho! Thou sayest well. List, sir;
+
+List, gentle Mariner! Thy wench hath been
+
+A five times wedded and five hundred wooâd;
+
+Hath rode alone to sweet Jerusalem
+
+And back more oft than Dick-the-Lionâs-Heart;
+
+And in her right ear she is deaf as stone,
+
+Because, she saith, that once with her right ear
+
+She listened to a lusty Saracen.
+
+She was not born a-yesterday, yet, by
+
+The merry mass, when she comes in the door,
+
+She maketh sweet-sixteen as stale as dough.
+
+SHIPMAN
+
+She looks a jolly Malkin. Whatâs her name?
+
+FRIAR
+
+Dame Alisoun, a cloth-maker of Bath.
+
+CHAUCER
+
+[
+Reading.
+]
+
+âP.S. Let not the under-side be toasted as brown as the
+upper.
+
+P.P.S. The milk should not be skimmed.â
+
+[
+Laughs to himself.
+]
+
+âA little cup of milk and wastel-bread!â
+
+Haha!âA gentle heroine for a tale!
+
+[Pg 22]
+My heart is lost.
+
+[
+To Joannes, who is trembling at the Miller.
+]
+
+What, fellow, art thou scared?
+
+Come with me to the kitchen.
+
+JOANNES
+
+[
+Follows timidly.
+]
+
+Benâcite!
+
+[
+Exeunt.
+]
+
+[
+Outside the song, âCome hither, Love,â bursts into
+chorus. Enter the
+
+Wife of Bath
+,
+astride
+a small white ass, which is fancifully caparisoned like
+a fairy creature. Spurs jingle on the Wifeâs boots, and
+on her head is a great round hat. Followed by the
+
+Summoner
+,
+Pardoner
+,
+and
+
+Manciple
+,
+she rides into the middle of the
+floor and reins up.
+]
+
+ALISOUN
+
+Whoa-oop!âGod save this merry company!
+
+[
+A commotion.
+]
+
+By God, I ween ye ken not what I am:
+
+I am the jolly elf-queen, and this is
+
+My milk-white doe, whereon I ride as light
+
+As Robin Good-boy on a bumble-bee;
+
+[
+Indicating the assâs ears.
+]
+
+These be his wings.â
+
+And loâmy retinue!
+
+These here be choir-boys from Fairy-land.
+
+Come, Pardoner, toot up my praise anon.
+
+PARDONER
+AND
+ALISOUN [
+sing
+]
+
+When sap runs in the tree,
+
+And the huntsman sings âHalloo!â
+
+And the greenwood saith: âPeewit! Cuckoo!â
+
+[Pg 23]
+Come hither, love, to me.
+
+SWAINS
+AND
+ALISOUN
+
+With turtle and plover,
+
+Come back to your lover.
+
+Come hither, love, to me.
+
+ALISOUN
+
+Now, lads, the chorus!
+
+[
+The Swains and Alisoun, joined by several other pilgrims,
+
+repeat chorus.
+]
+
+MILLER
+
+Nails and blood! Again!
+
+FRIAR
+
+Encore!
+
+ALISOUN
+
+Nay lads, the song hath dried my whistle.
+
+The first that fetches me a merry jug
+
+Shall kiss my lily-white hand.
+
+[
+The Swains, with a shout, scramble to get ale of the tapster.
+]
+
+SWAINS
+
+Here, ale here! ale!
+
+HOST
+
+Slow, masters! Turtle wins the rabbit race.
+
+MILLER
+
+[
+Offers his tankard, tipsily.
+]
+
+[Pg 24]
+Giveâs thy hand, girl.
+
+ALISOUN
+
+Thou art drunk! âTis empty.
+
+MILLER
+
+Well, âtis a jug. Ye said âa merry jug.â
+
+ALISOUN
+
+Pardee! Iâll keep my word.
+
+MILLER
+
+[
+Grinning, raises his face to her.
+]
+
+A kiss?
+
+ALISOUN
+
+A smack!
+
+[
+Flings the tankard at his head.
+]
+
+MILLER
+
+[
+Dodging it.
+]
+
+Harrow!
+
+THE OTHER SWAINS
+
+[
+Pell-mell.
+]
+
+Here! here! Take mine!
+
+FRIAR
+
+Drink, sweet Queen Mab!
+
+[
+Re-enter Chaucer and Joannes. Chaucer carries in his
+
+hand a crock.
+]
+
+[Pg 25]
+
+ALISOUN
+
+[
+To the Friar.
+]
+
+What, Huberd, are ye there? Ye are too late,
+
+All oâ ye! The elf-queen spies her Oberon.
+
+[
+Wheeling the ass to confront Chaucer.
+]
+
+By God, sir, youâre the figure of a man
+
+For me.âGive me thy name.
+
+CHAUCER
+
+Your Majesty,
+
+This is most sudden. Dare I hope you would
+
+Have me bestow my humble name upon you?
+
+ALISOUN
+
+Make it a swap, mon. Mine is Alisoun,
+
+And lads they ken me as the Wife of Bath!
+
+CHAUCER
+
+My name is Geoffrey. When the moon is full,
+
+I am an elf and skip upon the green;
+
+By my circumference fairy-rings are drawn,
+
+And lasses ken me as the Elvish Knight.
+
+SQUIRE
+
+[
+Aside.
+]
+
+Father, âtis heâthe poet laureate!
+
+KNIGHT
+
+[Pg 26]
+Brother-in-law to John of Gaunt?
+
+SQUIRE
+
+The same.
+
+SHIPMAN
+
+[
+Offers his mug again.
+]
+
+Take this, old girl.
+
+ALISOUN
+
+The devil take a tar.
+
+[
+Snatches the crock from Chaucerâs hand.
+]
+
+Iâll take a swig from Geoffreyâs.âHoly Virgin!
+
+What pap is this here? Milk and wastel-bread?
+
+CHAUCER
+
+Nay, âtis a kind of brew concocted from
+
+The milky way, to nurse unmarried maids.
+
+ALISOUN
+
+[
+Hands it back quickly.
+]
+
+Saints! None oâ that for me.
+
+CHAUCER
+
+[
+Aside to Joannes.
+]
+
+Bear it to your mistress.
+
+ALISOUN
+
+[
+Aside.
+]
+
+Mistress? Aha!âA woman in the case.
+
+[
+Aloud.
+]
+
+Give us your hand, Sir Knight oâ the Wastel-bread,
+
+And help me light adown.â
+
+What! Are ye afeared
+
+[Pg 27]
+To take me in your arms?
+
+CHAUCER
+
+Sweet Alisoun,
+
+Thou art a vision of the ruddy Venus
+
+Bright pommelled on the unspotted Pegasus,
+
+And I am Ganymede, thy stable boy.
+
+[
+He helps her to alight.
+]
+
+ALISOUN
+
+Well swung! What think ye of my jolly heft?
+
+CHAUCER
+
+Thou art a very dandelion seed
+
+And I thy zephyr.
+
+MILLER
+
+[
+To the Swains.
+]
+
+âSblood! He steals our wench.
+
+SQUIRE
+
+[
+Approaching Chaucer diffidently, speaks under his breath.
+]
+
+Great Master Chaucer.
+
+CHAUCER
+
+Hush! Speak not my name.
+
+[
+Takes the Squire aside.
+]
+
+ALISOUN
+
+Halloa! whatâs struck this jolly company?
+
+Yeâre flat as stale ale. Master Summoner, whatâs
+
+The matter now? Ye should be glad at heart
+
+[Pg 28]
+To wear so merry a bonfire in your face.
+
+SUMMONER
+
+Was it for this I sang, âCome hither, Loveâ?
+
+COOK
+
+Aye, was it for this?
+
+ALISOUN
+
+What, Roger Hogge, yourself?
+
+How long, bird, have you worn a gallows-warrant
+
+Upon your nose?
+
+[
+The others hoot.
+]
+
+COOK
+
+As long, Dame Alisoun,
+
+As you have had a hogshead for a sweetheart.
+
+ALISOUN
+
+Geoffrey, ye mean? Ho! Are ye jealous there?
+
+[
+To the Shipman.
+]
+
+Jack, too, and hast a wife to home at Dartmouth?
+
+Hark, lads! This Jealousy is but a ninny;
+
+For though there be a nine-and-twenty stars,
+
+Yet Jealousy stares only at the moon.
+
+Lo! I myself have made a vow âtwixt here
+
+And holy Thomasâ shrine to twig a husband;
+
+But if I like this fellow Geoffrey, canât
+
+I like ye all? By God, give me your fists;
+
+[Pg 29]
+And I will tip ye a secret.
+
+[
+Mysteriously.
+]
+
+I am deef!
+
+Ye ken all great folks have some great defect:
+
+Cupid is blind and Alisoun is deef;
+
+But Cupidâhe can wink the tâother eye,
+
+And Alisâshe can ope the tâother ear.
+
+FRIAR
+
+Sweet Alis, which is deaf?
+
+ALISOUN
+
+I said, the tâother.
+
+FRIAR
+
+Nay, but which ear, the right or left?
+
+ALISOUN
+
+Love, if
+
+Ye guess the right ye wonât be left: howâs that?
+
+So, fellows, ye can knock at either door;
+
+And while Tom standeth scraping the front mat,
+
+By God then, Dick, go rap at the side porch;
+
+The tâother door is locked; I say not which.
+
+[
+Laughing and boxing their ears as they try, in turn,
+to whisper to her, she leads them to the ale-barrel, where
+they drink.
+]
+
+FRIAR
+
+Sweet brethren, drink with me to tâother ear!
+
+ALISOUN
+
+[Pg 30]
+Hereâs pot-luck to you all, lads!
+
+PARDONER.
+
+[
+Who has spread out his relics in another part of the room.
+]
+
+Pardons! pardons!
+
+Offer your nobles now; spoons, brooches, rings:
+
+Radix malorum est cupiditas.
+
+CHAUCER
+
+[
+Aside to Squire.
+]
+
+Pray, speak no word of who I am. I ride
+
+To Canterbury now, to bid farewell
+
+My kinsman, John of Gaunt. But on the road,
+
+I travel here incognito.
+
+SQUIRE
+
+But, sir,
+
+At least, beseech you, let me guard your person;
+
+So mean an inn, such raw folk, must offend
+
+King Richardâs royal poet.
+
+CHAUCER
+
+Not so, lad.
+
+To live a king with kings, a clod with clods,
+
+To be at heart a bird of every feather,
+
+A fellow of the finch as well as the lark,
+
+The equal of each, brother of every man:
+
+That
+is to be a poet, and to blow
+
+Apolloâs pipe with every breath you breathe.
+
+Therefore, sweet boy, donât label me again
+
+In this good company.
+
+SQUIRE
+
+I will not, sirâ
+
+[
+Aside.
+]
+
+[Pg 31]
+A god! A very god!
+
+PARDONER
+
+Hereâs relics! pardons!
+
+Offer your nobles now; spoons, brooches, rings!
+
+Lordings, step up! Pardons from Rome all hot.
+
+[
+A crowd gathers round him.
+]
+
+PARSON
+
+[
+Lifting a relic.
+]
+
+Whatâs this?
+
+PARDONER
+
+That, master, is the shoulder-bone
+
+Of a sheep once slaughtered by a holy Jew.
+
+Take heed, lordings, take heed! What man is here
+
+That hath to home a well?
+
+SEVERAL
+
+I! I!
+
+PARDONER
+
+Pay heed!
+
+Let any man take this same shoulder-bone
+
+And chuck it in his well, and if he own
+
+A cow, or calf, or ass, which hath the pox,
+
+Take water from that well, and wash its tongue.
+
+Presto! It shall be well again.
+
+PLOUGHMAN
+
+[
+To the Parson.
+]
+
+By Mary,
+
+[Pg 32]
+Iâll try it on Mol.
+
+PARDONER
+
+Hark, lordings, what I say!
+
+If also the goodman that owns the beasts
+
+Shall, fasting, before cock-crow, drink three draughts
+
+Of that same well, his store shall multiply.
+
+PARSON
+
+My word!
+
+FRANKLIN
+
+Nay, thatâs worth while.
+
+PARDONER
+
+List what I say!
+
+Also, if any wife shall boil a broth
+
+Of this same bone, it healeth jealousy.
+
+ALISOUN
+
+Ho! give it me! And every fellow here
+
+Shall suck the marrow-bone.
+
+PARDONER
+
+What will you offer?
+
+ALISOUN
+
+[
+Throws a kiss.
+]
+
+Thatâs all ye get oâ me.
+
+PARSON
+
+Iâll give a florin.
+
+PARDONER
+
+Done, Master Parson. Listen, lordings, list!
+
+This is a piece oâ the sail St. Peter had
+
+[Pg 33]
+When he walked on the sea; and lo! this clothâ
+
+ALISOUN
+
+A pillow-case!
+
+PARDONER
+
+This is the Virginâs veil.
+
+And in this crystal glass beholdâ
+
+ALISOUN
+
+Pigâs bones!
+
+[
+Slaps Chaucer on the shoulder.
+]
+
+What, Geoffrey lad! Which will ye liever kiss,
+
+A dead saintâs bones, or a live lassâher lips?
+
+[
+Enter, L., the Prioress.
+]
+
+CHAUCER
+
+Why, Alisoun, I say all flesh is grave-clothes,
+
+And lips the flowers that blossom oâer our bones;
+
+God planted âem to bloom in laughterâs sunshine
+
+And April kissing-showers.
+
+[
+Laughing, he kisses Alisoun and faces the Prioress.
+]
+
+St. Charity!
+
+ALISOUN
+
+Haha! That time I had thee on the rump.
+
+[
+She calls the Friar aside, R.
+]
+
+PRIORESS
+
+[
+Starting to go.
+]
+
+[Pg 34]
+Je vous demande pardong, Monsieur.
+
+CHAUCER
+
+Madame,
+
+Quâest ce que je puis faire pour elle?
+
+PRIORESS
+
+Rien, rien.
+
+CHAUCER
+
+Madame, mais si vous saviez comme je meurs
+
+De vous servirâ
+
+PRIORESS
+
+You speak patois,
+
+Monsieur;
+I
+studied French in
+Stratford-at-the-Bowe.
+
+CHAUCER
+
+Your accent is adorablyâunique.
+
+PRIORESS
+
+[
+Is about to melt, but sees Alisoun.
+]
+
+And you a gentilhommeâat least I thought so
+
+Whenas you saved my little houndâAh, sir!
+
+CHAUCER
+
+Adam was our first father: Iâm her brother.
+
+PRIORESS
+
+You meant no more?
+
+CHAUCER
+
+Her brother and your servant,
+
+Madame. And for the rest, I ride to Canterbury:
+
+[Pg 35]
+I will absolve me at St. Thomasâ shrine.
+
+PRIORESS
+
+[
+Eagerly.
+]
+
+Go you to Canterbury?
+
+CHAUCER
+
+With the rest.
+
+PRIORESS
+
+Oh! I am gladâthat is, I came to ask you.
+
+Know you, Monsieur, where lies upon the way
+
+A little thorp men call Bob-up-and-down?
+
+CHAUCER
+
+Right wellâwe pass it on the road.
+
+PRIORESS
+
+We do?
+
+Merci.
+
+[
+Going.
+]
+
+MILLER
+
+[
+Amid uproar, drinks to Alisoun.
+]
+
+Lend me thy tâother ear.
+
+[
+Startled, the Prioress returns to Chaucer. Behind them,
+
+the Friar, at a sign from Alisoun, listens unobserved.
+]
+
+PRIORESS
+
+You seeâ
+
+I expect to meet my brother on the road.
+
+He is returning from the Holy Land;
+
+I am to meet him at the One Nine-pin,
+
+[Pg 36]
+A tavern at Bob-up-and-down. Butâ
+
+CHAUCER
+
+But?
+
+PRIORESS
+
+I have not seen him since I was a child.
+
+I have forgotten how he looks.
+
+CHAUCER
+
+He is
+
+Returning from the Holy Land?
+
+PRIORESS
+
+And has
+
+His son with him, for squire. He is a knight.
+
+CHAUCER
+
+[
+Aside, looking at the Knight and Squire.
+]
+
+A sonâhis squire? Good Lord!
+
+PRIORESS
+
+And so, Monsieur,
+
+Iâm boldened by your courtesy to ask
+
+Your help to find him at Bob-up-and-down,
+
+Till whichâyour kind protection on the road.
+
+[
+More uproar, R.
+]
+
+CHAUCER
+
+Butâ
+
+PRIORESS
+
+Have I asked too much?
+
+CHAUCER
+
+Madame, I am honoured.
+
+[
+Hesitatingly.
+]
+
+[Pg 37]
+How, then, am I to recognise your brother?
+
+PRIORESS
+
+He wears a ring, on which is charactered
+
+The letter âA,â and after, writ, in Latin,
+
+The same inscription as is fashioned here
+
+Upon my brooch. I may not take it off,
+
+For I did promise him to wear it always.
+
+But look, sir, hereâs the motto. Can you read it?
+
+[
+She extends her hand, from the bracelet of which dangles a
+
+brooch. The Friar draws nearer.
+]
+
+CHAUCER
+
+I thank you.
+
+[
+Reads.
+]
+
+âAmor vincit omnia.â
+
+[
+Looking at her.
+]
+
+âLove conquers all.â
+
+PRIORESS
+
+Câest juste, Monsieur. Adieu!
+
+[
+Exit, L.
+]
+
+FRIAR
+
+[
+Making off to Alisoun.
+]
+
+Hist! âAmor vincit omnia,â Sweet Alis!
+
+[
+After talking aside with Alisoun he goes to the Knight.
+]
+
+CHAUCER
+
+[
+Aside, looking at the Knight and Squire.
+]
+
+A morningâs canter to Bob-up-and-down!
+
+âTill whichâmy kind protection on the road.â
+
+When last they met, she was a little child;
+
+[Pg 38]
+Besides, I will make verses for his son.
+
+A morningâs canterâtime, the month of Aprilâ
+
+Place, Merry EnglandâWhy not Lord Protector
+
+Geoffrey? Her brother! Whatâs a suit of armor?
+
+Nay! âAmor vincit omnia.â
+
+[
+Turns away.
+]
+
+FRIAR
+
+[
+To the Knight, whose finger-ring he examines.
+]
+
+How quaint, sir!
+
+A crownÃ¨d âAâ and underneath a motto.
+
+KNIGHT
+
+Quite so.
+
+FRIAR
+
+Merci!
+
+[
+Returns quickly to Alisoun.
+]
+
+ALISOUN
+
+Her brotherâthe One Nine-pin?
+
+FRIAR
+
+To-morrow.
+
+ALISOUN
+
+Good.
+
+FRIAR
+
+Sweet Alisounâmy pay?
+
+ALISOUN
+
+Saith holy Brother Huberd? Loveâs reward
+
+Is service.
+
+[
+Aside, eyeing Chaucer, who passes her.
+]
+
+Corpus Venus! What a figure!
+
+Iâll woo him. Ay; but first to rid me of
+
+[Pg 39]
+These other fellows.
+
+[
+To the Friar.
+]
+
+Hist!
+
+In Peggyâs stallâ
+
+Peggyâs my milk-white doeâin Peggyâs stall,
+
+Thouâlt find another jolly beggar, waits
+
+To dun me.
+
+FRIAR
+
+Ho! A rendezvous?
+
+ALISOUN
+
+A trysting.
+
+Go, for my love, and play the wench for me,
+
+And nab him by the ears until I come.
+
+FRIAR
+
+St. Cupid, I am game. In Peggyâs stall?
+
+[
+Exit.
+]
+
+[
+Alisoun whispers aside individually to the Shipman and Manciple,
+who exeunt at different doors.
+]
+
+CARPENTER
+
+Sack? Sack in the cellarage?
+
+WEAVER
+
+Come on, letâs tap it.
+
+[
+Exeunt with a number of others.
+]
+
+SUMMONER
+
+[
+At table, trying to rise.
+]
+
+Quâquestio quid juris?
+
+COOK
+
+Now heâs drunk
+
+[Pg 40]
+Youâll get no more from him but âhic, hac, hoc.â
+
+ALISOUN
+
+[
+Aside to the Miller.
+]
+
+And hold him till I come.
+
+MILLER
+
+In Peggyâs stall?
+
+His ears shall be an ell long!âPull his ears!
+
+[
+Exit.
+]
+
+CLERK
+
+[
+Dazedly to Chaucer, returning him his book.
+]
+
+I thank you, sir. Is this the Tabard Inn?
+
+So then Iâm back again. Such mighty voyages
+
+The mind sails in a book!
+
+[
+He walks slowly forth into the air. Chaucer sits again
+by the fireplace, with the book on his knees.
+]
+
+ALISOUN
+
+[
+Aside to the Cook.
+]
+
+Hold fast, and wait.
+
+COOK
+
+In Peggyâs stall?
+
+ALISOUN
+
+Aye.
+
+COOK
+
+Ears for nose, Bob Miller.
+
+[
+Exit.
+]
+
+CHAUCER
+
+[
+Aside.
+]
+
+In Peggyâs stall,
+
+âLove conquers all.â
+
+[
+Except for the drunken Summoner, Alisoun and Chaucer
+
+are now alone.
+]
+
+[Pg 41]
+
+ALISOUN
+
+[
+To the Summoner, lifting his head from the table.
+]
+
+Ho, cockerel! Perk up thy bill.
+
+SUMMONER
+
+Quid juris?
+
+ALISOUN
+
+Cluck! Cluck! How pretty Red-comb chucketh. Hark!
+
+[
+Throwing her arms round his neck, she whispers in his ear.
+]
+
+SUMMONER
+
+A pax! What did aâ say? A pax upon him.
+
+Aâ said aâd pull my earsâin Peggyâs stall?
+
+By questio! a brimstone-cherubâme!
+
+[
+Rising.
+]
+
+Quid juris! Blood shall spurt. By quid! His nose
+
+Shall have a pax. By nails! A bloody quid!
+
+[
+Seizing up from the table a round loaf for a shield and
+a long loaf for a sword, he reels out.
+]
+
+ALISOUN
+
+[
+Laughing.
+]
+
+So, Peggy, they shall woo thy lily-white hoof,
+
+While Alisoun doth keep her rendezvous.
+
+[
+Comes over to Chaucer.
+]
+
+Ho, candle! Come out from thy bushel.
+
+CHAUCER
+
+[
+Peering over the edge of his book.
+]
+
+Nay,
+
+[Pg 42]
+âTis a dark world to shine in; I will read.
+
+ALISOUN
+
+A book! Toot! My fifth husband was a clerk;
+
+He catched more learning
+on
+his head than in it.
+
+What isât about?
+
+CHAUCER
+
+The wickedness of woman.
+
+ALISOUN
+
+A man, then, wrote it. If you men will write,
+
+We wives will keep ye busy. Readâs a snack.
+
+CHAUCER
+
+[
+Pretending to read.
+]
+
+âWhoso that builds his mansion all of mallows,
+
+Whoso that spurs his blind horse over the fallows,
+
+Whoso that lets his wife seek shrines and hallows,
+
+Is worthy to be hanged on the gallows.â
+
+ALISOUN
+
+Chuck that to another dog. My man is dead.
+
+CHAUCER
+
+[
+Imperturbably.
+]
+
+âA lovely woman, chaste, is like a rose;
+
+Unchaste, a ring of gold in a sowâs nose.â
+
+ALISOUN
+
+Lo, what a pretty preaching pardoner!
+
+âOffer your nobles now; spoons, brooches, rings!â
+
+[Pg 43]
+Cork up thy froth, a devilâs name! Come, play.
+
+CHAUCER
+
+âBetter it is to dwell high on the roof
+
+Than down iâ the house where woman wields reproof.â
+
+O what a list of ladies! What a world!
+
+Hark, Alisoun! and after thou hast heard,
+
+Repent, and cease to be a woman. Hark!
+
+âWho first obeyed the snakeâs advice, to thieve
+
+The apple from Godâs Eden?âMother Eve.â
+
+ALISOUN
+
+Thatâs Adamâs whopper. He stole it and hid inâs throat:
+
+Feel oâ your own; the apple sticks there yet.
+
+CHAUCER
+
+[
+Dramatically.
+]
+
+âWho from great Samsonâs brow hath slyly shorn
+
+His strength? Delila, answer to thy scorn.
+
+O Hercules! What woman-shaped chimaera
+
+Gave thee the poisoned cloak? Thy Deianira.
+
+O pate of Socrates! Who from the steepy
+
+Housetop upset the slop-pail? Thy Xantippe!
+
+Yea, speeding her lover through the dark finestra,
+
+Who hath her husband slain, but Clytemnestra!
+
+Thou, too, O Cleopatraââ
+
+ALISOUN
+
+[
+Tearing a page out of the book, boxes Chaucer on the cheek.
+]
+
+Hold thy gab!
+
+[Pg 44]
+A devil fetch thy drasty book!
+
+CHAUCER
+
+Hold, hold,
+
+Dame Alis! gentle Alisounâ
+
+[
+Recovers the torn page.
+]
+
+ALISOUN
+
+Hoot-toot!
+
+Are ye so dainty with a dirty parchment
+
+And so slipshod to smirch our reputations?
+
+You men! Godâs arms! What ken ye of true women?
+
+You stuff one doll and name it Modesty,
+
+And bid her mince and giggle, hang her head
+
+And ogle in her sleeve; another poppet
+
+You make of snow and name St. Innocence:
+
+She sits by moonlight in a silver night-gown
+
+And sighs love-Latin in a nunnery.
+
+By Corpus bones! is not a mare a horse?
+
+A woman is but man; and both one beastâ
+
+A lusty animal, for field or harness.
+
+But no! ye sanctify a squeamish mule;
+
+And when an honest wench, that speaks her mind,
+
+Meets a fine lad and slaps him on the buttock,
+
+And says out plat: âThou art a man: I love theeââ
+
+She is a sinner, and your doll a saint.
+
+CHAUCER
+
+Alis, thou speakâst like one in jealousy.
+
+ALISOUN
+
+Why, Geoffrey, so I am. To tell thee flat,
+
+[Pg 45]
+Iâm jealous of thy Lady Prioress.
+
+CHAUCER
+
+Peace, dame. Speak not her name with mine.
+
+ALISOUN
+
+Aye, go it,
+
+Miss Innocence and Master Modesty!
+
+Howâs that?
+
+CHAUCER
+
+Dame Alisoun, it is enough.
+
+ALISOUN
+
+Why, then, it is enough. Come, lad; clap hands.
+
+I am a bud of old experience,
+
+Whom frost neâer yet hath nipped. In love, Iâve danced
+
+The waltz and minuet. Therefore, sweet Geoffrey,
+
+This Prioress wears a brooch upon her wrist.
+
+CHAUCER
+
+Well, what of that?
+
+ALISOUN
+
+Yea, âWhat of that?â Good soul!
+
+She stops to-morrow at Bob-up-and-down.
+
+CHAUCER
+
+How knowest thou?
+
+ALISOUN
+
+Nay, tâother ear is wise.
+
+At the One Nine-pin she shall meetâ
+
+CHAUCER
+
+[Pg 46]
+Her brother.
+
+ALISOUN
+
+What wilt thou bet she goes to meet her brother?
+
+CHAUCER
+
+Why, anything.
+
+ALISOUN
+
+Hear that! As though a veil
+
+Were perfect warrant of virginity.
+
+What wilt thou bet she goeth not to meet
+
+Her lemanâaye, her lover?
+
+CHAUCER
+
+Thou art daft.
+
+ALISOUN
+
+Lo, subtle man! He robs a poor wifeâs wits
+
+To insure his ladyâs honour.
+
+CHAUCER
+
+Tush, tush, dame.
+
+The very brooch she wears, her brother gave her,
+
+For whose sake she hath even promised never
+
+To take it off.
+
+ALISOUN
+
+Wilt
+bet
+me?
+
+CHAUCER
+
+Bet away!
+
+ALISOUN
+
+Ho, then, it is a bet, and this the stakes:
+
+If that my Lady Prioress shall give
+
+Yon brooch of gold from off her pretty wrist,
+
+Unto the man whom she expects to meet,
+
+And that same man prove not to be her brother,
+
+[Pg 47]
+Then thou shalt marry me at Canterbury.
+
+CHAUCER
+
+A twenty of thee, dame. But if thou lose
+
+The stakes, then thou shalt kneel a-down and kiss
+
+Yon brooch of gold upon her pretty wrist,
+
+And pray the saints to heal thy jealousy.
+
+ALISOUN
+
+Aye, man, it is a bet; and hereâs my fist.
+
+CHAUCER
+
+And hereâs mine, Alis; thou art a good fellow.
+
+[
+An uproar outside.
+]
+
+What row is this?
+
+ALISOUN
+
+Here comes my rendezvous.
+
+[
+Enter in tumult, the Friar, Miller, Cook, Shipman,
+Summoner, and Manciple, holding fast to one anotherâs ears.
+They call out, partly in chorus.
+]
+
+FRIAR
+
+Heâs nabbed, sweet Alisoun.
+
+MILLER
+
+Here is the lousel.
+
+SUMMONER
+
+Iâve got his quids.
+
+COOK
+
+I stalled him.
+
+ALISOUN
+
+Hang fast, hold him!
+
+Ho! fetch him down. [
+Laughing.
+] O Geoffrey, hereâs a wooing!
+
+CHAUCER
+
+[Pg 48]
+Yea; âAmor vincit omnia.â
+
+ALL THE SWAINS
+
+Here he is!
+
+ALISOUN
+
+Leave go.
+
+[
+They let go ears.
+]
+
+Where is the knave?
+
+ALL
+
+[
+Pointing at one another.
+]
+
+There.
+
+ALISOUN
+
+Which one?
+
+ALL
+
+[
+Pointing at one another.
+]
+
+Him!
+
+ALISOUN
+
+So, so! Hath Peggy jilted all of ye,
+
+That took such pains to grow you assesâ ears?
+
+Fie! Pegâs a jadeâcome back to Alisoun;
+
+Sheâll learn ye the true dance of love.
+
+ALL
+
+The devil!
+
+CHAUCER
+
+Nay, Robin Huberd, Rogerâlads, chirk up.
+
+These be the thorny steps of Purgatory
+
+That lead ye to your Beatrice of Bath.
+
+When ye attain unto her tâother earâ
+
+[
+They groan.
+]
+
+FRIAR
+
+[Pg 49]
+We have attained unto it.
+
+ALISOUN
+
+[
+To Chaucer.
+]
+
+Go thy ways!
+
+[
+Draws them aside.
+]
+
+Come here, sweethearts! Hark! I have made a bet
+
+With goodman Geoffrey yonder. Him as helps
+
+Me best to win my bet, by God! he shall
+
+Make merry for my marriage. Come, which fellow
+
+Will help me?
+
+ALL
+
+I!
+
+ALISOUN
+
+The best shall make me bride.
+
+[
+A kitchen-boy blows a horn.
+]
+
+BOY
+
+[
+Shouts.
+]
+
+Meat!
+
+[
+Servants enter with steaming trenchers; the other
+pilgrims come in and seat themselves at the table. The
+Prioress stands hesitating. Chaucer goes to meet her.
+]
+
+HOST
+
+[
+Rises on a bench.
+]
+
+Lordings, who goes to Canterbury?
+
+ALL
+
+I!
+
+CHAUCER
+
+[
+Offers his arm to the Prioress.
+]
+
+[Pg 50]
+Madame, will you vouchsafe to me the honour?
+
+PRIORESS
+
+[
+With a stately courtesy.
+]
+
+Merci.
+
+ALISOUN
+
+[
+Imitating the Prioress, takes his other arm.
+]
+
+Merci!
+
+[
+Chaucer escorts them both to the table, where he sits between
+
+them.
+]
+
+HOST
+
+Lordings! Now hearkneth to a merry game.
+
+To-morrow when you canter by the way
+
+It is no mirth to ride dumb as a stone.
+
+I sayâlet every fellow tell a tale
+
+To short the time, and him as tells the best
+
+Youâll give a supper here when ye return.
+
+Lo! I myself will ride with you and judge.
+
+If ye assent, hold up your hands.
+
+ALL
+
+Aye! Aye!
+
+HOST
+
+To-morrow then to Canterbury!
+
+ALL
+
+To Canterbury!
+
+[
+Amid the babbling din of eating, drinking, and
+laughter, Alisoun leans across Chaucerâs trencher towards
+the Prioress.
+]
+
+ALISOUN
+
+Who is the lean wench, Geoffrey?
+
+PRIORESS
+
+By St. Loy!
+
+Explicit pars prima.
+
+[Pg 51]
+
+ACT SECOND
+
+[Pg 53]
+âWhan that Aprille with his shoures sote
+
+The droghte of Marche hath perced to the rote,
+
+And bathed every veyne in swich licour,
+
+Of which vertu engendred is the flour;
+
+Whan Zephirus eek with his swete breeth
+
+Inspired hath in every holt and heeth
+
+The tendre croppes, and the yonge sonne
+
+Hath in the Ram his halfe cours y-ronne,
+
+And smale fowles maken melodye,
+
+That slepen al the night with open ye,
+
+(So pricketh hem nature in hir corages):
+
+[Pg 52]
+Then longen folk to goon on pilgrimages.â
+
+ACT II
+
+Time
+: April 19th. The afternoon.
+
+Scene
+: Garden of the One Nine-pin inn at the
+little hamlet of Bob-up-and-down, en route to Canterbury.
+
+Right, the inn, with door opening into garden. Back, a
+wall about chin-high in which is a wicket gate. The wall
+is newly greened over with honeysuckle and rose-vines,
+which are just beginning to blossom. Left, an arbour of
+the same. Right front, a rough table and chair. Behind
+the garden wall runs the highway, beyond which stretches
+a quiet rolling landscape, dotted with English elms and
+hedgerows.
+
+When the curtain rises, the scene is empty. There is
+no sound except the singing of birds, and the hum of a
+loom inside the inn. Then, away to the left, is heard a
+bagpipe playing. It draws nearer. Behind the wall, then,
+against the green background of Spring, pass, in pageant,
+the
+
+Canterbury Pilgrims
+
+on horseback.
+Among the last, astride her ambler, rides the
+
+Wife
+of Bath
+,
+telling her tale, in the group with
+
+Chaucer
+
+and the
+
+Prioress
+.
+
+Behind her follow the Swains, the
+
+Miller
+
+playing the bagpipe. Last rides the
+
+Reeve
+.
+
+Behind the scene, they are heard to stop at the inn
+and call for hostlers. The bustle of arrival, horses led
+across a stone court, laughter and abuse,âthese sounds
+are sufficiently
+[Pg 54]
+remote to add to the reigning sense
+of pleasant quietness in the garden. Through the door
+of the inn enters
+
+Chaucer
+,
+alone; in
+his hand, some parchments. He enters with an abandon of
+glad-heartedness, half reading from his parchments
+.
+
+CHAUCER
+
+âWhen that April with his sunny showers
+
+Hath from the drought of March the dreamy powers
+
+Awaked, and steeped the world in such sweet wine
+
+As doth engender blossoms of the vine;
+
+When merry Zephirus, with his soft breath,
+
+In every hedge and heath inspireth
+
+The tender greening shoots, and the young Sun
+
+Hath half his course within the Ram y-run,
+
+And little birds all day make melody
+
+That, all night long, sleep with an open ee,
+
+(So Nature stirs âem with delicious rages)
+
+Then folk they long to go on pilgrimagesââ
+
+SQUIRE
+
+[
+Comes from the inn.
+]
+
+Dan Chaucer! Master Chaucer!
+
+CHAUCER
+
+Signorino!
+
+SQUIRE
+
+Sir, what a ride! Was ever such a ride
+
+As ours from London? Hillsides newly greened,
+
+Brooks splashing silver in the small, sweet grass,
+
+Pelt gusts of rain darkâning the hills, and then
+
+[Pg 55]
+Wide swallowed up in sunshine! And to feel
+
+My snorting jennet stamp the oozy turf
+
+Under my stirrup, whilst from overhead
+
+Sonnets shook down from every bough. Oh, sir,
+
+Rode CÃ¦sar such a triumph from his wars
+
+When Romeâs high walls were garlanded with girls?
+
+CHAUCER
+
+Boy, let me hug thee!
+
+SQUIRE
+
+Noble sir!
+
+CHAUCER
+
+[
+Embracing him.
+]
+
+A hug!
+
+Spring makes us youths together. On such a day
+
+Old age is fuddled and timeâs weights run down.
+
+Hark!
+
+[
+A cuckoo sounds; they listen.
+]
+
+The meadow is the cuckooâs clock, and strikes
+
+The hour at every minute; larks run up
+
+And ring its golden chimes against the sun.
+
+SQUIRE
+
+Sir, only lovers count the time in heaven.
+
+Are you in love, too?
+
+CHAUCER
+
+Over head and heart.
+
+SQUIRE
+
+Since long?
+
+CHAUCER
+
+[Pg 56]
+These forty years.
+
+SQUIRE
+
+Nay, is your mistress
+
+So old?
+
+CHAUCER
+
+Sheâs still kind.
+
+SQUIRE
+
+Kind, yet old! Nay, whatâs
+
+Her name?
+
+CHAUCER
+
+Hush, she will hear thee.
+
+SQUIRE
+
+Hear me?
+
+CHAUCER
+
+[
+Mysteriously.
+]
+
+Hush!
+
+Mine own true mistress is sweet Out-of-doors.
+
+No Whitsun lassie wears so green a kirtle,
+
+Nor sings so clear, nor smiles with such blue eyes,
+
+As bonny April, winking tears away.
+
+Not flowers oâ silk upon an empressâ sleeve
+
+Can match the broidery of an English field.
+
+No lap of amorous lady in the land
+
+Welcomes her gallant, as sweet Mistress Earth
+
+Her lover. Let Eneas have his Dido!
+
+Daffydowndilly is the dame for me.
+
+PRIORESS
+
+[
+Within.
+]
+
+[Pg 57]
+Joannes!
+
+SQUIRE
+
+You are happy, sir, to have
+
+Your mistress always by you. Mineâs afar
+
+Turning the Italian roses pale with envy.
+
+CHAUCER
+
+She dwells in Italy?
+
+SQUIRE
+
+In Padua.
+
+CHAUCER
+
+In Padua? Why, there I knew Dan Petrarch,
+
+Whose sonnets make the world love-sick for Laura.
+
+SQUIRE
+
+Would I could make it sigh once for my lady!
+
+Sir, will you help me?
+
+CHAUCER
+
+Gladly; whatâs her name?
+
+SQUIRE
+
+Alas! Her name is not poetical:
+
+Johanna! Who can sonnetize Johanna?
+
+CHAUCER
+
+Invent her one to please you.
+
+SQUIRE
+
+Euphranasiaâ
+
+[Pg 58]
+How like you Euphranasia, sir?
+
+FRIAR
+
+[
+Aside, popping his head from behind the wall.
+]
+
+Qui la?
+
+[
+Dodges down again.
+]
+
+PRIORESS
+
+[
+Within, singing.
+]
+
+Laudate, pueri, Dominum; laudate nomen Domini!
+
+Nay, Paulus, I
+
+will
+sing: âtis pretty weather.
+
+SQUIRE
+
+Euridice or Helena?
+
+PRIORESS
+
+[
+Sings within.
+]
+
+A solis ortu usque ad occasum, laudabile nomen Domini.
+
+SQUIRE
+
+Or, Thisbe?
+
+CHAUCER
+
+[
+Lifting a sprig of honeysuckle on the wall.
+]
+
+Nay, boy, this spray shall name her.
+
+[
+The Friar peeps over the wall again.
+]
+
+SQUIRE
+
+Eglantine!
+
+Music itself! Methinks I have an aunt
+
+[Pg 59]
+Named Eglantine. What matter?âEglantine!
+
+CHAUCER
+
+Iâll match that name against the Muses nine.
+
+[
+Takes out his parchments.
+]
+
+SQUIRE
+
+What! verses?
+
+CHAUCER
+
+Scraps of prologue to a book
+
+I think to call âThe Canterbury Tales.â
+
+Good boy, leave me a bit; I have the fit
+
+To rhyme for a time thy Donna Eglantine.
+
+Come back at chapel-bell, or send someone
+
+To fetch the verses.
+
+SQUIRE
+
+Sir, I will.
+
+[
+Exit left.
+]
+
+FRIAR
+
+Me voila!
+
+[
+Exit right, behind wall.
+]
+
+CHAUCER
+
+[
+Reading from one of his parchments, crosses over by the
+
+arbour.
+]
+
+âThere was also a nun, a prioress,
+
+That of her smiling was full simple and coy;
+
+The greatest oath she swore was âby St. Loy!â
+
+And she was clepÃ¨d Madame Eglantine;
+
+Full daintly she sang the psalms divine;
+
+And French she spake (St. Patrick taught her how),
+
+[Pg 60]
+After the school of Stratford-at-the-Bowe.
+
+Full prettily her wimple pinchÃ¨d was,
+
+Her nose piquante; her eyes as grey as glass;
+
+Her mouth full small, and thereto soft and red;
+
+In very sooth she had a fair forehead;
+
+And dangling from her dainty wristlet small,
+
+A brooch of gold she wore, and therewithal
+
+Upon it there was writ a crownÃ¨d A,
+
+And afterâ
+
+[
+Enter, right, the Prioress, carrying her little hound. Chaucer
+
+sees her.
+]
+
+Amor vincit omnia.â
+
+[
+He enters the arbour.
+]
+
+PRIORESS
+
+Joannes, stay indoors and tell your beads.
+
+[
+To her little hound.
+]
+
+Jacquette, ma petite, it is a pretty day.
+
+See you those clouds? They are St. Agnesâ sheep;
+
+She hath washed their wool all white and turned âem loose
+
+To play on heavenâs warm hillside. Smell that rose?
+
+Sweet-sweet! nâest ce pas, ma petite? Hast ever heard
+
+The Romance of the Rose?
+
+CHAUCER
+
+[
+Aside.
+]
+
+[Pg 61]
+Saints!
+
+PRIORESS
+
+âTis a tale
+
+As lovely as the flower,âwrit all in verses
+
+Dan Chaucer made at court. Hush, hush, donât tell:
+
+Iâve read it. Ah! Jacquette! Jacquette! Jacquette!
+
+When Mary was a girl in Josephâs garden,
+
+Were there such pretty days in Palestine?
+
+[
+Picks a rose.
+]
+
+CHAUCER
+
+Gods! must I hand her overâto a brother!
+
+Alas! the sands of dreams, how fast they slip
+
+Till Geoffrey lose his Lord-protectorship.
+
+PRIORESS
+
+[
+Plucking the roseâs petals till the last petal falls.
+]
+
+Pater noster (our Father), qui es in cÅlis (which art
+
+in heaven), sanctificetur nomen tuum (hallowed be thy
+
+name). Adveniat regnum tuum (thy kingdom come);
+
+fiat voluntas tuaâthy will be done!
+
+CHAUCER
+
+Amen! I must resign!
+
+[
+He is about to step out from the arbour and discover himself,
+
+but pauses as the Prioress continues.
+]
+
+PRIORESS
+
+Alas! We must go seek my brother and so
+
+Quit the protection of this noble stranger.
+
+You know, Jacquette, we must be fond of him.
+
+He saved your lifeâwe mustnât forget that.
+
+[Pg 62]
+And though the wastel-bread was underdone,
+
+He was most kind at table, and inquired
+
+After your health, petite. And though he kissed
+
+The ale-wifeâoui, ma pauvre Jacquette!âyet he
+
+Is contrite, and will seek St. Thomasâ shrine
+
+For absolution.
+
+CHAUCER
+
+Forgive us our trespasses!
+
+PRIORESS
+
+He was so courteous, too, upon the road
+
+Iâm sure he is a gentleman. Indeed,
+
+I hope my brother proves as true a knight,
+
+When he arrives.
+
+CHAUCER
+
+Deliver us from temptation!
+
+[
+A shout from the pilgrims within.
+]
+
+PRIORESS
+
+Would he were here now.âNay, I meanâthe other.
+
+This April day flowed sweet as a clear brook
+
+Till these hoarse frogs jumped in to rile its silver.
+
+SWAINS
+
+[
+Sing, within.
+]
+
+The Wife of Bath
+
+Sheâs a good fellow,
+
+A maiden mellow
+
+[Pg 63]
+Of Aftermath.
+
+PRIORESS
+
+Vite, vite, ma petite.
+
+[
+She hastens to the arbour, where Chaucer quickly
+pretends to be absorbed in writing. As she is withdrawing
+hastily, however, he turns round.
+]
+
+Monsieur, excusez moi!
+
+CHAUCER
+
+Madame, the fault is mine; I crave your pardon.
+
+PRIORESS
+
+What fault, Monsieur?
+
+CHAUCER
+
+[
+Breaks a spray from the arbour and hands it to her.
+]
+
+I trespass in
+your
+bower.
+
+Permettez.
+
+PRIORESS
+
+Honeysuckle?
+
+CHAUCER
+
+So âtis called;
+
+But poets, lady, name itâeglantine.
+
+PRIORESS
+
+Mâsieur!
+
+CHAUCER
+
+[Pg 64]
+May I remain and call it so?
+
+PRIORESS
+
+Mâsieurâthis is Jacquette, my little hound.
+
+[
+Chaucer takes the pup; they retire farther into the
+arbour, as the
+
+Wife of Bath
+
+enters from
+the inn. She is accompanied by the
+
+Friar
+,
+
+Miller
+,
+Cook
+,
+Summoner
+,
+
+Pardoner
+,
+Manciple
+,
+and
+
+Shipman
+,
+who enter singing. They lift her upon
+the table, and form a circle round her.
+]
+
+SWAINS
+
+The Wife of Bath
+
+Sheâs a good fellow,
+
+A maiden mellow
+
+Of Aftermath.
+
+She cuts a swath
+
+Through sere-and-yellow;
+
+No weeping willow
+
+Bestrews her path.
+
+Her voice in wrath
+
+Is a bullockâs bellow;
+
+For every good fellow
+
+Eyes she hath.
+
+Sheâs a good fellow,
+
+The Wife of Bath!
+
+ALISOUN
+
+Sweethearts, your lungs can blow the buckâs horn.âRobin,
+
+[Pg 65]
+Ye sing like a bittern bumbling in the mire.
+
+MILLER
+
+By Corpus, âtwas a love-toot.
+
+FRIAR
+
+Prithee, sweet dame,
+
+Finish your tale.
+
+ALL
+
+Finish the tale.
+
+[
+Other pilgrims enter from the inn.
+]
+
+ALISOUN
+
+Shut up, lads. Sure, my wits are gone blackberrying.
+
+Where was I?
+
+FRIAR
+
+Where King Arthurâs knight came home,
+
+You said, andâ
+
+ALISOUN
+
+Will you let me say it then?
+
+FRIAR
+
+Sweet dame, you saidâ
+
+ALISOUN
+
+A friar and a fly
+
+Will fall in every dish, thatâs what I said.
+
+Lads, will ye hear this church-bell ring, or me?
+
+ALL
+
+Youâyouâ
+
+SUMMONER
+
+[Pg 66]
+Iâll muffle his clapper.
+
+ALISOUN
+
+Hark my tale:
+
+This knight rode home a-whistlinâ to himself,
+
+Right up the castle-hall, where all the lords
+
+And ladies sat. âYour majesties,â quoth he,
+
+âThough I be hanged, this is my true reply:
+
+Women desire to do their own sweet wills.â
+
+[
+The Swains clap.
+]
+
+âHo!â cried King Arthur, âthatâs the best Iâve heard
+
+Since I was first henpecked by Guinevere.
+
+Depart! Thy neck is free!â
+
+But at that word,
+
+Up sprang an old wife, sitting by the fire,
+
+And says: âMerci, your Majesty, âtwas I
+
+That taught this answer to the knight; and he
+
+Hath sworn to do the next thing I require.
+
+Therefore, sweet knight, before this court I pray
+
+That ye will take me to your wedded wife.
+
+Have I said false?â
+
+âNay, bury me,â quoth he.
+
+âThen I will be thy love.â
+
+âMy love?â quoth he.
+
+âNay, my damnation!â
+
+âTake your wife to church,â
+
+Cries out the King, âand look ye treat her well,
+
+Or you shall hang.â
+
+MILLER
+
+[Pg 67]
+Ho! What a roast!
+
+PRIORESS
+
+[
+Aside.
+]
+
+Poor man!
+
+ALISOUN
+
+The knight he spake no word, but forth he takes
+
+His grizzly bride to church, and after dark
+
+He leads her home. âAlas! sweet husband mine,
+
+What troubleth you?â quoth she. âNothing,â quoth he.
+
+âPerchance that I am old?â âNay, nay,â quoth he.
+
+âUgly and old,â quoth she, âcures jealousy.â
+
+âIt doth indeed,â quoth he. âWhat then?â quoth she.
+
+âAre ye content?â âMore than content,â quoth he;
+
+âAnd will ye let me do my own sweet will
+
+In everything?â âIn everything,â quoth he,
+
+âMy lady and my love, do as you please.â
+
+âWhy, then, so please me, strike a light,â quoth she.
+
+And when the knight had lit the candle, lo!
+
+His grizzly brideâshe was the Fairy Queen.
+
+[
+Loud acclamation.
+]
+
+PRIORESS
+
+[
+Aside.
+]
+
+Praise heaven!
+
+FRIAR
+
+[
+Into whose arms Alisoun jumps.
+]
+
+Bravo, Queen Mab, it was thyself.
+
+COOK
+
+Iâll bet
+
+[Pg 68]
+The knight was her fifth husband.
+
+ALISOUN
+
+Welcome the sixth!
+
+God made me the King Solomon of wives.
+
+SHIPMAN
+
+[
+To the Miller, who begins to play his pipes.
+]
+
+God save thee, Robin! Bust thy pigskin.
+
+ALISOUN
+
+Aye!
+
+Letâs have an elf dance. Come!
+
+[
+To the Summoner.
+]
+
+Thy arm, sweet Puck!
+
+BOTTLEJOHN
+
+[
+To Herry Bailey, who is looking on.
+]
+
+Tarry ye all to-night?
+
+HOST
+
+Aye, till to-morrow.
+
+BOTTLEJOHN
+
+âTwill be a pinch for room.
+
+HOST
+
+[
+Laughs.
+]
+
+But not for reckonings.
+
+[
+The Miller, sitting on the wall, plays his bagpipe,
+while Alisoun dances with her Swains, each of whom is
+jealous of the rest. Chaucer and the Prioress still remain
+out of sight in the arbour. As the music grows merrier,
+the Prioress begins to click the beads of her rosary
+rhythmically.
+]
+
+[Pg 69]
+
+CHAUCER
+
+Why do you tell your beads, Madame?
+
+PRIORESS
+
+To keep
+
+The fairies from my feet.
+
+CHAUCER
+
+The fairies?
+
+PRIORESS
+
+Yes,
+
+The bagpipe sets them free. I feel them twitch me.
+
+CHAUCER
+
+Why drive them away?
+
+PRIORESS
+
+Monsieur!
+
+CHAUCER
+
+See you the birds?
+
+St. Francis taught that we should learn of them.
+
+PRIORESS
+
+What do they?
+
+CHAUCER
+
+Sing, and dance from bough to bough.
+
+The Muses sing; and St. Cecilia danced.
+
+PRIORESS
+
+[Pg 70]
+Think you she danced, sir, of her own sweet will?
+
+CHAUCER
+
+Nay, not in April! In April, âtis Godâs will.
+
+PRIORESS
+
+Monsieurâ
+
+[
+Gives Chaucer her hand shyly.
+]
+
+âtis April.
+
+[
+They dance, in stately fashion, within the arbour.
+Forgetting themselves in the dance, however, they come a
+little too far forward; Alisoun spies them, and clapping
+her hands, the music stops.
+]
+
+ALISOUN
+
+Caught! Ho, turtle-doves
+
+Come forth, Sir Elvish Knight, Sir Oberon!
+
+Fetch forth thy veilÃ¨d nymph, that trips so fair.
+
+[
+Chaucer steps forth from the arbour. The Prioress,
+within, seizes up her little hound from a settle and hides
+her face.
+]
+
+ALL
+
+Hail!
+
+CHAUCER
+
+Silence, loons! And thou, wife, hold thy tongue
+
+And know thy betters. As for you, ye lummocks,
+
+You need be proud as water in a ditch
+
+To glass this ladyâs image even in your eyes,
+
+So, look ye muddy not her sandal-tips.
+
+Begone! And mind when next you laugh the same,
+
+That all the saints, to whom you bumpkins pray,
+
+Dance with the Virgin round the throne of God.
+
+Begone, and do your reverences.
+
+[
+Some of the pilgrims retire; others remain staring and
+bow as the Prioress, veiled, crosses over to the inn door
+with her little hound.
+]
+
+[Pg 71]
+
+ALISOUN
+
+[
+To the Cook.
+]
+
+Hist, Roger!
+
+What is the man?
+
+COOK
+
+No cheap dough.
+
+PRIORESS
+
+O Jacquette!
+
+[
+Exit.
+]
+
+ALISOUN
+
+[
+Approaches Chaucer tentatively.
+]
+
+God save thee, man! I ken not who thou art,
+
+But himâs can curry down a ticklish mare
+
+Like me, he hath a backbone in his bolster;
+
+I love thee better forât.âAy, gang thy gait;
+
+But, bully Geoffrey, mind, we have a bet:
+
+Yea, if I fry thee not in thine own grease
+
+And cry thee tit for tat, call me a man.
+
+Man lives
+for
+wit, but woman lives
+by
+it.â
+
+These dancing virgins!
+
+[
+Exit, followed by Friar.
+]
+
+CHAUCER
+
+Clods and bumpkins all!
+
+MILLER
+
+[
+Gets in Chaucerâs way defiantly.
+]
+
+Sir Oberonâ
+
+CHAUCER
+
+[Pg 72]
+Stand by!
+
+MILLER
+
+Lord Rim-Ram-Ruff!
+
+He plays the courtier.
+
+[
+Bitterly.
+]
+
+Harkee, Monsieur Courtier,
+
+âWhen Adam delved and Eve span,
+
+Who was then the gentleman?â
+
+CHAUCER
+
+Why, Monsieur Snake; he cherished the family tree
+
+As the apple of his eye. In view of which,
+
+Go drink a pot of cider.
+
+[
+Throws the Miller a coin.
+]
+
+MILLER
+
+[
+Ducking.
+]
+
+âSave your Worship!
+
+[
+Exit with Swains.
+]
+
+CHAUCER
+
+[
+Solus.
+]
+
+âWhen Adam delvedââwho was court-poet then?
+
+Adam. Who was Bob Clodhopper? Why, Adam.
+
+Which, then, in that close body politic
+
+Perked high his chin? Which doffed and ducked the knee?
+
+Which tanned and sweat in the lean furrow? Which
+
+Spat on the spadeâand wore it in his crest?
+
+Which was the real Adam? Sly Dame Clay,
+
+If paradox died not in Genesis,
+
+[Pg 73]
+Let me not fancy Richardâs laureate
+
+Aloneâs incognito. Incognito
+
+Are all that pass in natureâs pilgrimage,
+
+For thou, with loamy masks and flesh-tint veils,
+
+Dost make us, in this timeless carnival,
+
+Thy dupes and dancers, ushering the courtier
+
+To kiss beneath thy glove the goose-girlâs hand,
+
+Or snub, behind the poor familiar rogue
+
+And clown, some god that hides in Momusâ mask.
+
+Nay, but not sheâmy gentle Prioress!
+
+Though all the rest, in born disguisements, be
+
+Basted and toggâd with huge discrepancy,
+
+She
+wears the proper habit of her soul.
+
+Dear God! how harmony like hers unchains
+
+Delight from the luggâd body of Desire
+
+To sing toward heaven like the meadow-lark,
+
+Till, with her parting, it drops dumb again
+
+In the old quag of flesh.
+
+Flesh, Geoffrey! Fie!
+
+What need to guard from sight the poet in thee
+
+When nature thus hath hoopâd and wadded him
+
+With barracoons of paunch? What say, thou tun?
+
+Will Eglantine mistake thee for Apollo,
+
+Thou jewel in the bloated toad; thou bagpipe
+
+Puffâd by the Muse; thou demijohn of nectar;
+
+Thou grape of Hebe, over-ripe with rhyme;
+
+Thou lump of Clio, mountain of Terpsichore;
+
+Diogenes, that talkest in thy tub!
+
+Fie, Mother Earth!âCling not about my waist
+
+As if I were a weanling sphere. Fall off!
+
+[Pg 74]
+Ye gods! that kneaded this incongruous dough
+
+With lyric leaven, sweat me to a rake-handle
+
+Or let the Muse grow fat!
+
+[
+Exit.
+]
+
+FRIAR
+
+[
+Outside, sings.
+]
+
+Ye pouting wenches, pretty wives,
+
+That itch at weddings, fairs, and wakes,
+
+For trothal-rings and kissing-cakes,
+
+For wristlets, pins, and pearlÃ¨d knives,
+
+Hither trip it!
+
+To peep iâ the friarâs farsÃ¨d tippet,
+
+Who gently for sweet sinnersâ sakesâ
+
+[
+Enter the Friar and Alisoun.
+]
+
+ALISOUN
+
+Hush!
+
+[
+Going to the cellar door, she opens it and ponders.
+]
+
+FRIAR
+
+Benâcite!
+
+(Thus singeth he.)
+
+Beneâbenedicite!
+
+ALISOUN
+
+Hold thy cock-crow! My witâs working.
+
+FRIAR
+
+Nay,
+
+Thy jealousy, sweet dame.
+
+[
+Sings.
+]
+
+Ye lasses jilted, lovers droopÃ¨d,
+
+[Pg 75]
+Rose-lipâ
+
+ALISOUN
+
+Shut up!
+
+FRIAR
+
+[
+Sings on.
+]
+
+Rose-lip, White-brow, Blue-eye, Brown-tress,
+
+Confide your pretty hearts! Confess
+
+To the pleasant friar: trust not Cupidâ
+
+ALISOUN
+
+By Peter!
+
+I have the plan!
+
+FRIAR
+
+[
+Sings.
+]
+
+Love is a liar,
+
+But lovers love the pleasant friar,
+
+Who, making of their burdens lessâ
+
+[
+Here he approaches Alisoun caressingly, and deftly steals a
+
+gold pin from her head-dress.
+]
+
+ALISOUN
+
+[
+Laughing to herself.
+]
+
+Ha! that shall win my bet!
+
+What, Huberd!
+
+FRIAR
+
+[
+Secreting the pin.
+]
+
+Benâcite!
+
+(Thus singeth he.)
+
+Beneâbenedicite!
+
+ALISOUN
+
+[Pg 76]
+Wilt thou hear my plan?
+
+FRIAR
+
+Fair Alis,
+
+I would console thy jealousy.
+
+ALISOUN
+
+Me jealous!
+
+Blest be thy breech! Who of?
+
+FRIAR
+
+[
+Imitating Chaucer in his former speech.
+]
+
+âAnd, thou, wife, hold
+
+Thy tongue and know thy betters.â
+
+ALISOUN
+
+Ho! my betters?
+
+That little snipper-snapper of a saint
+
+He praised for dancing ring-around-the-rose-tree,
+
+When honest wives are damned for showing their ankles?
+
+A fig for her!âWhat, him! a walking hay-cock
+
+That woos a knitting-needle of a nun!
+
+And me! that when I was to home in Bath
+
+Walked into kirk before the beadleâs wife:
+
+My betters? Wait until I win my bet!
+
+FRIAR
+
+What bet?
+
+ALISOUN
+
+Canst thou be mum?
+
+FRIAR
+
+Dame, I have been
+
+A bishopâs valet, a nunâs confidant,
+
+[Pg 77]
+A wifeâs confessor, a maidâs notary;
+
+As coroner, Iâve sat in Cheapside inns
+
+When more than wine flowed. This breast can be dark
+
+As Pharaohâs chamber in the pyramids.
+
+ALISOUN
+
+List then: Ye wot I made a bet last night
+
+With Geoffrey. This was it: Dame Eglantine,
+
+Here at this inn, expects to meet her brotherâ
+
+FRIAR
+
+You meanâDan Roderigo.
+
+ALISOUN
+
+Aye; but as
+
+She hath not seen him since she was a child,
+
+She hath not recognised him. He, ye ken,
+
+Doth wear a ring wiâ a Latin posy inât.
+
+FRIAR
+
+I know; âtis âAmor vincit omnia,â
+
+The same as on her brooch.
+
+ALISOUN
+
+There hangs my bet.
+
+For if Dame Eglantine shall give yon brooch
+
+Into the hands of any but her brother,
+
+Then Geoffrey marries me at Canterbury.
+
+FRIAR
+
+[Pg 78]
+Diable!
+Marries
+thee?
+
+ALISOUN
+
+What then, dear friend?
+
+Wouldst thou forswear thy celibate sweet vows
+
+To buckle on a wife?
+
+FRIAR
+
+Nay, dame, a sister.
+
+ALISOUN
+
+A sister of St. Venusâ house? Go pray!
+
+A husband is my holy pilgrimage,
+
+And Geoffrey is my shrine.
+
+FRIAR
+
+Et moi?
+
+ALISOUN
+
+âEt moi?â
+
+Thou art a jolly incubus. Thou shalt
+
+Help me to catch my bird.
+
+[
+Enter the Miller by the wicket gate.
+]
+
+FRIAR
+
+Et donc?
+
+ALISOUN
+
+âEt donc?â
+
+Why, then, Iâll give a farthing to the friars.
+
+FRIAR
+
+Nay, dame, the coin of Cupid is a kiss.
+
+[
+Pleading.
+]
+
+[Pg 79]
+One kiss pour moi.âAt Canterburyâun baiser!
+
+MILLER
+
+[
+Seizing the Friar.
+]
+
+One pasty, eh? thou shorn ape!
+
+FRIAR
+
+[
+Screams.
+]
+
+Alisoun!
+
+MILLER
+
+By Corpus bones, Iâll baste thee!
+
+ALISOUN
+
+Let him be!
+
+Shame! Wouldst thou violate a modest friar?
+
+MILLER
+
+He asked thee for aâ
+
+ALISOUN
+
+Baiser. Baiser means
+
+In Latin tongue a blessing. Not so, Huberd?
+
+FRIAR
+
+Dame, from thy lips, it meaneth Paradise.
+
+MILLER
+
+[
+Imitating him.
+]
+
+Doth it in thooth, thweet thir?âThou lisping jay!
+
+Thou lousy petticoats!
+
+ALISOUN
+
+[
+Suddenly embracing the Miller; whispers to him.
+]
+
+Whist! Robin, thou
+
+Art just in the nick. I have a plan. Run fast;
+
+[Pg 80]
+Fetch here the other lads, and bring a gag.
+
+MILLER
+
+A gag? For him?
+
+ALISOUN
+
+Run quick.
+
+MILLER
+
+[
+Going.
+]
+
+By Corpus arms!
+
+FRIAR
+
+[
+Taunting.
+]
+
+Mealy miller, moth-miller,
+
+Fly away!
+
+If Dame Butterfly doth say thee nay,
+
+Go and court a caterpillar!
+
+MILLER
+
+[
+Laughing, shakes his fist.
+]
+
+Ha, ha! By Corpus bones!
+
+[
+Exit at gate.
+]
+
+ALISOUN
+
+Now, bird; the plot.
+
+Iâve sent him for a gag.
+
+FRIAR
+
+A gag? What for?
+
+ALISOUN
+
+To win my bet, of course. âTis for this knight.
+
+FRIAR
+
+Thou wilt not gag a knightâthe Prioressâ
+
+[Pg 81]
+Brother!
+
+ALISOUN
+
+Hast thou forgot I bet with Geoffrey
+
+The man that wears the ring will prove to be
+
+Dame Virtueâs lover?
+
+FRIAR
+
+He that wears the ring?
+
+Methinks I smell: but whoâs your man?
+
+ALISOUN
+
+Sweet owl,
+
+The sunlight hurts thine eyes, thou starest too hard.
+
+[
+Blindfolding his eyes with her hands, she whirls him thrice
+
+round.
+]
+
+Behold him.
+
+FRIAR
+
+[
+Dizzily.
+]
+
+Where?
+
+[
+Alisoun slaps her own shoulder.
+]
+
+What, thou? O ecce homo!
+
+Thou wilt enact the lover and the knight
+
+And woo Dame Eglantine?
+
+ALISOUN
+
+Who else? Forsooth,
+
+I am a shapely crusader. This leg
+
+Hath strode a palfrey thrice to Palestine.
+
+Iâve won my spurs.
+
+FRIAR
+
+Thou wit of Aristotle.
+
+O Helen of Troy! O Amazon! I catch:
+
+Thou gaggest the
+real
+knight and bearâst him off
+
+[Pg 82]
+Where thou mayst steal his ring and togs.
+
+ALISOUN
+
+And borrow
+
+A false beard from thy tippet. Thou shalt be
+
+My valet, and retouch the Wife of Bath
+
+To play the Devil in the Mystery.
+
+FRIAR
+
+But whereâll be thy boudoir?
+
+ALISOUN
+
+The cellar yonder.
+
+Bob Miller and the other lads shall gag
+
+And tie him there.
+
+FRIAR
+
+Why, this is merrier than
+
+Nine wenches ducking in a Hallow-een bowl.
+
+[
+Doubling over with laughter, he almost knocks against
+
+Chaucer, who enters, left, meditative.
+]
+
+Whist! Geoffrey! Come away.
+
+CHAUCER
+
+[
+Reads from a parchment.
+]
+
+âApril, May,
+
+Cannot stay;
+
+We be pilgrimsâso are they,
+
+And our shrine,
+
+Far awayââ
+
+[
+A bell sounds outside; Chaucer pauses, and draws out a
+
+pocket sun-dial.
+]
+
+The chapel bell!
+
+Four, by my cylinder. My signorino
+
+Will claim his verses!
+
+[
+Reads on.
+]
+
+[Pg 83]
+
+âAnd our shrine,
+
+Far away,
+
+Is the heart of Eglantine.â
+
+[
+Pauses and writes.
+]
+
+ALISOUN
+
+[
+Aside to Friar.
+]
+
+Eglantine! Whatâs this?
+
+FRIAR
+
+Love verses. He hath writ them for the Squire
+
+To give unto his lady-love Johanna.
+
+ALISOUN
+
+But he said âEglantine.â
+
+FRIAR
+
+Aye, dame; he dubs
+
+Her Eglantine to be poetical.
+
+ALISOUN
+
+A poet! Him?
+
+FRIAR
+
+Why not? Jack Straw himself
+
+Could ring a rhyme, God wot, till his neck was wrung.
+
+CHAUCER
+
+[
+Reads.
+]
+
+âEglantine,
+
+O to be
+
+There with thee,
+
+Over sea,
+
+In olive-shaded Italy.â
+
+Too rough. âShadedâ is harsh. Hâm! âOlive-silvered.â
+
+[Pg 84]
+âIn olive-silvered Italy.ââThatâs better.
+
+FRIAR
+
+[
+To Alisoun.
+]
+
+Hide there!
+
+ALISOUN
+
+What now?
+
+FRIAR
+
+Watch.
+
+[
+The Friar approaches Chaucer obsequiously.
+]
+
+CHAUCER
+
+[
+Reads.
+]
+
+âThere to pray
+
+At thy shrineââ
+
+FRIAR
+
+Benedicite!
+
+The blissful martyr save you, sir.
+
+CHAUCER
+
+And you.
+
+FRIAR
+
+The gentle Squire sent me forâ
+
+CHAUCER
+
+His verses? They are just finished.
+
+[
+Folds them up.
+]
+
+FRIAR
+
+Sir, you see, he hailed me
+
+Passing upon the road. He lies out yonder
+
+Along a brookside, sighing for his lady.
+
+CHAUCER
+
+[
+Handing the parchment to the Friar.
+]
+
+Bid him despatch her these. Here, wait; this spray
+
+[Pg 85]
+Of eglantine goes with them.
+
+FRIAR
+
+Save you, sir.
+
+[
+The Friar starts for the wicket gate. Chaucer,
+absent-minded, passes on to the inn door. As he does so,
+the Friar, treading tip-toe behind him, steals another
+parchment, which is sticking from his pouch.
+]
+
+CHAUCER
+
+âApril, May,
+
+Cannot stay;
+
+We be pilgrimsâso are they.â
+
+[
+Exit.
+]
+
+FRIAR
+
+[
+Stands holding the second parchment, from which he reads.
+]
+
+âThere was also a nun, a prioress,
+
+That of her smiling was full simple and coy;
+
+The greatest oath she sworeââ
+
+Blessed be larceny!
+
+This rhyme is slicker to have up my sleeve
+
+Than five aces of trumps.
+
+ALISOUN
+
+[
+Joining him.
+]
+
+Whatâs up?
+
+FRIAR
+
+List, dame!
+
+Of human hearts I am an alchemist.
+
+To stir them in the crucible of love
+
+Is all my research and experiment;
+
+And but to find a new amalgam makes
+
+[Pg 86]
+My mouth to water like a dilettanteâs.
+
+ALISOUN
+
+Well?
+
+FRIAR
+
+Geoffrey wrote these verses for the Squire
+
+To give his lady; therefore,
+I
+will give them
+
+To Eglantine, and watch the
+tertium quid
+;
+
+That is to say, whether the resultant be
+
+A mantling
+coleur rose
+, orâan explosion.
+
+ALISOUN
+
+Whatâs in the verses? Nay, man, read âem out;
+
+I am no clerk.
+
+FRIAR
+
+I
+am a master-reader.
+
+âSigh, Spring, sigh,
+
+Repine
+
+Amid the moon-kissed eglantine,
+
+For so do I.â
+
+[
+The Friar sighs.
+]
+
+ALISOUN
+
+No more oâ that.
+
+FRIAR
+
+Sweet Alis, âtis the art.
+
+When I look thus,ââtis moonlight. When I sigh
+
+Thus,ââtis a zephyr wooing apple blossoms.
+
+ALISOUN
+
+Wooing a sick goat! Read ahead.
+
+FRIAR
+
+[Pg 87]
+Ahem!
+
+[
+Reads.
+]
+
+âApril, May,
+
+Cannotââ
+
+[
+Enter, from the inn, the Knight; from the wicket gate, the Swains,
+with ropes and a gag.
+]
+
+ALISOUN
+
+Quit; hereâs our knight. Go find the Prioress.
+
+And when youâve given her the verses, join
+
+Me and the other fellows in the cellar.
+
+[
+Jerking her thumb at the Knight.
+]
+
+He
+âll be with us.
+
+FRIAR
+
+Thy valet comprehends.
+
+KNIGHT
+
+[
+To Friar.
+]
+
+Good fellow, have you seen my son, the Squire?
+
+FRIAR
+
+My lord, that dame can tell you.
+
+[
+Throwing a kiss to Alisoun.
+]
+
+Au revoir!
+
+[
+Then throwing another to the Miller, he sings as he skips out.
+]
+
+Ma douce gazelle,
+
+Ma gazelle belle,
+
+Bon soir!
+
+MILLER
+
+[
+To the Shipman.
+]
+
+Quick! Head him off, Jack!
+
+[
+Exit Friar into inn.
+]
+
+[Pg 88]
+
+ALISOUN
+
+Let him go.
+
+[
+To the Miller.
+]
+
+Thine ear!
+
+MILLER
+
+Butâ
+
+ALISOUN
+
+Shh!
+
+[
+Draws him aside and whispers.
+]
+
+Art thou afeard?
+
+MILLER
+
+Nay, dame, but âtis
+
+A lord. Mayhap weâd catch the whipping-post.
+
+ALISOUN
+
+But mayhap me along with it, sweet Bob.
+
+[
+They whisper aside.
+]
+
+KNIGHT
+
+This woman tell me of my son! âTis strange.
+
+ALISOUN
+
+[
+Aside to Miller.
+]
+
+Ye ken!
+
+MILLER
+
+Aye, aye.
+
+[
+Looking pleased, he speaks to the others aside.
+During the following scene, all of them approach
+the Knight cautiously with the ropes and gag, while
+Alisoun, distracting the Knight, warns or urges them in
+pantomime.
+]
+
+KNIGHT
+
+[Pg 89]
+Good woman, have you seenâ
+
+ALISOUN
+
+And do mine eyes behold him once again?
+
+O sir! The blissful saints requite you, sir!
+
+KNIGHT
+
+For what, good dame?
+
+ALISOUN
+
+His voice! That I should hear
+
+His voice once more! The vision bursts again
+
+Upon my brain: the swords, the sweated horse,
+
+The lifted battle-mace, and then his arms,
+
+His arms around meâsaved!
+
+[
+Falling at his feet.
+]
+
+Oh, can it be?
+
+KNIGHT
+
+Madame, arise. We met last night, methinks,
+
+At Master Baileyâs inn, in Southwark, but
+
+Never before.
+
+ALISOUN
+
+[
+Rising.
+]
+
+Hold! Gallop not so fast,
+
+Ye steeds of Memory!âWas it perchance
+
+A lonely damsel by the Coal Black Sea,
+
+Forsaken save by him; or was it by
+
+The walls of old Granada, at the siege,
+
+When, dazzled by the white star of my beauty,
+
+He raised his cross to smite the lustful Moor,
+
+And cried, âDon Roderigo dies for thee!â
+
+KNIGHT
+
+[
+To the Miller.
+]
+
+[Pg 90]
+The woman is ill. You had best call a leach.
+
+ALISOUN
+
+Call no one, sir. Forgive my sentiment.
+
+Small wonder is it, though the lordly falcon
+
+Forget the dove he succoured from the crows.
+
+But ah! how can the tender dove conceal
+
+The flutterings of her snow-white breast to meet
+
+Her lord once more?
+
+KNIGHT
+
+[
+Going.
+]
+
+Madame, I wish you better.
+
+ALISOUN
+
+Dear lord, when last we met at Algezirâ
+
+KNIGHT
+
+Pray to the Virgin!
+
+ALISOUN
+
+Sweet lord!â
+
+KNIGHT
+
+By St. George,
+
+I know you not.
+
+ALISOUN
+
+Alas! Alas! The faithless!
+
+Was this the chivalry ye promised me
+
+That night ye kissed me by the soldanâs tent?
+
+KNIGHT
+
+[Pg 91]
+Off me, thou wife of Satan!
+
+ALISOUN
+
+Heard ye that?
+
+Lads, to the rescue!
+
+KNIGHT
+
+Sorcery!
+
+[
+The Miller and Alisoun gag the Knight, while the others
+
+assist in binding him.
+]
+
+ALISOUN
+
+Quick, Roger!
+
+Take off his finger-ring. Mum, sweethearts! In, now!
+
+[
+Exeunt omnes, carrying the Knight into the inn cellar.
+]
+
+[
+Enter the Squire and Johanna. Passing along behind the
+wall, they enter the garden by the wicket gate.
+]
+
+SQUIRE
+
+Lady, I cannot yet believe my eyes
+
+That you are here, and not in Padua.
+
+JOHANNA
+
+âTis sweet to hear your voice discredit mine,
+
+And yet I pray you, sir, believe in me;
+
+I would not prove a rich Lombardian dream
+
+To be more fairâeven than I am.
+
+SQUIRE
+
+You could not.
+
+JOHANNA
+
+[Pg 92]
+Grazie!
+
+SQUIRE
+
+For you authenticise yourself
+
+With beautyâs passport. This alone is you;
+
+But how come hither?
+
+JOHANNA
+
+Like the Spring, because
+
+I heard the snows had thawed in Merry England.
+
+SQUIRE
+
+As ever, youâre fellow-travellers, dear lady;
+
+I might have guessed it from the little birds,
+
+Your gossipy outriders. But with what
+
+Less winged chaperones came you?
+
+JOHANNA
+
+Nay, with none!
+
+Some flighty ladies of King Richardâs court
+
+That oped their beaksâbut not like nightingalesâ
+
+To prate of love. For my part when I saw them
+
+This morning trot away toward Canterbury
+
+With that dull Gaunt and silly Duke of Ireland,
+
+I sighed âsweet riddance.â True, the king is different,
+
+But he is married.
+
+SQUIRE
+
+You are not alone?
+
+JOHANNA
+
+No, sir. I travel with a world-stormed priest,
+
+Whom all who love him call âGood Master Wycliffeâ;
+
+And those who love him not, âOld Nick,â for writing
+
+[Pg 93]
+The gospels in dear English.
+
+SQUIRE
+
+Youâa Lollard!
+
+JOHANNA
+
+Wait till you know him. He rides now to assist
+
+High mass at the Cathedral, for Duke John
+
+Who sails to claim his kingdom in Castile.
+
+But I ride with him, not so much to absolve
+
+My sins,âwhich frankly, since they are so few
+
+And serviceable, I hate to part withâas
+
+I go to look on one shall grace that serviceâ
+
+The man I best admire.
+
+SQUIRE
+
+Sweet lady, whom?
+
+JOHANNA
+
+Dan Chaucerâlaureate of chivalry.
+
+SQUIRE
+
+Chaucer! Why heâ
+
+[
+Checks himself.
+]
+
+Alas!
+
+JOHANNA
+
+Scarce do I wonder
+
+To see you bite your lip at that great name:
+
+You, sir, who once, unless my memory fail,
+
+Did promise me some verses of your own.
+
+SQUIRE
+
+[Pg 94]
+Nay, you shall have them.
+
+JOHANNA
+
+What? The verses?
+
+SQUIRE
+
+Yes.
+
+JOHANNA
+
+Prithee, what are they? Rondeaux, amoretti,
+
+Ballads? Why did you send them not? Odes? Sonnets?
+
+Which?
+
+SQUIRE
+
+Nay, I know not.
+
+JOHANNA
+
+Know not?
+
+SQUIRE
+
+Not as yet.
+
+JOHANNA
+
+Know not as yet!
+
+SQUIRE
+
+I meanâO Donna mine!
+
+I have a friend, whom but to call my friend
+
+Sets all my thoughts on fire, and makes the world
+
+A pent-up secret burning to be told.
+
+Whose slave to be, I would roll Sisyphusâ stone;
+
+Whom to clasp hands withal, Iâd fight Apollyon;
+
+For whom but to be Pythias, I would die.
+
+JOHANNA
+
+What amorous Platonics! Pythias?
+
+Sure, Troilus were an apter choice. Well, sir,
+
+Who is this paragon?
+
+[
+Aside.
+]
+
+[Pg 95]
+Heaven send her freckles.
+
+SQUIRE
+
+Nay, if it were allowed me but to nameâ
+
+If you could guess the Olympian pedigreeâ
+
+[
+Enter Chaucer from the inn.
+]
+
+Ah! Here he comes!
+
+JOHANNA
+
+Pray, sir,
+who
+comes?
+
+SQUIRE
+
+My friend.
+
+CHAUCER
+
+[
+Scanning the ground.
+]
+
+I would not for good twenty pound have lost it.
+
+JOHANNA
+
+Is this your Damon?
+
+SQUIRE
+
+Lady, âtis my friend.
+
+CHAUCER
+
+[
+To himself.
+]
+
+If Madame Eglantine should find it, read it!
+
+Nay, not for forty pound.
+
+SQUIRE
+
+He does not see us.
+
+May I present him?
+
+JOHANNA
+
+[
+Nods carelessly, then aside.
+]
+
+Saints! Must I essay
+
+[Pg 96]
+To circumvent a rival of such scope?
+
+SQUIRE
+
+Great sir!
+
+JOHANNA
+
+âGreat sirâ âs a proper epithet.
+
+SQUIRE
+
+[
+Touching Chaucerâs sleeve.
+]
+
+I pritheeâ
+
+CHAUCER
+
+Ah, boy, well met! Did I perchanceâ
+
+[
+Seeing Johanna.
+]
+
+Pardon!
+
+SQUIRE
+
+[
+Whispers to Chaucer, then aloud to Johanna.
+]
+
+Permit me to present to youâ
+
+Lady Johanna, Marchioness of Kentâ
+
+This gentleman, my friend.
+
+JOHANNA
+
+[
+Bows slightly.
+]
+
+A nameless knight?
+
+SQUIRE
+
+[
+Embarrassed.
+]
+
+His nameâah!
+
+CHAUCER
+
+Master Geoffrey, and your servant.
+
+JOHANNA
+
+[
+To Chaucer.
+]
+
+[Pg 97]
+We saw you searching. Was it for a sur-name?
+
+SQUIRE
+
+Have you lost something? Let us help you find it.
+
+A purse?
+
+JOHANNA
+
+I trust your loss was not in pounds.
+
+CHAUCER
+
+Sooth, I have lost what fair your ladyship
+
+Could least, methinks, supplyâa piece of wit
+
+Without a tongue; that is, a piece of parchment
+
+Writ oâer with verses.
+
+SQUIRE
+
+Verses! Sir, a word.
+
+[
+Draws Chaucer aside to the arbour and whispers.
+]
+
+JOHANNA
+
+A clever rogue! Heâd make an apt court-fool.
+
+CHAUCER
+
+[
+Aside to Squire.
+]
+
+No; these lost verses were a mere descriptionâ
+
+To fit my prologueâof a dainty nun,
+
+Poking some gentle mirth at her; of use
+
+To none save me; but faith! I grudge âem dearly.
+
+SQUIRE
+
+Did you find time to writeâthe other verses?
+
+CHAUCER
+
+The others?
+
+SQUIRE
+
+[Pg 98]
+To my lady.
+
+CHAUCER
+
+Those you sent for?
+
+Did not you like them?
+
+SQUIRE
+
+I? I sent for none, sir.
+
+JOHANNA
+
+[
+Aside.
+]
+
+Still whispering? Faith! Hath my Aubrey lost
+
+Both heart and manners to this tavern rhymester?
+
+I will not have it.
+
+SQUIRE
+
+[
+To Chaucer.
+]
+
+But I sent no friar!
+
+CHAUCER
+
+He took your mistressâs verses, saying you
+
+Had sent for them by him.
+
+JOHANNA
+
+Excuse me, sirs:
+
+That arbour-seat has room for two to sit,
+
+Providing we choose wisely from us three.
+
+CHAUCER
+
+Your choice is fate.
+
+SQUIRE
+
+[
+Aside to Chaucer as they enter the arbour.
+]
+
+The friar must have stolen them.
+
+[
+Johanna and the Squire sit; Chaucer stands talking with
+
+them, his back toward the arbourâs entrance.
+]
+
+[Pg 99]
+
+[
+Enter, right, from inn, the Prioress and Friar, the former
+
+reading a parchment.
+]
+
+PRIORESS
+
+The verse is very beautiful.
+
+FRIAR
+
+Isât not
+
+Enough to make the Muse weep amber? Zipp!
+
+âTis honeyâd moonbeams stored in lachrymals.
+
+PRIORESS
+
+[
+Reads.
+]
+
+âEglantine,
+
+O to be
+
+There with thee,
+
+Over sea;
+
+In olive-silvered Italy.â
+
+But, gentle friar, why in Italy
+
+When Iâm in England?
+
+FRIAR
+
+Dame, âtis poetry.
+
+In poetry, all ladies have blue eyes
+
+And live in Italy.
+
+PRIORESS
+
+And is this truly
+
+For me?
+
+FRIAR
+
+[Pg 100]
+He bade me give it with this spray.
+
+PRIORESS
+
+[
+Taking the sprig of eglantine.
+]
+
+He is so chivalrous! But I must finish.
+
+âIn olive-silvered Italy.
+
+There to pray
+
+At thy shrine,
+
+There to lay
+
+This green spray
+
+Of our English eglantine.
+
+At thy feet.
+
+Lady mine,
+
+Then wouldst thou say:
+
+âPilgrim sweet
+
+In Padua,
+
+Take it; it is thine.ââ
+
+Is Padua short for Bob-up-and-down?
+
+FRIAR
+
+Yes, dame.
+
+[
+Aside.
+]
+
+And now to watch my experiment
+
+Precipitate rose-colour.
+
+PRIORESS
+
+[
+Sighs.
+]
+
+Almost finished!
+
+[
+Reads.
+]
+
+âSay not nay!
+
+Fairest, dearest, far away,
+
+Donna Eglantine.â
+
+[Pg 101]
+
+FRIAR
+
+Alas, Madame, I did but do my duty.
+
+He bade me bring them.
+
+PRIORESS
+
+From my heart, I thank you.
+
+Theyâre very beautiful.
+
+FRIAR
+
+But amorous,
+
+I fear; they are
+love
+-verses.
+
+PRIORESS
+
+Are they? Sure,
+
+I thought them sweet. He is so chivalrous.
+
+FRIAR
+
+[
+Aside, takes out his stolen parchment.
+]
+
+Soft, then, Iâll try the other. This should bring
+
+The explosion.
+
+[
+Rattles the parchment.
+]
+
+PRIORESS
+
+[
+Eagerly, laying the first parchment on the table.
+]
+
+Did he send more verses?
+
+FRIAR
+
+Nay,
+
+He sent no more, though from his pouch there fell
+
+This parchment; but methinks he would desire you
+
+Not to peruse it.
+
+[
+Turning as if to leave, he discovers the three conversing in
+
+the arbour.
+]
+
+[Pg 102]
+
+PRIORESS
+
+Me!
+
+FRIAR
+
+Yes, dame, for it
+
+Describes you.
+
+PRIORESS
+
+How?
+
+FRIAR
+
+Alas! In different vein
+
+From the other.
+
+PRIORESS
+
+Different?
+
+[
+Demanding it with a gesture.
+]
+
+Quickly!
+
+FRIAR
+
+âTis my duty.
+
+[
+Hands her the manuscript.
+]
+
+PRIORESS
+
+[
+Snatching it; reads.
+]
+
+âThere was also a nun, a prioress,
+
+That of her smiling was full simple and coy;
+
+The greatest oath she swore was âby St. Loy!ââ
+
+O ciel! O quel outrage!
+
+[
+While she reads on to herself, changing visibly to
+pique and tears, the Friar, purloining the first parchment
+from the table, trips over to the arbourâs entrance and
+bows.
+]
+
+FRIAR
+
+Diner est servi!
+
+Messieurs, you are awaited by a lady.
+
+[
+Runs off.
+]
+
+[Pg 103]
+
+CHAUCER
+
+[
+To Squire.
+]
+
+Quick! Catch him!
+
+JOHANNA
+
+[
+To Squire.
+]
+
+Stay! âA lady?â
+
+[
+Pursued, the Friar drops his parchment, and, as the Squire
+
+stops to pick it up, escapes at the garden gate.
+]
+
+PRIORESS
+
+[
+Holding her parchment, confronts Chaucer.
+]
+
+Stay, Monsieur.
+
+[
+Reads.
+]
+
+âAnd French she spake (St. Patrick taught her how!)â
+
+You hear, MonsieurââSt. Patrick taught her how!â
+
+Oh, where is my Jacquette!
+
+SQUIRE
+
+[
+Joyfully; glancing at the other parchment.
+]
+
+These are the verses!
+
+[
+Hands the parchment eagerly to Johanna.
+]
+
+CHAUCER
+
+Madame, be calm. I will explain.
+
+PRIORESS
+
+Non, non.
+
+JOHANNA
+
+[
+Reads.
+]
+
+âEglantine,
+
+O to be
+
+There with theeââ
+
+[
+To Squire.
+]
+
+[Pg 104]
+Wrote you these verses, sir? Whoâs Eglantine?
+
+SQUIRE
+
+Why, lady, sheâ
+
+PRIORESS
+
+[
+To Chaucer.
+]
+
+How could you write them?
+
+CHAUCER
+
+Patience,
+
+Dear Madame Eglantineâ
+
+JOHANNA
+
+Ha! Eglantine!
+
+CHAUCER
+
+[
+To Prioress, distracted.
+]
+
+Which verses do you mean? I wrote them not
+
+To you!
+
+PRIORESS
+
+What, not to me? Those gracious lines,
+
+So exquisite?
+
+CHAUCER
+
+Good God!
+
+SQUIRE
+
+[
+To Johanna.
+]
+
+Upon my truth,
+
+These verses are for you. Let me explainâ
+
+JOHANNA
+
+Nay, let your friend.
+
+[
+Showing her parchment to Chaucer.
+]
+
+Sir, did you write these verses?
+
+CHAUCER
+
+[Pg 105]
+I did!
+
+PRIORESS
+
+[
+Showing her parchment.
+]
+
+And these, Monsieur?
+
+CHAUCER
+
+I did.
+
+JOHANNA
+
+And pray,
+
+To whom did you write
+these
+?
+
+CHAUCER
+
+To you.
+
+JOHANNA
+
+O Heaven!
+
+PRIORESS
+
+To her!
+
+[
+Unseen, save by the audience, the cellar door is
+opened, part way, and Alisoun peers out, dressed in the
+Knightâs clothes, but still without a make-up. She winks
+to Huberd, whose head bobs up a moment from behind the
+wall.
+]
+
+SQUIRE
+
+[
+To Johanna.
+]
+
+Sweet mistressâ
+
+JOHANNA
+
+I demand to know
+
+Who is this rhyming man? Who was his father?
+
+CHAUCER
+
+My father was a vintner, dame, in London.
+
+PRIORESS
+
+A vintner?
+
+SQUIRE
+
+[
+With pleading deprecation.
+]
+
+[Pg 106]
+Sirâ
+
+JOHANNA
+
+Small marvel that his son
+
+Should be a cask.
+
+ALISOUN
+
+[
+Aside, jubilantly.
+]
+
+God save my betters!
+
+JOHANNA
+
+[
+To Squire.
+]
+
+âIf
+
+You could but guess the Olympian pedigreeââ
+
+Saints! Take me to my guardian, sir.
+
+PRIORESS
+
+[
+To Chaucer.
+]
+
+Ah! bring
+
+Me to my brother! O Monsieur! How false!
+
+FRIAR
+
+[
+From behind the wall, sings.
+]
+
+Love is a liar,
+
+But lovers love the pleasant friar,
+
+Who, making of their burdens lessâ
+
+CHAUCER and SQUIRE
+
+That friar!
+
+FRIAR
+
+[
+Popping his head above the wall with a mock gesture of benediction,
+
+sings.
+]
+
+Benâcite!
+
+(Thus singeth he.)
+
+Beneâbenedicite!
+
+[Pg 107]
+Explicit pars secunda
+.
+
+ACT THIRD
+
+[Pg 109]
+
+âWite ye nat wher ther stant a litel toun
+
+Which that y-clepÃ¨d is Bob-up-and-doun,
+
+Under the Blee, in Caunterbury weye?â
+
+[Pg 108]
+
+ACT III
+
+Time
+: Evening of the same day.
+
+Scene
+: The hall of the One Nine-pin.
+
+At the opening of the act all the Pilgrims are on
+the stage, except the following
+:
+Miller
+,
+
+Shipman
+,
+Cook
+,
+Manciple
+,
+
+Summoner
+,
+Knight
+,
+Alisoun
+,
+
+Chaucer
+,
+and
+
+Wycliffe
+.
+
+Owing to the overcrowding of the little inn, the hall
+is arranged, for the night, as a common sleeping-room. Up
+stage, right, is a great canopied bedstead, with steps
+to climb into it. Along the right wall are truckle-beds.
+As the curtain rises, a clear bell is heard ringing
+outside, slow and musical. By the light of a single torch,
+the Pilgrims are seen, some putting on their cloaks and
+hoods, some peering from behind the bed-curtains, others
+taking links from a tap-boy, who distributes them. These,
+as they are lit, throw an ever stronger light upon the
+grouped faces and contrasted garbs of the company. The
+
+Parson
+is just waking the
+Ploughman
+, who
+drowses on a truckle-bed.
+
+PARSON
+
+Up, brother; yonâs the chapel bell.
+
+PLOUGHMAN
+
+It rings
+
+[Pg 110]
+For thee; thou art the parson, Jankin.
+
+PARSON
+
+Nay,
+
+The preacher will be Wycliffe, old good Master
+
+De Wycliffe.
+
+MERCHANT
+
+Old good Master Weak-liver!
+
+PARSON
+
+[
+Turns angrily.
+]
+
+Sir!
+
+MAN-OF-LAW
+
+Old good Master Black-sheep!
+
+PARSON
+
+[
+Turns.
+]
+
+Sir!
+
+MONK
+
+Old Nick!
+
+PARSON
+
+[
+Turns.
+]
+
+Whom name you thus?
+
+MONK
+
+Your preacher. Faugh! The pope
+
+Hath bannâd him with five bulls for heresy.
+
+PLOUGHMAN
+
+The old man hath a good grip, if he can
+
+Hold five bulls by the horns.
+
+MAN-OF-LAW
+
+[
+Aside to Priest.
+]
+
+[Pg 111]
+An ignoramus!
+
+BOTTLEJOHN
+
+Dick, fetch a pint of moist ale from the cellar
+
+For Master Bailey here.
+
+[
+Aside.
+]
+
+A small pint, mind,
+
+And notch his tally.
+
+DICK
+
+[
+Takes a stick from wall, notches it with his knife, and shows
+
+it to Bottlejohn.
+]
+
+Sixpence, sir, three farthings.
+
+[
+Dick then goes to the cellar door. As he opens it, he
+is grabbed within by the Miller, handed breathlessly to
+the Shipman, who claps his hands over the boyâs mouth, and
+disappears with him below. The door then is closed, but at
+intervals it opens and the Millerâs head is seen cautiously
+to emerge.
+]
+
+MERCHANT
+
+This Wycliffeâs gab hath hurt good trade. âTwas him,
+
+Six year ago, whose preaching made the poor folk
+
+March up to London-town with Wat the Tyler,
+
+And burn the gentryâs houses.
+
+DYER
+
+Served âem right!
+
+PLOUGHMAN
+
+God save Wat Tyler!
+
+MONK
+
+Peasant! Spit upon thee!
+
+PARSON
+
+[Pg 112]
+Thou son of Antichrist!
+
+MONK
+
+Thou unhangâd Lollard!
+
+BOTTLEJOHN
+
+Sst! Sst! Good masters! Pray, sweet lordings, here
+
+Comes Master Wycliffe.
+
+[
+Enter, in conversation,
+Wycliffe
+and
+
+Chaucer
+, followed by
+Johanna
+, who seeks
+to draw
+Wycliffe
+away. The Pilgrims greet the
+last, some with shouts of welcome, others with hisses.
+]
+
+WYCLIFFE
+
+[
+To Chaucer.
+]
+
+Certes, sir, it may
+
+Be as you say.âGood folk! good children!âYet
+
+To me this England is a gorgeous tabard,
+
+Blazonâd with shining arms and kingly shields;
+
+A cloth of gold, blood-dyed with heraldries
+
+Of knightly joustings, presbyterial pomps,
+
+And red-wine revellings; cunningly, iâ the fringe,
+
+Chaced round with little lutes and ladiesâ Cupids
+
+To snuggle the horse-hair lining. This brave shirt,
+
+This inward-goading cloth of gaiety,
+
+The poor, starved peasant wears on his bare backâ
+
+A ghost, that plays the bridegroom withâs despair.
+
+PLOUGHMAN
+
+[
+Amongst sneers and applause.
+]
+
+Right!
+
+WYCLIFFE
+
+[
+To Chaucer.
+]
+
+[Pg 113]
+Friend, how seems it thee?
+
+CHAUCER
+
+Sir, with your pardon,
+
+To me, our England is still âMerry England!â
+
+Which nature cirqued with its green wall of seas
+
+To be her home and hearth-stone; where no slave,
+
+Though eâer he crept in her lap, was nursed of her;
+
+But the least peasant, bowâd in lonely fief,
+
+Might claim his free share in her dower of grace;
+
+The hush, pied daisy forâs society,
+
+The oâerbubbling birds for mirth, the silly sheep
+
+For innocence.âMirth, friendship, innocence:
+
+Where nature grants these three, whatâs left for envy?
+
+These three, sir, serve for my theology.
+
+MAN-OF-LAW
+
+Parfoi! What is this manâa Papist? Isât
+
+Some courtier?
+
+FRANKLIN
+
+Naw! He rings true Lollard, him.
+
+Theyâre friends.
+
+PARDONER
+
+[
+Sniffs.
+]
+
+They say it is a London vintner.
+
+WYCLIFFE
+
+[
+Aside, to Johanna, indicating Chaucer.
+]
+
+Not speak with him?
+
+JOHANNA
+
+On no account.
+
+WYCLIFFE
+
+[Pg 114]
+Butâ
+
+JOHANNA
+
+âTis
+
+A villain. Pray, sir, come to chapel.
+
+[
+She hurries Wycliffe toward the door, where she is accosted,
+
+beseechingly, by the Squire.
+]
+
+SQUIRE
+
+Mistress!
+
+JOHANNA
+
+Am I beset?
+
+[
+Indicating Chaucer.
+]
+
+Join your conspirator,
+
+Signore!
+
+[
+She sweeps out.
+]
+
+SQUIRE
+
+[
+Following.
+]
+
+Grace, Madonna, grace!
+
+[
+Enter, right, Eglantine, with her priests.
+]
+
+CHAUCER
+
+[
+Aside, sees her.
+]
+
+My lady!
+
+PARSON
+
+[
+To Ploughman.
+]
+
+Quick, mon, and light the way for Master Wycliffe.
+
+[
+Exeunt.
+]
+
+MERCHANT
+
+[
+To Man-of-Law.
+]
+
+[Pg 115]
+Go you?
+
+MAN-OF-LAW
+
+[
+Smiles ironically.
+]
+
+Hein? When an ass comes out of Oxford,
+
+His braying charms great ears.
+
+[
+Lower.
+]
+
+They say he hath
+
+A patron in John Gaunt.
+
+[
+They go out.
+]
+
+BOTTLEJOHN
+
+[
+Calls.
+]
+
+Dick! Drat thee, Dick!
+
+Ned, fetch Dick from the cellar with that ale
+
+For Master Bailey.
+
+NED
+
+[
+Goes slowly.
+]
+
+Can I âave a candle?
+
+[
+The Host gives him such a look that he hastens on.
+]
+
+BOTTLEJOHN
+
+[
+To Bailey.
+]
+
+These âprentices!
+
+BAILEY
+
+Haw! Haw!
+
+MONK
+
+[
+To Pardoner.
+]
+
+Come, weâll go twit him.
+
+[
+Exeunt toward chapel.
+]
+
+[
+As Ned is about to open the cellar door, a black face looks
+
+out at him.
+]
+
+[Pg 116]
+
+NED
+
+[
+Running back.
+]
+
+Ow! Ow! A devilâs head! I seed a spook!
+
+BOTTLEJOHN
+
+[
+Seizing a ladle, drives him back.
+]
+
+Scat! And the devil swallow thee! Skedaddle!
+
+Feared oâ the dark!
+
+NED
+
+[
+Goes whimpering.
+]
+
+âEâll drub me wiâ his thigh-bones.
+
+[
+Opening the door, he feels his way down. As the door
+
+closes, a faint scream comes from within.
+]
+
+CHAUCER
+
+[
+To Prioress, who, preceded by her three priests, is about to go out.
+]
+
+Madame, goes she to chapel?
+
+PRIORESS
+
+Paul, Joannes,
+
+Keep close.
+
+CHAUCER
+
+Si chÃ¨re Madameâif dear my lady
+
+Would vouchsafe but a moment, tillâ
+
+PRIORESS
+
+[
+Pausing, but not looking at Chaucer.
+]
+
+Eh bien?
+
+CHAUCER
+
+[
+Confused.
+]
+
+[Pg 117]
+The night is very beautiful.
+
+PRIORESS
+
+Joannes!
+
+CHAUCER
+
+That isâI bring you tidings of your brother.
+
+JOANNES
+
+What would Madame?
+
+CHAUCER
+
+The moonâ
+
+PRIORESS
+
+[
+To Joannes.
+]
+
+Go, goâto chapel.
+
+JOANNES
+
+But will Madameâ
+
+PRIORESS
+
+Va! Va!â
+
+[
+Exeunt priests; she turns shyly to Chaucer.
+]
+
+Alors, Monsieur,
+
+Vous dites mon frÃ¨re?â
+
+CHAUCER
+
+Your brotherâ
+
+[
+Aside, as they go out.
+]
+
+Drown her brother!
+
+WEAVER
+
+[
+To Dyer.
+]
+
+Come on!
+
+[
+Exeunt omnes.
+]
+
+[Pg 118]
+
+BOTTLEJOHN
+
+[
+Blowing out a candle.
+]
+
+This preaching saveth tallow.
+
+[
+Calls.
+]
+
+Dick!
+
+Ned! Slow knaves!
+
+[
+Exit right.
+]
+
+[
+Cautiously, the cellar door is opened, and enter the
+Miller. He whistles softly; some one within whistles in
+answer.
+]
+
+MILLER
+
+Be all gagged below there?
+
+SHIPMAN
+
+[
+His head appearing.
+]
+
+Aye,
+
+Allâs tight beneath the hatches. Is the deck clear?
+
+[
+Miller nods; Shipman disappears for an instant. Then the
+
+Miller bows low.
+]
+
+MILLER
+
+This way, your lordshipâ
+
+COOK
+
+[
+Appearing with Shipman.
+]
+
+âSave your Worship!
+
+[
+Enter
+Summoner
+,
+Manciple
+, and
+
+Huberd
+, the latter disguised as a chimney-sweep.
+Lastly,
+Alisoun
+in the dress of the Knight.
+]
+
+[Pg 119]
+
+ALL THE SWAINS
+
+Hail,
+
+Dan Roderigo!
+
+ALISOUN
+
+[
+While the Swains assist in adjusting her disguise.
+]
+
+Good my squires and henchmen,
+
+I thank you.â Roger, sweetheart, lace my boot there.â
+
+Our journey hath been perilous and darkâ
+
+Bob, chuck, how sits my doublet?âbut praise Mary,
+
+I am preserved to greet my virgin sister;â
+
+God send
+she
+like the flavour of my beard
+
+Better than me.
+
+FRIAR
+
+Let me amend it, sweet!
+
+[
+Kisses her.
+]
+
+ALISOUN
+
+Avaunt, vile chimney-sweep! Beshrew thee, Huberd
+
+Love, wouldst thou swap complexions?
+
+[
+Looks in a pewter plate, while the Cook holds a candle.
+]
+
+Thy smut nose
+
+Hath blotched the lily pallor of my brow
+
+Like a crushed violet. Some powder, quick,
+
+And touch it off.
+
+FRIAR
+
+[
+From his robe and cowl, which the Shipman holds,
+extracts a rabbitâs foot and touches up Alisounâs face,
+while the Manciple helps her on with a scarlet-lined
+mantle.
+]
+
+Sweet love, how liketh you
+
+[Pg 120]
+This cloak I stole?
+
+ALISOUN
+
+âTwill serve.
+
+FRIAR
+
+[
+Bowing.
+]
+
+Your valet is
+
+Your abject Ethiop slave.
+
+MILLER
+
+[
+Kicks him.
+]
+
+Your nincumpoop!
+
+Scarecat! Thou blacks thy friarâs skin to save it,
+
+Lest the fat vintner and the young squire catch thee
+
+And flay it off.
+
+FRIAR
+
+Even so.
+
+SUMMONER
+
+By quid, letâs blab, then.
+
+He kissed her, and weâll blab.
+
+COOK, MANCIPLE,
+AND
+SHIPMAN
+
+Aye!
+
+ALISOUN
+
+Wo betide ye,
+
+Then! Down! Kneel downâthe batch of yeâand swear,
+
+As ye have hopes to win this lily-white hand,
+
+Ye will be brothers, till I win my bet.
+
+[Pg 121]
+Out with your oaths, now. Kiss my foot and say,
+
+By Venusâs lip,
+
+And Alisâs hip,
+
+I swear to keep
+
+This fellowship!
+
+ALL
+
+[
+Severally trying to kiss her extended foot.
+]
+
+By Venusâs lip,
+
+And Alisâs hip,
+
+I swear to keepâ
+
+BOTTLEJOHN
+
+[
+Calls outside.
+]
+
+Ned! Dick!
+
+ALISOUN
+
+[
+In low voice, to Swains.
+]
+
+Get out! Back to your cellar; guard
+
+The knight and the two knaves. Whoever enters
+
+Gag âem and tie.
+
+BOTTLEJOHN
+
+[
+Entering.
+]
+
+Dick! Ned! The devil take
+
+All âprentices!
+
+ALISOUN
+
+[
+Retaining Friar.
+]
+
+Hist!
+
+[
+Staying the Miller.
+]
+
+Bob!
+
+[
+To the others.
+]
+
+[Pg 122]
+Go! Go!
+
+BOTTLEJOHN
+
+I wonder
+
+Was it a spook he saw! âTis dark.
+
+[
+Takes up an unlit candle.
+]
+
+ALISOUN
+
+Mind, when he strikes
+
+A light, I am the devil, and your feet
+
+Are hoofs.
+
+BOTTLEJOHN
+
+Folk say they dwell in cellars.
+
+FRIAR
+
+Soft!
+
+Iâll sprinkle a pinch of this sal volatile
+
+Iâ the candle flame.
+
+BOTTLEJOHN
+
+[
+Lights candle.
+]
+
+Iâll take my crucifix.
+
+[
+He is about to go toward the priedieu, when the Friar
+thrusts his hand over the candle flame. A vivid flash of
+light reveals his black face to Bottlejohn.
+]
+
+FRIAR
+
+Succubus! Incubus!
+
+Praestare omnibus!
+
+BOTTLEJOHN
+
+[
+Drops the candle, which goes out.
+]
+
+[Pg 123]
+Help!
+
+ALISOUN
+
+Silence!
+
+[
+On the hearth the Friar lights a dull red flame, which throws
+
+a flickering glow about the room.
+]
+
+BOTTLEJOHN
+
+[
+To Alisoun.
+]
+
+O! what art thou? Dost thou laugh?
+
+What is thy name?
+
+ALISOUN
+
+My name is Lucifer.
+
+These be my urchins, Belial and Moloch.
+
+Salaam! Salaam!
+
+FRIAR
+AND
+MILLER
+
+[
+Salaaming.
+]
+
+Hail, Mephistophilis!
+
+ALISOUN
+
+[
+To Host.
+]
+
+What thing art thou?âDuck!
+
+BOTTLEJOHN
+
+[
+Ducks as the Miller pricks him with a dirk.
+]
+
+I be Bottlejohn,
+
+The host oâ the One Nine-pin.
+
+ALISOUN
+
+Bottlejohn,
+
+Thee and thy One Nine-pin I damn. For know,
+
+[Pg 124]
+Thy cellar is the attic over hell,
+
+And hath been leaking bad ale through my ceiling
+
+This seven year, and made a puddle deep
+
+As Proserpinaâs garter in her bridal
+
+Chamber, where thy two knavesâ
+
+BOTTLEJOHN
+
+What! Ned and Dick?
+
+ALISOUN
+
+Came plumping through head-downwards into hell
+
+Like bullfrogs in a tarn.
+
+MILLER
+
+And drowned! and drowned!
+
+Shalt
+thou
+in thine own ale.
+
+[
+Leads him toward cellar.
+]
+
+BOTTLEJOHN
+
+O Virgin!
+
+FRIAR
+
+[
+At door, back.
+]
+
+Whist!
+
+One comes.
+
+BOTTLEJOHN
+
+Help! help!
+
+ALISOUN
+
+[
+To Miller.
+]
+
+Quick, Belial, lug thine ass
+
+Into his stall. Instruct him with thy whittle
+
+What manner devils we are, and when I clap
+
+My hands thus and cry âHost!â then lead him forth.
+
+[
+Exeunt Miller and Bottlejohn into cellar. To Friar.
+]
+
+[Pg 125]
+Meantime, my pixy, hide we here.
+
+FRIAR
+
+Sweet lordâ
+
+[
+They hide in the cupboard. Enter, left, Chaucer and
+
+Prioress.
+]
+
+PRIORESS
+
+Parlez toujours, Monsieur!
+
+Parlez toujours!
+
+CHAUCER
+
+How silver falls the night!
+
+The hills lie down like sheep; the young frog flutes;
+
+The yellow-ammer, from his coppice, pipes
+
+Drowsy rehearsals of his matin-song;
+
+The latest swallow dips behind the stack.
+
+What beauty dreams in silence! The white stars,
+
+Like folded daisies in a summer field,
+
+Sleep in their dew, and by yon primrose gap
+
+In darknessâ hedge, St. Ruth hath dropped her sickle.
+
+PRIORESS
+
+Nay, yonderâs the new moon.
+
+CHAUCER
+
+But hereâs St. Ruth,
+
+Whose pity hath reprieved a vintnerâs son.
+
+Your nephewâs versesâ
+
+PRIORESS
+
+Pray speak not of them;
+
+That wicked Friar Huberd was to blame.
+
+But nowâ
+
+[
+Turning to the casement.
+]
+
+[Pg 126]
+The moon, Monsieur; parlez, Monsieur!
+
+CHAUCER
+
+[
+Aside.
+]
+
+âParlez, Monsieur.â How shall I trust myself?
+
+[
+Aloud.
+]
+
+I may not, dear Madame. If I should speak,
+
+My heart would run in passages too sweet
+
+For this cloyâd planet.
+
+PRIORESS
+
+[
+Pointing through casement to the sky.
+]
+
+Maisâparlez, Monsieur.
+
+CHAUCER
+
+Yea, if perchance there were some
+other
+starâ
+
+PRIORESS
+
+Some other starâ
+
+CHAUCER
+
+Some star unsurfeited,
+
+Some blessed star, where hot and lyric youth
+
+Pours not swift torment in the veins of age;
+
+Where Passionâgorgeous cenobiteâblurs not
+
+With fumid incense of his own hot breath
+
+The hallowâd eyes of sweet Philosophy;
+
+Where body battens not upon the soul,
+
+But both are Reasonâs angels, and Loveâs selfâ
+
+Pontifical in daisy-chainsâdoth hold
+
+High mass at natureâs May-pole;âif such star
+
+There were in all Godâs heaven, and such indeed
+
+Were ours, there would I speak and utter, not
+
+[Pg 127]
+âDear Eglantine, I love you,â but âWe love.â
+
+PRIORESS
+
+Monsieur, âtis true.
+
+CHAUCER
+
+The simple truth, once said,
+
+Is very sweet, Madame.
+
+PRIORESS
+
+Merci, Monsieur.
+
+ALISOUN
+
+Whist, Huberd; are they gone?
+
+FRIAR
+
+Nay.
+
+ALISOUN
+
+Did he kiss her?
+
+Bones! Are they dumb!
+
+FRIAR
+
+Art jealous, dame?
+
+ALISOUN
+
+Shut up!
+
+CHAUCER
+
+[
+At the window.
+]
+
+Some other star! Choose, lady, which is ours?
+
+PRIORESS
+
+Yonder cool star that hides its winking light
+
+Like a maid that weepsâbut not for heaviness.
+
+CHAUCER
+
+Ha! If I were Prometheus now, Iâd filch it
+
+From out the seventh crystal sphere for you
+
+And âclose it in this locket.
+
+[
+Seizes her hand.
+]
+
+[Pg 128]
+
+PRIORESS
+
+Nay, that holds
+
+My brotherâs hair.
+
+CHAUCER
+
+[
+Dropping her hand, looks away into the night.
+]
+
+We dream.
+
+PRIORESS
+
+Of what, Monsieur?
+
+CHAUCER
+
+We dream that we are back in Eden garden
+
+And that the gates are shutâand sin outside.
+
+PRIORESS
+
+Why, such in truth is love.
+
+CHAUCER
+
+Yes, such in truth
+
+But not in fact, dear lady. Such sweet truth
+
+Grows only on Godâs tree; we may behold
+
+And crave immortally, but may not pluck it
+
+Without the angelâs scourge.ââWhen Adam delvedââ
+
+Aye, then he dragged both heaven and earth and hell
+
+Along with him.âO God! this suzerain mansion
+
+Where saints and crownâd philosophers discourse
+
+Familiarly together as thy guestsâ
+
+This ample palace of poesie, the mindâ
+
+Hath trap-doors sunk into a murky vault,
+
+[Pg 129]
+Where passionâs serfs lie sprawling.
+
+PRIORESS
+
+I am afraid!
+
+CHAUCER
+
+Forgive me, O sweet lady! I seem not
+
+All that I am.
+
+PRIORESS
+
+[
+Timidly.
+]
+
+What are you?
+
+CHAUCER
+
+Do you ask?
+
+Why, then, for this dull, English bulk, âtis true
+
+A London vintner gat it; but for this
+
+My moving soul, I do believe it is
+
+Some changeling sprite, the bastard of a god,
+
+Sprung from Panâs loins and white Dianaâs side,
+
+That, like a fawn, I fain must laugh and love
+
+Where the sap runs; yet, like an anchorite,
+
+Pore on the viewless beauty of a book:
+
+Not more enamoured (when the sun is out)
+
+Oâ the convent rose, than of the hoyden milkweed
+
+Bold in my path. Life, in whatever cup,
+
+To me is a love-potion. In one breath,
+
+My heart hath pealed the chimes above St. Paulâs
+
+And rung an ale-wifeâs laughter.
+
+ALISOUN
+
+[
+Aside to the Friar.
+]
+
+Bless his heart
+
+[Pg 130]
+And waistband! Heard ye that?
+
+PRIORESS
+
+[
+Who has listened, lost.
+]
+
+To hear you speak
+
+Is sweeter than the psalter. Do not stop.
+
+CHAUCER
+
+[
+Aside, smiling.
+]
+
+Dear Lady Dreams!â
+
+[
+Aloud.
+]
+
+Hark! Footsteps from the chapel.
+
+[
+Goes to the door.
+]
+
+It is your nephew and his lady-love.
+
+Letâs step aside before I introduce you,
+
+And profit by these pangs of âlyric youth.â
+
+[
+Chaucer and the Prioress step aside, as enter, left, Johanna
+
+and the Squire.
+]
+
+SQUIRE
+
+Stay!
+
+JOHANNA
+
+Leave me!
+
+SQUIRE
+
+Hear me!
+
+JOHANNA
+
+Is the house of prayer
+
+No sanctuary that you drag me from it?
+
+SQUIRE
+
+Donna, the cloudy-pillarâd dome oâ the air
+
+Alone can roof a loverâs house of prayer.
+
+JOHANNA
+
+[Pg 131]
+More verses? Send âem to your lady nun.
+
+SQUIRE
+
+O heartless bosom! Cold concave of pity!
+
+Whet thy disdain upon the heart-shaped stone
+
+Lodged, like a ruby, in that marble breast,
+
+And slay me with the onyx of thine eye.
+
+JOHANNA
+
+Pray, did your Geoffrey write that?
+
+SQUIRE
+
+Do not scorn him.
+
+He named you âEglantineâ because âJohannaâ
+
+Was not euphonious.
+
+JOHANNA
+
+Because âJohannaâ
+
+Was notâ
+
+SQUIRE
+
+Euphonious. But âEglantineââ
+
+JOHANNA
+
+But âEglantineâ was all symphonious.
+
+âJohannaââha?âwas not mellifluous
+
+Enough to woo me! So a honeysuckle,
+
+An eglantine, must be my proxyâha?
+
+Go! go! Hide in the nightâGo! Kill thyself!
+
+SQUIRE
+
+[
+At the door.
+]
+
+O sky! thy noon was a broad, glorious mirror,
+
+Which now hath fallen from its frame and shattered;
+
+And little stars, like points of glass, they prick me
+
+[Pg 132]
+That gather back my grains of crushÃ¨d joy.
+
+JOHANNA
+
+[
+At the window.
+]
+
+O starry night! thou art Fortuneâs playing-card,
+
+All bright embossâd with little shining hearts
+
+That dash our own with destiny. Oh, false!
+
+[
+Turns.
+]
+
+Go!âto your Eglantine!
+
+SQUIRE
+
+Johanna!
+
+CHAUCER
+
+[
+Speaks from the darkness.
+]
+
+Hide, Cleopatra, thy Egyptian hair!
+
+JOHANNA
+
+Hark!
+
+CHAUCER
+
+Esther, let melt thy meekness as the snow.â
+
+JOHANNA
+
+[
+Draws nearer to Squire.
+]
+
+What isât?
+
+CHAUCER
+
+Hide, Ariadne, all thy beauties bare!
+
+SQUIRE
+
+Who speaks?
+
+CHAUCER
+
+Penelope and Marcia Cato,
+
+Drown all your wifely virtues in the Po.â
+
+JOHANNA
+
+[Pg 133]
+Good Aubrey, strike a light.
+
+CHAUCER
+
+Isold and Helen, veil your starlit eyesâ
+
+Johanna
+comes, that doth you jeopardise!
+
+[
+The Squire lights a candle, revealing Chaucer.
+]
+
+JOHANNA
+
+O monster! It is he.
+
+[
+Chaucer takes the candle from the Squireâs hand, and,
+holding it high, approaches Johanna, thereby throwing the
+Prioress into his own shadow.
+]
+
+SQUIRE
+
+Nay, gentle sir!
+
+CHAUCER
+
+Laodamia, Hero, and Dido,
+
+And Phyllis, dying for thy Demophon,
+
+And Canace, betrothâd of Cambalo,â
+
+Polixena, that made for love such moan,
+
+Let envy gnaw your beauties to the bone;
+
+Yea, Hypermnestra, swoon in envious sighsâ
+
+Johanna
+comes, that doth you jeopardise!
+
+JOHANNA
+
+Oh, thank youâboth. Squire, I congratulate
+
+Your cunning chivalry on luring me
+
+From church to bait me in this bear-trap.
+
+SQUIRE
+
+Lady,
+
+Upon my honourâ
+
+[
+To Chaucer.
+]
+
+[Pg 134]
+Good sirâ
+
+[
+To Johanna.
+]
+
+Nay, fear nothing.
+
+Indeed, if you but knewâ
+
+JOHANNA
+
+[
+Catching sight of Prioress.
+]
+
+If I but knew!
+
+St. Ann! I know too much.
+
+SQUIRE
+
+You would be proud
+
+To have him rhyme your name. Sir, I protest
+
+Had I conceived how fair âJohannaâ sounds
+
+In verseâ
+
+CHAUCER
+
+[
+Sternly.
+]
+
+Hold, signorino! Was it thus
+
+You bade me sonnetise your Eglantine?
+
+You said yourselfâ
+
+SQUIRE
+
+In sooth, that âEglantineâ
+
+Is sweeter.
+
+JOHANNA
+
+Ugh!
+
+CHAUCER
+
+There you were false. For know
+
+As ocean-shells give back the mermaidâs sigh,
+
+The conches of a loverâs ears should hold
+
+Eternal murmurs of his mistressâ name.
+
+âJohannaâ should have been thy conjure-word
+
+[Pg 135]
+To raise all spirits; thy musesâ
+nom de plume
+;
+
+âJohannaâ should have learnt thy brook to purl,
+
+Thy pine to sorrow, and thy lark to soar;
+
+And nightingales, forswearing Tereusâ name,
+
+Have charmed thy wakeful midnight with âJohanna.â
+
+JOHANNA
+
+[
+To Chaucer.
+]
+
+Roland of Champions! Ringrazio!
+
+Now, pray, what says the other lady?
+
+SQUIRE
+
+The other?
+
+JOHANNA
+
+[
+To Prioress.
+]
+
+Dame Eglantine, your most obsequious.
+
+PRIORESS
+
+Votre servante.âI also, Mademoiselle,
+
+Have been at court.
+
+JOHANNA
+
+Does not Madame applaud, then,
+
+This vintnerâs courtly eloquence?
+
+PRIORESS
+
+I think
+
+Monsieur will soon explain how this good youth
+
+And I are dearly tied unto each other.
+
+SQUIRE
+
+[Pg 136]
+What! Iâand you, Madame?
+
+JOHANNA
+
+It seems the trap
+
+Hath caught the hunters.
+
+[
+Aside.
+]
+
+Oh, my heart!
+
+SQUIRE
+
+I swear
+
+I do not know this lady.
+
+JOHANNA
+
+What! you swear!
+
+[
+Aside.
+]
+
+Not perjury?
+
+SQUIRE
+
+I swear that we are strangers;
+
+Of no relationship, and least of love.
+
+JOHANNA
+
+Oh, Aubrey, is this true?
+
+SQUIRE
+
+Why, Mistressâ
+
+CHAUCER
+
+[
+Aside to Squire.
+]
+
+Soft!
+
+Walk with this nun a moment.
+
+SQUIRE
+
+Sir?
+
+CHAUCER
+
+Dost trust me?
+
+SQUIRE
+
+[Pg 137]
+Yes, butâ
+
+CHAUCER
+
+[
+Indicating Johanna.
+]
+
+Iâll reconcile her.
+
+[
+Aside to Prioress.
+]
+
+Tell him all,
+
+Madame. Leave us alone a moment.
+
+SQUIRE
+
+Butâ
+
+CHAUCER
+
+[
+Aloud.
+]
+
+I will not play the hypocrite.
+
+PRIORESS
+
+[
+To Squire, as they go out.
+]
+
+Dear Aubreyâ
+
+JOHANNA
+
+âDear Aubrey!â Gone! gone! and with her. O base
+
+Conspiracy!âTo leave me!
+
+[
+To Chaucer.
+]
+
+Stand aside!
+
+CHAUCER
+
+Nay, do not follow.
+
+JOHANNA
+
+I? I follow
+her
+?
+
+Follow the lost Francesca into Limbo!
+
+Sheâs damned. I seek my ward, De Wycliffe.
+
+CHAUCER
+
+Stay!
+
+JOHANNA
+
+St. Winifred! Youâll forceâ?
+
+CHAUCER
+
+Donna, my heart
+
+[Pg 138]
+Bleeds tears for you.
+
+JOHANNA
+
+Stand by!
+
+CHAUCER
+
+That one so young,
+
+So seeming virtuousâ
+
+JOHANNA
+
+âSo seemingââthanks!
+
+CHAUCER
+
+As this young squire should, at one look from hisâ
+
+Should, at one look, forsake your ladyship
+
+For hisâalas! But such is man! The bonds
+
+Which nature forges chain us to the flesh,
+
+Though angels pry the links.
+
+JOHANNA
+
+The bonds which nature?â
+
+CHAUCER
+
+Yes, nature: âtis not love. Had it been love,
+
+Would he have turned, even in his vows of truth,
+
+And left you with hisâah! it chokes me. Nay,
+
+Go, go, great marchioness, seek out your ward;
+
+I crave your pardon.
+
+[
+Bowing, he steps aside. Johanna, passing disdainfully
+to the door, there pauses, and turns to Chaucer, as though
+he had spoken.
+]
+
+JOHANNA
+
+Well?
+
+[
+Chaucer retires right.
+]
+
+âTis very dark.
+
+[
+Returning.
+]
+
+[Pg 139]
+I will wait here.
+
+CHAUCER
+
+In sadness, honoured lady,
+
+I take my leave.
+
+[
+He goes to the door; Johanna rises uneasily.
+]
+
+Yet I beseech your grace
+
+Will never hint to that poor youth, my friend,
+
+The secret I let slip.
+
+JOHANNA
+
+[
+Aside.
+]
+
+âLet slip!â The booby!â
+
+He thinks heâs told me who she is. Soft!
+now
+
+Iâll worm it out.
+
+[
+Aloud.
+]
+
+Wait; if I promise never
+
+To hint the thing we knowâyou understand.
+
+CHAUCER
+
+Thatâs it.
+
+JOHANNA
+
+One moment, Master Geoffrey. I
+
+Have rallied you somewhat on your paternal
+
+Vintage.
+
+CHAUCER
+
+To be hit by your Graceâs wit
+
+Is to die smiling.
+
+JOHANNA
+
+[
+Aside.
+]
+
+How the big fish bites!
+
+[
+Aloud, effusively.
+]
+
+But youâll forgive me? âTis my nature, those
+
+[Pg 140]
+To banter whom I best adore.
+
+[
+Detaching a knot of ribbon from her gown, she offers it to
+
+Chaucer.
+]
+
+Pray, sir,â
+
+CHAUCER
+
+For me?âA love-knot! By your Graceâs favours
+
+I am bewildered.
+
+JOHANNA
+
+Keep it as a pledgeâ
+
+For you are Aubreyâs friend, my Aubreyâs friendâ
+
+As pledge that I will never, so help me Heaven,
+
+Reveal to him my knowledge of his secret,
+
+How Eglantine is hisâoh, word it for me,
+
+For I am heartsick.
+
+CHAUCER
+
+Trust me, honoured lady,
+
+You have done bravely. For did he suspect
+
+That I have even whispered to you how
+
+That nun, whose sensuous name he bade me rhyme
+
+In verses meant for you, that Prioress,
+
+Whose cloistral hand even now, lockâd in his palm,
+
+Leads here your Aubrey, how that vestal maid
+
+Hath lived for months, nay years, your loverâsâoh!
+
+JOHANNA
+
+[
+Seizes Chaucerâs arm.
+]
+
+[Pg 141]
+His
+what
+? In Godâs name, speak it! Hisâ
+
+CHAUCER
+
+His aunt!
+
+[
+Blows out the candle.
+]
+
+JOHANNA
+
+His
+aunt
+?
+
+CHAUCER
+
+[
+Going off in the dark.
+]
+
+O shire of Kent! thou shire of Kent!
+
+To sit with thee in parliament
+
+Doth not content
+
+Me, verayment,
+
+Like laughing at lovers after Lent.
+
+Haha! Hahaha!
+
+[
+Exit.
+]
+
+Ho! Shire of Kent!
+
+JOHANNA
+
+SoâKent? He mocks my title, doth he?
+
+O gall! If he have made a fool of meâ
+
+Yet, if heâve made a fool of me, O sweet,
+
+Sweet gall!
+
+SQUIRE
+
+[
+Outside.
+]
+
+Johanna!
+
+JOHANNA
+
+Aubrey!
+
+SQUIRE
+
+[
+Returning with Prioress.
+]
+
+[Pg 142]
+He hath told thee?
+
+JOHANNA
+
+Nay, hath he told me
+true
+?
+
+SQUIRE
+
+This is my aunt,
+
+Dame Eglantine, my fatherâs sister.
+
+ALISOUN
+
+[
+Aside.
+]
+
+Death!
+
+We must be quick.
+
+FRIAR
+
+[
+Aside.
+]
+
+Iâll win thy wager for thee.
+
+[
+Exit Friar at door, front left.
+]
+
+PRIORESS
+
+[
+Extending her hand to Johanna.
+]
+
+My nephew tells me you and heâ
+
+JOHANNA
+
+Madame,
+
+I blush to think of my late rudeness; âtwas
+
+My jealousy. Yet you should pardon it;
+
+For you that wear St. Chastityâs safe veil
+
+Can never know how blind St. Cupid plagues
+
+The eyes of worldlings.
+
+PRIORESS
+
+[Pg 143]
+No?
+
+SQUIRE
+
+Love, you forgive me?
+
+[
+ReÃ«nter Chaucer.
+]
+
+JOHANNA
+
+Forgive you? By my heartâIâll think about it.
+
+Here comes our fool. Come hither, Whatâs-your-name.
+
+CHAUCER
+
+[
+Coming forward with the love-knot.
+]
+
+Your Graceâs secret-monger.
+
+JOHANNA
+
+Tut! tut!
+
+[
+Embarrassed, motions him to put it away.
+]
+
+Rhymester,
+
+If thou wilt come to court, Iâll have thee made
+
+Court-fool.
+
+SQUIRE
+
+[
+Aside.
+]
+
+O mistress, hush!
+
+JOHANNA
+
+A cask of thy
+
+Diameter should keep King Richard drunk
+
+With laughter for a twelvemonth. Cask, I swear it,
+
+Thou shalt be made court-fool.
+
+SQUIRE
+
+[
+Aside to Chaucer.
+]
+
+[Pg 144]
+She doth not mean it.
+
+PRIORESS
+
+[
+Aside to Squire.
+]
+
+Nephew, I cannot quite approve your choice.
+
+JOHANNA
+
+Nay, keep my knot; my favour is renewed.
+
+Iâll sue the king myself at Canterbury
+
+To swaddle thee in motley.
+
+[
+Chaucer laughs aside.
+]
+
+âWell, no thanks?
+
+CHAUCER
+
+Lady, pray God I live to see that day.
+
+JOHANNA
+
+Amen. Now, Aubrey, whereâs your father? Letâs
+
+Make merry all together.
+
+PRIORESS
+
+True, my brother;
+
+Went he to chapel?
+
+SQUIRE
+
+Ladies, I am âshamed
+
+To make confession of my selfishness:
+
+To-day, all day, in the sweet day and night
+
+Of my own thoughts I have been wandering.
+
+I have not seen my father since this morning.
+
+Iâll go and seek him now.
+
+CHAUCER
+
+Nay, boy, remain.
+
+Doubtless heâs gone to chapel. I will find him
+
+[Pg 145]
+And bring him to you here. First, though, let me
+
+Anticipate my foolâs prerogative
+
+And play the father to anotherâs bairns,
+
+This vixen girl and boy.
+
+[
+With an affectionate smile he draws Johanna and Aubrey
+
+together and kisses them.
+]
+
+God bless âem both!
+
+PRIORESS
+
+[
+Aside.
+]
+
+St. Loy! No more?
+
+JOHANNA
+
+Dear fool, thouârt not so old.
+
+Come now, how old?
+
+CHAUCER
+
+Ah, lass, my crop is rowen.
+
+When grey hairs creep like yarrow into clover,
+
+Farewell, green June! Thy growing days be over.
+
+[
+Aside.
+]
+
+Bewitching Eglantine!
+
+[
+Exit left.
+]
+
+PRIORESS
+
+[
+At the casement, aside.
+]
+
+Some other star!
+
+[
+Aloud.
+]
+
+Nephew!
+
+[
+The Squire and Johanna stand absorbed in their own whisperings.
+]
+
+[Pg 146]
+Nephew!
+
+SQUIRE
+
+Madame!
+
+PRIORESS
+
+I pray you, tell
+
+Your father, when he comes, I am retired
+
+A moment to my room.
+
+SQUIRE
+
+I will, Madame.
+
+[
+Exit Prioress, right.
+]
+
+My lady, weâre alone.
+
+JOHANNA
+
+Alas, then come,
+
+Sit and be sad.
+
+[
+She sits in the niche by the fireplace.
+]
+
+SQUIRE
+
+Sad? Must I wear a mask, then?
+
+Mistress! Mistress, masks fall away from love
+
+Like husks from buds in April. By loveâs light
+
+Lovers can look through mountains to their joy
+
+As through these black beams I see heaven. Nay,
+
+Hear me! When I have won my spursâ
+
+FRIAR
+
+[
+Sings within.
+]
+
+What, ho! What, ho!
+
+Dan Cupido!
+
+[Pg 147]
+A spurless knight usurps thy halls.â
+
+JOHANNA
+
+Whatâs that?
+
+SQUIRE
+
+The friar! âTis his voice.
+
+FRIAR
+
+[
+Sings within.
+]
+
+Thy fortress falls,
+
+And all her rosÃ¨d charmsâ
+
+JOHANNA
+
+Isât in the cellar?
+
+SQUIRE
+
+Or the wall?
+
+[
+They look up the chimney.
+]
+
+FRIAR
+
+[
+Sings within.
+]
+
+To arms, Dan Cupido! To arms,
+
+Dan Cupido!
+
+[
+With a rush of soot, he falls into the fireplace.
+]
+
+Bon soir!
+
+JOHANNA
+
+âOdâs fiends!
+
+SQUIRE
+
+[
+Seizing Friar, drags him forth.
+]
+
+Sneak thief, at last I have theeâWhat!
+
+[Pg 148]
+A chimney-sweep?
+
+FRIAR
+
+Did scare the ladykin?
+
+SQUIRE
+
+Wasât thou that sung?
+
+FRIAR
+
+Sung-la?
+
+JOHANNA
+
+[
+Brushing herself off.
+]
+
+My taffeta!
+
+SQUIRE
+
+Sing! Didst thou sing?
+
+FRIAR
+
+Oh, sing! You mean the friar, sir.
+
+SQUIRE
+
+[
+Peremptorily.
+]
+
+Where?
+
+FRIAR
+
+In the cellar. Heâs a-hiding, sir.
+
+SQUIRE
+
+I warrant him. Hereâ
+
+[
+Gives Friar a coin.
+]
+
+Come, show me the scoundrel.
+
+FRIAR
+
+[
+Examining coin.
+]
+
+[Pg 149]
+A noble!
+
+[
+Sings.
+]
+
+Oh, rare
+
+Sweet miller,
+
+Lady-killer,
+
+Not there, not there!
+
+SQUIRE
+
+[
+Eyeing Friar with suspicion.
+]
+
+What?
+
+[
+The Miller slips stealthily from the cellar door and
+joins Alisoun in the cupboard.
+]
+
+FRIAR
+
+Wasât so he sung, sir?
+
+SQUIRE
+
+Yes.
+
+JOHANNA
+
+[
+Still brushing her gown.
+]
+
+Ruined!
+
+FRIAR
+
+Sir, follow, sir. I know him well.
+
+A begging friar?
+
+SQUIRE
+
+Yes.âOne moment, Mistress.â
+
+Iâll flay the beggar. Now!
+
+FRIAR
+
+[
+The Friar opens cellar door; Squire snatches his candle
+
+and precedes him.
+]
+
+A sneaking friarâ
+
+[Pg 150]
+A noble!âa swindling, skulking, lying friar.
+
+[
+Aside to Bob Miller, who joins him from the cupboard.
+]
+
+O rare Bob-up-and-down!
+
+[
+Exeunt; Alisoun leaves the cupboard and exit stealthily at
+
+door, left front.
+]
+
+JOHANNA
+
+Stay; are they gone?
+
+Mass! mass! Iâm spotted worse than ink. And kneel
+
+In Canterbury kirk in such a gown!
+
+Iâll eat it first. Oh, Lord! Lord, now who comes?
+
+[
+Enter, left back, the Canonâs Yeoman and the Carpenter;
+
+after whom the Wife of Bath, disguised.
+]
+
+ALISOUN
+
+Good fellow, you there, can you propagate
+
+Unto my visionâa young prioress?
+
+CANONâS YEOMAN
+
+No, sir, I cannot.
+
+ALISOUN
+
+Or a marchioness?
+
+[
+The pilgrims pass on.
+]
+
+JOHANNA
+
+[
+Aside.
+]
+
+A marchioness!
+
+ALISOUN
+
+[
+Twirling her sword-scabbard.
+]
+
+[Pg 151]
+Hum! Hum!
+
+CARPENTER
+
+How went the sermon?
+
+CANONâS YEOMAN
+
+Godâs blood! Old Wycliffe hammered the pope flat.
+
+The pulpit rang like a hot anvil.
+
+CARPENTER
+
+Aye,
+
+Thereâll be skulls cracked yet.
+
+[
+Exeunt right.
+]
+
+ALISOUN
+
+[
+To Johanna.
+]
+
+Amorous Minerva!
+
+JOHANNA
+
+Signor!
+
+[
+Aside.
+]
+
+My left sleeveâs clean.
+
+ALISOUN
+
+I have a son,
+
+Whose auntâ
+
+JOHANNA
+
+Are you the Knight of Algezir?
+
+ALISOUN
+
+I amâDan Roderigo dâAlgezir.
+
+JOHANNA
+
+My Aubreyâs father.
+
+ALISOUN
+
+[Pg 152]
+Bones! Are you Johanna?
+
+JOHANNA
+
+[
+Aside.
+]
+
+Bones!
+
+ALISOUN
+
+Corpus arms! it sticks me to the heart
+
+To gaze on your sweet face, my dear.
+
+JOHANNA
+
+[
+Aside.
+]
+
+My dear!
+
+ALISOUN
+
+Ah! the fat rogue! He said your face was worth
+
+Unbuckling an off eye to pop it in;
+
+But such a pretty finch!
+
+JOHANNA
+
+Finch! Sir, perhaps
+
+You are deceived in me.âWho sent you here?
+
+ALISOUN
+
+Yon chum of that sweet spindle-shanks, my sonâ
+
+Yon rhymester, Master Geoffrey.
+
+JOHANNA
+
+Yes; âtwas he.
+
+[
+Aside.
+]
+
+Saints! is
+this
+Aubreyâs father?
+
+[
+Aloud.
+]
+
+Doubtless, sir,
+
+[Pg 153]
+Thereâs no mistake. Your sister left you wordâ
+
+ALISOUN
+
+O villain! Aye, though I haâ bred him! What
+
+Though âtis my own sonâvillain! Godâs teeth!
+
+JOHANNA
+
+Sir!
+
+ALISOUN
+
+Your pardon, dainty dame. Before I speak
+
+I do not rinse my mouth in oleander.
+
+I am a blunt knight. Nay, I cannot sigh
+
+A simoon hot with sonnets like my son.
+
+I am a blunt knight who, on Satanâs heel,
+
+Hath rode it and strode it, wenched it, wived it, and knived it,
+
+Booted and footed ât, tillâby Venusâ shoestring,
+
+I be a blunt and rough but honest soldier.
+
+JOHANNA
+
+Signore, I believe it.
+
+ALISOUN
+
+Bluntâs the word, then;
+
+And hereâs the blunt point. Youâre deceived.
+
+JOHANNA
+
+By whom?
+
+ALISOUN
+
+By Aubrey.
+
+JOHANNA
+
+What!
+
+ALISOUN
+
+Aye, by my smiling son
+
+[Pg 154]
+Wiâ the pretty curls. Where is he now?
+
+JOHANNA
+
+Why, heâ
+
+Heâs gone to find the friar.
+
+ALISOUN
+
+Aye.
+
+JOHANNA
+
+Good Heaven!
+
+Can he have harmed him?
+
+ALISOUN
+
+Whoâthe friar? The friarâs
+
+His palâhis pal; and so is Geoffrey; aye,
+
+And that lascivious, Latin-singing nunâ
+
+JOHANNA
+
+What! Eglantine?
+
+ALISOUN
+
+Yes, she; those four! Child, child,
+
+Wouldst not believe it, how theyâve sneaked and schemed,
+
+Plotted my life, aye, for my money. But
+
+âTwas lust, lust egged him on. Oh God! my son!
+
+And âtwas a cherub âfore this Geoffrey warped him!
+
+JOHANNA
+
+[
+To herself.
+]
+
+[Pg 155]
+They whispered here: and there she said âDear Aubrey.â
+
+ALISOUN
+
+And their disguises; oh, youâd not believe it!
+
+That devil friar plays the chimney-sweep.
+
+Andâ
+
+JOHANNA
+
+Chimney-sweep! âTwas he, then, sung? Oh, come;
+
+Help!
+
+ALISOUN
+
+Where?
+
+JOHANNA
+
+Theyâre in the cellar.
+
+ALISOUN
+
+Like enough;
+
+Theyâre plotting, plotting. Godâs wounds! âTis a trap.
+
+Where be they all? Geoffrey to send me hereâ
+
+My son to leave you with the friarâHa!
+
+Theyâre with that sly, deceptive Prioress;
+
+âTis sheâ
+
+JOHANNA
+
+Why, sheâs your sister.
+
+ALISOUN
+
+[
+As if taken back.
+]
+
+Whatâmy sister!
+
+Is
+she
+the Prioress?
+She
+Eglantine?
+
+JOHANNA
+
+Yes, yes; and she, too, left upon a pretext.
+
+[Pg 156]
+Sir Roderigo, say, what shall we do?
+
+ALISOUN
+
+My sisterâand my son!
+
+JOHANNA
+
+[
+Calls.
+]
+
+Aubrey!âno answer?
+
+Aubrey!
+
+ALISOUN
+
+My son and sister!
+
+JOHANNA
+
+Oh, poor soldier!
+
+ALISOUN
+
+Oh, monstrous brood, hatched in a vampireâs nest!
+
+But I will be revenged. Go to your room;
+
+Lock fast the door; but when I call, âA brooch,
+
+A brooch!â come forth and raise the house.
+
+JOHANNA
+
+Why âbroochâ?
+
+ALISOUN
+
+A watchword. Quick; go! I hear footsteps. Go!
+
+[
+Urges her toward door, right back.
+]
+
+Blunt is the word; your presence dangers meâ
+
+Your room. No, no, I fear not.
+
+JOHANNA
+
+Poor Sir Roderick!
+
+[
+Exit; Alisoun shuts door; voices outside, left.
+]
+
+ALISOUN
+
+[Pg 157]
+A miss is as goodâs a mile.
+
+REEVE
+
+[
+Outside.
+]
+
+Where went your knight?
+
+[
+Enter Reeve, Doctor, and Chaucer.
+]
+
+CHAUCER
+
+To chapel.
+
+REEVE
+
+Na, na, na; I saw him not.
+
+CHAUCER
+
+[
+To Doctor.
+]
+
+Nor you?
+
+DOCTOR
+
+A knight, say you, from the Holy Land?
+
+CHAUCER
+
+Yes, a crusader.
+
+DOCTOR
+
+[
+Points at Alisoun.
+]
+
+Is that he?
+
+CHAUCER
+
+Ah, thank you;
+
+[
+Starts forward, but sees he is mistaken.
+]
+
+Nay, âtis another man.
+
+DOCTOR
+
+Good even, sir.
+
+REEVE
+
+[
+To Doctor.
+]
+
+âTwas the first time I heard the devil preach
+
+[Pg 158]
+In chapel.
+
+DOCTOR
+
+Wycliffe?
+
+REEVE
+
+[
+Nods.
+]
+
+Curse him and his Lollards!
+
+[
+Exeunt, right front.
+]
+
+CHAUCER
+
+[
+Follows them to door, and calls.
+]
+
+Aubrey!
+
+ALISOUN
+
+[
+Claps her hands.
+]
+
+Host!
+
+CHAUCER
+
+Signorino!
+
+ALISOUN
+
+Host here!
+
+[
+Enter from cellar the Miller and Bottlejohn. As the
+door is closing, the chink is filled with the faces of the
+Swains, threatening Bottlejohn.
+]
+
+MILLER
+
+[
+His dagger drawn, aside to Bottlejohn.
+]
+
+Mum!
+
+Quick! Be thy ribs good whetstones?
+
+BOTTLEJOHN
+
+[
+Ducking to Alisoun.
+]
+
+Here, sweet lording.
+
+ALISOUN
+
+[Pg 159]
+Thouârt slow.
+
+MILLER
+
+[
+Aside.
+]
+
+Ribs!
+
+BOTTLEJOHN
+
+Slow, sweet lording.
+
+ALISOUN
+
+Tell me, host,
+
+Hast thou residing in this hostelry
+
+A gentle prioress?
+
+CHAUCER
+
+[
+Aside.
+]
+
+What?
+
+MILLER
+
+[
+Aside to Bottlejohn, sharpening his dagger on an ale mug.
+]
+
+Whetstones!
+
+BOTTLEJOHN
+
+Aye,
+
+Sweet lording.
+
+ALISOUN
+
+Good; go tell her that her brother
+
+Awaits her here.
+
+CHAUCER
+
+[
+Aside.
+]
+
+Her brother!
+
+[
+Draws nearer.
+]
+
+HOST
+
+Aye, sweet lording.
+
+[
+Starts for door, right back, Miller following.
+]
+
+[Pg 160]
+
+ALISOUN
+
+Her brother, sayâDan Roderigo.
+
+BOTTLEJOHN
+
+Aye,
+
+Sweet lording.
+
+MILLER
+
+Host, hast thou a whetstone in
+
+Thy pocket?
+
+BOTTLEJOHN
+
+Aye, sweet lording.
+
+MILLER
+
+[
+Winking at Alisoun.
+]
+
+âAye, sweet lording.â
+
+[
+Exeunt Bottlejohn and Miller.
+]
+
+[
+Alisoun ignores Chaucerâs presence.
+]
+
+CHAUCER
+
+[
+Approaching her.
+]
+
+Your pardon, sir, I trespass. By your cross
+
+You comeâ
+
+ALISOUN
+
+From Palestine. Well met. You, friend?
+
+CHAUCER
+
+Nay, Iâm a door-mouse, sir; a doze-at-home.
+
+My homeâs near by at Greenwich. You have friendsâ
+
+Friends at the inn?
+
+ALISOUN
+
+A friend, sir; a fair friend;
+
+[Pg 161]
+By Jupiter, a sweet friend.
+
+CHAUCER
+
+Ah!
+
+ALISOUN
+
+A sister.
+
+She is a nun.
+
+CHAUCER
+
+Good God!
+
+ALISOUN
+
+A prioress.
+
+CHAUCER
+
+It cannot be!
+
+ALISOUN
+
+Signor!
+
+CHAUCER
+
+Her name? Her name?
+
+ALISOUN
+
+Whatâs that to youâher name?
+
+CHAUCER
+
+[
+Disconcerted.
+]
+
+It may beâ
+
+ALISOUN
+
+Ah!
+
+Perhaps you know herâwhat? âTis Eglantine.
+
+CHAUCER
+
+Impossible!âSir, pardon me; I must
+
+[Pg 162]
+Have made some strange mistake.
+
+ALISOUN
+
+Nay, friend; I guess
+
+âTis I have made the blunder.
+
+CHAUCER
+
+You, sir?
+
+ALISOUN
+
+Sooth,
+
+I might as well stick both feet in the mire
+
+And wade across my blushes. We old lads
+
+With beards, who sees our blushes, what? So, then,
+
+This prioress, she is not just my sister.
+
+CHAUCER
+
+No?
+
+ALISOUN
+
+No.
+
+CHAUCER
+
+What then?
+
+ALISOUN
+
+Vous savez bien, these nuns,
+
+When they would have a friend, they clepe him âbrother.â
+
+Especially on holy pilgrimage
+
+It hath a proper sound: âMy
+brother
+meets me;
+
+My
+brother
+is a knight.â You cannot blame âem;
+
+âTis more discreet; we men must humour âem.
+
+Therefore this little honeysuckle nun
+
+[Pg 163]
+Doth take delight to call me
+brother
+.
+
+CHAUCER
+
+Liar!
+
+[
+As Chaucer lifts his hand about to strike Alisoun, she
+raises hers to guard; seizing it, he beholds her ring.
+]
+
+What!ââAmor vincit omnia.ââEven her!
+
+ALISOUN
+
+Take back your lie!
+
+CHAUCER
+
+That ringâtell meâthat ring!
+
+ALISOUN
+
+St. Madrian! It is my love-ring. She,
+
+My sweet nun, gave it me. She wears a brooch
+
+To match it, on her wrist.
+
+[
+Enter, right, Bottlejohn and Miller.
+]
+
+BOTTLEJOHN
+
+The Prioress,
+
+Sweet lording.
+
+[
+Enter the Prioress.
+]
+
+PRIORESS
+
+Brother! Welcome, brother!
+
+CHAUCER
+
+No!
+
+God! God! Iâll not believe it. Aubrey! Aubrey!
+
+[
+Exit, left.
+]
+
+[Pg 164]
+
+ALISOUN
+
+My pretty virgin sister!
+
+PRIORESS
+
+[
+Gives her hand, reticently.
+]
+
+Roderigo!
+
+[
+Looking after Chaucer.
+]
+
+He need not, sure, have gone.
+
+ALISOUN
+
+Put up thy chin,
+
+My snow-white dove. Aha, but thou art grown!
+
+The silver slip oâ girlhood that I kissed
+
+Good-by when I set out for Palestine
+
+Hath mellowed into golden womanhood.
+
+Give me thy lips.
+
+PRIORESS
+
+Nay, brother, nay; my vows!
+
+I may not kiss a man.
+
+ALISOUN
+
+Toot! never fear, then;
+
+Thou shalt not break thy vows against
+my
+beard.
+
+What, Iâm thy brother; come!
+
+PRIORESS
+
+Adieu, mon frÃ¨re.
+
+ALISOUN
+
+Soft, soft, my startled fawn. You need not jump
+
+Because your brother is a true crusader.
+
+Or didst thou fancy I was cut in stone,
+
+With my cold gauntlets crossed above my breast,
+
+Like a dumb, marble knight upon a tomb?
+
+[Pg 165]
+Art not thou glad to see me, sister?
+
+PRIORESS
+
+Yes,
+
+Mon frÃ¨re. Forgive me, I had thoughtâYou see,
+
+My nephewââtis a pretty mannered youth;
+
+Youâre not alike, are you?
+
+ALISOUN
+
+[
+Laughing.
+]
+
+By Peterâs toe,
+
+I hope not. Saints deliver me from being
+
+A new-hatched chickenâs feather.
+
+PRIORESS
+
+What! your son?
+
+ALISOUN
+
+Next, thouâll be wishing I were like that fellow
+
+That fetched me hereâyon whatâs-his-name, yon Geoffrey.
+
+PRIORESS
+
+Why, âtis a noble gentleman.
+
+[
+Enter, from cellar door, Summoner, Shipman, Cook, Friar,
+
+and Manciple; they look on.
+]
+
+ALISOUN
+
+Hoho!
+
+Your noble gentleman! Why, harkee, sweet;
+
+He told me heâs betrothÃ¨d to an ale-wife.
+
+PRIORESS
+
+[Pg 166]
+He told youâwhen?
+
+ALISOUN
+
+Just now, coming from chapel.
+
+PRIORESS
+
+Her name?
+
+ALISOUN
+
+[
+Ruminating, winks at the Swains.
+]
+
+What was her name, now?âAlisoun,
+
+The Wife of Bath, they call her.
+
+PRIORESS
+
+O gran Dieu!
+
+That
+person
+!
+
+ALISOUN
+
+Person! God wot, âtwas not so
+
+Your Geoffrey called her. âAlisoun,â quoth he;
+
+âMy lily Alisoun, my fresh wild-rose,
+
+My cowslip in the slough of womankind,
+
+Bright Alisoun shall be my bride.â
+
+PRIORESS
+
+[
+Throwing herself into Alisounâs arms.
+]
+
+Mon frÃ¨re!
+
+Oh, keep me safe, mon frÃ¨re!
+
+[
+She hides her face.
+]
+
+MILLER
+
+[
+Laughing.
+]
+
+By Corpus bones!
+
+SUMMONER
+
+[Pg 167]
+Look!
+
+SHIPMAN
+
+Hold me up!
+
+BOTTLEJOHN
+
+[
+Whispers.
+]
+
+Lady, beware!
+
+MILLER
+
+Mum!
+
+PRIORESS
+
+What
+
+Are these?
+
+ALISOUN
+
+Begone, you varlets!
+
+COOK
+
+[
+Bowing.
+]
+
+Yes, sweet lord.
+
+SUMMONER
+
+We know our betters.
+
+[
+They withdraw a little.
+]
+
+ALISOUN
+
+Come, what cheer, my girl?
+
+Hath that churl Geoffrey wronged thee?
+
+PRIORESS
+
+No, no, no!
+
+ALISOUN
+
+Nay, if the churl hath wronged thee, by this locketâ
+
+PRIORESS
+
+[Pg 168]
+Swear not by that.
+He
+swore by that.
+
+ALISOUN
+
+O vile!
+
+He swore by thisâthe brooch that holds my hair,
+
+Thy brotherâs hair?
+
+PRIORESS
+
+But, Roderigoâ
+
+ALISOUN
+
+What!
+
+Giveât here! Or maybe thou hast promised it
+
+To him?
+
+PRIORESS
+
+No, no, mon frÃ¨re. Here, take itâkeep it.
+
+ALISOUN
+
+So! By this broochâ
+
+[
+Aside.
+]
+
+Now, lads, learn how to woo!
+
+Now, by this golden brooch of Eglantine,
+
+And by this little, slender wrist of pearl,
+
+Where once it hung; and by the limpid eyes
+
+Of Eglantine, and by her ripe, red mouth,
+
+Yea, by the warm white doves which are her breasts
+
+And flutter at the heart of Eglantine,
+
+I swear I will be ever Eglantineâs
+
+And lacerate the foes of Eglantine.
+
+PRIORESS
+
+[Pg 169]
+Brother, such wordsâ
+
+ALISOUN
+
+Call me not brother, sweet;
+
+A brotherâs blood is lukewarm in his limbs,
+
+But mine for thee is lightning. Look at me!
+
+Was Jove a finer figure of a man
+
+Than me? Had Agamemnon such an arm,
+
+Or Hector such a leg?
+
+PRIORESS
+
+Forbear! Forbear!
+
+ALISOUN
+
+Alack, she scorns me. Stay, Venus of virgins!
+
+Why dost thou wimple all the lovely dawn
+
+Of thy young body in this veil of night?
+
+Why wilt thou cork thy sweetness up, and, like
+
+A mummy, wrapped in rose and ivory,
+
+Store all thy beauty till the judgment-day?
+
+God did not paint thee on a window-glass.
+
+Step down from thy cold chapel, rosy saint,
+
+And take thy true-knight in thine arms.
+
+PRIORESS
+
+Help! help!
+
+BOTTLEJOHN
+
+Pray, lady, pray! It is Satanas! They
+
+Be devils all!
+
+ALISOUN
+
+[Pg 170]
+LoveâEglantineâI kneel.
+
+PRIORESS
+
+Joannes! Marcus!
+
+[
+Seizing her crucifix.
+]
+
+Tibi, Domine!
+
+[
+Enter, right, Joannes, Marcus, and Paulus. They are
+immediately driven back by the Summoner, Shipman, and
+Cook.
+]
+
+JOANNES
+
+Madame.
+
+SHIPMAN
+
+Come on!
+
+PRIORESS
+
+Help! Save me!
+
+[
+Enter Chaucer, left.
+]
+
+ALISOUN
+
+[
+To Prioress.
+]
+
+Lovely nymph,
+
+Come to my armsâ
+
+CHAUCER
+
+[
+To Alisoun, with his sword drawn.
+]
+
+Embrace me.
+
+PRIORESS
+
+[
+Goes to his protection.
+]
+
+Cher monsieur!
+
+ALISOUN
+
+God save you, Master Geoffrey.
+
+CHAUCER
+
+[Pg 171]
+Draw!
+
+FRIAR
+
+[
+Aside.
+]
+
+Lord! Lord!
+
+The pot boils. Now to add the salt and pepper.
+
+[
+Exit down cellar.
+]
+
+[
+Enter, left back, in quick succession, all the pilgrims, returning
+with their links from chapel.
+]
+
+PRIORESS
+
+[
+To Chaucer.
+]
+
+Monsieurâ
+
+CHAUCER
+
+[
+To Alisoun.
+]
+
+Draw!
+
+PRIORESS
+
+Do not fight, Monsieur!
+
+CHAUCER
+
+Wilt draw, I say?
+
+ALISOUN
+
+Draw what? Draw
+you
+? Merci,
+
+Iâm not a dray-horse.
+
+CHAUCER
+
+Is this man your brother?
+
+PRIORESS
+
+Oh, sir, I know not; but he hath insultedâ
+
+CHAUCER
+
+Insulted you? Enough. By all the devils,
+
+[Pg 172]
+Defend yourself!
+
+ALISOUN
+
+[
+Drawing.
+]
+
+To arms then, sweet Achilles.
+
+[
+They fight. Re-enter right, Shipman, Summoner, and Cook.
+
+They rush to Alisounâs aid.
+]
+
+SHIPMAN
+
+Boardside the fat churl.
+
+PILGRIMS
+
+Come! A fight!
+
+FRANKLIN
+
+[
+Entering.
+]
+
+Who are they?
+
+MERCHANT
+
+A Lollard and Papist.
+
+PRIORESS
+
+Stay them! Stop them!
+
+PILGRIMS
+
+Down with the Papists!
+
+PRIORESS
+
+Oh, St. Loy!
+
+CHAUCER
+
+[
+To the crowd.
+]
+
+Stand off!
+
+PILGRIMS
+
+Down with the Lollards!
+
+[
+They close in and fight confusedly with staves.
+]
+
+[Pg 173]
+
+ALISOUN
+
+[
+Holding up the locket.
+]
+
+Hold! A brooch! A brooch!
+
+CHAUCER
+
+Iâll make thee yield it, ruffian.
+
+[
+From the cellar enter the Friar and the Squire, the
+latter sword in hand, fragments of cut ropes still clinging
+to him.
+]
+
+SQUIRE
+
+[
+To Chaucerâplunging at Alisoun.
+]
+
+Sir, Iâm with you.
+
+[
+Enter, right, Johanna.
+]
+
+ALISOUN
+
+[
+To Squire.
+]
+
+Unnatural son!
+
+JOHANNA
+
+Help!
+
+[
+Throws herself between them.
+]
+
+Brave Sir Roderick!
+
+[
+To Squire.
+]
+
+Shame! Shame! Your fatherâs blood?
+
+SQUIRE
+
+You, lady?
+
+[
+Enter, left, Wycliffe.
+]
+
+WYCLIFFE
+
+[
+To the pilgrims.
+]
+
+[Pg 174]
+Peace!
+
+CHAUCER
+
+You, marchioness! What does this mean?
+
+ALISOUN
+
+[
+Stripping off her beard and wigâher own hair falling
+over her shouldersâsnatches a warming-pan from the
+chimney, and confronts Chaucer.
+]
+
+Sweet Geoffrey,
+
+It means this pan shall warm our wedding sheets.
+
+MILLER
+
+What devil!
+
+CHAUCER
+
+Alisoun!âMy bet is lost.
+
+FRANKLIN
+
+The Wife of Bath!
+
+[
+The pilgrims crowd round and laugh.
+]
+
+JOHANNA
+
+[
+Turning away.
+]
+
+Impostors!
+
+ALISOUN
+
+[
+To Chaucer.
+]
+
+Come, sweet chuck,
+
+And kiss the brooch that hath betrothed our hearts.
+
+PRIORESS
+
+Mâsieur, is this true?
+
+[
+As Chaucer turns to the Prioress in a kind of blank
+dismay, enter, from the cellar, swathed in a long gown, the
+real Knight and the Friar.
+]
+
+[Pg 175]
+
+KNIGHT
+
+[
+To Friar.
+]
+
+Where?
+
+[
+Friar points to Prioress; he advances.
+]
+
+Eglantine!
+
+PRIORESS
+
+[
+Aghast at this apparition, runs to the priedieu.
+]
+
+No more!
+
+CHAUCER
+
+[
+Struck, at a flash, by this medley of incongruities, bursts into
+
+laughter, and seizing an ale mug, lifts it high.
+]
+
+Alis, I drink to thee and womanâs wit.
+
+FRIAR
+
+God save the vintner and the Wife of Bath!
+
+PILGRIMS
+
+[
+Shout.
+]
+
+God save the vintner and the Wife of Bath!
+
+ALISOUN
+
+[
+Sharing the ale mug with Chaucer.
+]
+
+Sweetheart!
+
+Explicit pars tertia
+.
+
+[Pg 177]
+
+[Pg 176]
+
+ACT FOURTH
+
+[Pg 179]
+
+âAnd specially, from every shires ende
+
+Of Engelond, to Caunterbury they wende,
+
+The holy blisful martyr for to seke,
+
+That hem hath holpen whan that they were seke.â
+
+[Pg 178]
+
+ACT IV
+
+Time
+: The next day.
+
+Scene
+: Before the west front of Canterbury
+Cathedral, gorgeously decorated with tapestries,
+hatchments, and cloth of gold. Grouped nearby are temporary
+booths of venders, gaily trimmed.
+
+Many pilgrims are assembled; others keep arriving from
+different directions, talking, praying, and sight-seeing.
+At the Cathedral door a Priest blesses, with a sprengel,
+those who enter.
+
+FIRST VENDER
+
+Relics! Souvenirs!
+
+SECOND VENDER
+
+Blood of the blissful martyr!
+
+A BLACK FRIAR
+
+[
+To Bailey, the Host.
+]
+
+A guide, Sir Hosteler?
+
+HOST
+
+Be off!
+
+SECOND VENDER
+
+[
+To the Guild-men.
+]
+
+[Pg 180]
+Ampulles?
+
+WEAVER
+
+What are they?
+
+SECOND VENDER
+
+Leaden bottles; look!
+
+DYER
+
+Whatâs in âem?
+
+SECOND VENDER
+
+Drops from the holy well: St. Thomasâ well,
+
+That turned four times to blood and once to milk;
+
+Good for the humours, gout, and falling-sickness.
+
+WEAVER
+
+[
+Buys some.
+]
+
+Here.
+
+SECOND VENDER
+
+Eightpence.
+
+[
+The Guild-men buy, and arrange the leaden vials in their hats.
+]
+
+FIRST VENDER
+
+Vernicles! St. Peterâs keys!
+
+CARPENTER
+
+[
+Examining a purchase.
+]
+
+Whatâs written on this brooch, sir?
+
+CLERK
+
+âCaput ThomÃ¦.â
+
+PLOUGHMAN
+
+[
+Staring at a statue in a niche of the Cathedral.
+]
+
+[Pg 181]
+Is he alive?
+
+FRANKLIN
+
+Naw; heâs just petrified.
+
+BLACK FRIAR
+
+[
+To Merchant.
+]
+
+A guide, sir?
+
+MERCHANT
+
+No.
+
+BLACK FRIAR
+
+Show you the spot, sir, where
+
+The four knights murdered Becket, in the year
+
+Eleven hundred seventy, at dusk,
+
+The twenty-ninth day of Decemberâ
+
+A GREY FRIAR
+
+Nay, sir,
+
+Iâll show you the true statue of the Virgin
+
+That talked to holy Thomas when he prayed.
+
+BLACK FRIAR
+
+St. Georgeâs arm, sir! Come; Iâll let you kiss it.
+
+GREY FRIAR
+
+This way; the tomb of Edward the Black Prince.
+
+[
+Both seize Merchant and tug him.
+]
+
+MERCHANT
+
+[
+Struggling.
+]
+
+Mine host!
+
+HOST
+
+[
+Coming up.
+]
+
+[Pg 182]
+Pack off!
+
+PARSON
+
+[
+To Ploughman.
+]
+
+What May-day queen comes here?
+
+[
+Outside, left, are heard girlsâ voices singing;
+enter, dressed richly and gaily
+,
+Chaucer
+,
+
+surrounded by a bevy of Canterbury brooch-girls, who
+have wreathed him with flowers and long ribbons, by which
+they pull him; plying him with their wares, while he
+attempts to talk aside with the Man-of-Law, who accompanies
+him
+.]
+
+CANTERBURY GIRLS
+
+[
+Sing.
+]
+
+High and low,
+
+Low and high,
+
+Be they merry,
+
+Be they glum,
+
+When they come
+
+To Canterbury,
+
+Canterbury,
+
+Canterbury,
+
+Some low,
+
+Some high,
+
+Canterbury brooches buy.
+
+CHAUCER
+
+Sweet ladiesânay, sweet Canterbury muses,
+
+Not Hercules amid the Lydian nymphs
+
+Was ravished by more dulcet harmonies.
+
+[
+To Man-of-Law.
+]
+
+[Pg 183]
+You sergeants-of-the-law are subtle men.
+
+MAN-OF-LAW
+
+We have a knackâa knack, sir.
+
+A GIRL
+
+Pull his sleeve.
+
+ANOTHER
+
+They say you are a bridegroom. Is it true, sir?
+
+CHAUCER
+
+Your Canterbury skies rain compliments.
+
+[
+To Man-of-Law.
+]
+
+Pray!â
+
+MAN-OF-LAW
+
+[
+Taking money from Chaucer.
+]
+
+If you insist, my lord.
+
+CHAUCER
+
+Nay, not âmy lord.â
+
+How stands the case?
+
+MAN-OF-LAW
+
+You say this wife hath been
+
+Some eight times wedded?
+
+CHAUCER
+
+Five times.
+
+A GIRL
+
+Stop their gossip,
+
+Heâs talking business.
+
+ALL THE GIRLS
+
+Brooches! Souvenirs!
+
+CHAUCER
+
+[
+Examining their wares.
+]
+
+[Pg 184]
+How much?
+
+A GIRL
+
+This? Two-pence.
+
+MAN-OF-LAW
+
+Five timesâfive times. Well!
+
+CHAUCER
+
+[
+To Man-of-Law, giving more money.
+]
+
+Pritheeâ
+
+MAN-OF-LAW
+
+If you insist.
+
+A GIRL
+
+[
+To Chaucer.
+]
+
+Mine for a penny.
+
+MAN-OF-LAW
+
+Why, then, the case stands thus: By English law,
+
+No woman may be wedded but five times.
+
+By law, sir, a sixth husband is proscribed.
+
+CHAUCER
+
+Youâll vouch for that? By law?
+
+MAN-OF-LAW
+
+Sir, I will quote
+
+You precedents from William Conqueror.
+
+CHAUCER
+
+Alas, my nuptials! And I would have made
+
+So neat a bridegroom!
+
+A GIRL
+
+[Pg 185]
+Come, sir, will you buy?
+
+ANOTHER
+
+Take mine!
+
+ALL THE GIRLS
+
+Mine! Mine! Mine!
+
+CHAUCER
+
+Nay, fresh goddesses,
+
+Your graces are more heavenly souvenirs!
+
+Sell to me your glances
+
+For a poetâs fancies!
+
+[
+To a girl with yellow hair.
+]
+
+You, Midasâ daughter, how much for this gold?
+
+THE GIRL
+
+âTis not for sale, sir.
+
+CHAUCER
+
+[
+To another.
+]
+
+How much for that rose?
+
+THE GIRL
+
+What rose?
+
+CHAUCER
+
+Your smile.
+
+THE GIRL
+
+Gratisâfor you, sir.
+
+[
+Enter Alisoun, attired gorgeously as a bride.
+]
+
+ALL THE GIRLS
+
+Oh-h!
+
+CHAUCER
+
+How much, Olympians, for your nectarâd lips?
+
+ALL THE GIRLS
+
+[Pg 186]
+A kiss! A kiss!
+
+ALISOUN
+
+Hold! Give the bride first licks.
+
+ALL THE GIRLS
+
+The bride!
+
+ALISOUN
+
+[
+After kissing Chaucer.
+]
+
+Now, lasses, take your turns.
+
+A GIRL
+
+The shrew!
+
+ALISOUN
+
+Lo! what a pot of honey I have won
+
+To lure the village butterflies. Come, pretties,
+
+Sip, sip, and die oâ jealousy.
+
+A GIRL
+
+[
+To Chaucer.
+]
+
+Who is
+
+This woman?
+
+CHAUCER
+
+Nymphs, this is the gentle Thisbe
+
+That wooed and won me. Judge then, goddesses,
+
+How I must weep to lose her.
+
+ALISOUN
+
+Lose me, love?
+
+Nay, honey-pot, I am too stuck on thee.
+
+Thy bosom is my hive, and I queen-bee.
+
+A GIRL
+
+Iâd rather lose my heart to a ripe pumpkin.
+
+ANOTHER
+
+Or a green gourd.
+
+[
+They go off, in piqued laughter.
+]
+
+[Pg 187]
+
+ALISOUN
+
+[
+Calls after them.
+]
+
+What devil doth it matter
+
+Whether he be a pumpkin or a rose,
+
+So be that he rings sound.âGive me the man
+
+That keeps his old bark grafted with new buds
+
+And lops away the dead wood from his trunk,
+
+And I will hug him like the mistletoe.
+
+Geoffrey, thou art the man.
+
+CHAUCER
+
+[
+As Alisoun is about to embrace him, turns to the Man-of-Law.
+]
+
+Cold-blooded knave!
+
+The flower of women and the wit of wivesâ
+
+Yet I must lose her!
+
+MAN-OF-LAW
+
+Blame not me, sir; blame
+
+The law.
+
+CHAUCER
+
+O heartless knave!
+
+MAN-OF-LAW
+
+By English law,
+
+No woman may be wedded but five times.
+
+ALISOUN
+
+Whatâs that?
+
+CHAUCER
+
+But is there no exception?
+
+MAN-OF-LAW
+
+None.
+
+[Pg 188]
+By law, sir, a sixth husband is proscribed.
+
+ALISOUN
+
+Hey, what! What devil? Sayât again. Iâm deef.
+
+MAN-OF-LAW
+
+By law, dame, a sixth husband is proscribed.
+
+ALISOUN
+
+Prescribed? Ho, then, art thou a doctor?
+
+MAN-OF-LAW
+
+No,
+
+I am a sergeant-of-the-law.ââProscribedâ
+
+Is to say, dame, âinhibited,â âforbidden.â
+
+ALISOUN
+
+How! you forbid me to take Geoffrey here
+
+For my sixth husband?
+
+CHAUCER
+
+Nay, the law forbids it.
+
+ALISOUN
+
+Pish! Whatâs the fine?
+
+MAN-OF-LAW
+
+To hang, dame, by the neck
+
+Till thou art dead.
+
+ALISOUN
+
+Aye, man, by
+Geoffreyâs
+neck.
+
+Get out!
+
+CHAUCER
+
+[Pg 189]
+Canst quote the law?
+
+MAN-OF-LAW
+
+The statute, sir,â
+
+The forty-ninth doom of King Richardâsaith:
+
+âOne woman to five men sufficeth,â or
+
+âQuid tibi placet mihi placet,â sir.
+
+ALISOUN
+
+Hog-gibberish!
+
+CHAUCER
+
+[
+Aside.
+]
+
+Nay, âtis a man-of-law.
+
+But soft! weâll bribe him.
+
+ALISOUN
+
+[
+Aside.
+]
+
+Do, duck.
+
+CHAUCER
+
+Sergeantâhist!
+
+[
+Whispers aside and gives him money, as if covertly. Then
+
+aloud.
+]
+
+This statute, is there no appeal from it?
+
+MAN-OF-LAW
+
+A special dispensation from the king;
+
+Thatâs all, sir.
+
+ALISOUN
+
+Break his head!
+
+CHAUCER
+
+Nay, Alis, hereâs
+
+Good news. The king himself is here to-day
+
+In Canterbury. I will beg him grant
+
+[Pg 190]
+This special dispensation for our marriage.
+
+ALISOUN
+
+Thouâask the king?
+
+CHAUCER
+
+Why not?
+
+ALISOUN
+
+Give me a vintner
+
+For cheek! Sweet duck, I do believe thou lovâst me.
+
+[
+Enter the Miller, with the other Swains.
+]
+
+CHAUCER
+
+I am unworthy, love, to match thy wit.
+
+MILLER
+
+Thou art unworthy, fool, to latch her shoe.
+
+CHAUCER
+
+Even so.
+
+MILLER
+
+Thou likes to play the gentleman;
+
+Come, then; Iâll duel you.
+
+CHAUCER
+
+Good Bob, I love thee.
+
+MILLER
+
+Come: knives or fists?
+
+CHAUCER
+
+Kind Bob, thou shalt this day
+
+[Pg 191]
+Shed tears and vow I love thee.
+
+MILLER
+
+Wilt not fight?
+
+Thenâ
+
+ALISOUN
+
+[
+Intercepting a blow at Chaucer.
+]
+
+Hold there, Robin Sweetheart, art thou jealous?
+
+MILLER
+
+Aye, dame.
+
+ALISOUN
+
+What for?
+
+MILLER
+
+[
+To Swains.
+]
+
+She axes me what for!
+
+Axe her, who gagged the Knight?
+
+SHIPMAN
+
+Who tied the Squire?
+
+MANCIPLE
+
+Who watched in the wet cellar?
+
+SUMMONER
+
+Tied thy doublet?
+
+FRIAR
+
+Who stole thy scarlet cloak?
+
+COOK
+
+Who kissed thy toe?
+
+MILLER
+
+Axe her, what made us do all this? Mayhap
+
+To get our backs flayedâwhat? Mayhap to make
+
+[Pg 192]
+Our wench a wedding with this vintner here?
+
+SHIPMAN
+
+Revenge!
+
+FRIAR
+
+Remember Peggyâs stall.
+
+[
+They surround Chaucer threateningly.
+]
+
+COOK
+
+Vile tub!
+
+PRIORESS
+
+[
+Entering, left.
+]
+
+O Roderigo, help him!
+
+KNIGHT
+
+Whom? That churl!
+
+SQUIRE
+
+Father, let me!
+
+KNIGHT
+
+You are deceived in him.
+
+SQUIRE
+
+But, sir, these are the rogues that bound you.
+
+KNIGHT
+
+He
+
+Is one of them. They are beneath our notice.
+
+MANCIPLE
+
+Death to the vintner!
+
+SUMMONER
+
+[Pg 193]
+Hit him!
+
+ALISOUN
+
+Stand away!
+
+CHAUCER
+
+[
+As Alisoun, with her fists, keeps them at bay.
+]
+
+Happy, bridegroom, be thy stars
+
+When thy Venus turns to Mars!
+
+[
+Enter heralds.
+]
+
+HERALDS
+
+Make way! Room for King Richard! Way! The King!
+
+CLERK
+
+[
+In the crowd.
+]
+
+Shall we see Chaucer now?
+
+PARSON
+
+Heâs sure to come.
+
+[
+The heralds force back all the pilgrims, except
+those of high degree, showing, at the great door of the
+Cathedral, a procession of priests and choir-boys about to
+emerge.
+]
+
+PRIEST
+
+Peace, folk! Stop wrangling. Kneel! His Reverence,
+
+Archbishop of Canterbury, meets the King.
+
+PRIORESS
+
+[
+To Squire.
+]
+
+Chaucer, you say?
+
+SQUIRE
+
+A little patience more.
+
+[
+A silence falls on the pilgrims as, within the
+Cathedral, choir-boys begin to chant a hymn. Issuing
+from the
+[Pg 194]
+door and forming against one side of the
+massed, kneeling pilgrims, enters a procession, headed by
+splendid-vested priests, carrying pictured banners of St.
+Thomas and his shrine, followed by choir-boys, and lastly,
+by the Archbishop of Canterbury with regalia.
+]
+
+THE PROCESSION
+
+[
+Sings.
+]
+
+âTu, per ThomÃ¦ sanguinem
+
+Quem pro te impendit,
+
+Fac nos, Christe, scandere
+
+Quo Thomas ascendit.
+
+[
+Chants.
+]
+
+Gloria et honore coronasti eum Domine
+
+Et constituisti eum supra opera manuum tuarum
+
+Ut ejus meritis et precibus a GehennÃ¦ incendiis liberemur.â
+
+[
+At the climax of the chant, as the Archbishop appears
+in the doorway, the chimes of the Cathedral peal forth from
+high above the kneeling crowd; cheers, beginning from the
+right, swell to a tumult, and as the people rise, enter,
+right, King Richard on horseback, the Dukes of Lancaster,
+Gloucester, and Ireland on ponies, and their train, among
+whom are Wycliffe and Johanna on foot. Six mules, laden
+with offerings, bring up the rear. The shouts of âGod save
+the King!â âGod save John Gaunt!â etc., continue till the
+King and nobles descend from their steeds.
+]
+
+PILGRIMS
+
+[Pg 195]
+God save King Richard!
+
+KING RICHARD
+
+Thanks, good gaffers, thanks!
+
+[
+To John of Gaunt.
+]
+
+Sweet Uncle Jack, thou hast a spanking pony.
+
+Take her to Spain with you, and all the Dons
+
+Will kiss her fetlock. Nâest ce pas, bel ami?
+
+DE VERE
+
+They will, my Dick. Par charity! Haha!
+
+ARCHBISHOP
+
+[
+Saluting gravely.
+]
+
+God save your Majesty!
+
+KING RICHARD
+
+God save you, too!
+
+Your Reverence is looking in fine feather.
+
+Here are some trinkets for the holy martyr.
+
+These mules bear spices from Arabia;
+
+Theseâtapers; and theseâPersian tapestries.
+
+Hereâs a neat statue of myself in gold;
+
+And so, and so, so.â
+
+[
+To the Duke of Gloucester.
+]
+
+Pretty Uncle Tom,
+
+I wish my ruffs were puckered like your brows.
+
+Dost thou pick faults, eh? in my Paris gown?
+
+GLOUCESTER
+
+[Pg 196]
+My liege, this is the shrine of holy Becket.
+
+KING RICHARD
+
+Lord, save our souls!
+
+[
+To De Vere.
+]
+
+Lend me a looking-glass.
+
+DE VERE
+
+[
+Takes one from his sleeve.
+]
+
+Ha! Dick, par charity!
+
+[
+Richard and De Vere look in the glass and make faces in
+
+imitation of Gloucester and the others.
+]
+
+PARSON
+
+[
+In the crowd to the Clerk.
+]
+
+Yonderâs the Duke
+
+Of Lancaster: John Gaunt.
+
+CHAUCER
+
+[
+Who has been held back with the crowd by the heralds,
+pushes through, and hastening forward, kneels to Johanna,
+who is talking with Wycliffe.
+]
+
+A boon! a boon!
+
+JOHANNA
+
+[
+To Wycliffe.
+]
+
+Protect me, sir!
+
+CHAUCER
+
+[
+Holds up Johannaâs love-knot.
+]
+
+Lady, once more, your pledge!
+
+JOHANNA
+
+Unmannered loon!
+
+A HERALD
+
+[
+Seizes Chaucer roughly by the shoulder.
+]
+
+[Pg 197]
+Get back!
+
+JOHN OF GAUNT
+
+What, brother Geoffrey!
+
+CHAUCER
+
+Well met, old friend!
+
+[
+They embrace.
+]
+
+KING RICHARD
+
+Godâs eyes! Our laureate.
+
+Halloa there, Chaucer!
+
+JOHANNA
+
+Chaucer!
+
+ALISOUN
+
+Chaucer!
+
+PRIORESS
+
+Chaucer!
+
+[
+Chaucer bows to the King.
+]
+
+SQUIRE
+
+[
+To Knight.
+]
+
+Father, I said so.
+
+GAUNT
+
+You are late, my poet
+
+What make you here?
+
+CHAUCER
+
+Blunders, your Grace.
+
+GAUNT
+
+How, blunders?
+
+CHAUCER
+
+[Pg 198]
+Taxing the memory of a gracious lady.
+
+JOHANNA
+
+Signor, the place of fool I should have sued
+
+For you, hath been already filledâby me.
+
+I crave your pardon.
+
+CHAUCER
+
+And I kiss your hand.
+
+KING RICHARD
+
+Ho, Chaucer!
+
+ALISOUN
+
+[
+Struggling with a herald.
+]
+
+Let me out!
+
+CHAUCER
+
+Your Majesty?
+
+KING RICHARD
+
+When April comes, thereâs not a man in England
+
+But thinks on thee and love. While thou art Englandâs
+
+And England Richardâs, thou art Richardâs own.
+
+[
+As the King embraces Chaucer, Alisoun breaks away from
+
+the herald.
+]
+
+ALISOUN
+
+Hold up, your Majesty! The man is mine.
+
+KING RICHARD
+
+Whatâs this?
+
+CHAUCER
+
+My liegeâanother blunder.
+
+[
+Chaucer whispers aside to the Man-of-Law.
+]
+
+[Pg 199]
+
+KING RICHARD
+
+So?
+
+The blunder was not Godâs in making her.
+
+ALISOUN
+
+The man is mine.
+
+KING RICHARD
+
+What, Geoffrey, art thou tripped?
+
+Have love and April overflowed thy verse
+
+To fill thy veins?
+
+CHAUCER
+
+Your Majestyâ
+
+MAN-OF-LAW
+
+[
+Aside to John of Gaunt.
+]
+
+Dan Chaucer
+
+Bid me explain to youâ
+
+[
+They talk aside.
+]
+
+CHAUCER
+
+Your Majesty,
+
+This is that fair-reputed fay, Queen Mab,
+
+Who, having met amid the woods of Kent,
+
+Hath so enamoured me, as you have said,
+
+With love and April, thatâto speak it shortâ
+
+We are betrothed.
+
+KING RICHARD
+
+Betrothed!
+
+DE VERE
+
+[Pg 200]
+Par charity!
+
+MILLER
+
+[
+To a herald, who restrains him.
+]
+
+Leave go!
+
+GAUNT
+
+[
+Aside to Man-of-Law.
+]
+
+A miller?
+
+MAN-OF-LAW
+
+[
+Aside.
+]
+
+Yes, that fellow there.
+
+ALISOUN
+
+[
+Nudging Chaucer.
+]
+
+Speak on, sweet chuck.
+
+CHAUCER
+
+âBetrothed,â your Majesty:
+
+âTis a sweet word which loversâ law hath hallowâd,
+
+But which your law, King Richard, hath envenomâd.
+
+âNo woman may be wedded but five times:â
+
+Thus saith the law.
+
+KING RICHARD
+
+What! Where?
+
+GAUNT
+
+[
+Laughingly aside.
+]
+
+My liege!
+
+[
+They whisper.
+]
+
+[Pg 201]
+
+CHAUCER
+
+And so,
+
+Because this queen of wives hath scarce been knit
+
+Five times in wedlock, thereforeâsaith the lawâ
+
+Our bosoms must be sundered.
+
+MILLER
+
+[
+In the crowd.
+]
+
+God be praised!
+
+CHAUCER
+
+But knowing, King, how nobly wit and mercy
+
+Are mixed in your complexion, I presume
+
+To ask your greatness to outleap your laws
+
+And grant, by special dispensation, to
+
+This womanâa sixth husband.
+
+KING RICHARD
+
+By my fay, sir,
+
+You ask too much. My laws are sacred.
+
+[
+Aside to John of Gaunt, who whispers him.
+]
+
+Hein?
+
+ALISOUN
+
+Dig him again there, Geoffrey.
+
+CHAUCER
+
+King, have grace!
+
+KING RICHARD
+
+The Duke of Lancaster advises me
+
+[Pg 202]
+There may be one exception.
+
+[
+Aside.
+]
+
+What? Whatâs that?
+
+[
+Aloud.
+]
+
+But only one. My law is sacred.âWoman,
+
+I grant to thee the right to wed once more
+
+On one condition. Mark it; thy sixth husband
+
+Must be a miller.âHerald, sound the verdict.
+
+[
+As the herald blares his trumpet, Alisoun shakes her
+fist at Chaucer, who eyes her slily; then both burst into
+laughter.
+]
+
+HERALD
+
+If any miller here desire this woman,
+
+Now let him claim her.
+
+MILLER
+
+[
+Rushes up.
+]
+
+Here, by Corpus bones!
+
+ALISOUN
+
+Thou sweet pigâs eye! I take thee.
+
+[
+Extending her hand to Chaucer.
+]
+
+Geoffrey, quits!
+
+CHAUCER
+
+Quits, Alisoun!
+
+FRIAR
+
+[
+Bobbing up between them.
+]
+
+Et moi?
+
+ALISOUN
+
+Et toi.
+
+[
+Kisses him.
+]
+
+[Pg 203]
+
+MILLER
+
+[
+Grabbing him.
+]
+
+Hold, friar!
+
+That pays thee to perform the ceremony.
+
+KING RICHARD
+
+[
+Seated, to Chaucer.
+]
+
+Come now, our prodigal Ulysses! Tell us;
+
+What dark adventures have befallen thee since
+
+Thou settest forth from Priam-Baileyâs castle?
+
+What inland Circe witched our laureate
+
+To mask his Muse among this porkish rabble?
+
+CHAUCER
+
+My liege, may I have leave to tell you bluntly?
+
+KING RICHARD
+
+Carte blanche, carte blanche, mon cher. Iâll be as mute
+
+As eâer King Alcinous iâ the Odyssey.
+
+CHAUCER
+
+My Muse went masked, King Richard, from your court
+
+To learn a roadside rhyme. Shall I repeat it?
+
+KING RICHARD
+
+Carte blanche, jâai dit. Say on!
+
+CHAUCER
+
+Your Majesty,
+
+âWhen Adam delved and Eve span,
+
+[Pg 204]
+Who was then the gentleman?â
+
+MILLER
+
+By Corpus bones!
+
+KING RICHARD
+
+[
+Starts up.
+]
+
+Mort Dieu!
+
+CHAUCER
+
+âCarte blanche,â my liege!
+
+Six years ago in London, when the mob
+
+Roared round your stirrups, Wat the Tyler laid
+
+His hand upon your bridle. âSacrilege!â
+
+Cried the Lord Mayor, and Wat Tyler fell
+
+Dead.
+
+[
+The crowd murmurs.
+]
+
+GLOUCESTER
+
+[
+To Richard, remonstratingly.
+]
+
+Nephew!
+
+[
+The King, sitting again, motions Gloucester silence.
+]
+
+CHAUCER
+
+Whereat you, your Majestyâ
+
+God save you, a mere boy, a gallant boyâ
+
+Cried out: âGood fellows, have you lost your captain?
+
+I am your King, and I will be your captain.â
+
+[
+The pilgrims cheer.
+]
+
+Have you forgotten how they cheered? Then hark!
+
+Once more that âporkish rabbleâ you shall hear
+
+Make music sweeter than your laureateâs odes.
+
+[
+Turning to the crowd.
+]
+
+Pilgrims and friends, deep-hearted Englishmen,
+
+[Pg 205]
+This is your King who called himself your captain.
+
+PILGRIMS
+
+[
+Shout.
+]
+
+God save the King!
+
+CHAUCER
+
+My liege, my dear young liege,
+
+Are these the dull grunts of the swinish herd,
+
+Or are they singing hearts of Englishmen?
+
+Where is
+the gentleman
+, whose ermined throat
+
+Shall strain a nobler shout? âWhen Adam delvedââ
+
+Sire, Adamâs sons are delving still, and he
+
+Who scorns to set his boot-heel to the spade
+
+Is but a bastard.
+
+KING RICHARD
+
+[
+Jumps up again.
+]
+
+âSwounds!
+
+PILGRIMS
+
+God save Dan Chaucer!
+
+KING RICHARD
+
+[
+To Chaucer.
+]
+
+Give me thy hand. Godâs eyes! These knaves cheer you
+
+Louder than me. Go tell the churls I love âem.
+
+CHAUCER
+
+[
+To the pilgrims.
+]
+
+His Majesty bids me present you all
+
+[Pg 206]
+Before him, as his fellow Englishmen.
+
+KING RICHARD
+
+[
+As the pilgrims approach.
+]
+
+Fellows, God bless you!
+
+[
+To Chaucer.
+]
+
+Thanks.
+
+[
+Snatching away his looking-glass from the hand of De
+Vere, who is making a comic face at Chaucer, he smashes it
+upon the ground.
+]
+
+DE VERE
+
+Sweet Dick!
+
+ARCHBISHOP
+
+My liege,
+
+The holy canopy is being raised.
+
+[
+A medley of sweet bells is heard from within the Cathedral.
+
+The pilgrims crowd about Chaucer.
+]
+
+CHAUCER
+
+Give me your hands, my friends. You hear the bells
+
+Which call us to the holy martyrâs shrine.
+
+Give me your hands, dear friends; and so farewell:
+
+You, honest parsonâsly Bobâtesty Jackâ
+
+Gentle Sir Knightâbold RogerâMaster Franklinâ
+
+All, all of you!âCall me your vintner still,
+
+And I will brew you such a vintage as
+
+Not all the saps that mount to natureâs sun
+
+Can match in April magic. They who drink itâ
+
+Yes, though it be after a thousand years,
+
+When this our shrine, which like the Pleiades
+
+Now glitters, shall be bare and rasÃ¨d stone,
+
+[Pg 207]
+And this fresh pageant mildewed historyâ
+
+Yet they who drink the vintage I will brew
+
+Shall wake, and see a vision, in their wine,
+
+Of Canterbury and our pilgrimage:
+
+These very faces, with the blood in them,
+
+Laughter and love and tang of life in them,
+
+These moving limbs, this rout, this majesty!
+
+For by that resurrection of the Muse,
+
+Shall you, sweet friends, re-met in timeless Spring,
+
+Pace on through time upon eternal lines
+
+And ride with Chaucer in his pilgrimage.
+
+[
+A deep bell sounds.
+]
+
+ARCHBISHOP
+
+My liege, St. Thomas will receive his pilgrims.
+
+[
+The King, lords, and people, forming in procession, begin
+
+to move toward the entrance of the Cathedral.
+]
+
+CHAUCER
+
+[
+To Prioress.
+]
+
+Madame, will you walk in with me?
+
+PRIORESS
+
+Monsieur,
+
+If you will offer this at Thomasâ shrine.
+
+CHAUCER
+
+Your brooch!
+
+PRIORESS
+
+[Pg 208]
+Our brooch.
+
+CHAUCER
+
+When shall we meet again?
+
+PRIORESS
+
+Do you forget our star?
+
+CHAUCER
+
+Forget our star!
+
+Not while the memory of beauty pains
+
+And
+Amor vincit omnia
+.
+
+[
+The heralds blare their trumpets; the priests swing
+their censers; the choir-boys, slowly entering the
+Cathedral, chant their hymn to St. Thomas, in which all the
+pilgrims join. Just as Chaucer and the Prioress are about
+to enter, the curtain falls.
+]
+
+Explicit pars quarta.
+
+FINIS.
+
+Click
+here
+for larger image
+
+Listen
+
+Granum cadit
+|
+Totus orbis
+|
+Aqua Thome
+|
+Ad Thome
+|
+Tu per Thome
+
+View
+modern interpretation
+Granum cadit
+|
+Totus orbis
+|
+Aqua Thome
+|
+Ad Thome
+|
+Tu per Thome
+
+Download
+mxl files of modern interpretation
+Granum cadit
+|
+Totus orbis
+|
+Aqua Thome
+|
+Ad Thome
+|
+Tu per Thome
+
+In lauÄibus AÃ±a.
+
+AÃ±a.
+
+Granum cadit copiam germinat frumenti: alabastrum
+
+frangitur fragrat vis unguenti. psÌ
+Ì
+. DÃ±s regnavit
+
+AÃ±a.
+
+Totus orbis martyris certat in amorem: cujus
+
+signa singulos agunt in stuporem. psÌ
+Ì
+. Jubilate.
+
+AÃ±a.
+
+Aqua thome quinquies varians colorem
+
+in lac semel transiitquater in cruorem. psÌ
+Ì
+. Deâ deâ meâ
+
+AÃ±a
+
+Ad thome memoriam quater lux descendit: et
+
+in sancti gloriam cereos accendit. psÌ
+Ì
+. Benedicite
+
+AÃ±a.
+
+Tu per thome sanguináº½ quem pro te impendit: fac
+
+nos christe scandere quo thomas ascendit. psÌ
+Ì
+. Laudate
+
+ADDENDA
+
+1. The accompanying reproduction of the original Hymn to St. Thomas,
+of which the last verse only is sung by the pilgrims in Act IV, is
+authentic in words and music.
+
+The author is sincerely indebted to Professor Kittredge, of Harvard
+University, for tracing and securing, through the various courtesies of
+Mr. Albert Matthews (of Boston), Mr. Frank Kidson (of Leeds), Mr. J.
+E. Matthew (of S. Hampstead, London), and Mr. Wilson (of the British
+Museum Library), a copy of this almost inaccessible document.
+
+The words are taken from Vol. 13, p. 240, of Drevesâ âCollection
+of Sequences and Latin Hymns.â The music is copied from the âSarum
+Antiphonalâ of 1519.
+
+In regard to the music, Mr. Wilson writes: âEach of these Antiphons
+(
+i.e.
+each verse of the hymn) is sung once before, and once
+after, each psalm. Here there are five; and at the end of each is the
+catchword of the psalm. The first is â
+Dominus regnavit
+â; the
+second, â
+Jubilate
+,â and so on.â
+
+Mr. J. E. Matthew writes: âThe catchword is not sufficient, in every
+case, to identify the psalm, but I have indicated all the psalms having
+such beginnings.
+[1]
+[Pg 210]
+The lines âGloria et honore coronasti,â etc.
+(part, of course, of the 8th Psalm: âThou hast crowned him with glory
+and honourâ), form no part of the service in the âSarum Antiphonal.ââ
+
+2. For valuable information and advice regarding the chronology of
+the âCanterbury Talesâ as affecting this play, the author also gives
+sincere thanks to his friend, Mr. John S. P. Tatlock, of the University
+of Michigan.
+
+3. The following dates will reveal certain anachronisms in the text of
+his play, which the writer, for dramatic purposes, has ignored:â
+
+Oct. 1, 1386: Chaucer was elected Knight of the Shire for
+Kent, which office he still held in April, 1387.
+
+Dec. 31, 1384: Wycliffe died.
+
+1386: John of Gaunt left England for Castile.
+
+4. According to Chaucer scholars, the third wife of John of Gaunt was
+probably a sister of Chaucerâs wife. Upon this probability, though
+it could not have been a fact until after 1387, the author bases his
+dramatic license of referring to Chaucer and the Duke of Lancaster as
+brothers-in-law.
+
+PERCY MACKAYE.
+
+New York
+, March, 1903.
+
+FOOTNOTES:
+
+[1]
+The psalms, as indicated by Mr. Matthew, are as follows:
+Beginning
+Deus regnavit
+, xxiii, xcix;
+Jubilate
+, c, lxvi;
+
+Deus, Deus, meus
+, xxii, lxiii;
+Benedicite
+, The Song of
+the Three Children? (Apocrypha.)
+Laudate
+, cxiii, cxvii, cxxxiv,
+cxlvii, cxlviii.
+
+[Pg 1]
+
+A LIST OF PLAYS
+
+By
+WINSTON CHURCHILL
+
+The Title-Mart
+
+75 cents net
+
+A comedy of American Society, wherein love and the young
+folks go their way in spite of their elders and ambition.
+
+By
+CLYDE FITCH
+
+The Climbers
+
+75 cents net
+
+The Girl with the Green Eyes
+
+75 cents net
+
+Her Own Way
+
+75 cents net
+
+The Stubbornness of Geraldine
+
+75 cents net
+
+The Truth
+
+75 cents net
+
+Ingenious satires on modern society, unhackneyed in
+incident, piquant in humor, showing minute observation
+happily used. Each is bound in cloth, with white paper
+label.
+
+By
+THOMAS HARDY
+
+The Dynasts: a Drama of the Napoleonic Wars
+
+In Three Parts
+
+Each $1.50 net
+
+By
+LAURENCE HOUSMAN
+
+Bethlehem: A Musical Nativity Play
+
+$1.25 net
+
+By
+HENRY ARTHUR JONES
+
+Mrs. Daneâs Defence
+
+75 cents net
+
+Michael and His Lost Angel
+
+75 cents net
+
+Rebellious Susa
+n
+
+75 cents net
+
+Saints and Sinners
+
+75 cents net
+[Pg 2]
+
+The Crusaders
+
+75 cents net
+
+The Infidel
+
+75 cents net
+
+The Tempter
+
+75 cents net
+
+The Whitewashing of Julia
+
+75 cents net
+
+Each of these well-known plays is bound in cloth, with
+white paper label.
+
+By
+JACK LONDON
+
+Scorn of Women
+
+Cloth, $1.25 net
+
+The scenes are laid in the far north, Mr. Londonâs special
+province.
+
+By
+PERCY MACKAYE
+
+The Canterbury Pilgrims
+
+$1.25 net
+
+Fenris the Wolf. A Tragedy
+
+$1.25 net
+
+Jeanne dâArc
+
+$1.25 net
+
+The Scarecrow
+
+$1.25 net
+
+Mater
+
+$1.25 net
+
+Sappho and Phaon
+
+$1.25 net
+
+By
+STEPHEN PHILLIPS
+
+Nero
+
+$1.25 net
+
+Ulysses
+
+$1.25 net
+
+The Sin of David
+
+$1.25 net
+
+Poignant dramas which, according to the best critics, mark
+their author as the greatest writer of dramatic verse in
+England since Elizabethan times.
+
+By
+STEPHEN PHILLIPS and J. COMYNS CARR
+
+Faust
+
+$1.25 net
+
+[Pg 3]
+
+By
+ARTHUR UPSON
+
+The City (a drama) and Other Poems
+
+$1.25 net
+
+By
+SARAH KING WILEY
+
+Alcestis (a play) and Other Poems
+
+75 cents net
+
+The Coming of Philibert
+
+$1.25 net
+
+Mr. WILLIAM WINTERâS
+Version of
+
+Mary of Magdala
+
+$1.25 net
+
+An adaptation from the original of Paul Heyse; used by Mrs.
+Fiske.
+
+By
+WILLIAM BUTLER YEATS
+
+Where there is Nothing
+
+Cloth, $1.25 net
+
+Limited large paper edition,
+
+$5.00 net
+
+The Hour Glass and Other Plays
+
+$1.25 net
+
+In the Seven Woods
+
+$1.00 net
+
+Note.
+âVolume II. of the Collected Edition of
+Mr. Yeatsâs Poetical Works includes five of his dramas
+in verse: âThe Countess Cathleen,â âThe Land of Heartâs
+Desire,â âThe Kingâs Threshold,â âOn Baileâs Strand,â and
+âThe Shadowy Waters.â
+
+Cloth, $1.75 net
+
+By
+WILLIAM BUTLER YEATS and Lady GREGORY
+
+The Unicorn from the Stars, and Other Plays
+
+$1.50 net
+
+Attractively bound in decorated cloth.
+
+By
+ISRAEL ZANGWILL
+
+Author of âChildren of the Ghetto,â etc.
+
+The Melting-Pot
+
+Ready in September, 1909
+
+[Pg 4]
+
+The English Religious Drama
+
+By
+Katharine Lee Bates
+, Wellesley College
+
+Cloth, 12mo, $1.50 net
+
+History of English Dramatic Literature to the Death of
+Queen Anne
+
+By
+A. W. Ward
+, author of âChaucerâ (English Men
+of Letters Series)
+
+In three 8vo vols., $9.00 net
+
+The Stage in America
+
+By
+Norman Hapgood
+
+Cloth, $1.75 net
+
+The Life and Art of Edwin Booth
+
+By
+William Winter
+
+With portrait, Miniature Series, $1.00 net
+
+The Life and Art of Joseph Jefferson
+
+By
+William Winter
+
+With illustrations, $2.25 net
+
+Types of Tragic Drama
+
+By
+C. E. Vaughan
+
+Cloth, 12mo, $1.60 net
+
+Lectures on Dramatic Art and Literature
+
+By
+A. W. Schlegel
+
+Cloth, 12mo, $1.00 net
+
+The English Chronicle Play
+
+By
+F. E. Schelling
+
+Cloth, 12mo, $2.00 net
+
+The English Heroic Play
+
+By
+L. N. Chase
+
+Cloth, 12mo, $2.00 net
+
+PUBLISHED BY
+
+THE MACMILLAN COMPANY
+
+64-66 FIFTH AVENUE, NEW YORK
+
+*** END OF THE PROJECT GUTENBERG EBOOK THE CANTERBURY PILGRIMS ***
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg™ electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online
+at
+www.gutenberg.org
+. If you
+are not located in the United States, you will have to check the laws
+of the country where you are located before using this eBook.
+
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+• You pay a royalty fee of 20% of the gross profits you derive from
+the use of Project Gutenberg™ works calculated using the method
+you already use to calculate your applicable taxes. The fee is owed
+to the owner of the Project Gutenberg™ trademark, but he has
+agreed to donate royalties under this paragraph to the Project
+Gutenberg Literary Archive Foundation. Royalty payments must be paid
+within 60 days following each date on which you prepare (or are
+legally required to prepare) your periodic tax returns. Royalty
+payments should be clearly marked as such and sent to the Project
+Gutenberg Literary Archive Foundation at the address specified in
+Section 4, “Information about donations to the Project Gutenberg
+Literary Archive Foundation.”
+
+• You provide a full refund of any money paid by a user who notifies
+you in writing (or by e-mail) within 30 days of receipt that s/he
+does not agree to the terms of the full Project Gutenberg™
+License. You must require such a user to return or destroy all
+copies of the works possessed in a physical medium and discontinue
+all use of and all access to other copies of Project Gutenberg™
+works.
+
+• You provide, in accordance with paragraph 1.F.3, a full refund of
+any money paid for a work or a replacement copy, if a defect in the
+electronic work is discovered and reported to you within 90 days of
+receipt of the work.
+
+• You comply with all other terms of this agreement for free
+distribution of Project Gutenberg™ works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit
+www.gutenberg.org/donate
+.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility:
+www.gutenberg.org
+.
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
