@@ -11,12 +11,12 @@ python manage.py migrate --settings=library.settings_index --noinput
 echo "🔧 修复/添加 postings.tfidf 字段（如果缺失）..."
 sqlite3 db_index.sqlite3 "ALTER TABLE postings ADD COLUMN tfidf REAL DEFAULT 0.0;" 2>/dev/null || true
 
-echo "🚀 [2/4] 构建倒排索引 (TopK=5000 TF)..."
+echo "🚀 [2/4] 构建倒排索引 (TopK=3000 TF + 词干) ..."
 python manage.py index_build_fast \
   --settings=library.settings_index \
   --meta ../selected_meta.csv \
   --dir ../books_html_kept \
-  --topk 5000
+  --topk 3000
 
 echo "🔧 再次确保 postings.tfidf 字段存在..."
 sqlite3 db_index.sqlite3 "ALTER TABLE postings ADD COLUMN tfidf REAL DEFAULT 0.0;" 2>/dev/null || true
