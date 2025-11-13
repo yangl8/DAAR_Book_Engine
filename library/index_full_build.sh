@@ -1,0 +1,32 @@
+#!/usr/bin/env bash
+set -e
+cd "$(dirname "$0")"
+
+echo "📦 删除旧的索引数据库..."
+rm -f db_index.sqlite3
+
+echo "📚 [1/4] migrate 新数据库结构..."
+python manage.py migrate --settings=library.settings_index --noinput
+
+echo "🔧 修复/添加 postings.tfidf 字段（如果缺失）..."
+sqlite3 db_index.sqlite3 "ALTER TABLE postings ADD COLUMN tfidf REAL DEFAULT 0.0;" 2>/dev/null || true
+
+echo "🚀 [2/4] 构建倒排索引 (TopK=5000 TF)..."
+python manage.py index_build_fast \
+  --settings=library.settings_index \
+  --meta ../selected_meta.csv \
+  --dir ../books_html_kept \
+  --topk 5000
+
+echo "🔧 再次确保 postings.tfidf 字段存在..."
+sqlite3 db_index.sqlite3 "ALTER TABLE postings ADD COLUMN tfidf REAL DEFAULT 0.0;" 2>/dev/null || true
+
+echo "🧮 [3/4] 计算 TF-IDF..."
+python manage.py index_compute_tfidf --settings=library.settings_index
+
+echo "✂️ [4/4] 按 TF-IDF 精剪 (TopK=2500)..."
+python manage.py index_prune_tfidf \
+  --settings=library.settings_index \
+  --topk 2500
+
+echo "🎉 完成！索引数据库已生成：db_index.sqlite3"
