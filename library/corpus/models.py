@@ -41,3 +41,27 @@ class IndexStat(models.Model):
 
     class Meta:
         db_table = "index_stats"
+
+#crous 6 step3: G_d
+class DocumentGraph(models.Model):
+    doc1 = models.ForeignKey(Book, on_delete=models.CASCADE, related_name="edges_from")
+    doc2 = models.ForeignKey(Book, on_delete=models.CASCADE, related_name="edges_to")
+    similarity = models.FloatField(default=0.0)
+
+    class Meta:
+        db_table = "document_graph"
+        unique_together = (("doc1", "doc2"),)
+
+#4 algo score
+class DocumentScore(models.Model):
+    book = models.OneToOneField(Book, on_delete=models.CASCADE)
+    popularity = models.FloatField(default=0.0)   # degree centrality
+    closeness = models.FloatField(default=0.0)
+    betweenness = models.FloatField(default=0.0)
+    pagerank = models.FloatField(default=0.0)
+    total = models.FloatField(default=0.0)
+
+    class Meta:
+        db_table = "document_scores"
+
+
