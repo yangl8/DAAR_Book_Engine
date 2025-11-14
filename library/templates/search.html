@@ -1,0 +1,204 @@
+{% extends "base.html" %}
+
+{% block title %}Library Search{% endblock %}
+
+{% block content %}
+<section class="hero">
+  <div class="hero-icon">
+    <svg width="96" height="96" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+      <path
+        d="M4 4h8a4 4 0 0 1 4 4v11H8a4 4 0 0 0-4 4V4Z"
+        stroke="currentColor"
+        stroke-width="1.6"
+        stroke-linejoin="round"
+      />
+      <path
+        d="M20 4h-4v15h-2V8a4 4 0 0 1 4-4ZM8 9h4M8 13h4"
+        stroke="currentColor"
+        stroke-width="1.6"
+        stroke-linecap="round"
+      />
+    </svg>
+  </div>
+  <h1 class="hero-title">Gutenberg Library Explorer</h1>
+  <p class="hero-subtitle">
+    Search Gutenberg’s library with keywords or regex, switch to graph-based rankings, and get tailored suggestions.
+  </p>
+  <div class="container">
+    <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-4 g-3 hero-links">
+      {% for link in quick_links %}
+      <div class="col">
+        <a
+          class="quick-link"
+          href="{{ link.url }}"
+          {% if link.external %}target="_blank" rel="noopener noreferrer"{% endif %}
+        >
+          <span class="quick-link-label">{{ link.label }}</span>
+          <span class="quick-link-desc">{{ link.description }}</span>
+        </a>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="search-section">
+  <div class="container">
+    <div class="card search-panel">
+      <div class="card-body">
+        <form class="search-form" data-search-form>
+          <div class="input-group-lg">
+            <input
+              type="text"
+              name="q"
+              class="form-control search-input"
+              placeholder="Search by title, author, or any keyword…"
+              value="{{ initial_query }}"
+              autocomplete="off"
+            />
+            <button type="submit" class="btn btn-primary search-btn">
+              Search
+            </button>
+          </div>
+          <div class="search-options">
+            <div class="mode-toggle" role="group" aria-label="搜索模式">
+              {% for mode in search_modes %}
+              <input
+                type="radio"
+                class="btn-check"
+                name="mode"
+                id="mode-{{ mode.value }}"
+                value="{{ mode.value }}"
+                {% if mode.value == initial_mode %}checked{% endif %}
+              />
+              <label class="btn btn-outline-primary" for="mode-{{ mode.value }}">
+                {{ mode.label }}
+              </label>
+              {% endfor %}
+            </div>
+            <div class="order-select" data-order-wrapper>
+              <label class="form-label small text-muted mb-1">Ranking metric</label>
+              <select
+                class="form-select form-select-sm"
+                name="order"
+                data-order-select
+              >
+                {% for order in ranking_options %}
+                <option
+                  value="{{ order.value }}"
+                  {% if order.value == initial_order %}selected{% endif %}
+                >
+                  {{ order.label }}
+                </option>
+                {% endfor %}
+              </select>
+            </div>
+            <div class="mode-tip text-muted small" data-mode-tip></div>
+          </div>
+        </form>
+        <div class="alert alert-danger d-none mt-3" role="alert" data-error>
+          Request failed. Please try again later.
+        </div>
+        <div class="loading-indicator d-none" data-loading>
+          <span class="spinner-border spinner-border-sm me-2" role="status"></span>
+          Loading results…
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="results-section">
+  <div class="container">
+    <div class="row g-4">
+      <div class="col-lg-8">
+        <div class="card results-card">
+          <div class="card-body">
+            <div class="results-header d-flex justify-content-between align-items-center mb-3">
+              <div>
+                <h2 class="h5 mb-0">Search results</h2>
+                <p class="text-muted small mb-0" data-results-summary>
+                  Type a query to get started.
+                </p>
+              </div>
+              <button class="btn btn-sm btn-outline-secondary d-none" data-export-btn>
+                Export JSON
+              </button>
+            </div>
+            <div class="results-skeleton d-none" data-skeleton>
+              <div class="skeleton-line mb-2"></div>
+              <div class="skeleton-line w-75 mb-4"></div>
+              <div class="skeleton-line mb-2"></div>
+              <div class="skeleton-line w-50"></div>
+            </div>
+            <div class="results-list" data-results></div>
+            <div class="empty-state text-muted text-center py-5 d-none" data-empty>
+              No results found. Try another keyword or search mode.
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4">
+        <div class="card stats-card mb-3">
+          <div class="card-body">
+            <h2 class="h6 text-uppercase text-muted mb-3">Index overview</h2>
+            <div class="stats-grid" data-stats>
+              <div class="stat-item">
+                <span class="stat-label">Documents</span>
+                <span class="stat-value" data-stat-documents>—</span>
+              </div>
+              <div class="stat-item">
+                <span class="stat-label">Average length</span>
+                <span class="stat-value" data-stat-avglen>—</span>
+              </div>
+              <div class="stat-item">
+                <span class="stat-label">Unique terms</span>
+                <span class="stat-value" data-stat-terms>—</span>
+              </div>
+              <div class="stat-item">
+                <span class="stat-label">Last rebuild</span>
+                <span class="stat-value small" data-stat-lastbuild>—</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="card suggestions-card">
+          <div class="card-body">
+            <h2 class="h6 text-uppercase text-muted mb-3">Smart suggestions</h2>
+            <ul class="recommendation-list" data-suggestions>
+              <li class="text-muted">Enter a query to see recommended titles.</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<template id="result-item-template">
+  <article class="result-card">
+    <div class="result-rank" data-rank>#1</div>
+    <div class="result-content">
+      <h3 class="result-title" data-title>Book Title</h3>
+      <div class="result-meta text-muted">
+        <span data-authors>作者未知</span>
+        <span>·</span>
+        <span data-language>语言</span>
+        <span>·</span>
+        <span data-length>文档长度</span>
+      </div>
+      <p class="result-snippet" data-snippet></p>
+      <div class="result-tags" data-tags></div>
+    </div>
+  </article>
+</template>
+
+<template id="recommendation-item-template">
+  <li class="recommendation-item">
+    <span class="rec-title" data-rec-title>书名</span>
+    <small class="rec-reason text-muted" data-rec-reason>推荐理由</small>
+  </li>
+</template>
+{% endblock %}
+
