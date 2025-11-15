@@ -2,7 +2,6 @@ import re
 from django.db.models import Q
 from corpus.models import Term, Posting, Book, DocumentScore
 from nltk.stem import PorterStemmer
-import spacy
 import time
 from  .search_utils import preprocess_query, get_term_ids, compute_tfidf_for_books
 
