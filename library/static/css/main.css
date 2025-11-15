@@ -308,6 +308,19 @@ select {
   padding: 0.35rem 0.8rem;
 }
 
+.result-score {
+  display: inline-flex;
+  align-items: center;
+  margin-top: 0.5rem;
+  padding: 0.35rem 0.8rem;
+  border-radius: 999px;
+  font-weight: 600;
+  font-size: 0.85rem;
+  color: var(--daar-primary);
+  background: rgba(27, 77, 216, 0.1);
+  width: fit-content;
+}
+
 .results-header .btn {
   border-radius: 999px;
 }
