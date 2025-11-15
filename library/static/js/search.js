@@ -223,7 +223,15 @@ document.addEventListener("DOMContentLoaded", () => {
       const scoreEl = clone.querySelector("[data-score]");
 
       if (rankEl) rankEl.textContent = `#${index + 1}`;
-      if (titleEl) titleEl.textContent = item.title || "Untitled book";
+
+      if (titleEl) {
+        titleEl.innerHTML = `
+            <a href="${item.gutenberg_url}" target="_blank" rel="noopener">
+                ${item.title || "Untitled book"}
+            </a>
+        `;
+      }
+
       if (authorsEl)
         authorsEl.textContent = item.authors?.join(", ") || "Unknown author";
       if (snippetEl) {
@@ -272,7 +280,16 @@ document.addEventListener("DOMContentLoaded", () => {
       const clone = recommendationTemplate.content.cloneNode(true);
       const titleEl = clone.querySelector("[data-rec-title]");
       const reasonEl = clone.querySelector("[data-rec-reason]");
-      if (titleEl) titleEl.textContent = item.title || `Book #${item.book_id}`;
+      
+      if (titleEl) {
+        titleEl.innerHTML = `
+            <a href="${item.gutenberg_url}" target="_blank" rel="noopener">
+                ${item.title || `Book #${item.book_id}`}
+            </a>
+        `;
+      }
+
+
       if (reasonEl) reasonEl.textContent = item.reason || "High relevance";
       fragment.appendChild(clone);
     });
