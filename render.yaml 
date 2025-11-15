@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: daar-book-engine
+    env: python
+    buildCommand: >
+      pip install -r library/requirements.txt &&
+      python library/manage.py collectstatic --noinput &&
+      python library/manage.py migrate
+    startCommand: gunicorn library.wsgi:application --chdir library
+    autoDeploy: true
