@@ -180,7 +180,8 @@ select {
   justify-content: space-between;
 }
 
-.mode-toggle .btn {
+.mode-toggle .btn,
+.field-toggle .btn {
   border-radius: 999px;
   padding: 0.5rem 1.2rem;
   font-weight: 500;
@@ -196,6 +197,24 @@ select {
   background: rgba(27, 77, 216, 0.1);
   border-color: var(--daar-primary);
   color: var(--daar-primary-dark);
+}
+
+.field-toggle {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+}
+
+.field-toggle .btn-outline-secondary {
+  border-color: rgba(31, 42, 68, 0.25);
+  color: var(--daar-text);
+}
+
+.field-toggle .btn-outline-secondary:hover,
+.field-toggle .btn-check:checked + .btn-outline-secondary {
+  background: rgba(27, 77, 216, 0.08);
+  border-color: var(--daar-primary);
+  color: var(--daar-primary);
 }
 
 .order-select {

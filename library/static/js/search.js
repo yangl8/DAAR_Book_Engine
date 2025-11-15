@@ -3,9 +3,11 @@ document.addEventListener("DOMContentLoaded", () => {
   const form = document.querySelector("[data-search-form]");
   const queryInput = form?.querySelector("input[name='q']");
   const modeRadios = form?.querySelectorAll("input[name='mode']");
+  const fieldRadios = form?.querySelectorAll("input[name='field']");
   const orderWrapper = form?.querySelector("[data-order-wrapper]");
   const orderSelect = form?.querySelector("[data-order-select]");
   const modeTip = form?.querySelector("[data-mode-tip]");
+  const searchInput = form?.querySelector("[data-search-input]");
   const resultsContainer = document.querySelector("[data-results]");
   const emptyState = document.querySelector("[data-empty]");
   const summary = document.querySelector("[data-results-summary]");
@@ -30,11 +32,13 @@ document.addEventListener("DOMContentLoaded", () => {
     lastQuery: queryInput.value.trim(),
     lastMode: getSelectedMode(),
     lastOrder: orderSelect?.value || "default",
+    lastField: getSelectedField(),
     lastResponse: null,
   };
 
   initFromUrl();
   setupModeInteractions();
+  setupFieldInteractions();
   loadGlobalStats();
 
   if (state.lastQuery) {
@@ -65,6 +69,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const query = queryInput.value.trim();
     const mode = getSelectedMode();
     const order = orderSelect?.value || "default";
+    const field = getSelectedField();
 
     if (!query) {
       renderEmptyState("Please enter a keyword to start searching.");
@@ -83,6 +88,7 @@ document.addEventListener("DOMContentLoaded", () => {
       q: query,
       mode,
       order,
+      field,
       page: 1,
       page_size: 20,
       include_snippet: true,
@@ -95,13 +101,12 @@ document.addEventListener("DOMContentLoaded", () => {
       state.lastQuery = query;
       state.lastMode = mode;
       state.lastOrder = order;
+      state.lastField = field;
       state.lastResponse = data;
       renderResults(data);
       exportBtn?.classList.remove("d-none");
       loadRecommendations(query);
-      summary.textContent = `Found ${data.total ?? 0} results in ${formatDuration(
-        data.elapsed_ms,
-      )}.`;
+      summary.textContent = buildSummaryText(data.total, field, data.elapsed_ms);
     } catch (error) {
       showError(error);
       renderEmptyState("Search failed. Please try again later.");
@@ -118,6 +123,15 @@ document.addEventListener("DOMContentLoaded", () => {
       });
     });
     updateModeUI(getSelectedMode());
+  }
+
+  function setupFieldInteractions() {
+    fieldRadios?.forEach((radio) => {
+      radio.addEventListener("change", () => {
+        updateFieldPlaceholder(getSelectedField());
+      });
+    });
+    updateFieldPlaceholder(getSelectedField());
   }
 
   function updateModeUI(mode) {
@@ -143,6 +157,11 @@ document.addEventListener("DOMContentLoaded", () => {
   function getSelectedMode() {
     const checked = [...(modeRadios || [])].find((r) => r.checked);
     return checked ? checked.value : "simple";
+  }
+
+  function getSelectedField() {
+    const checked = [...(fieldRadios || [])].find((r) => r.checked);
+    return checked ? checked.value : "keyword";
   }
 
   async function loadGlobalStats() {
@@ -340,6 +359,11 @@ document.addEventListener("DOMContentLoaded", () => {
       const date = new Date(value);
       if (Number.isNaN(date.getTime())) return "—";
       return date.toLocaleString("zh-CN", {
+        year: "numeric",
+        month: "2-digit",
+        day: "2-digit",
+        hour: "2-digit",
+        minute: "2-digit",
         hour12: false,
       });
     } catch (error) {
@@ -363,6 +387,7 @@ document.addEventListener("DOMContentLoaded", () => {
     url.searchParams.set("q", params.q);
     url.searchParams.set("mode", params.mode);
     url.searchParams.set("order", params.order);
+    url.searchParams.set("field", params.field);
     history.replaceState(null, "", `${url.pathname}?${url.searchParams}`);
   }
 
@@ -371,6 +396,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const q = url.searchParams.get("q");
     const mode = url.searchParams.get("mode");
     const order = url.searchParams.get("order");
+    const field = url.searchParams.get("field");
 
     if (q) queryInput.value = q;
     if (mode) {
@@ -380,6 +406,32 @@ document.addEventListener("DOMContentLoaded", () => {
     if (order && orderSelect) {
       orderSelect.value = order;
     }
+    if (field) {
+      const radio = form.querySelector(`input[name="field"][value="${field}"]`);
+      if (radio) radio.checked = true;
+    }
+  }
+
+  function updateFieldPlaceholder(field) {
+    if (!searchInput) return;
+    const placeholders = {
+      keyword: "Search by title, author, or any keyword…",
+      title: "Search book titles…",
+      author: "Search authors…",
+    };
+    searchInput.placeholder = placeholders[field] || placeholders.keyword;
+  }
+
+  function buildSummaryText(total, field, elapsedMs) {
+    const fieldLabels = {
+      keyword: "full text",
+      title: "titles",
+      author: "authors",
+    };
+    const label = fieldLabels[field] || fieldLabels.keyword;
+    return `Found ${total ?? 0} results in ${formatDuration(
+      elapsedMs,
+    )} (searching ${label}).`;
   }
 });
 
