@@ -138,14 +138,19 @@ document.addEventListener("DOMContentLoaded", () => {
     if (!orderWrapper) return;
     if (mode === "regex") {
       orderWrapper.classList.add("d-none");
-      orderSelect.value = "default";
-      setModeTip("Regex mode: accepts Django regex syntax, may impact performance.");
-    } else if (mode === "graph") {
-      orderWrapper.classList.remove("d-none");
-      setModeTip("Graph ranking: choose PageRank, Closeness, or Betweenness ordering.");
+      if (orderSelect) orderSelect.value = "default";
+      setModeTip("Regex mode: Django regex syntax, slowest option.");
+    } else if (mode === "title") {
+      orderWrapper.classList.add("d-none");
+      if (orderSelect) orderSelect.value = "default";
+      setModeTip("Title mode: match book titles only.");
+    } else if (mode === "author") {
+      orderWrapper.classList.add("d-none");
+      if (orderSelect) orderSelect.value = "default";
+      setModeTip("Author mode: match author names only.");
     } else {
       orderWrapper.classList.remove("d-none");
-      setModeTip("Keyword mode: default relevance ranking, switch metrics if needed.");
+      setModeTip("Keyword mode: full-text search with ranking metrics.");
     }
   }
 
@@ -156,7 +161,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   function getSelectedMode() {
     const checked = [...(modeRadios || [])].find((r) => r.checked);
-    return checked ? checked.value : "simple";
+    return checked ? checked.value : "keyword";
   }
 
   function getSelectedField() {
@@ -211,43 +216,30 @@ document.addEventListener("DOMContentLoaded", () => {
       const rankEl = clone.querySelector("[data-rank]");
       const titleEl = clone.querySelector("[data-title]");
       const authorsEl = clone.querySelector("[data-authors]");
-      const langEl = clone.querySelector("[data-language]");
-      const lenEl = clone.querySelector("[data-length]");
       const snippetEl = clone.querySelector("[data-snippet]");
-      const tagsEl = clone.querySelector("[data-tags]");
+      const scoreEl = clone.querySelector("[data-score]");
 
       if (rankEl) rankEl.textContent = `#${index + 1}`;
-      if (titleEl) titleEl.textContent = item.title || "未命名书籍";
+      if (titleEl) titleEl.textContent = item.title || "Untitled book";
       if (authorsEl)
-        authorsEl.textContent = item.authors?.join(", ") || "作者未知";
-      if (langEl) langEl.textContent = item.language || "语言未知";
-      if (lenEl)
-        lenEl.textContent = item.doc_len_tokens
-          ? `${formatNumber(item.doc_len_tokens)} tokens`
-          : "长度未知";
-
+        authorsEl.textContent = item.authors?.join(", ") || "Unknown author";
       if (snippetEl) {
         snippetEl.innerHTML = highlightTerms(
-          item.snippet || "暂无摘要片段。",
+          item.snippet || "No snippet available.",
           state.lastQuery,
         );
       }
 
-      if (tagsEl) {
-        tagsEl.innerHTML = "";
-        const features = item.rank_features || {};
-        Object.entries(features).forEach(([key, value]) => {
-          if (value === undefined || value === null) return;
-          const badge = document.createElement("span");
-          badge.className = "badge";
-          badge.textContent = `${key}: ${formatFloat(value)}`;
-          tagsEl.appendChild(badge);
-        });
-        if (item.match_terms) {
-          const matchBadge = document.createElement("span");
-          matchBadge.className = "badge";
-          matchBadge.textContent = `Match: ${item.match_terms.join(", ")}`;
-          tagsEl.appendChild(matchBadge);
+      if (scoreEl) {
+        const score =
+          typeof item.score === "number" && !Number.isNaN(item.score)
+            ? item.score
+            : null;
+        if (score !== null) {
+          scoreEl.textContent = `score: ${formatScore(score)}`;
+          scoreEl.classList.remove("d-none");
+        } else {
+          scoreEl.classList.add("d-none");
         }
       }
 
@@ -277,8 +269,8 @@ document.addEventListener("DOMContentLoaded", () => {
       const clone = recommendationTemplate.content.cloneNode(true);
       const titleEl = clone.querySelector("[data-rec-title]");
       const reasonEl = clone.querySelector("[data-rec-reason]");
-      if (titleEl) titleEl.textContent = item.title || `书目 #${item.book_id}`;
-      if (reasonEl) reasonEl.textContent = item.reason || "匹配度较高";
+      if (titleEl) titleEl.textContent = item.title || `Book #${item.book_id}`;
+      if (reasonEl) reasonEl.textContent = item.reason || "High relevance";
       fragment.appendChild(clone);
     });
     suggestionsList.appendChild(fragment);
@@ -338,14 +330,13 @@ document.addEventListener("DOMContentLoaded", () => {
 
   function formatNumber(value) {
     if (value === undefined || value === null || Number.isNaN(value)) return "—";
-    return new Intl.NumberFormat("zh-CN").format(value);
+    return new Intl.NumberFormat("en-US").format(value);
   }
 
-  function formatFloat(value) {
+  function formatScore(value) {
     if (value === undefined || value === null || Number.isNaN(value)) return "—";
-    if (Math.abs(value) >= 100) return value.toFixed(0);
-    if (Math.abs(value) >= 1) return value.toFixed(2);
-    return value.toPrecision(2);
+    if (Math.abs(value) >= 10) return value.toFixed(1);
+    return value.toFixed(2);
   }
 
   function formatDuration(ms) {
@@ -358,7 +349,7 @@ document.addEventListener("DOMContentLoaded", () => {
     try {
       const date = new Date(value);
       if (Number.isNaN(date.getTime())) return "—";
-      return date.toLocaleString("zh-CN", {
+      return date.toLocaleString("en-US", {
         year: "numeric",
         month: "2-digit",
         day: "2-digit",

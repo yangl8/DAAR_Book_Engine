@@ -22,7 +22,7 @@
   </div>
   <h1 class="hero-title">Gutenberg Library Explorer</h1>
   <p class="hero-subtitle">
-    Search Gutenberg’s library with keywords or regex, switch to graph-based rankings, and get tailored suggestions.
+    Search Gutenberg’s library by title, author, keyword, or regex and get tailored suggestions.
   </p>
   <div class="container">
     <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-4 g-3 hero-links">
@@ -61,7 +61,7 @@
             </button>
           </div>
           <div class="search-options">
-            <div class="mode-toggle" role="group" aria-label="搜索模式">
+            <div class="mode-toggle" role="group" aria-label="Search mode">
               {% for mode in search_modes %}
               <input
                 type="radio"
@@ -182,22 +182,18 @@
     <div class="result-content">
       <h3 class="result-title" data-title>Book Title</h3>
       <div class="result-meta text-muted">
-        <span data-authors>作者未知</span>
-        <span>·</span>
-        <span data-language>语言</span>
-        <span>·</span>
-        <span data-length>文档长度</span>
+        <span data-authors>Unknown author</span>
       </div>
 {#      <p class="result-snippet" data-snippet></p>#}
-      <div class="result-tags" data-tags></div>
+      <div class="result-score d-none" data-score>score: 0.00</div>
     </div>
   </article>
 </template>
 
 <template id="recommendation-item-template">
   <li class="recommendation-item">
-    <span class="rec-title" data-rec-title>书名</span>
-    <small class="rec-reason text-muted" data-rec-reason>推荐理由</small>
+    <span class="rec-title" data-rec-title>Title</span>
+    <small class="rec-reason text-muted" data-rec-reason>Why suggested</small>
   </li>
 </template>
 {% endblock %}
