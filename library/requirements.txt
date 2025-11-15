@@ -25,7 +25,6 @@ pydantic==2.12.4
 pydantic_core==2.41.5
 regex==2025.11.3
 requests==2.32.5
-scipy==1.13.1
 smart_open==7.5.0
 spacy==3.8.9
 spacy-legacy==3.0.12
