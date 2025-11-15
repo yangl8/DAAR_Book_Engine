@@ -8,7 +8,7 @@ from corpus.models import Term, Posting
 from typing import List
 from corpus.backend.regex_engine.engine import RegexEngine
 from corpus.models import Term
-# import spacy
+
 
 # 1. query 前处理：lower + tokenize + stem
 def preprocess_query(query: str):
@@ -29,9 +29,7 @@ def preprocess_query(query: str):
     stemmer = PorterStemmer()
     tokens = [stemmer.stem(t) for t in tokens]
 
-    # 如果你之后改成 spaCy，这里统一替换即可：
-    # nlp = spacy.load("en_core_web_sm")
-    # tokens = [nlp(t)[0].lemma_.lower() for t in tokens]
+
 
     return tokens
 
