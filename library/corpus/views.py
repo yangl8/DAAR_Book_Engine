@@ -1,5 +1,9 @@
 from django.shortcuts import render
 
+from django.http import JsonResponse
+from corpus.backend.search_service import SearchService
+
+
 
 def search_view(request):
     quick_links = [
@@ -52,3 +56,24 @@ def search_view(request):
         "initial_order": request.GET.get("order", "default"),
     }
     return render(request, "search.html", context)
+
+#search context
+import time
+
+def search_api(request):
+    """
+    GET /api/search?q=love&order=pagerank
+    """
+    query = request.GET.get("q", "").strip()
+    order = request.GET.get("order", "total")   # 前端用的是 order，不是 centrality
+
+    start = time.time()
+    results = SearchService.search(query, centrality=order, limit=20)
+    elapsed = (time.time() - start) * 1000.0
+
+    data = {
+        "total": len(results),   # 前端用 data.total
+        "elapsed_ms": elapsed,   # 前端用 data.elapsed_ms
+        "results": results,      # ⭐ 这里是 list，前端才能 .length
+    }
+    return JsonResponse(data)
