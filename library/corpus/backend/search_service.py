@@ -4,13 +4,14 @@ from corpus.models import Term, Posting, Book, DocumentScore
 from nltk.stem import PorterStemmer
 import spacy
 import time
+from  .search_utils import preprocess_query, get_term_ids, compute_tfidf_for_books
+
 
 class SearchService:
 
     @staticmethod
     def search(query: str, centrality: str = "total", max_terms: int = 50, limit: int = 30):
 
-        start = time.time()
         if not query:
             return []
 
@@ -19,46 +20,20 @@ class SearchService:
         if not q_norm:
             return []
 
-        #annalay token
-        tokens = [t for t in re.split(r"\W+", q_norm) if t]
-        #傻子
-        stemmer = PorterStemmer()
-        tokens = [stemmer.stem(t) for t in tokens]
-        #聪明的
-        # nlp = spacy.load("en_core_web_sm")
-        # tokens = [nlp(t)[0].lemma_.lower() for t in tokens]
+        tokens = preprocess_query(query)
         if not tokens:
             return []
 
 
         # 2. find in table terms
-        term_qs = Term.objects.filter(term__in=tokens)[:max_terms]
-        term_ids = list(term_qs.values_list("id", flat=True))
-
-
-        # 3. find postings and TF-IDF
-
-        postings = (
-            Posting.objects
-            .filter(term_id__in=term_ids)
-            .select_related("book", "term")
-        )
-
-        tfidf_by_book = {}
-        matched_terms = {}
-
-        for p in postings:
-            bid = p.book_id
-            tfidf_by_book[bid] = tfidf_by_book.get(bid, 0.0) + p.tfidf
-
-            if bid not in matched_terms:
-                matched_terms[bid] = set()
-            matched_terms[bid].add(p.term.term)
-
-        # 没结果
-        if not tfidf_by_book:
+        term_ids = get_term_ids(tokens)
+        if not term_ids:
             return []
 
+        # 3. find postings and TF-IDF
+        tfidf_by_book, matched_terms = compute_tfidf_for_books(term_ids)
+        if not tfidf_by_book:
+            return []
 
         # 4. find info books and centrality
 
@@ -151,7 +126,7 @@ class SearchService:
 
         results.sort(key=lambda x: x["score"], reverse=True)
 
-        elapsed = (time.time() - start) * 1000
+
 
         return results[:limit]
 

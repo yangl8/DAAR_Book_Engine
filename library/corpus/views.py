@@ -1,10 +1,12 @@
 from django.shortcuts import render
 
-from django.http import JsonResponse
 from corpus.backend.search_service import SearchService
 
 
+from corpus.backend.recommendations import RecommendationService
 
+from django.views.decorators.http import require_GET
+from django.http import JsonResponse
 def search_view(request):
     quick_links = [
         {
@@ -77,3 +79,38 @@ def search_api(request):
         "results": results,      # ⭐ 这里是 list，前端才能 .length
     }
     return JsonResponse(data)
+
+
+
+
+
+@require_GET
+def recommendations_query_view(request):
+    """
+    GET /api/recommendations/query?q=...&limit=6
+    Frontend expects: {"items": [...]}
+    """
+    q = request.GET.get("q", "").strip()
+
+    try:
+        limit = int(request.GET.get("limit", 6))
+    except:
+        limit = 6
+
+    limit = max(1, min(limit, 20))
+
+    # 原始推荐结果
+    raw_results = RecommendationService.recommend_for_query(query=q, limit=limit)
+    # raw_results 是类似：
+    # [{"book_id": ..., "title": ..., "similarity": 0.32, "total": 0.55, "pagerank": ...}, ...]
+
+    items = []
+    for r in raw_results:
+        items.append({
+            "book_id": r.get("book_id"),
+            "title": r.get("title"),
+            # 推荐理由你可以选择 similarity、pagerank、total 中任意一个
+            "reason": f"similarity: {r.get('similarity', 0):.3f}"
+        })
+
+    return JsonResponse({"items": items})
