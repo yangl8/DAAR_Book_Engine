@@ -26,9 +26,13 @@ class Command(BaseCommand):
         self.stdout.write(self.style.SUCCESS("Calculating centrality..."))
 
         popularity = nx.degree_centrality(G)
+        self.stdout.write("degree done!")
         closeness = nx.closeness_centrality(G)
+        self.stdout.write("closeness done!")
         betweenness = nx.betweenness_centrality(G, normalized=True, weight="weight")
+        self.stdout.write("betweenness done!")
         pagerank = nx.pagerank(G, weight="weight")
+        self.stdout.write("pagerank done!")
 
         # normalization 0 a 1
         def normalize(values_dict):

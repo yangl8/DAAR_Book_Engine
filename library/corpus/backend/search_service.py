@@ -6,6 +6,11 @@ import spacy
 import time
 from  .search_utils import preprocess_query, get_term_ids, compute_tfidf_for_books
 
+from django.db.models import Q
+from collections import defaultdict
+from corpus.models import Term, Posting, Book, DocumentScore
+from .search_utils import preprocess_query, get_term_ids, compute_tfidf_for_books
+
 
 class SearchService:
 
@@ -20,23 +25,63 @@ class SearchService:
         if not q_norm:
             return []
 
+        # 1) 分词（词干化）
         tokens = preprocess_query(query)
         if not tokens:
             return []
 
+        # -------------------------------------------------------
+        # 2) Multi-token TF-IDF
+        #    每个 token 单独算 TF-IDF，然后归一化、最后合并
+        # -------------------------------------------------------
+        token_scores = []       # 每个 token 的 normalized TF-IDF 分布
+        token_matches = []      # 每个 token 命中的 terms
 
-        # 2. find in table terms
-        term_ids = get_term_ids(tokens)
-        if not term_ids:
+        for tok in tokens:
+
+            # --- 每个 token 单独查 term_ids ---
+            term_ids_i = get_term_ids([tok])
+            if not term_ids_i:
+                continue
+
+            # --- 每个 token 单独算 TF-IDF ---
+            tfidf_i, matches_i = compute_tfidf_for_books(term_ids_i)
+            if not tfidf_i:
+                continue
+
+            # --- normalize per token ---
+            vals = list(tfidf_i.values())
+            mi, ma = min(vals), max(vals)
+
+            def norm_tf(v):
+                if ma == mi:
+                    return 0.0
+                return (v - mi) / (ma - mi)
+
+            normalized_map = {bid: norm_tf(v) for bid, v in tfidf_i.items()}
+
+            token_scores.append(normalized_map)
+            token_matches.append(matches_i)
+
+        # 没有 token 匹配任何东西
+        if not token_scores:
             return []
 
-        # 3. find postings and TF-IDF
-        tfidf_by_book, matched_terms = compute_tfidf_for_books(term_ids)
+        # --- 合并所有 token 的 TF-IDF（已 normalize） ---
+        tfidf_by_book = defaultdict(float)
+        matched_terms = defaultdict(set)
+
+        for score_map, match_map in zip(token_scores, token_matches):
+            for bid, v in score_map.items():
+                tfidf_by_book[bid] += v
+                matched_terms[bid].update(match_map.get(bid, set()))
+
         if not tfidf_by_book:
             return []
 
-        # 4. find info books and centrality
-
+        # -------------------------------------------------------
+        # 3) book 信息 + centrality（沿用你的原逻辑）
+        # -------------------------------------------------------
         book_ids = list(tfidf_by_book.keys())
 
         books = Book.objects.filter(text_id__in=book_ids)
@@ -55,83 +100,58 @@ class SearchService:
         else:
             cent_map = {s.book_id: s.total for s in scores}
 
-
-        # 5. 多词命中加分
-
-        TERM_MATCH_BOOST = 1.5
-
-        raw_results = []
-
-        for bid in book_ids:
-            book = book_map.get(bid)
-            if not book:
-                continue
-
-            tfidf_val = tfidf_by_book[bid]
-
-            # 命中多少 query 词
-            terms = matched_terms.get(bid, set())
-            num_matched = sum(1 for t in tokens if t in terms)
-
-            tfidf_val += num_matched * TERM_MATCH_BOOST
-
-            cent_val = cent_map.get(bid, 0)
-
-            raw_results.append((bid, book, tfidf_val, cent_val, terms, num_matched))
-
-
-        # 6. normalization tfidfs and cents
-
-        tfidfs = [x[2] for x in raw_results]
-        cents  = [x[3] for x in raw_results]
-
-        min_t, max_t = min(tfidfs), max(tfidfs)
+        # -------------------------------------------------------
+        # 4) normalize centrality（仅中央性 normalize）
+        # -------------------------------------------------------
+        cents = [cent_map.get(bid, 0) for bid in book_ids]
         min_c, max_c = min(cents), max(cents)
 
-        def norm(x, mi, ma):
-            if ma == mi:
+        def norm_cent(v):
+            if max_c == min_c:
                 return 0.0
-            return (x - mi) / (ma - mi)
+            return (v - min_c) / (max_c - min_c)
 
+        # -------------------------------------------------------
+        # 5) final score = a*tfidf + b*centrality
+        # -------------------------------------------------------
         a = 0.7
         b = 0.3
 
         results = []
 
-        for bid, book, tfidf_val, cent_val, terms, num_matched in raw_results:
+        for bid in book_ids:
+            book = book_map[bid]
 
-            tfidf_norm = norm(tfidf_val, min_t, max_t)
-            cent_norm  = norm(cent_val, min_c, max_c)
+            tfidf_val = tfidf_by_book[bid]
+            cent_val  = cent_map.get(bid, 0)
+            cent_norm = norm_cent(cent_val)
 
-            score = a * tfidf_norm + b * cent_norm
+            score = a * tfidf_val + b * cent_norm
+
             authors_raw = book.authors or ""
-            authors_list = [a.strip() for a in authors_raw.split(",") if a.strip()]
+            authors_list = [x.strip() for x in authors_raw.split(",") if x.strip()]
+
             results.append({
                 "book_id": book.text_id,
                 "title": book.title,
                 "authors": authors_list,
-                "language": "en",  # 你表里没有 language，就先固定写
+                "language": "en",
                 "doc_len_tokens": book.doc_len_tokens,
-                "snippet": "",  # 之后再做 snippet
-                "match_terms": sorted(terms),
+                "snippet": "",
+                "match_terms": sorted(matched_terms[bid]),
                 "rank_features": {
                     "tfidf": tfidf_val,
                     "centrality": cent_val,
-                    "score": score,  # 放一份进去给前端显示
+                    "score": score,
                 },
-                "score": score,  # ⭐ 再放一份在顶层，给排序用
+                "score": score,
             })
 
         # 排序
-
         results.sort(key=lambda x: x["score"], reverse=True)
-
-
 
         return results[:limit]
 
-# # add score for author and title
-#
 # class SearchService:
 #
 #     @staticmethod
@@ -140,79 +160,35 @@ class SearchService:
 #         if not query:
 #             return []
 #
-#         # Normalize query
+#         # clear & normalize query
 #         q_norm = query.strip().lower()
 #         if not q_norm:
 #             return []
 #
-#         # ------------------------------
-#         # 1. Tokenize query
-#         # ------------------------------
-#         tokens = [t for t in re.split(r"\W+", q_norm) if t]
+#         tokens = preprocess_query(query)
 #         if not tokens:
 #             return []
 #
-#         # ------------------------------
-#         # 2. Exact match terms (fix icontains issue)
-#         # ------------------------------
-#         term_qs = Term.objects.filter(term__in=tokens)[:max_terms]
-#         term_ids = list(term_qs.values_list("id", flat=True))
 #
-#         # ------------------------------
-#         # 3. Postings → accumulate TF-IDF
-#         # ------------------------------
-#         postings = (
-#             Posting.objects
-#             .filter(term_id__in=term_ids)
-#             .select_related("book", "term")
-#         )
+#         # 2. find in table terms
+#         term_ids = get_term_ids(tokens)
+#         if not term_ids:
+#             return []
 #
-#         tfidf_by_book = {}
-#         matched_terms = {}
-#
-#         for p in postings:
-#             bid = p.book_id
-#             tfidf_by_book[bid] = tfidf_by_book.get(bid, 0.0) + p.tfidf
-#
-#             if bid not in matched_terms:
-#                 matched_terms[bid] = set()
-#             matched_terms[bid].add(p.term.term)
-#
-#         # ------------------------------
-#         # 4. Title / author hit (using q_norm or tokens)
-#         # ------------------------------
-#         TITLE_BOOST = 5.0
-#         AUTHOR_BOOST = 3.0
-#
-#         title_filter = Q()
-#         author_filter = Q()
-#
-#         for t in tokens:
-#             title_filter |= Q(title__icontains=t)
-#             author_filter |= Q(authors__icontains=t)
-#
-#         title_hit = set(Book.objects.filter(title_filter).values_list("text_id", flat=True))
-#         author_hit = set(Book.objects.filter(author_filter).values_list("text_id", flat=True))
-#
-#         # Add boosts
-#         for bid in title_hit:
-#             tfidf_by_book[bid] = tfidf_by_book.get(bid, 0.0) + TITLE_BOOST
-#         for bid in author_hit:
-#             tfidf_by_book[bid] = tfidf_by_book.get(bid, 0.0) + AUTHOR_BOOST
-#
+#         # 3. find postings and TF-IDF
+#         tfidf_by_book, matched_terms = compute_tfidf_for_books(term_ids)
 #         if not tfidf_by_book:
 #             return []
 #
-#         # ------------------------------
-#         # 5. Fetch books + centrality
-#         # ------------------------------
+#         # 4. find info books and centrality
+#
 #         book_ids = list(tfidf_by_book.keys())
+#
 #         books = Book.objects.filter(text_id__in=book_ids)
 #         book_map = {b.text_id: b for b in books}
 #
 #         scores = DocumentScore.objects.filter(book_id__in=book_ids)
 #
-#         # Select centrality field dynamically
 #         if centrality == "pagerank":
 #             cent_map = {s.book_id: s.pagerank for s in scores}
 #         elif centrality == "closeness":
@@ -224,12 +200,12 @@ class SearchService:
 #         else:
 #             cent_map = {s.book_id: s.total for s in scores}
 #
-#         # ------------------------------
-#         # 6. Multi-term match boost
-#         # ------------------------------
+#
+#         # 5. 多词命中加分
+#
 #         TERM_MATCH_BOOST = 1.5
 #
-#         results_raw = []
+#         raw_results = []
 #
 #         for bid in book_ids:
 #             book = book_map.get(bid)
@@ -238,53 +214,63 @@ class SearchService:
 #
 #             tfidf_val = tfidf_by_book[bid]
 #
-#             # count matched query words
+#             # 命中多少 query 词
 #             terms = matched_terms.get(bid, set())
-#             num_match = sum(1 for t in tokens if t in terms)
+#             num_matched = sum(1 for t in tokens if t in terms)
 #
-#             tfidf_val += num_match * TERM_MATCH_BOOST
+#             tfidf_val += num_matched * TERM_MATCH_BOOST
 #
 #             cent_val = cent_map.get(bid, 0)
-#             results_raw.append((bid, book, tfidf_val, cent_val, terms, num_match))
 #
-#         # ------------------------------
-#         # 7. NORMALIZATION (make 70%/30% real)
-#         # ------------------------------
-#         tfidfs = [x[2] for x in results_raw]
-#         cents = [x[3] for x in results_raw]
+#             raw_results.append((bid, book, tfidf_val, cent_val, terms, num_matched))
+#
+#
+#         # 6. normalization tfidfs and cents
+#
+#         tfidfs = [x[2] for x in raw_results]
+#         cents  = [x[3] for x in raw_results]
 #
 #         min_t, max_t = min(tfidfs), max(tfidfs)
 #         min_c, max_c = min(cents), max(cents)
 #
-#         def norm(val, minv, maxv):
-#             if maxv == minv:
+#         def norm(x, mi, ma):
+#             if ma == mi:
 #                 return 0.0
-#             return (val - minv) / (maxv - minv)
+#             return (x - mi) / (ma - mi)
 #
 #         a = 0.7
 #         b = 0.3
 #
 #         results = []
 #
-#         for bid, book, tfidf_val, cent_val, terms, num_match in results_raw:
+#         for bid, book, tfidf_val, cent_val, terms, num_matched in raw_results:
+#
 #             tfidf_norm = norm(tfidf_val, min_t, max_t)
-#             cent_norm = norm(cent_val, min_c, max_c)
+#             cent_norm  = norm(cent_val, min_c, max_c)
 #
 #             score = a * tfidf_norm + b * cent_norm
-#
+#             authors_raw = book.authors or ""
+#             authors_list = [a.strip() for a in authors_raw.split(",") if a.strip()]
 #             results.append({
 #                 "book_id": book.text_id,
 #                 "title": book.title,
-#                 "authors": book.authors,
-#                 "tfidf": tfidf_val,
-#                 "centrality_total": cent_val,
-#                 "score": score,
-#                 "matched_terms": sorted(terms),
-#                 "matched_token_count": num_match,
-#                 "title_hit": bid in title_hit,
-#                 "author_hit": bid in author_hit,
+#                 "authors": authors_list,
+#                 "language": "en",  # 你表里没有 language，就先固定写
+#                 "doc_len_tokens": book.doc_len_tokens,
+#                 "snippet": "",  # 之后再做 snippet
+#                 "match_terms": sorted(terms),
+#                 "rank_features": {
+#                     "tfidf": tfidf_val,
+#                     "centrality": cent_val,
+#                     "score": score,  # 放一份进去给前端显示
+#                 },
+#                 "score": score,  # ⭐ 再放一份在顶层，给排序用
 #             })
 #
+#         # 排序
+#
 #         results.sort(key=lambda x: x["score"], reverse=True)
+#
+#
 #
 #         return results[:limit]

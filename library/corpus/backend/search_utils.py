@@ -4,6 +4,10 @@ from typing import List, Dict
 from nltk.stem import PorterStemmer
 
 from corpus.models import Term, Posting
+
+from typing import List
+from corpus.backend.regex_engine.engine import RegexEngine
+from corpus.models import Term
 # import spacy
 
 # 1. query 前处理：lower + tokenize + stem
@@ -67,3 +71,42 @@ def compute_tfidf_for_books(term_ids: List[int]):
         matched_terms.setdefault(bid, set()).add(p.term.term)
 
     return tfidf_by_book, matched_terms
+
+
+def regex_search(pattern):
+    engine = RegexEngine(pattern, wrap=False)
+
+    matches = []
+    for t in Term.objects.all().values_list("term", flat=True):
+        if engine.matches(t):
+            matches.append(t)
+
+    return matches
+
+
+
+def get_regex_term_ids(tokens: List[str]) -> List[int]:
+    """
+    对每一个 token 单独用 RegexEngine 匹配 term，
+    token 之间 OR 关系（任意 token 被匹配即可）
+    """
+
+    if not tokens:
+        return []
+
+    matched_term_set = set()   # 用来累积匹配到的 term 字符串
+
+    # 对每个 token 分别做一次正则匹配
+    for tok in tokens:
+        engine = RegexEngine(tok)
+
+        for t in Term.objects.all():
+            if engine.matches(t.term):     # 匹配就加入
+                matched_term_set.add(t.term)
+
+    # 查 term_ids
+    if not matched_term_set:
+        return []
+
+    qs = Term.objects.filter(term__in=matched_term_set)
+    return list(qs.values_list("id", flat=True))

@@ -4,7 +4,7 @@ from corpus.backend.search_service import SearchService
 
 
 from corpus.backend.recommendations import RecommendationService
-
+from corpus.backend.regex_search_service import RegexSearchService
 from django.views.decorators.http import require_GET
 from django.http import JsonResponse
 def search_view(request):
@@ -62,27 +62,64 @@ def search_view(request):
 #search context
 import time
 
+# def search_api(request):
+#     """
+#     GET /api/search?q=love&order=pagerank
+#     """
+#     query = request.GET.get("q", "").strip()
+#     order = request.GET.get("order", "total")   # 前端用的是 order，不是 centrality
+#
+#     start = time.time()
+#     results = SearchService.search(query, centrality=order, limit=20)
+#     elapsed = (time.time() - start) * 1000.0
+#
+#     data = {
+#         "total": len(results),   # 前端用 data.total
+#         "elapsed_ms": elapsed,   # 前端用 data.elapsed_ms
+#         "results": results,      # ⭐ 这里是 list，前端才能 .length
+#     }
+#     return JsonResponse(data)
+#
+
+
+
+@require_GET
 def search_api(request):
     """
-    GET /api/search?q=love&order=pagerank
+    Unified search endpoint for:
+    - mode=simple (default keyword search)
+    - mode=graph  (keyword search but sorted by centrality)
+    - mode=regex  (regex search using NFA/DFA)
     """
-    query = request.GET.get("q", "").strip()
-    order = request.GET.get("order", "total")   # 前端用的是 order，不是 centrality
+    q = request.GET.get("q", "").strip()
+    mode = request.GET.get("mode", "simple")
+    order = request.GET.get("order", "total")   # pagerank/closeness/betweenness/default
 
+    import time
     start = time.time()
-    results = SearchService.search(query, centrality=order, limit=20)
+
+    # === regex search ===
+    if mode == "regex":
+        results = RegexSearchService.search(
+            pattern=q,
+            centrality=order,
+            limit=20
+        )
+    else:
+        # normal & graph search
+        results = SearchService.search(
+            query=q,
+            centrality=order,
+            limit=20
+        )
+
     elapsed = (time.time() - start) * 1000.0
 
-    data = {
-        "total": len(results),   # 前端用 data.total
-        "elapsed_ms": elapsed,   # 前端用 data.elapsed_ms
-        "results": results,      # ⭐ 这里是 list，前端才能 .length
-    }
-    return JsonResponse(data)
-
-
-
-
+    return JsonResponse({
+        "total": len(results),
+        "elapsed_ms": elapsed,
+        "results": results,
+    })
 
 @require_GET
 def recommendations_query_view(request):
