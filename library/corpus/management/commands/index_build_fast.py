@@ -58,7 +58,7 @@ def tokenize(s: str):
 
         if tok in STOPWORDS:
             continue
-        if len(tok) < 3:
+        if len(tok) < 2:
             continue
         # 可选：过滤特别长的 token，很多是噪声
         if len(tok) > 25:

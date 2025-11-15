@@ -16,7 +16,7 @@ python manage.py index_build_fast \
   --settings=library.settings_index \
   --meta ../selected_meta.csv \
   --dir ../books_html_kept \
-  --topk 3000
+  --topk 7000
 
 echo "🔧 再次确保 postings.tfidf 字段存在..."
 sqlite3 db_index.sqlite3 "ALTER TABLE postings ADD COLUMN tfidf REAL DEFAULT 0.0;" 2>/dev/null || true
