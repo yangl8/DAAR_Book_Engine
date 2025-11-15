@@ -22,7 +22,7 @@
   </div>
   <h1 class="hero-title">Gutenberg Library Explorer</h1>
   <p class="hero-subtitle">
-    Search Gutenberg’s library by title, author, keyword, or regex and get tailored suggestions.
+    Search Gutenberg’s library by title, author, keywords, or regex and get tailored suggestions.
   </p>
   <div class="container">
     <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-4 g-3 hero-links">
@@ -52,7 +52,7 @@
               type="text"
               name="q"
               class="form-control search-input"
-              placeholder="Search by title, author, or any keyword…"
+              placeholder="Search by title, author, or any keywords…"
               value="{{ initial_query }}"
               autocomplete="off"
             />
@@ -93,7 +93,7 @@
                 {% endfor %}
               </select>
             </div>
-            <div class="mode-tip text-muted small" data-mode-tip></div>
+            <div class="mode-tip text-muted small" data-mode-tip>Keywords mode: full-text search with ranking metrics.</div>
           </div>
         </form>
         <div class="alert alert-danger d-none mt-3" role="alert" data-error>
@@ -133,7 +133,7 @@
             </div>
             <div class="results-list" data-results></div>
             <div class="empty-state text-muted text-center py-5 d-none" data-empty>
-              No results found. Try another keyword or search mode.
+              No results found. Try other keywords or switch the search mode.
             </div>
           </div>
         </div>

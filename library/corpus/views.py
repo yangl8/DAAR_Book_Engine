@@ -1,8 +1,6 @@
 from django.shortcuts import render
 
 from corpus.backend.search_service import SearchService
-
-
 from corpus.backend.recommendations import RecommendationService
 from corpus.backend.regex_search_service import RegexSearchService
 from django.views.decorators.http import require_GET
@@ -36,13 +34,14 @@ def search_view(request):
     ]
 
     search_modes = [
-        {"value": "simple", "label": "Keyword"},
+        {"value": "title", "label": "Title"},
+        {"value": "author", "label": "Author"},
+        {"value": "keywords", "label": "Keywords"},
         {"value": "regex", "label": "Regex"},
-        {"value": "graph", "label": "Graph ranking"},
     ]
 
     ranking_options = [
-        {"value": "default", "label": "Relevance"},
+        {"value": "default", "label": "Comprehensive"},
         {"value": "pagerank", "label": "PageRank"},
         {"value": "closeness", "label": "Closeness"},
         {"value": "betweenness", "label": "Betweenness"},
@@ -54,46 +53,21 @@ def search_view(request):
         "search_modes": search_modes,
         "ranking_options": ranking_options,
         "initial_query": request.GET.get("q", "").strip(),
-        "initial_mode": request.GET.get("mode", "simple"),
+        "initial_mode": request.GET.get("mode", "keywords"),
         "initial_order": request.GET.get("order", "default"),
     }
     return render(request, "search.html", context)
-
-#search context
-import time
-
-# def search_api(request):
-#     """
-#     GET /api/search?q=love&order=pagerank
-#     """
-#     query = request.GET.get("q", "").strip()
-#     order = request.GET.get("order", "total")   # 前端用的是 order，不是 centrality
-#
-#     start = time.time()
-#     results = SearchService.search(query, centrality=order, limit=20)
-#     elapsed = (time.time() - start) * 1000.0
-#
-#     data = {
-#         "total": len(results),   # 前端用 data.total
-#         "elapsed_ms": elapsed,   # 前端用 data.elapsed_ms
-#         "results": results,      # ⭐ 这里是 list，前端才能 .length
-#     }
-#     return JsonResponse(data)
-#
-
-
-
 @require_GET
 def search_api(request):
     """
-    Unified search endpoint for:
-    - mode=simple (default keyword search)
-    - mode=graph  (keyword search but sorted by centrality)
-    - mode=regex  (regex search using NFA/DFA)
+    Unified search endpoint supporting:
+    - mode=keywords (default full-text search)
+    - mode=title / author (field-specific search, handled by SearchService)
+    - mode=regex (pattern match via RegexSearchService)
     """
     q = request.GET.get("q", "").strip()
-    mode = request.GET.get("mode", "simple")
-    order = request.GET.get("order", "total")   # pagerank/closeness/betweenness/default
+    mode = request.GET.get("mode", "keywords")
+    order = request.GET.get("order", "default")
 
     import time
     start = time.time()

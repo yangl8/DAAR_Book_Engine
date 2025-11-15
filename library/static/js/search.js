@@ -72,7 +72,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const field = getSelectedField();
 
     if (!query) {
-      renderEmptyState("Please enter a keyword to start searching.");
+      renderEmptyState("Please enter a query to start searching.");
       state.lastQuery = "";
       summary.textContent = "Type a query to get started.";
       suggestionsList.innerHTML =
@@ -148,9 +148,12 @@ document.addEventListener("DOMContentLoaded", () => {
       orderWrapper.classList.add("d-none");
       if (orderSelect) orderSelect.value = "default";
       setModeTip("Author mode: match author names only.");
+    } else if (mode === "keywords") {
+      orderWrapper.classList.remove("d-none");
+      setModeTip("Keywords mode: full-text search with ranking metrics.");
     } else {
       orderWrapper.classList.remove("d-none");
-      setModeTip("Keyword mode: full-text search with ranking metrics.");
+      setModeTip("Keywords mode: full-text search with ranking metrics.");
     }
   }
 
@@ -161,12 +164,12 @@ document.addEventListener("DOMContentLoaded", () => {
 
   function getSelectedMode() {
     const checked = [...(modeRadios || [])].find((r) => r.checked);
-    return checked ? checked.value : "keyword";
+    return checked ? checked.value : "keywords";
   }
 
   function getSelectedField() {
     const checked = [...(fieldRadios || [])].find((r) => r.checked);
-    return checked ? checked.value : "keyword";
+    return checked ? checked.value : "keywords";
   }
 
   async function loadGlobalStats() {
@@ -204,7 +207,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const results = data.results || [];
 
     if (!results.length) {
-      renderEmptyState("No results matched your query. Try another keyword or mode.");
+      renderEmptyState("No results matched your query. Try other keywords or switch mode.");
       return;
     }
 
@@ -406,20 +409,20 @@ document.addEventListener("DOMContentLoaded", () => {
   function updateFieldPlaceholder(field) {
     if (!searchInput) return;
     const placeholders = {
-      keyword: "Search by title, author, or any keyword…",
+      keywords: "Search by title, author, or any keywords…",
       title: "Search book titles…",
       author: "Search authors…",
     };
-    searchInput.placeholder = placeholders[field] || placeholders.keyword;
+    searchInput.placeholder = placeholders[field] || placeholders.keywords;
   }
 
   function buildSummaryText(total, field, elapsedMs) {
     const fieldLabels = {
-      keyword: "full text",
+      keywords: "full text",
       title: "titles",
       author: "authors",
     };
-    const label = fieldLabels[field] || fieldLabels.keyword;
+    const label = fieldLabels[field] || fieldLabels.keywords;
     return `Found ${total ?? 0} results in ${formatDuration(
       elapsedMs,
     )} (searching ${label}).`;
