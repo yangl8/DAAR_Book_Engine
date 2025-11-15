@@ -118,6 +118,8 @@ document.addEventListener("DOMContentLoaded", () => {
   function setupModeInteractions() {
     modeRadios?.forEach((radio) => {
       radio.addEventListener("change", () => {
+        queryInput.value = "";
+        state.lastQuery = "";
         const mode = getSelectedMode();
         updateModeUI(mode);
       });
@@ -136,6 +138,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   function updateModeUI(mode) {
     if (!orderWrapper) return;
+
     if (mode === "regex") {
       orderWrapper.classList.add("d-none");
       if (orderSelect) orderSelect.value = "default";
@@ -155,7 +158,10 @@ document.addEventListener("DOMContentLoaded", () => {
       orderWrapper.classList.remove("d-none");
       setModeTip("Keywords mode: full-text search with ranking metrics.");
     }
+    // ⭐ 关键：根据当前 mode 更新输入框 placeholder
+    updateFieldPlaceholder(mode);
   }
+
 
   function setModeTip(text) {
     if (!modeTip) return;
@@ -223,7 +229,15 @@ document.addEventListener("DOMContentLoaded", () => {
       const scoreEl = clone.querySelector("[data-score]");
 
       if (rankEl) rankEl.textContent = `#${index + 1}`;
-      if (titleEl) titleEl.textContent = item.title || "Untitled book";
+
+      if (titleEl) {
+        titleEl.innerHTML = `
+            <a href="${item.gutenberg_url}" target="_blank" rel="noopener">
+                ${item.title || "Untitled book"}
+            </a>
+        `;
+      }
+
       if (authorsEl)
         authorsEl.textContent = item.authors?.join(", ") || "Unknown author";
       if (snippetEl) {
@@ -272,7 +286,16 @@ document.addEventListener("DOMContentLoaded", () => {
       const clone = recommendationTemplate.content.cloneNode(true);
       const titleEl = clone.querySelector("[data-rec-title]");
       const reasonEl = clone.querySelector("[data-rec-reason]");
-      if (titleEl) titleEl.textContent = item.title || `Book #${item.book_id}`;
+      
+      if (titleEl) {
+        titleEl.innerHTML = `
+            <a href="${item.gutenberg_url}" target="_blank" rel="noopener">
+                ${item.title || `Book #${item.book_id}`}
+            </a>
+        `;
+      }
+
+
       if (reasonEl) reasonEl.textContent = item.reason || "High relevance";
       fragment.appendChild(clone);
     });
@@ -406,15 +429,31 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   }
 
+  // function updateFieldPlaceholder(field) {
+  //   if (!searchInput) return;
+  //   const placeholders = {
+  //     keywords: "Search by title, author, or any keywords…",
+  //     title: "Search book titles…",
+  //     author: "Search authors…",
+  //   };
+  //   searchInput.placeholder = placeholders[field] || placeholders.keywords;
+  // }
+
   function updateFieldPlaceholder(field) {
-    if (!searchInput) return;
+    // 优先用带 data-search-input 的元素，没有的话就用 name="q" 的
+    const input = searchInput || queryInput;
+    if (!input) return;
+
     const placeholders = {
-      keywords: "Search by title, author, or any keywords…",
+      keywords: "Search any keywords…",
       title: "Search book titles…",
       author: "Search authors…",
+      regex: "Search by regex pattern…",
     };
-    searchInput.placeholder = placeholders[field] || placeholders.keywords;
+
+    input.placeholder = placeholders[field] || placeholders.keywords;
   }
+
 
   function buildSummaryText(total, field, elapsedMs) {
     const fieldLabels = {

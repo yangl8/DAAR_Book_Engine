@@ -79,6 +79,20 @@ def search_api(request):
             centrality=order,
             limit=20
         )
+    # === 2) 按书名搜索 ===
+    elif mode == "title":
+        results = SearchService.search_by_title(
+            query=q,
+            centrality=order,
+            limit=20,
+        )
+    # === 3) 按作者搜索 ===
+    elif mode == "author":
+        results = SearchService.search_by_author(
+            query=q,
+            centrality=order,
+            limit=20,
+        )
     else:
         # normal & graph search
         results = SearchService.search(
@@ -86,6 +100,12 @@ def search_api(request):
             centrality=order,
             limit=20
         )
+
+    base_url = "https://www.gutenberg.org/ebooks/"
+    for r in results:
+        book_id = r.get("book_id")
+        if book_id is not None:
+            r["gutenberg_url"] = f"{base_url}{book_id}"
 
     elapsed = (time.time() - start) * 1000.0
 
@@ -110,18 +130,25 @@ def recommendations_query_view(request):
 
     limit = max(1, min(limit, 20))
 
-    # 原始推荐结果
+    # 推荐结果（后端已有逻辑）
     raw_results = RecommendationService.recommend_for_query(query=q, limit=limit)
-    # raw_results 是类似：
-    # [{"book_id": ..., "title": ..., "similarity": 0.32, "total": 0.55, "pagerank": ...}, ...]
+
+    base_url = "https://www.gutenberg.org/ebooks/"
 
     items = []
     for r in raw_results:
+        # 先取出 book_id 和 similarity
+        book_id = r.get("book_id")
+        similarity = float(r.get("similarity", 0.0) or 0.0)
+
         items.append({
-            "book_id": r.get("book_id"),
+            "book_id": book_id,
             "title": r.get("title"),
-            # 推荐理由你可以选择 similarity、pagerank、total 中任意一个
-            "reason": f"similarity: {r.get('similarity', 0):.3f}"
+            # 推荐理由
+            "reason": f"similarity: {similarity:.3f}",
+            # 只有 book_id 不为空时拼接链接
+            "gutenberg_url": f"{base_url}{book_id}" if book_id is not None else None,
         })
 
     return JsonResponse({"items": items})
+

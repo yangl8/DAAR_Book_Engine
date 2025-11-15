@@ -273,3 +273,143 @@ class SearchService:
 #
 #
 #         return results[:limit]
+
+
+
+    # 1) 按书名搜索
+    @staticmethod
+    def search_by_title(query: str, centrality: str = "total", limit: int = 20):
+        """
+        只在标题里搜，精确匹配/前缀匹配优先，然后再按中心性排序
+        """
+        if not query:
+            return []
+
+        q_norm = query.strip()
+        if not q_norm:
+            return []
+        q_lower = q_norm.lower()
+
+        # 1) 先找出标题里包含 query 的书
+        books_qs = Book.objects.filter(title__icontains=q_norm)[:1000]  # 防止太多
+        book_ids = [b.text_id for b in books_qs]
+        if not book_ids:
+            return []
+
+        # 2) 拿中心性分数（total / pagerank / closeness / betweenness）
+        scores_qs = DocumentScore.objects.filter(book_id__in=book_ids)
+        cent_map = {}
+        for s in scores_qs:
+            if centrality == "pagerank":
+                cent = s.pagerank or 0.0
+            elif centrality == "closeness":
+                cent = s.closeness or 0.0
+            elif centrality == "betweenness":
+                cent = s.betweenness or 0.0
+            else:
+                cent = s.total or 0.0
+            cent_map[s.book_id] = cent
+
+        results = []
+        for b in books_qs:
+            base_score = float(cent_map.get(b.text_id, 0.0))
+
+            title = (b.title or "").strip()
+            t_lower = title.lower()
+
+            # 3) 根据标题匹配程度给 boost
+            exact = (t_lower == q_lower)
+            starts = t_lower.startswith(q_lower)
+            contains = (q_lower in t_lower)
+
+            boost = 0.0
+            if exact:
+                boost = 5.0     # 完全等于：大加分
+            elif starts:
+                boost = 2.0     # 以 query 开头：中等加分
+            elif contains:
+                boost = 0.5     # 只是在中间出现：小加分
+
+            score = base_score + boost
+
+            authors_raw = b.authors or ""
+            authors_list = [x.strip() for x in authors_raw.split(",") if x.strip()]
+
+            results.append({
+                "book_id": b.text_id,
+                "title": b.title,
+                "authors": authors_list, # 你原来怎么填就怎么来
+                "score": score,
+            })
+
+        # 4) 按最终 score 排序（从大到小）
+        results.sort(key=lambda r: r["score"], reverse=True)
+        return results[:limit]
+    
+    # 2) 按作者搜索
+    @staticmethod
+    def search_by_author(query: str, centrality: str = "total", limit: int = 30):
+        if not query:
+            return []
+
+        q_norm = query.strip()
+        if not q_norm:
+            return []
+
+        tokens = [t for t in q_norm.split() if t]
+
+        # 1. 在 Book 表里按作者模糊匹配
+        qs = Book.objects.all()
+        for tok in tokens:
+            qs = qs.filter(authors__icontains=tok)
+
+        books = list(qs[:200])
+        if not books:
+            return []
+
+        book_ids = [b.text_id for b in books]
+
+        # 2. 取 centrality
+        scores = DocumentScore.objects.filter(book_id__in=book_ids)
+
+        if centrality == "pagerank":
+            cent_map = {s.book_id: s.pagerank for s in scores}
+        elif centrality == "closeness":
+            cent_map = {s.book_id: s.closeness for s in scores}
+        elif centrality == "betweenness":
+            cent_map = {s.book_id: s.betweenness for s in scores}
+        elif centrality == "degree":
+            cent_map = {s.book_id: s.popularity for s in scores}
+        else:
+            cent_map = {s.book_id: s.total for s in scores}
+
+        results = []
+        for b in books:
+            authors_lower = (b.authors or "").lower()
+            match_terms = [t for t in tokens if t.lower() in authors_lower]
+            match_score = len(match_terms)
+
+            cent_val = cent_map.get(b.text_id, 0.0)
+            score = 0.7 * match_score + 0.3 * cent_val
+
+            authors_raw = b.authors or ""
+            authors_list = [x.strip() for x in authors_raw.split(",") if x.strip()]
+
+            results.append({
+                "book_id": b.text_id,
+                "title": b.title,
+                "authors": authors_list,
+                "language": "en",
+                "doc_len_tokens": b.doc_len_tokens,
+                "snippet": "",
+                "match_terms": match_terms,
+                "rank_features": {
+                    "author_match": match_score,
+                    "centrality": cent_val,
+                    "score": score,
+                },
+                "score": score,
+            })
+
+        results.sort(key=lambda r: r["score"], reverse=True)
+        return results[:limit]
