@@ -118,6 +118,8 @@ document.addEventListener("DOMContentLoaded", () => {
   function setupModeInteractions() {
     modeRadios?.forEach((radio) => {
       radio.addEventListener("change", () => {
+        queryInput.value = "";
+        state.lastQuery = "";
         const mode = getSelectedMode();
         updateModeUI(mode);
       });
@@ -136,6 +138,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   function updateModeUI(mode) {
     if (!orderWrapper) return;
+
     if (mode === "regex") {
       orderWrapper.classList.add("d-none");
       if (orderSelect) orderSelect.value = "default";
@@ -155,7 +158,10 @@ document.addEventListener("DOMContentLoaded", () => {
       orderWrapper.classList.remove("d-none");
       setModeTip("Keywords mode: full-text search with ranking metrics.");
     }
+    // ⭐ 关键：根据当前 mode 更新输入框 placeholder
+    updateFieldPlaceholder(mode);
   }
+
 
   function setModeTip(text) {
     if (!modeTip) return;
@@ -423,15 +429,31 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   }
 
+  // function updateFieldPlaceholder(field) {
+  //   if (!searchInput) return;
+  //   const placeholders = {
+  //     keywords: "Search by title, author, or any keywords…",
+  //     title: "Search book titles…",
+  //     author: "Search authors…",
+  //   };
+  //   searchInput.placeholder = placeholders[field] || placeholders.keywords;
+  // }
+
   function updateFieldPlaceholder(field) {
-    if (!searchInput) return;
+    // 优先用带 data-search-input 的元素，没有的话就用 name="q" 的
+    const input = searchInput || queryInput;
+    if (!input) return;
+
     const placeholders = {
-      keywords: "Search by title, author, or any keywords…",
+      keywords: "Search any keywords…",
       title: "Search book titles…",
       author: "Search authors…",
+      regex: "Search by regex pattern…",
     };
-    searchInput.placeholder = placeholders[field] || placeholders.keywords;
+
+    input.placeholder = placeholders[field] || placeholders.keywords;
   }
+
 
   function buildSummaryText(total, field, elapsedMs) {
     const fieldLabels = {
