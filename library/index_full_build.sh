@@ -11,7 +11,7 @@ python manage.py migrate --settings=library.settings_index --noinput
 echo "🔧 修复/添加 postings.tfidf 字段（如果缺失）..."
 sqlite3 db_index.sqlite3 "ALTER TABLE postings ADD COLUMN tfidf REAL DEFAULT 0.0;" 2>/dev/null || true
 
-echo "🚀 [2/4] 构建倒排索引 (TopK=3000 TF + 词干) ..."
+echo "🚀 [2/4] 构建倒排索引 (TopK=7000 TF + 词干) ..."
 python manage.py index_build_fast \
   --settings=library.settings_index \
   --meta ../selected_meta.csv \

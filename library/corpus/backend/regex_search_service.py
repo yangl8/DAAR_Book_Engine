@@ -69,7 +69,7 @@ class RegexSearchService:
                 total_score[bid] += v
                 total_terms[bid].update(match_map.get(bid, set()))
 
-        # --- 4. 后续逻辑原样不动 ---
+        # --- 4.  ---
         book_ids = list(total_score.keys())
 
         books = Book.objects.filter(text_id__in=book_ids)
