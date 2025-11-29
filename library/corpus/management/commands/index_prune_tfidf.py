@@ -3,7 +3,7 @@ from django.db import connection
 from corpus.models import Posting
 
 class Command(BaseCommand):
-    help = "按 TF-IDF 删除小项"
+    help = "Supprimer les entrées mineures selon le TF-IDF"
 
     def add_arguments(self, parser):
         parser.add_argument("--topk", type=int, default=2000)
@@ -11,7 +11,7 @@ class Command(BaseCommand):
     def handle(self, *args, **opts):
 
         k = opts["topk"]
-        self.stdout.write(f"✂️ 精剪 TF-IDF，每本书保留 top {k} ...")
+        self.stdout.write(f"Élagage TF-IDF, conservation des {k} meilleurs par livre ...")
 
         sql = f"""
             DELETE FROM postings
@@ -27,4 +27,4 @@ class Command(BaseCommand):
         with connection.cursor() as cursor:
             cursor.execute(sql)
 
-        self.stdout.write("✅ 精剪完成")
+        self.stdout.write("Élagage terminé")

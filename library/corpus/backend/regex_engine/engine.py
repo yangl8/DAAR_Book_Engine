@@ -24,9 +24,9 @@ class RegexEngine:
 #
 #     def __init__(self, pattern: str, ignore_case=False, wrap=True):
 #         """
-#         pattern: 正则表达式
-#         ignore_case: 是否忽略大小写
-#         wrap: 是否做 substring 匹配（即 .*(pattern).*）
+#         pattern: expression régulière
+#         ignore_case: indique s'il faut ignorer la casse
+#         wrap: activer la correspondance de sous-chaînes (c.-à-d. .*(pattern).*)
 #         """
 #         self.pattern = pattern.lower() if ignore_case else pattern
 #         self.ignore_case = ignore_case
@@ -43,27 +43,21 @@ class RegexEngine:
 #         nfa = NfaBuilder().build(ast)
 #         self.dfa = DfaBuilder().build(nfa)
 #
-#     # ===========================================
-#     # 匹配整个单词（term）
-#     # ===========================================
+#     # Faire correspondre le mot entier (term)
 #     def matches(self, text: str) -> bool:
 #         """
 #         Return True if the regex matches anywhere inside text.
-#         因为我们 wrap 了，所以 matches = substring match.
+#         Puisque nous enveloppons le motif, matches = correspondance de sous-chaîne.
 #         """
 #         t = text.lower() if self.ignore_case else text
 #         return DfaMatcher.matches(self.dfa, t)
 #
-#     # ===========================================
-#     # 查找所有匹配片段（用于 snippet 高亮）
-#     # ===========================================
+#     # Trouver tous les segments correspondants (pour la mise en évidence du snippet)
 #     def find_all(self, text: str):
 #         t = text.lower() if self.ignore_case else text
 #         return DfaMatcher.findAll(self.dfa, t)
 #
-#     # ===========================================
-#     # 包装：.* (pattern) .*
-#     # ===========================================
+#     # Envelopper : .* (pattern) .*
 #     @staticmethod
 #     def wrap_for_grep(inner_ast):
 #         """

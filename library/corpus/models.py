@@ -1,6 +1,6 @@
 from django.db import models
 
-# 1️⃣ 书籍基本信息
+# 1. Informations de base sur les livres
 class Book(models.Model):
     text_id = models.IntegerField(primary_key=True)
     title = models.TextField(blank=True, default="")
@@ -12,7 +12,7 @@ class Book(models.Model):
         db_table = "books"
 
 
-# 2️⃣ 词项表（唯一）
+# 2. Table des termes (unique)
 class Term(models.Model):
     term = models.TextField(unique=True)
     df = models.IntegerField(default=0)
@@ -22,7 +22,7 @@ class Term(models.Model):
         indexes = [models.Index(fields=["term"])]
 
 
-# 3️⃣ Posting（倒排索引）
+# 3. Postings (index inversé)
 class Posting(models.Model):
     term = models.ForeignKey(Term, on_delete=models.CASCADE)
     book = models.ForeignKey(Book, on_delete=models.CASCADE)
@@ -34,7 +34,7 @@ class Posting(models.Model):
         unique_together = (("term", "book"),)
 
 
-# 4️⃣ 全局统计（N_docs、avg_len 等）
+# 4. Statistiques globales (N_docs, avg_len, etc.)
 class IndexStat(models.Model):
     key = models.TextField(primary_key=True)
     value = models.TextField()

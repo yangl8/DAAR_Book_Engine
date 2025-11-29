@@ -6,20 +6,18 @@ import csv
 
 
 class Command(BaseCommand):
-    help = "导出 TF–IDF 与倒排索引测试数据（词典规模、posting 数、稀疏性等）"
+    help = "Exporter les données de test TF–IDF et d'index inversé (taille du vocabulaire, nombre de postings, sparsité, etc.)"
 
     def handle(self, *args, **opts):
 
-        # 输出文件路径
+        # Chemins de sortie
         out_global = Path("test/index_global_stats.csv")
         out_books  = Path("test/index_book_stats.csv")
         out_vocab  = Path("test/vocab_stats.csv")
 
-        self.stdout.write("📊 导出 TF–IDF 与倒排索引统计数据...")
+        self.stdout.write("Export des statistiques TF–IDF et de l'index inversé...")
 
-        # ===============================
-        # 1. 全局统计
-        # ===============================
+        # Section 1 : statistiques globales
 
         try:
             N_docs = int(IndexStat.objects.get(key="N_docs").value)
@@ -38,7 +36,7 @@ class Command(BaseCommand):
         vocab_size = Term.objects.count()
         posting_total = Posting.objects.count()
 
-        # 写入 index_global_stats.csv
+        # Écrire index_global_stats.csv
         with out_global.open("w", newline="", encoding="utf8") as f:
             w = csv.writer(f)
             w.writerow(["metric", "value"])
@@ -47,11 +45,9 @@ class Command(BaseCommand):
             w.writerow(["vocab_size_after_filter", vocab_size])
             w.writerow(["posting_total", posting_total])
 
-        self.stdout.write(f"✅ 全局索引统计 → {out_global}")
+        self.stdout.write(f"Statistiques globales de l'index → {out_global}")
 
-        # ===============================
-        # 2. 每本书的 TF–IDF 稀疏度等
-        # ===============================
+        # Section 2 : sparsité TF–IDF et autres métriques par livre
         with out_books.open("w", newline="", encoding="utf8") as f:
             w = csv.writer(f)
             w.writerow([
@@ -82,11 +78,9 @@ class Command(BaseCommand):
                     f"{sparsity:.3f}"
                 ])
 
-        self.stdout.write(f"✅ 每本书统计已写入 → {out_books}")
+        self.stdout.write(f"Statistiques par livre écrites → {out_books}")
 
-        # ===============================
-        # 3. 词典统计（每个 term 的 df）
-        # ===============================
+        # Section 3 : statistiques du vocabulaire (df par terme)
         with out_vocab.open("w", newline="", encoding="utf8") as f:
             w = csv.writer(f)
             w.writerow(["term_id", "term", "df"])
@@ -94,6 +88,6 @@ class Command(BaseCommand):
             for t in Term.objects.all():
                 w.writerow([t.id, t.term, t.df])
 
-        self.stdout.write(f"✅ 词典统计已写入 → {out_vocab}")
+        self.stdout.write(f"Statistiques du vocabulaire écrites → {out_vocab}")
 
-        self.stdout.write(self.style.SUCCESS("🎉 所有 CSV 文件生成完毕！"))
+        self.stdout.write(self.style.SUCCESS("Tous les fichiers CSV ont été générés !"))

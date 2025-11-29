@@ -24,26 +24,26 @@ class SearchService:
         if not q_norm:
             return []
 
-        # 1) 分词（词干化）
+        # 1) Tokenisation (stemming)
         tokens = preprocess_query(query)
         if not tokens:
             return []
 
         # -------------------------------------------------------
         # 2) Multi-token TF-IDF
-        #    每个 token 单独算 TF-IDF，然后归一化、最后合并
+        #    Calculer le TF-IDF pour chaque token, normaliser puis fusionner
         # -------------------------------------------------------
-        token_scores = []       # 每个 token 的 normalized TF-IDF 分布
-        token_matches = []      # 每个 token 命中的 terms
+        token_scores = []       # Distribution TF-IDF normalisée pour chaque token
+        token_matches = []      # Termes correspondants pour chaque token
 
         for tok in tokens:
 
-            # --- 每个 token 单独查 term_ids ---
+            # --- Rechercher les term_ids pour chaque token ---
             term_ids_i = get_term_ids([tok])
             if not term_ids_i:
                 continue
 
-            # --- 每个 token 单独算 TF-IDF ---
+            # --- Calculer le TF-IDF pour chaque token ---
             tfidf_i, matches_i = compute_tfidf_for_books(term_ids_i)
             if not tfidf_i:
                 continue
@@ -62,11 +62,11 @@ class SearchService:
             token_scores.append(normalized_map)
             token_matches.append(matches_i)
 
-        # 没有 token 匹配任何东西
+        # Aucun token n'a donné de correspondance
         if not token_scores:
             return []
 
-        # --- 合并所有 token 的 TF-IDF（已 normalize） ---
+        # --- Fusionner tous les TF-IDF par token (déjà normalisés) ---
         tfidf_by_book = defaultdict(float)
         matched_terms = defaultdict(set)
 
@@ -79,7 +79,7 @@ class SearchService:
             return []
 
         # -------------------------------------------------------
-        # 3) book 信息 + centrality（沿用你的原逻辑）
+        # 3) Informations sur les livres + centralité (logique existante)
         # -------------------------------------------------------
         book_ids = list(tfidf_by_book.keys())
 
@@ -100,7 +100,7 @@ class SearchService:
             cent_map = {s.book_id: s.total for s in scores}
 
         # -------------------------------------------------------
-        # 4) normalize centrality（仅中央性 normalize）
+        # 4) Normaliser la centralité (ne normaliser que la centralité)
         # -------------------------------------------------------
         cents = [cent_map.get(bid, 0) for bid in book_ids]
         min_c, max_c = min(cents), max(cents)
@@ -146,7 +146,7 @@ class SearchService:
                 "score": score,
             })
 
-        # 排序
+        # Tri
         results.sort(key=lambda x: x["score"], reverse=True)
 
         return results[:limit]
@@ -200,7 +200,7 @@ class SearchService:
 #             cent_map = {s.book_id: s.total for s in scores}
 #
 #
-#         # 5. 多词命中加分
+#         # 5. Bonus pour les correspondances multi-termes
 #
 #         TERM_MATCH_BOOST = 1.5
 #
@@ -213,7 +213,7 @@ class SearchService:
 #
 #             tfidf_val = tfidf_by_book[bid]
 #
-#             # 命中多少 query 词
+#             # Compter combien de termes de la requête sont présents
 #             terms = matched_terms.get(bid, set())
 #             num_matched = sum(1 for t in tokens if t in terms)
 #
@@ -254,19 +254,19 @@ class SearchService:
 #                 "book_id": book.text_id,
 #                 "title": book.title,
 #                 "authors": authors_list,
-#                 "language": "en",  # 你表里没有 language，就先固定写
+#                 "language": "en",  # Pas de champ language dans ta table, on fixe donc à "en"
 #                 "doc_len_tokens": book.doc_len_tokens,
-#                 "snippet": "",  # 之后再做 snippet
+#                 "snippet": "",  # Snippet à ajouter ultérieurement
 #                 "match_terms": sorted(terms),
 #                 "rank_features": {
 #                     "tfidf": tfidf_val,
 #                     "centrality": cent_val,
-#                     "score": score,  # 放一份进去给前端显示
+#                     "score": score,  # Garder une copie pour l'affichage front
 #                 },
-#                 "score": score,  # ⭐ 再放一份在顶层，给排序用
+#                 "score": score,  # Conserver aussi au niveau supérieur pour le tri
 #             })
 #
-#         # 排序
+#         # Tri
 #
 #         results.sort(key=lambda x: x["score"], reverse=True)
 #
@@ -276,11 +276,11 @@ class SearchService:
 
 
 
-    # 1) 按书名搜索
+    # 1) Recherche par titre
     @staticmethod
     def search_by_title(query: str, centrality: str = "total", limit: int = 20):
         """
-        只在标题里搜，精确匹配/前缀匹配优先，然后再按中心性排序
+        Rechercher uniquement dans le titre, privilégier les correspondances exactes/préfixes puis trier par centralité
         """
         if not query:
             return []
@@ -290,13 +290,13 @@ class SearchService:
             return []
         q_lower = q_norm.lower()
 
-        # 1) 先找出标题里包含 query 的书
-        books_qs = Book.objects.filter(title__icontains=q_norm)[:1000]  # 防止太多
+        # 1) Rechercher les livres dont le titre contient la requête
+        books_qs = Book.objects.filter(title__icontains=q_norm)[:1000]  # Limiter le volume
         book_ids = [b.text_id for b in books_qs]
         if not book_ids:
             return []
 
-        # 2) 拿中心性分数（total / pagerank / closeness / betweenness）
+        # 2) Récupérer les scores de centralité (total / pagerank / closeness / betweenness)
         scores_qs = DocumentScore.objects.filter(book_id__in=book_ids)
         cent_map = {}
         for s in scores_qs:
@@ -317,18 +317,18 @@ class SearchService:
             title = (b.title or "").strip()
             t_lower = title.lower()
 
-            # 3) 根据标题匹配程度给 boost
+        # 3) Appliquer un bonus selon la qualité de correspondance du titre
             exact = (t_lower == q_lower)
             starts = t_lower.startswith(q_lower)
             contains = (q_lower in t_lower)
 
             boost = 0.0
             if exact:
-                boost = 5.0     # 完全等于：大加分
+                boost = 5.0     # Égalité exacte : fort bonus
             elif starts:
-                boost = 2.0     # 以 query 开头：中等加分
+                boost = 2.0     # Le titre commence par la requête : bonus moyen
             elif contains:
-                boost = 0.5     # 只是在中间出现：小加分
+                boost = 0.5     # La requête apparaît au milieu : petit bonus
 
             score = base_score + boost
 
@@ -338,15 +338,15 @@ class SearchService:
             results.append({
                 "book_id": b.text_id,
                 "title": b.title,
-                "authors": authors_list, # 你原来怎么填就怎么来
+                "authors": authors_list, # Conserver le même remplissage qu'auparavant
                 "score": score,
             })
 
-        # 4) 按最终 score 排序（从大到小）
+        # 4) Trier par score final (ordre décroissant)
         results.sort(key=lambda r: r["score"], reverse=True)
         return results[:limit]
     
-    # 2) 按作者搜索
+    # 2) Recherche par auteur
     @staticmethod
     def search_by_author(query: str, centrality: str = "total", limit: int = 30):
         if not query:
@@ -358,7 +358,7 @@ class SearchService:
 
         tokens = [t for t in q_norm.split() if t]
 
-        # 1. 在 Book 表里按作者模糊匹配
+        # 1. Effectuer une recherche floue sur les auteurs dans la table Book
         qs = Book.objects.all()
         for tok in tokens:
             qs = qs.filter(authors__icontains=tok)
@@ -369,7 +369,7 @@ class SearchService:
 
         book_ids = [b.text_id for b in books]
 
-        # 2. 取 centrality
+        # 2. Récupérer la centralité
         scores = DocumentScore.objects.filter(book_id__in=book_ids)
 
         if centrality == "pagerank":

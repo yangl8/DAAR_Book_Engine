@@ -12,7 +12,7 @@ LICENSE_RE = re.compile(r'START:\s*FULL\s*LICENSE', re.I)
 WORD_RE    = re.compile(r"[A-Za-z0-9']+")
 
 def split_front_body(text: str):
-    """返回清洗后的正文（去 license, 去 END）。"""
+    """Renvoie le corps nettoyé (licence retirée et marqueurs END supprimés)."""
     lic = LICENSE_RE.search(text)
     cut = text[:lic.start()] if lic else text
     sm = START_RE.search(cut)
@@ -25,7 +25,7 @@ def split_front_body(text: str):
     return body.strip()
 
 def tokenize(s: str):
-    """英文分词 + 轻过滤（去停用词、太短的词等）"""
+    """Tokenisation anglaise avec léger filtrage (stopwords, mots trop courts, etc.)"""
     STOPWORDS = {
         'a','an','and','are','as','at','be','but','by','for','if','in','into','is','it',
         'no','not','of','on','or','such','that','the','their','then','there','these',
@@ -35,7 +35,7 @@ def tokenize(s: str):
     toks = [t.lower() for t in WORD_RE.findall(s)]
     out = []
     for t in toks:
-        if len(t) < 2:   # 丢掉只有1个字符的
+        if len(t) < 2:   # Ignorer les tokens d'un seul caractère
             continue
         if t in STOPWORDS:
             continue
@@ -46,21 +46,21 @@ def tokenize(s: str):
 
         
 class Command(BaseCommand):
-    help = "清洗书籍并建立倒排索引（不保存 front/body 文件）"
+    help = "Nettoyer les livres et construire l'index inversé (sans conserver les fichiers front/body)"
 
     def add_arguments(self, parser):
         parser.add_argument("--meta", default="../selected_meta.csv",
-                            help="元数据 CSV 文件路径")
+                            help="Chemin du fichier CSV des métadonnées")
         parser.add_argument("--dir", default="../books_html_kept",
-                            help="原始书文本目录")
+                            help="Répertoire des textes bruts des livres")
         parser.add_argument("--limit", type=int, default=0,
-                            help="仅导入前 N 本测试（0=全量）")
+                            help="Importer uniquement les N premiers livres pour test (0 = totalité)")
 
     def handle(self, *args, **opts):
         meta_csv = Path(opts["meta"]).resolve()
         book_dir = Path(opts["dir"]).resolve()
-        assert meta_csv.exists(), f"找不到 CSV：{meta_csv}"
-        assert book_dir.exists(), f"找不到目录：{book_dir}"
+        assert meta_csv.exists(), f"CSV introuvable : {meta_csv}"
+        assert book_dir.exists(), f"Répertoire introuvable : {book_dir}"
 
         with meta_csv.open(newline="", encoding="utf-8", errors="ignore") as f:
             rows = list(csv.DictReader(f))
@@ -100,12 +100,12 @@ class Command(BaseCommand):
                 total_docs += 1
                 total_len += len(toks)
 
-                # 统计 tf
+                # Calculer les tf
                 tf = defaultdict(int)
                 for t in toks:
                     tf[t] += 1
 
-                # 写 terms / postings
+                # Écrire terms/postings
                 for t, tfv in tf.items():
                     if t not in term_cache:
                         obj, _ = Term.objects.get_or_create(term=t, defaults={"df": 0})
@@ -120,11 +120,11 @@ class Command(BaseCommand):
                 if i % 100 == 0:
                     self.stdout.write(self.style.SUCCESS(f"Indexed {i} rows..."))
 
-            # 更新 df
+            # Mettre à jour df
             for t, docs in term_doc_seen.items():
                 Term.objects.filter(term=t).update(df=len(docs))
 
-            # 全局统计
+            # Statistiques globales
             avg_len = total_len / total_docs if total_docs else 0
             IndexStat.objects.update_or_create(key="N_docs",
                                                defaults={"value": str(total_docs)})
@@ -136,5 +136,5 @@ class Command(BaseCommand):
                                                defaults={"value": "plain-lower-words-v1"})
 
         self.stdout.write(self.style.SUCCESS(
-            f"完成导入：N_docs={total_docs}, avg_doc_len={avg_len:.2f}"
+            f"Import terminé : N_docs={total_docs}, avg_doc_len={avg_len:.2f}"
         ))

@@ -2,9 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import os
 
-# ================================
 # File paths
-# ================================
 
 BASE_DIR = "test"
 CSV_FILE = os.path.join(BASE_DIR, "centrality.csv")
@@ -12,9 +10,7 @@ CSV_FILE = os.path.join(BASE_DIR, "centrality.csv")
 OUT_DIR = os.path.join(BASE_DIR, "graph")
 os.makedirs(OUT_DIR, exist_ok=True)
 
-# ================================
 # Load CSV
-# ================================
 
 print("Loading centrality.csv ...")
 df = pd.read_csv(CSV_FILE)
@@ -29,9 +25,7 @@ for col in required_cols:
 
 print(f"Loaded {len(df)} rows.")
 
-# ================================
 # Helper: Plot histogram
-# ================================
 
 def plot_hist(column, title, filename, bins=50):
     plt.figure(figsize=(7, 5))
@@ -47,9 +41,7 @@ def plot_hist(column, title, filename, bins=50):
     print(f"Saved: {out_path}")
 
 
-# ================================
 # Plot each centrality measure
-# ================================
 
 plot_hist("popularity",
           "Distribution of Degree Centrality (Popularity)",

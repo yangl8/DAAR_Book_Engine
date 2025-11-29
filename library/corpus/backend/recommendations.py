@@ -17,28 +17,28 @@ class RecommendationService:
     def recommend_for_query(query: str, limit: int = 6, seed_k: int = 3) -> List[Dict]:
 
         # -------------------------------------------------
-        # 1. query 前处理
+        # 1. Prétraitement de la requête
         # -------------------------------------------------
         tokens = preprocess_query(query)
         if not tokens:
             return []
 
         # -------------------------------------------------
-        # 2. 查 term_ids
+        # 2. Rechercher les term_ids
         # -------------------------------------------------
         term_ids = get_term_ids(tokens)
         if not term_ids:
             return []
 
         # -------------------------------------------------
-        # 3. 查 posting + 计算 tfidf
+        # 3. Récupérer les postings et calculer le TF-IDF
         # -------------------------------------------------
         tfidf_by_book, _ = compute_tfidf_for_books(term_ids)
         if not tfidf_by_book:
             return []
 
         # -------------------------------------------------
-        # 4. 按 tfidf 排序，选 top seed_k 作为推荐种子
+        # 4. Trier par TF-IDF et sélectionner les seed_k premiers comme graines de recommandation
         # -------------------------------------------------
         sorted_books = sorted(tfidf_by_book.items(), key=lambda x: x[1], reverse=True)
         seed_ids = [bid for bid, _ in sorted_books[:seed_k]]
@@ -47,7 +47,7 @@ class RecommendationService:
             return []
 
         # -------------------------------------------------
-        # 5. 从 G_d (DocumentGraph) 找邻居（cosine similarity）
+        # 5. Chercher les voisins dans G_d (DocumentGraph) via la similarité cosinus
         # -------------------------------------------------
         edges = DocumentGraph.objects.filter(
             Q(doc1_id__in=seed_ids) | Q(doc2_id__in=seed_ids)
@@ -74,7 +74,7 @@ class RecommendationService:
         neighbor_ids = list(neighbor_scores.keys())
 
         # -------------------------------------------------
-        # 6. 拉取书籍信息 + centrality
+        # 6. Récupérer les informations des livres et la centralité
         # -------------------------------------------------
         books = Book.objects.filter(text_id__in=neighbor_ids)
         scores = DocumentScore.objects.filter(book_id__in=neighbor_ids)
@@ -94,7 +94,7 @@ class RecommendationService:
             })
 
         # -------------------------------------------------
-        # 7. 按 similarity + total 排序
+        # 7. Trier par similarité puis par total
         # -------------------------------------------------
         results.sort(
             key=lambda r: (-r["similarity"], -(r["total"] or 0))

@@ -19,7 +19,7 @@ class RegexParser:
         self.tokens = []
         self.pos = 0
 
-    # ========= PUBLIC ==============
+    # Public methods
     def parse(self, pattern: str) -> RegexNode:
         self.tokens = Lexer().lex(pattern)
         self.pos = 0
@@ -27,7 +27,7 @@ class RegexParser:
         self.expect(TokenType.END)
         return node
 
-    # ========= Grammar ==========
+    # Grammar
     # regex := union
     def parse_regex(self):
         return self.parse_union()
@@ -75,7 +75,7 @@ class RegexParser:
         else:
             raise self.error("Expected CHAR, '.' or '('", t.index)
 
-    # ========= Helpers ==========
+    # Helpers
 
     def peek(self):
         return self.tokens[self.pos]

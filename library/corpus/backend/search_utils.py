@@ -10,10 +10,10 @@ from corpus.backend.regex_engine.engine import RegexEngine
 from corpus.models import Term
 
 
-# 1. query 前处理：lower + tokenize + stem
+# 1. Prétraitement de la requête : minuscule + tokenisation + stemming
 def preprocess_query(query: str):
     """
-    把 SearchService 的 query 处理：lower → split → stem
+    Préparer la requête du SearchService : minuscule → découpe → stemming
     """
     if not query:
         return []
@@ -22,10 +22,10 @@ def preprocess_query(query: str):
     if not q_norm:
         return []
 
-    # token 拆分
+    # Découper en tokens
     tokens = [t for t in re.split(r"\W+", q_norm) if t]
 
-    # 词干化（和 search 保持一致）
+    # Stemming (cohérent avec search)
     stemmer = PorterStemmer()
     tokens = [stemmer.stem(t) for t in tokens]
 
@@ -34,11 +34,11 @@ def preprocess_query(query: str):
     return tokens
 
 
-# 2. term 匹配
+# 2. Correspondance des termes
 # -----------------------------
 def get_term_ids(tokens: List[str]) -> List[int]:
     """
-    在 terms 表中查匹配的词项 id
+    Rechercher dans la table des termes les identifiants correspondants
     """
     if not tokens:
         return []
@@ -47,13 +47,13 @@ def get_term_ids(tokens: List[str]) -> List[int]:
 
 
 # -----------------------------
-# 3. posting 匹配 + 计算每本书的 TF-IDF
+# 3. Correspondance des postings + calcul du TF-IDF par livre
 # -----------------------------
 def compute_tfidf_for_books(term_ids: List[int]):
     """
-    根据 term_ids 查 posting 表
-    - 每本书的总 tfidf
-    - 每本书中命中的 term 集合
+    Interroger la table posting à partir des term_ids
+    - TF-IDF total pour chaque livre
+    - Ensemble des termes trouvés par livre
     """
     if not term_ids:
         return {}, {}
@@ -85,24 +85,23 @@ def regex_search(pattern):
 
 def get_regex_term_ids(tokens: List[str]) -> List[int]:
     """
-    对每一个 token 单独用 RegexEngine 匹配 term，
-    token 之间 OR 关系（任意 token 被匹配即可）
+    Faire correspondre chaque token avec RegexEngine, relation OR entre tokens (un seul match suffit)
     """
 
     if not tokens:
         return []
 
-    matched_term_set = set()   # 用来累积匹配到的 term 字符串
+    matched_term_set = set()   # Sert à accumuler les chaînes de termes trouvées
 
-    # 对每个 token 分别做一次正则匹配
+    # Effectuer une recherche regex pour chaque token
     for tok in tokens:
         engine = RegexEngine(tok)
 
         for t in Term.objects.all():
-            if engine.matches(t.term):     # 匹配就加入
+            if engine.matches(t.term):     # Ajouter en cas de correspondance
                 matched_term_set.add(t.term)
 
-    # 查 term_ids
+    # Récupérer les term_ids
     if not matched_term_set:
         return []
 

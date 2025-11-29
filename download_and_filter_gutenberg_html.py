@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-下载 Project Gutenberg 书籍 (HTML 版)，确保包含“START 之前的前置信息”，
-只用 START 之后计词（≥10_000 才保留），保存完整纯文本（不删任何部分）。
+Télécharger les livres Project Gutenberg (version HTML), vérifier la présence
+des informations préliminaires avant « START », ne compter que les mots après
+START (≥10 000) et enregistrer le texte brut complet sans suppression.
 """
 
 import csv
@@ -13,7 +14,7 @@ from pathlib import Path
 import requests
 from bs4 import BeautifulSoup
 
-# ================= 配置 =================
+# Paramètres principaux
 COUNT_TARGET  = 1664
 MIN_WORDS     = 10_000
 
@@ -29,18 +30,18 @@ HEADERS       = {
                   "AppleWebKit/537.36 (KHTML, like Gecko) "
                   "Chrome/124.0 Safari/537.36"
 }
-# =======================================
+# Paramètres réseau
 
-# 计词只看 START 之后
+# Le comptage des mots ne considère que la partie après START
 START_RE   = re.compile(r'\*{3}\s*START OF .*?PROJECT GUTENBERG EBOOK.*?\*{3}', re.I)
 END_RE     = re.compile(r'\*{3}\s*END OF .*?PROJECT GUTENBERG EBOOK.*?\*{3}', re.I)
 LICENSE_RE = re.compile(r'START:\s*FULL\s*LICENSE', re.I)
 WORD_RE    = re.compile(r"[A-Za-z0-9']+")
 
-# 判定“前置信息是否完整”的若干关键词（出现一个以上即可认定“够完整”）
+# Mots-clés pour juger si les informations préliminaires sont suffisantes (au moins un suffit)
 PREFACE_HINTS = [
-    "This ebook is for the use of anyone anywhere",  # 版权声明
-    "Title:", "Author:", "Release date:", "Language:", "Credits:"  # bib record
+    "This ebook is for the use of anyone anywhere",  # mention de droits d'auteur
+    "Title:", "Author:", "Release date:", "Language:", "Credits:"  # fiche bibliographique
 ]
 
 
@@ -68,7 +69,7 @@ def iter_english_rows(catalog_path: Path):
 
 
 def build_html_urls(book_id: str):
-    # 依次尝试，优先 -h/<id>-h.htm（通常最完整）
+    # Essayer successivement, priorité à -h/<id>-h.htm (souvent le plus complet)
     return [
         f"https://www.gutenberg.org/files/{book_id}/{book_id}-h/{book_id}-h.htm",
         f"https://www.gutenberg.org/files/{book_id}/{book_id}-h.htm",
@@ -77,19 +78,19 @@ def build_html_urls(book_id: str):
 
 
 def html_to_text(html: str) -> str:
-    """提取 <body> 可见文字，并尽量保留换行。"""
+    """Extraire le texte visible du <body> en conservant au mieux les sauts de ligne."""
     soup = BeautifulSoup(html, "html.parser")
 
-    # 去除脚本/样式
+    # Supprimer scripts/styles
     for tag in soup(["script", "style"]):
         tag.decompose()
 
-    body = soup.body or soup  # 某些页面可能无 <body>
+    body = soup.body or soup  # Certaines pages peuvent ne pas avoir de <body>
     text = body.get_text(separator="\n")
 
-    # 规范化空白：去掉每行两端空格，保留空行但抹去重复空行
+    # Normaliser les espaces : enlever les blancs en début/fin de ligne, conserver les lignes vides sans doublon
     lines = [ln.strip() for ln in text.splitlines()]
-    # 合并多重空行为单个空行
+    # Réduire les lignes vides consécutives à une seule ligne vide
     norm = []
     blank = False
     for ln in lines:
@@ -104,15 +105,15 @@ def html_to_text(html: str) -> str:
 
 
 def has_preface_info(prefix_text: str) -> bool:
-    """检查 START 之前是否包含足够的前置信息"""
+    """Vérifier qu'il existe suffisamment d'informations préliminaires avant START"""
     low = prefix_text.lower()
     return any(hint.lower() in low for hint in PREFACE_HINTS)
 
 
 def fetch_html_with_preface(book_id: str):
     """
-    逐个 URL 抓取；若 START 之前缺少前置字段/版权声明，则继续尝试下一个 URL。
-    返回 (text_all, used_url) 的纯文本。
+    Parcourir les URL successivement ; si les champs préliminaires ou la mention de droits
+    manquent avant START, tenter l'URL suivante. Retourne le texte complet et l'URL utilisée.
     """
     for url in build_html_urls(book_id):
         try:
@@ -121,19 +122,19 @@ def fetch_html_with_preface(book_id: str):
                 continue
             text_all = html_to_text(r.text)
 
-            # 拿到 START 之前的部分做质量检测
+            # Contrôler la qualité de la partie avant START
             m = START_RE.search(text_all)
             preface = text_all[:m.start()] if m else text_all[:1000]
             if has_preface_info(preface):
                 return text_all, url
-            # 否则继续尝试下一个 URL
+            # Sinon, essayer l'URL suivante
         except requests.RequestException:
             continue
     return None, None
 
 
 def extract_body_for_counting(text: str) -> str:
-    """只用于计词（取 START 之后到 END 之前；忽略 license 段）"""
+    """Utilisé uniquement pour le comptage (de START à END en ignorant la licence)"""
     lic_m = LICENSE_RE.search(text)
     cut = text[:lic_m.start()] if lic_m else text
     start_m = START_RE.search(cut)
@@ -175,7 +176,7 @@ def main():
         meta_writer.writeheader()
 
     kept = seen = 0
-    print(f"目标：保留 {COUNT_TARGET} 本（正文≥{MIN_WORDS} 词，且包含完整前置信息的 HTML 版）。")
+    print(f"Objectif : conserver {COUNT_TARGET} ouvrages (texte ≥{MIN_WORDS} mots et informations préliminaires complètes).")
 
     for row in rows:
         if kept >= COUNT_TARGET:
@@ -208,9 +209,9 @@ def main():
             print(f"[DROP] {book_id}  words={wc}  src={used_url}")
 
     meta_f.close()
-    print(f"\n完成：保留 {kept}/{COUNT_TARGET} 本（共检查 {seen}）。")
-    print(f"保存目录：{DEST_FULL}")
-    print(f"元数据文件：{META_CSV}")
+    print(f"\nTerminé : conservé {kept}/{COUNT_TARGET} ouvrages (sur {seen} examinés).")
+    print(f"Répertoire de sauvegarde : {DEST_FULL}")
+    print(f"Fichier de métadonnées : {META_CSV}")
 
 
 if __name__ == "__main__":

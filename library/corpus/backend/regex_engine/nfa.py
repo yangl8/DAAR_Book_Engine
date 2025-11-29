@@ -6,9 +6,7 @@ from .ast import (
 )
 
 
-# =========================================================
 # Edge
-# =========================================================
 
 class Edge:
     """
@@ -39,9 +37,7 @@ class Edge:
         return f"--{self.symbol}-->{self.to}"
 
 
-# =========================================================
 # Node
-# =========================================================
 
 class Node:
     """NFA state."""
@@ -56,9 +52,7 @@ class Node:
         return f"Node({self.id})"
 
 
-# =========================================================
 # Fragment (start + outStates)
-# =========================================================
 
 class Fragment:
     def __init__(self, start: Node, outStates: Set[Node]):
@@ -66,9 +60,7 @@ class Fragment:
         self.outStates = outStates
 
 
-# =========================================================
 # Final NFA (start node + set of all nodes)
-# =========================================================
 
 class Nfa:
     def __init__(self, start: Node, nodes: Set[Node]):
@@ -76,9 +68,7 @@ class Nfa:
         self.nodes = nodes
 
 
-# =========================================================
 # NFA Builder (Thompson construction)
-# =========================================================
 
 class NfaBuilder:
 
@@ -103,7 +93,7 @@ class NfaBuilder:
 
         return Nfa(frag.start, self.all)
 
-    # ============= recursive AST → fragment ==================
+    # Recursive AST → fragment
 
     def build_frag(self, n: RegexNode) -> Fragment:
         from .ast import (
@@ -127,7 +117,7 @@ class NfaBuilder:
 
         raise ValueError(f"Unknown AST node type: {type(n)}")
 
-    # ============= fragment operations ==================
+    # Fragment operations
 
     # literal character
     def literal(self, ch: str) -> Fragment:

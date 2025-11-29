@@ -7,19 +7,19 @@ class Command(BaseCommand):
     def handle(self, *args, **kwargs):
         self.stdout.write(self.style.SUCCESS("Building TF-IDF vectors..."))
 
-        # 1️⃣ 获取全部书籍
+        # Étape 1 : récupérer tous les livres
         all_books = Book.objects.all()
         self.stdout.write(f"Total books = {all_books.count()}")
 
-        # 2️⃣ 遍历每本书
+        # Étape 2 : parcourir chaque livre
         for book in all_books:
-            # 查所有 (term_id, tfidf)
+            # Récupérer tous les couples (term_id, tfidf)
             postings = Posting.objects.filter(book=book, tfidf__gt=0)
 
-            # 3️⃣ 构建稀疏向量：term_id → tfidf
+            # Étape 3 : construire le vecteur clairsemé (term_id → tfidf)
             vector = {p.term_id: p.tfidf for p in postings}
 
-            # 显示一个示例
+            # Afficher un exemple
             self.stdout.write(
                 f"Book {book.text_id}: vector size = {len(vector)}"
             )

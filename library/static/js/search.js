@@ -158,7 +158,7 @@ document.addEventListener("DOMContentLoaded", () => {
       orderWrapper.classList.remove("d-none");
       setModeTip("Keywords mode: full-text search with ranking metrics.");
     }
-    // ⭐ 关键：根据当前 mode 更新输入框 placeholder
+    // Mettre à jour le placeholder selon le mode courant
     updateFieldPlaceholder(mode);
   }
 
@@ -440,7 +440,7 @@ document.addEventListener("DOMContentLoaded", () => {
   // }
 
   function updateFieldPlaceholder(field) {
-    // 优先用带 data-search-input 的元素，没有的话就用 name="q" 的
+    // Priorité à l'élément avec data-search-input, sinon celui nommé "q"
     const input = searchInput || queryInput;
     if (!input) return;
 

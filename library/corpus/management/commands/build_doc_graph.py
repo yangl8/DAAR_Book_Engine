@@ -6,10 +6,10 @@ class Command(BaseCommand):
     help = "Build document similarity graph (G_d) using cosine similarity."
 
     # ----------------------------
-    # 计算两个 TF-IDF 向量的 cosine
+    # Calculer le cosinus de deux vecteurs TF-IDF
     # ----------------------------
     def cosine(self, vecA, vecB):
-        # 公共 term 才能贡献点积
+        # Seuls les termes communs contribuent au produit scalaire
         common_terms = set(vecA.keys()) & set(vecB.keys())
 
         if not common_terms:
@@ -26,7 +26,7 @@ class Command(BaseCommand):
         return dot / (normA * normB)
 
     # ----------------------------
-    # 主逻辑：构建 G_d
+    # Logique principale : construire G_d
     # ----------------------------
     def handle(self, *args, **kwargs):
         self.stdout.write(self.style.SUCCESS("Building document graph (G_d)..."))
@@ -34,21 +34,21 @@ class Command(BaseCommand):
         DocumentGraph.objects.all().delete()
         self.stdout.write("Cleared old document_graph table.")
 
-        # 获取所有book
+        # Récupérer tous les livres
         books = list(Book.objects.all())
         total = len(books)
 
-        # 预加载向量
+        # Précharger les vecteurs
         vectors = {}
 
         for book in books:
             postings = Posting.objects.filter(book=book, tfidf__gt=0)
             vectors[book.text_id] = {p.term_id: p.tfidf for p in postings}
 
-        # 如果两本书相似度大于0.05则视为相似
+        # Considérer deux livres comme similaires si la similarité dépasse 0,05
         threshold = 0.05
 
-        # 两两计算
+        # Calculer toutes les paires
         for i in range(total):
             for j in range(i+1, total):
                 idA = books[i].text_id

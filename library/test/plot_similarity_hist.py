@@ -2,9 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import os
 
-# ======================================
-# 路径设置
-# ======================================
+# Configuration des chemins
 
 BASE_DIR = "test"
 CSV_SIM = os.path.join(BASE_DIR, "similarity.csv")
@@ -12,9 +10,7 @@ CSV_SIM = os.path.join(BASE_DIR, "similarity.csv")
 OUT_DIR = os.path.join(BASE_DIR, "graph")
 os.makedirs(OUT_DIR, exist_ok=True)
 
-# ======================================
-# 加载数据
-# ======================================
+# Chargement des données
 
 print("Loading similarity data...")
 sim_df = pd.read_csv(CSV_SIM)
@@ -24,9 +20,7 @@ if "similarity" not in sim_df.columns:
 
 print(f"Loaded {len(sim_df)} similarity entries.")
 
-# ======================================
-# 绘图：余弦相似度分布
-# ======================================
+# Tracé : distribution de la similarité cosinus
 
 plt.figure(figsize=(8, 5))
 plt.hist(sim_df["similarity"], bins=50, edgecolor='black')

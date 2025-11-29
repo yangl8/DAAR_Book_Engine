@@ -3,17 +3,17 @@ from corpus.models import Posting, Term, IndexStat
 import math
 
 class Command(BaseCommand):
-    help = "计算 TF-IDF"
+    help = "Calculer le TF-IDF"
 
     def handle(self, *args, **opts):
 
         N_docs = int(IndexStat.objects.get(key="N_docs").value)
 
-        # 一次性获取 df 映射：term_id → df
+        # Récupérer en une fois la table df : term_id → df
         terms_df = dict(Term.objects.values_list("id", "df"))
 
         total = Posting.objects.count()
-        self.stdout.write(f"🔢 开始计算 TF-IDF，总 {total} 条记录...")
+        self.stdout.write(f"Début du calcul TF-IDF, {total} enregistrements au total...")
 
         batch = 50000
         qs = Posting.objects.all().order_by("id")
@@ -29,6 +29,6 @@ class Command(BaseCommand):
             Posting.objects.bulk_update(chunk, ["tfidf"])
 
             if i % 250000 == 0:
-                self.stdout.write(f"  ... 已处理 {i} 条记录")
+                self.stdout.write(f"  ... {i} enregistrements déjà traités")
 
-        self.stdout.write("✅ TF-IDF 计算完成")
+        self.stdout.write("Calcul TF-IDF terminé")

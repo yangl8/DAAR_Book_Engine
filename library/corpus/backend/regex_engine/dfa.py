@@ -6,9 +6,7 @@ from collections import deque
 from .nfa import Nfa, Node, Edge
 
 
-# =========================================================
 # DfaState
-# =========================================================
 
 class DfaState:
     def __init__(self, id_: int, accept: bool):
@@ -29,9 +27,7 @@ class DfaState:
         return f"D{self.id}{'(accept)' if self.accept else ''}"
 
 
-# =========================================================
 # DFA container
-# =========================================================
 
 class Dfa:
     def __init__(self, start: DfaState, states: Set[DfaState]):
@@ -48,9 +44,7 @@ class Dfa:
         return f"DFA(states={len(self.states)}, start={self.start})"
 
 
-# =========================================================
 # DfaBuilder — NFA → DFA (subset construction)
-# =========================================================
 
 class DfaBuilder:
 
@@ -111,7 +105,7 @@ class DfaBuilder:
 
         return Dfa(start_state, set(subset_to_state.values()))
 
-    # ========== helper functions ==========
+    # Helper functions
 
     def epsilon_closure(self, seeds: Set[Node]) -> Set[Node]:
         result = set(seeds)
@@ -144,9 +138,7 @@ class DfaBuilder:
         return any(n.isAccept for n in nodes)
 
 
-# =========================================================
 # DfaMatcher — run DFA on input
-# =========================================================
 
 class DfaMatcher:
     @staticmethod
