@@ -18,6 +18,23 @@ DAAR Book Engine est une application Django de recherche plein texte et de recom
 - **Front-end** : templates Django + `static/css/main.css` et `static/js/search.js`
 - **Commandes personnalisées** : disponibles dans `library/corpus/management/commands/`
 
+## Structure du projet
+```
+.
+|- books_html_kept/              # Corpus Gutenberg filtré (optionnel)
+|- library/
+|  |- manage.py
+|  |- library/                   # Configuration Django principale
+|  |- corpus/                    # Logique de recherche, API, commandes
+|  |- static/                    # Assets front-end
+|  |- templates/                 # Gabarits HTML
+|  |- test/                      # Statistiques et scripts d'analyse
+|- download_and_filter_gutenberg_html.py
+|- selected_meta.csv
+|- setup_local.sh                # Script d'installation rapide
+|- README.md
+```
+
 ## Prérequis
 - Python ≥ 3.10 (3.11 recommandé) — les dépendances (Django 5.2, click 8.3, etc.) ne sont pas compatibles avec Python 3.9.
 - `git`, `pip`, `curl` (ou navigateur) pour récupérer les ressources
